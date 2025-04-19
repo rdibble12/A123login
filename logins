@@ -10215,7 +10215,7 @@
             "latitude": 35.940850311403,
             "longitude": -85.022781128191
         },
-        "Jordan Hall": {
+        "Jordan Hall / My Radar": {
             "url": "https://d3n45htqf0nnxz.cloudfront.net/hls/jordan.hall/jordan.hall.m3u8",
             "location": "Storm Chaser"
         },
@@ -10729,7 +10729,7 @@
 },
 "Matthew Cappucci": {
         "url": "https://d3n45htqf0nnxz.cloudfront.net/hls/matthew.cappucci/matthew.cappucci.m3u8",
-        "location": "Storm Chaser"
+        "location": "Meteorologist"
 },
 "Reilly Dibble": {
         "url": "https://d3n45htqf0nnxz.cloudfront.net/hls/reilly.dibble/reilly.dibble.m3u8",
@@ -10744,11 +10744,11 @@
         "location": "Storm Chaser"
 },
 "Hayden Coull": {
-        "url": "No stream",
+        "url": "",
         "location": "Storm Chaser"
 },
 "James Pettus": {
-        "url": "srt://70.225.8.126:2222?mode=listener",
+        "url": "",
         "location": "Storm Chaser"
 },
 "Ben Williams": {
