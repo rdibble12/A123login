@@ -10767,7 +10767,7 @@
         "location": "Storm Chaser"
 },
 "Brandon Copic": {
-        "url": "srt://use.srt.belabox.net:4001?streamid=dtXvx8MKdALiwt3rWmlDhlotDdQTQV&timeout=2000000",
+        "url": "rtmp://ch-1.castr.io/static/live_30337e40f52911efa4cdcd8eecb273f3",
         "location": "Storm Chaser"
 },
 "ResortCam.com | King Street Boone": {
