@@ -10217,6 +10217,10 @@
         "Jordan Hall / My Radar": {
             "url": "https://d3n45htqf0nnxz.cloudfront.net/hls/jordan.hall/jordan.hall.m3u8",
             "location": "Storm Chaser"
+	},
+        "Scott Roberts": {
+            "url": "rtmp://ingest.severetv.com/live/scott.roberts",
+            "location": "Storm Chaser"
         },
         "Ryan Scholl": {
             "url": "https://d3n45htqf0nnxz.cloudfront.net/hls/ryan.scholl/ryan.scholl.m3u8",
