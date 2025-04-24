@@ -10217,6 +10217,10 @@
         "Jordan Hall / My Radar": {
             "url": "rtmp://ingest.severetv.com/live/jordan.hall",
             "location": "Storm Chaser"
+        },
+        "Joshua Brinker /  PA Storm Trackerz": {
+            "url": "",
+            "location": "Storm Chaser"
 	},
         "Scott Roberts": {
             "url": "rtmp://ingest.severetv.com/live/scott.roberts",
