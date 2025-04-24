@@ -228,7 +228,7 @@
             "longitude": -122.3145093
         },
         "Corey Gerken": {
-            "url": "live_30337e40f52911efa4cdcd8eecb273f3?password=5bb4047a",
+            "url": "rtmp://ch-1.castr.io/static/live_30337e40f52911efa4cdcd8eecb273f3",
             "location": "Storm Chaser"
         },
         "Warren County OH Deerfield Twp. | RadarOmega": {
