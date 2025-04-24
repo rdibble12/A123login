@@ -10215,7 +10215,7 @@
             "longitude": -85.022781128191
         },
         "Jordan Hall / My Radar": {
-            "url": "https://d3n45htqf0nnxz.cloudfront.net/hls/jordan.hall/jordan.hall.m3u8",
+            "url": "rtmp://ingest.severetv.com/live/jordan.hall",
             "location": "Storm Chaser"
 	},
         "Scott Roberts": {
@@ -10223,11 +10223,11 @@
             "location": "Storm Chaser"
         },
         "Ryan Scholl": {
-            "url": "https://d3n45htqf0nnxz.cloudfront.net/hls/ryan.scholl/ryan.scholl.m3u8",
+            "url": "rtmp://ingest.severetv.com/live/ryan.scholl",
             "location": "Storm Chaser"
         },
         "Max Archer": {
-            "url": "https://d3n45htqf0nnxz.cloudfront.net/hls/max.archer/max.archer.m3u8",
+            "url": "rtmp://ingest.severetv.com/live/max.archer",
             "location": "Storm Chaser"
 },
         "PTZ View | Virtual RailFan Oklahoma City": {
@@ -10711,39 +10711,35 @@
 "url": "https://node3.video.hazcams.com/hatton-al-us-001/index.m3u8"
 },
 "Freddy McKinney": {
-        "url": "https://d3n45htqf0nnxz.cloudfront.net/hls/freddy.mckinney/freddy.mckinney.m3u8",
-        "location": "Storm Chaser"
-},
-"Jordan Hall": {
-        "url": "https://d3n45htqf0nnxz.cloudfront.net/hls/jordan.hall/jordan.hall.m3u8",   
+        "url": "rtmp://ingest.severetv.com/live/freddy.mckinney",
         "location": "Storm Chaser"
 },
 "Chelsey Dallmann": {
-        "url": "https://d3n45htqf0nnxz.cloudfront.net/hls/chelsey.dallmann/chelsey.dallmann.m3u8",   
+        "url": "rtmp://ingest.severetv.com/live/chelsey.dallman",   
         "location": "Storm Chaser"
 },
 "CJ Ziegler": {
-        "url": "https://d3n45htqf0nnxz.cloudfront.net/hls/cj.ziegler/cj.ziegler.m3u8",
+        "url": "rtmp://ingest.severetv.com/live/cj.ziegler",
         "location": "Storm Chaser"
 },
 "Luke Hatton": {
-        "url": "https://d3n45htqf0nnxz.cloudfront.net/hls/luke.hatton/luke.hatton.m3u8",
+        "url": "rtmp://ingest.severetv.com/live/luke.hatton",
         "location": "Storm Chaser"
 },
 "Matthew Cappucci | MyRadar": {
-        "url": "https://d3n45htqf0nnxz.cloudfront.net/hls/matthew.cappucci/matthew.cappucci.m3u8",
+        "url": "rtmp://ingest.severetv.com/live/matthew.cappucci",
         "location": "Meteorologist"
 },
 "Reilly Dibble": {
-        "url": "https://d3n45htqf0nnxz.cloudfront.net/hls/reilly.dibble/reilly.dibble.m3u8",
+        "url": "rtmp://ingest.severetv.com/live/reilly.dibble",
         "location": "Storm Chaser"
 },
 "Jaden Pappenheim": {
-        "url": "https://d3n45htqf0nnxz.cloudfront.net/hls/jaden.pappenheim/jaden.pappenheim.m3u8",
+        "url": "rtmp://ingest.severetv.com/live/jaden.pappenheim",
         "location": "Storm Chaser"
 },
 "Chris Hall": {
-        "url": "https://d3n45htqf0nnxz.cloudfront.net/hls/chris.hall/chris.hall.m3u8",
+        "url": "rtmp://ingest.severetv.com/live/chris.hall",
         "location": "Storm Chaser"
 },
 "Hayden Coull": {
@@ -10767,7 +10763,7 @@
         "location": "Storm Chaser"
 },
 "Ryan Scholl": {
-        "url": "https://d3n45htqf0nnxz.cloudfront.net/hls/ryan.scholl/ryan.scholl.m3u8",
+        "url": "rtmp://ingest.severetv.com/live/ryan.scholl",
         "location": "Storm Chaser"
 },
 "Brandon Copic": {
