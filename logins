@@ -912,7 +912,7 @@
             "location": "Storm Chaser"
         },
         "Hunter Hurley": {
-            "url": "https://d3n45htqf0nnxz.cloudfront.net/hls/hunter.hurley/hunter.hurley.m3u8",
+            "url": "rtmp://ingest.severetv.com/live/hunter.hurley",
             "location": "Storm Chaser",
             "latitude": 38.9525531,
             "longitude": -92.0177689
@@ -10759,7 +10759,7 @@
         "location": "Storm Chaser"
 },
 "Kip Metcalf": {
-        "url": "https://d3n45htqf0nnxz.cloudfront.net/hls/kip.metcalf/kip.metcalf.m3u8",
+        "url": "rtmp://ingest.severetv.com/live/kip.metcalf",
         "location": "Storm Chaser"
 },
 "Ryan Scholl": {
