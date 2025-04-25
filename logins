@@ -10229,6 +10229,10 @@
         "Scott Roberts": {
             "url": "rtmp://ingest.severetv.com/live/scott.roberts",
             "location": "Storm Chaser"
+	},
+        "Scott Peake": {
+            "url": "rtmp://ingest.severetv.com/live/scott.peake",
+            "location": "Storm Chaser"
         },
         "Ryan Scholl": {
             "url": "rtmp://ingest.severetv.com/live/ryan.scholl",
