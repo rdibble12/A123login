@@ -14735,5 +14735,3323 @@
 	"location": "Soloman, Kansas",
 	"latitude": "38.930596", 
 	"longitude": "-97.371899"
-              }
-        }
+ },
+  "511ia.org | 1DH - US 69 @ IA 210 (IWZ 3176)": {
+    "Location": "Iowa",
+    "Latitude": 41.877569,
+    "Longitude": -93.600742,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/iwz3176lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-235 @ E 14th (05)": {
+    "Location": "Iowa",
+    "Latitude": 41.596041,
+    "Longitude": -93.598859,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv05lb/playlist.m3u8"
+  },
+  "511ia.org | AM - I-35 @ 260th St (05)": {
+    "Location": "Iowa",
+    "Latitude": 41.979323,
+    "Longitude": -93.571019,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv05lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-235 @ I-80 (99)": {
+    "Location": "Iowa",
+    "Latitude": 41.650262,
+    "Longitude": -93.575439,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dmtv99lb/playlist.m3u8"
+  },
+  "511ia.org | SC - US 20 @ Lakeport (14)": {
+    "Location": "Iowa",
+    "Latitude": 42.443297,
+    "Longitude": -96.3466,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv14lb/playlist.m3u8"
+  },
+  "511ia.org | CB - Kanesville @ N Broadway (31)": {
+    "Location": "Iowa",
+    "Latitude": 41.26791,
+    "Longitude": -95.837216,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv31lb/playlist.m3u8"
+  },
+  "511ia.org | CR - I-380 @ Boyson Rd (19)": {
+    "Location": "Iowa",
+    "Latitude": 42.045618,
+    "Longitude": -91.684148,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv19lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29 @ 25th Street (22)": {
+    "Location": "Iowa",
+    "Latitude": 41.274991,
+    "Longitude": -95.878115,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv22lb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-74 @ Last Iowa Exit (08)": {
+    "Location": "Iowa",
+    "Latitude": 41.53229,
+    "Longitude": -90.515006,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv08lb/playlist.m3u8"
+  },
+  "511ia.org | CR - I-380 @ Blairs Ferry Rd NE (18)": {
+    "Location": "Iowa",
+    "Latitude": 42.034942,
+    "Longitude": -91.676244,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv18lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-235 @ 35th St (12)": {
+    "Location": "Iowa",
+    "Latitude": 41.593421,
+    "Longitude": -93.665719,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv12lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - US 20 @ JFK Rd - West (17)": {
+    "Location": "Iowa",
+    "Latitude": 42.492226,
+    "Longitude": -90.714405,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dqtv17lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 208": {
+    "Location": "Iowa",
+    "Latitude": 41.69618,
+    "Longitude": -92.241166,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV208lb/playlist.m3u8"
+  },
+  "511ia.org | 1DH - I-35 @ MM 100.3 (IWZ 3364)": {
+    "Location": "Iowa",
+    "Latitude": 41.841936,
+    "Longitude": -93.570799,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/iwz3364lb/playlist.m3u8"
+  },
+  "511ia.org | CR - Collins Rd @ 1st Ave E (42)": {
+    "Location": "Iowa",
+    "Latitude": 42.025595,
+    "Longitude": -91.621109,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv42lb/playlist.m3u8"
+  },
+  "511ia.org | CB - US 275 @ 11th Street (27)": {
+    "Location": "Iowa",
+    "Latitude": 41.220124,
+    "Longitude": -95.861056,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv27lb/playlist.m3u8"
+  },
+  "511ia.org | SC - Gordon Dr @ Virginia (20)": {
+    "Location": "Iowa",
+    "Latitude": 42.489731,
+    "Longitude": -96.397669,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv20lb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-80 @ 1st Ave (06)": {
+    "Location": "Iowa",
+    "Latitude": 41.685164,
+    "Longitude": -91.565264,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/ictv06lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-235 @ Polk Blvd (14)": {
+    "Location": "Iowa",
+    "Latitude": 41.591749,
+    "Longitude": -93.6816,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv14lb/playlist.m3u8"
+  },
+  "511ia.org | WL - US 20 @ Hammond (03)": {
+    "Location": "Iowa",
+    "Latitude": 42.452331,
+    "Longitude": -92.336848,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv03lb/playlist.m3u8"
+  },
+  "511ia.org | DM - University Ave @ Hickory (46)": {
+    "Location": "Iowa",
+    "Latitude": 41.599367,
+    "Longitude": -93.516998,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv46lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - US 20 @ NW Arterial - North (12)": {
+    "Location": "Iowa",
+    "Latitude": 42.4883,
+    "Longitude": -90.738988,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dqtv12lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-80 @ Grand Prairie Pkwy Quad (48Q)": {
+    "Location": "Iowa",
+    "Latitude": 41.568942,
+    "Longitude": -93.853571,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv48qlb/playlist.m3u8"
+  },
+  "511ia.org | DQ - US 61 @ Grandview Truss - South (27)": {
+    "Location": "Iowa",
+    "Latitude": 42.481061,
+    "Longitude": -90.667834,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dqtv27lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-235 @ Valley West in WDM (17)": {
+    "Location": "Iowa",
+    "Latitude": 41.592264,
+    "Longitude": -93.751788,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv17lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 220": {
+    "Location": "Iowa",
+    "Latitude": 41.687292,
+    "Longitude": -92.008577,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv220lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 76": {
+    "Location": "Iowa",
+    "Latitude": 41.492866,
+    "Longitude": -94.643585,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv076lb/playlist.m3u8"
+  },
+  "511ia.org | SC - S Lewis @ Singing Hills (21)": {
+    "Location": "Iowa",
+    "Latitude": 42.435186,
+    "Longitude": -96.370161,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv21lb/playlist.m3u8"
+  },
+  "511ia.org | CR - US 30 @ Edgewood Rd SW (25)": {
+    "Location": "Iowa",
+    "Latitude": 41.938432,
+    "Longitude": -91.715875,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv25lb/playlist.m3u8"
+  },
+  "511ia.org | CR - I-380 @ Rest Area (01)": {
+    "Location": "Iowa",
+    "Latitude": 41.868082,
+    "Longitude": -91.66917,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv01lb/playlist.m3u8"
+  },
+  "511ia.org | QC - US 67 Centennial Bridge - IA (13)": {
+    "Location": "Iowa",
+    "Latitude": 41.518367,
+    "Longitude": -90.583426,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv13lb/playlist.m3u8"
+  },
+  "511ia.org | NW - I-80 @ Speedway (06)": {
+    "Location": "Iowa",
+    "Latitude": 41.683298,
+    "Longitude": -93.020014,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/nwtv06lb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-80 @ S Downey Dr (21)": {
+    "Location": "Iowa",
+    "Latitude": 41.663764,
+    "Longitude": -91.347002,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/ictv21lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29 @ 192nd Street (14)": {
+    "Location": "Iowa",
+    "Latitude": 41.174397,
+    "Longitude": -95.823913,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv14lb/playlist.m3u8"
+  },
+  "511ia.org | SC - I-29 @ S. Riverside (27)": {
+    "Location": "Iowa",
+    "Latitude": 42.492383,
+    "Longitude": -96.450789,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv27lb/playlist.m3u8"
+  },
+  "511ia.org | SC - I-29 @ Pavillion (43)": {
+    "Location": "Iowa",
+    "Latitude": 42.489518,
+    "Longitude": -96.408273,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/sctv43lb/playlist.m3u8"
+  },
+  "511ia.org | SC - Nebraska St @ Gordon Dr (24)": {
+    "Location": "Iowa",
+    "Latitude": 42.489325,
+    "Longitude": -96.403226,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv24lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29/80 @ W of S 24th St (51)": {
+    "Location": "Iowa",
+    "Latitude": 41.231837,
+    "Longitude": -95.884798,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv51lb/playlist.m3u8"
+  },
+  "511ia.org | CR - I-380 @ US 30 North (05)": {
+    "Location": "Iowa",
+    "Latitude": 41.930109,
+    "Longitude": -91.670028,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv05lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35/80/235 @ West Mixmaster (44Q)": {
+    "Location": "Iowa",
+    "Latitude": 41.592248,
+    "Longitude": -93.777843,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dmtv44qlb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35 @ NE 36th St (61)": {
+    "Location": "Iowa",
+    "Latitude": 41.761242,
+    "Longitude": -93.568964,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dmtv61lb/playlist.m3u8"
+  },
+  "511ia.org | DM - IA 141 @ NW 121st St - ICWS Quad (94Q)": {
+    "Location": "Iowa",
+    "Latitude": 41.744175,
+    "Longitude": -93.785651,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv94qlb/playlist.m3u8"
+  },
+  "511ia.org | 6CO - I-80 @ MM 255.5 (IWZ 3103)": {
+    "Location": "Iowa",
+    "Latitude": 41.664637,
+    "Longitude": -91.328476,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/iwz3103lb/playlist.m3u8"
+  },
+  "511ia.org | SC - I-29 @ RR Bridge (08)": {
+    "Location": "Iowa",
+    "Latitude": 42.47175,
+    "Longitude": -96.381683,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv08lb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-74 @ Spruce Hills (10)": {
+    "Location": "Iowa",
+    "Latitude": 41.554627,
+    "Longitude": -90.522194,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv10lb/playlist.m3u8"
+  },
+  "511ia.org | DM - IA 5 @ SW Connector (35)": {
+    "Location": "Iowa",
+    "Latitude": 41.521647,
+    "Longitude": -93.719927,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv35lb/playlist.m3u8"
+  },
+  "511ia.org | CR - IA 13 @ Mt Vernon Rd (49)": {
+    "Location": "Iowa",
+    "Latitude": 41.976098,
+    "Longitude": -91.551414,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv49lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29 @ South I-680 Interchange (36)": {
+    "Location": "Iowa",
+    "Latitude": 41.353805,
+    "Longitude": -95.900559,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv36lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29 @ US 275 (53)": {
+    "Location": "Iowa",
+    "Latitude": 41.219844,
+    "Longitude": -95.832641,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv53lb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-80 @ Eagle Ave NW (28)": {
+    "Location": "Iowa",
+    "Latitude": 41.692231,
+    "Longitude": -91.754947,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv28lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29 @ Weigh Station (43)": {
+    "Location": "Iowa",
+    "Latitude": 41.513075,
+    "Longitude": -95.91167,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv43lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 80": {
+    "Location": "Iowa",
+    "Latitude": 41.497098,
+    "Longitude": -94.566757,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv080lb/playlist.m3u8"
+  },
+  "511ia.org | WL - US 218 @ Hawthorn (22)": {
+    "Location": "Iowa",
+    "Latitude": 42.481308,
+    "Longitude": -92.323383,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv22lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 190": {
+    "Location": "Iowa",
+    "Latitude": 41.695506,
+    "Longitude": -92.590867,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV190lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 215": {
+    "Location": "Iowa",
+    "Latitude": 41.692967,
+    "Longitude": -92.101666,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV215lb/playlist.m3u8"
+  },
+  "511ia.org | 4DJ - US 34 @ MM 38.9 (IWZ 3360 West)": {
+    "Location": "Iowa",
+    "Latitude": 41.025951,
+    "Longitude": -95.224083,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/iwz3360wlb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29 @ S of Hamilton Ln (34)": {
+    "Location": "Iowa",
+    "Latitude": 41.322219,
+    "Longitude": -95.882857,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv34lb/playlist.m3u8"
+  },
+  "511ia.org | WL - US 20 @ Hawkeye Road (02)": {
+    "Location": "Iowa",
+    "Latitude": 42.454369,
+    "Longitude": -92.346568,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv02lb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-380 @ Forevergreen Rd (13)": {
+    "Location": "Iowa",
+    "Latitude": 41.723006,
+    "Longitude": -91.642199,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv13lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35/80 @ Douglas (42)": {
+    "Location": "Iowa",
+    "Latitude": 41.629364,
+    "Longitude": -93.776765,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv42lb/playlist.m3u8"
+  },
+  "511ia.org | D1 - US 65 @ Scotch Ridge Rd ICWS QUAD (12Q)": {
+    "Location": "Iowa",
+    "Latitude": 41.472066,
+    "Longitude": -93.558681,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/D1TV12Qlb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 217": {
+    "Location": "Iowa",
+    "Latitude": 41.68923,
+    "Longitude": -92.065829,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV217lb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-80 @ Jasper Ave (35)": {
+    "Location": "Iowa",
+    "Latitude": 41.693778,
+    "Longitude": -91.64635,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv35lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 86": {
+    "Location": "Iowa",
+    "Latitude": 41.495507,
+    "Longitude": -94.452669,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv086lb/playlist.m3u8"
+  },
+  "511ia.org | CR - US 30 @ Stoney Point Rd (23)": {
+    "Location": "Iowa",
+    "Latitude": 41.94873,
+    "Longitude": -91.75525,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv23lb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-380 @ Hwy 965 NE (16)": {
+    "Location": "Iowa",
+    "Latitude": 41.800554,
+    "Longitude": -91.646276,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv16lb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-80 @ Ireland Ave NW (02A)": {
+    "Location": "Iowa",
+    "Latitude": 41.693596,
+    "Longitude": -91.666256,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv02alb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29/80 @ W of S 24th St (46)": {
+    "Location": "Iowa",
+    "Latitude": 41.232997,
+    "Longitude": -95.887123,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv46lb/playlist.m3u8"
+  },
+  "511ia.org | D1 - I-35 @ US 20 (10Q)": {
+    "Location": "Iowa",
+    "Latitude": 42.448756,
+    "Longitude": -93.568347,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/d1tv10qlb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-74 EB Truss (33Q)": {
+    "Location": "Iowa",
+    "Latitude": 41.519092,
+    "Longitude": -90.511804,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv33qlb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29 SB @ 9th Ave DMS (69)": {
+    "Location": "Iowa",
+    "Latitude": 41.252305,
+    "Longitude": -95.907321,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/cbtv69lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - US 61 @ Locust Conn - South (03)": {
+    "Location": "Iowa",
+    "Latitude": 42.494266,
+    "Longitude": -90.662672,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dqtv03lb/playlist.m3u8"
+  },
+  "511ia.org | CR - I-380 SB @ MM 28.8 (21)": {
+    "Location": "Iowa",
+    "Latitude": 42.092256,
+    "Longitude": -91.702041,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv21lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-80 @ Hubbard Road (11)": {
+    "Location": "Iowa",
+    "Latitude": 41.267545,
+    "Longitude": -95.795331,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv11lb/playlist.m3u8"
+  },
+  "511ia.org | CR - I-380 @ US 30 South (04)": {
+    "Location": "Iowa",
+    "Latitude": 41.926943,
+    "Longitude": -91.670006,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv04lb/playlist.m3u8"
+  },
+  "511ia.org | CR - I-380 @ Coldstream Ave NE (13)": {
+    "Location": "Iowa",
+    "Latitude": 42.006603,
+    "Longitude": -91.666276,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv13lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29 NB @ I-80 EB EXIT 48A (63)": {
+    "Location": "Iowa",
+    "Latitude": 41.227206,
+    "Longitude": -95.836742,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv63lb/playlist.m3u8"
+  },
+  "511ia.org | SC - I-29 @ Hamilton (11)": {
+    "Location": "Iowa",
+    "Latitude": 42.492049,
+    "Longitude": -96.424298,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv11lb/playlist.m3u8"
+  },
+  "511ia.org | AM - I-35 @ E 190th St (10)": {
+    "Location": "Iowa",
+    "Latitude": 42.078,
+    "Longitude": -93.566503,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv10lb/playlist.m3u8"
+  },
+  "511ia.org | D1 - US 20 @ MM 121": {
+    "Location": "Iowa",
+    "Latitude": 42.445298,
+    "Longitude": -94.18365,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/d1tv121lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35 @ MM 96.8 (62)": {
+    "Location": "Iowa",
+    "Latitude": 41.79129,
+    "Longitude": -93.57088,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv62lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35 @ Adams St (74)": {
+    "Location": "Iowa",
+    "Latitude": 41.504913,
+    "Longitude": -93.78085,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv74lb/playlist.m3u8"
+  },
+  "511ia.org | AM - I-35 @ Heart of Iowa Nature Trail (02)": {
+    "Location": "Iowa",
+    "Latitude": 41.893747,
+    "Longitude": -93.570836,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv02lb/playlist.m3u8"
+  },
+  "511ia.org | 4DJ - US 34 @ MM 38.9 (IWZ 3360 East)": {
+    "Location": "Iowa",
+    "Latitude": 41.025955,
+    "Longitude": -95.22024,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/iwz3360elb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 98": {
+    "Location": "Iowa",
+    "Latitude": 41.493741,
+    "Longitude": -94.223583,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv098lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35 SB @  Mills Civic (50Q)": {
+    "Location": "Iowa",
+    "Latitude": 41.559343,
+    "Longitude": -93.77663,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv50qlb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-80 @ Ashworth Rd (70)": {
+    "Location": "Iowa",
+    "Latitude": 41.584979,
+    "Longitude": -93.822021,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv70lb/playlist.m3u8"
+  },
+  "511ia.org | 6DX - I-380 @ Wright Brothers Blvd (IWZ 3701)": {
+    "Location": "Iowa",
+    "Latitude": 41.890748,
+    "Longitude": -91.669943,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/iwz3701lb/playlist.m3u8"
+  },
+  "511ia.org | DM - IA 5 @ US 65/69 (32)": {
+    "Location": "Iowa",
+    "Latitude": 41.506262,
+    "Longitude": -93.574805,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv32lb/playlist.m3u8"
+  },
+  "511ia.org | AM - US 30 @ Lincoln Way W (11)": {
+    "Location": "Iowa",
+    "Latitude": 42.022653,
+    "Longitude": -93.724367,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv11lb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-80 @ Walcott DMS (14)": {
+    "Location": "Iowa",
+    "Latitude": 41.604333,
+    "Longitude": -90.724757,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv14lb/playlist.m3u8"
+  },
+  "511ia.org | CR - I-380 @ Diagonal Dr SW (08)": {
+    "Location": "Iowa",
+    "Latitude": 41.967589,
+    "Longitude": -91.670571,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv08lb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-74 @ N of US 67/Grant (30)": {
+    "Location": "Iowa",
+    "Latitude": 41.528447,
+    "Longitude": -90.513744,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv30lb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-80 @ MM 230 (29)": {
+    "Location": "Iowa",
+    "Latitude": 41.687152,
+    "Longitude": -91.820917,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv29lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 110": {
+    "Location": "Iowa",
+    "Latitude": 41.540331,
+    "Longitude": -94.013182,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv110lb/playlist.m3u8"
+  },
+  "511ia.org | SC - Larsen Park Rd @ Virginia St (29)": {
+    "Location": "Iowa",
+    "Latitude": 42.487504,
+    "Longitude": -96.397523,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv29lb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-80 @ MM 246 (09)": {
+    "Location": "Iowa",
+    "Latitude": 41.68499,
+    "Longitude": -91.482895,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv09lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 206": {
+    "Location": "Iowa",
+    "Latitude": 41.695853,
+    "Longitude": -92.280087,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv206lb/playlist.m3u8"
+  },
+  "511ia.org | SC - I-29 @ Wesley Parkway (10)": {
+    "Location": "Iowa",
+    "Latitude": 42.490847,
+    "Longitude": -96.41269,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv10lb/playlist.m3u8"
+  },
+  "511ia.org | SC - I-29 @ South of RR Bridge (28)": {
+    "Location": "Iowa",
+    "Latitude": 42.462113,
+    "Longitude": -96.379694,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv28lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 210": {
+    "Location": "Iowa",
+    "Latitude": 41.696098,
+    "Longitude": -92.194939,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV210lb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-80 @ Brady (18)": {
+    "Location": "Iowa",
+    "Latitude": 41.595847,
+    "Longitude": -90.570494,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv18lb/playlist.m3u8"
+  },
+  "511ia.org | D1 - US 20 @ MM 126": {
+    "Location": "Iowa",
+    "Latitude": 42.449188,
+    "Longitude": -94.092379,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/d1tv126lb/playlist.m3u8"
+  },
+  "511ia.org | CR - IA 100 W of I-380 (36)": {
+    "Location": "Iowa",
+    "Latitude": 42.027962,
+    "Longitude": -91.688456,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv36lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29 @ Basswood Road (15)": {
+    "Location": "Iowa",
+    "Latitude": 41.18974,
+    "Longitude": -95.822647,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv15lb/playlist.m3u8"
+  },
+  "511ia.org | CR - I-380 @ Wilson Ave SW (07)": {
+    "Location": "Iowa",
+    "Latitude": 41.956028,
+    "Longitude": -91.670873,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv07lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 72": {
+    "Location": "Iowa",
+    "Latitude": 41.496319,
+    "Longitude": -94.728167,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/80tv072lb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-74 @ EB Miss River Perch (33)": {
+    "Location": "Iowa",
+    "Latitude": 41.519321,
+    "Longitude": -90.512012,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv33lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 182": {
+    "Location": "Iowa",
+    "Latitude": 41.69608,
+    "Longitude": -92.726651,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV183lb/playlist.m3u8"
+  },
+  "511ia.org | CR - Collins Rd @ Council St NE (37)": {
+    "Location": "Iowa",
+    "Latitude": 42.028238,
+    "Longitude": -91.658098,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv37lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 97": {
+    "Location": "Iowa",
+    "Latitude": 41.493037,
+    "Longitude": -94.241672,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv097lb/playlist.m3u8"
+  },
+  "511ia.org | AM - US 30 @ S Dakota Ave (13)": {
+    "Location": "Iowa",
+    "Latitude": 42.008072,
+    "Longitude": -93.678856,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv13lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 222": {
+    "Location": "Iowa",
+    "Latitude": 41.68658,
+    "Longitude": -91.968506,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV222lb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-80 @ Prairie du Chien (24)": {
+    "Location": "Iowa",
+    "Latitude": 41.68812,
+    "Longitude": -91.525765,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv24lb/playlist.m3u8"
+  },
+  "511ia.org | CR - US 30 @ 80th St SW (60)": {
+    "Location": "Iowa",
+    "Latitude": 41.957606,
+    "Longitude": -91.77475,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv60lb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-380 @ Swisher (18)": {
+    "Location": "Iowa",
+    "Latitude": 41.847825,
+    "Longitude": -91.667583,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv18lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35 @ Cumming Ave (75)": {
+    "Location": "Iowa",
+    "Latitude": 41.482969,
+    "Longitude": -93.781085,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv75lb/playlist.m3u8"
+  },
+  "511ia.org | AM - I-35 @ N of US 30 (22)": {
+    "Location": "Iowa",
+    "Latitude": 42.01236,
+    "Longitude": -93.57127,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv22lb/playlist.m3u8"
+  },
+  "511ia.org | CR - IA 13 @ Bertram Rd (48)": {
+    "Location": "Iowa",
+    "Latitude": 41.959099,
+    "Longitude": -91.555525,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv48lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 75": {
+    "Location": "Iowa",
+    "Latitude": 41.492788,
+    "Longitude": -94.662512,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv075lb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-80 @ Wapsi Ave (10)": {
+    "Location": "Iowa",
+    "Latitude": 41.667899,
+    "Longitude": -91.424786,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv10lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35 @ MM 94 (60)": {
+    "Location": "Iowa",
+    "Latitude": 41.750675,
+    "Longitude": -93.574094,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dmtv60lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35/80/235 @ West Mixmaster (44)": {
+    "Location": "Iowa",
+    "Latitude": 41.592221,
+    "Longitude": -93.777537,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv44lb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-280 @ Rockingham Rd (21)": {
+    "Location": "Iowa",
+    "Latitude": 41.491348,
+    "Longitude": -90.647255,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv21lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - US 61 @ 1st St - North (04)": {
+    "Location": "Iowa",
+    "Latitude": 42.495399,
+    "Longitude": -90.663309,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/DQTV04lb/playlist.m3u8"
+  },
+  "511ia.org | CB - US 275 East of Missouri River Bridge (25)": {
+    "Location": "Iowa",
+    "Latitude": 41.207464,
+    "Longitude": -95.916567,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv25lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-80/29 WB @ East Interchange (56)": {
+    "Location": "Iowa",
+    "Latitude": 41.23324,
+    "Longitude": -95.844137,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv56lb/playlist.m3u8"
+  },
+  "511ia.org | NW - I-80 @ E 84th St. (08)": {
+    "Location": "Iowa",
+    "Latitude": 41.680166,
+    "Longitude": -92.941623,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/nwtv08lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 212": {
+    "Location": "Iowa",
+    "Latitude": 41.695761,
+    "Longitude": -92.16288,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv212lb/playlist.m3u8"
+  },
+  "511ia.org | WL - US 218 @ SB Ramp to I-380 SB (04)": {
+    "Location": "Iowa",
+    "Latitude": 42.453956,
+    "Longitude": -92.312534,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv04lb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-380 @ Swan Lake (15)": {
+    "Location": "Iowa",
+    "Latitude": 41.774912,
+    "Longitude": -91.646533,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv15lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 61": {
+    "Location": "Iowa",
+    "Latitude": 41.496983,
+    "Longitude": -94.944778,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv061lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35 @ Grand (49)": {
+    "Location": "Iowa",
+    "Latitude": 41.541474,
+    "Longitude": -93.775807,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv49lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-80 @ US 6 (12)": {
+    "Location": "Iowa",
+    "Latitude": 41.27969,
+    "Longitude": -95.785203,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv12lb/playlist.m3u8"
+  },
+  "511ia.org | D1 - US 65 @ Scotch Ridge Rd ICWS (12)": {
+    "Location": "Iowa",
+    "Latitude": 41.472035,
+    "Longitude": -93.559682,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/D1TV12lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-480 @ Missouri River Bridge (20)": {
+    "Location": "Iowa",
+    "Latitude": 41.259584,
+    "Longitude": -95.91985,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv20lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 55": {
+    "Location": "Iowa",
+    "Latitude": 41.496501,
+    "Longitude": -95.060076,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv055lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-80 @ Minden Interchange (39)": {
+    "Location": "Iowa",
+    "Latitude": 41.496198,
+    "Longitude": -95.546615,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv39lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 53": {
+    "Location": "Iowa",
+    "Latitude": 41.497872,
+    "Longitude": -95.096203,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv053lb/playlist.m3u8"
+  },
+  "511ia.org | CR - Collins Rd @ F Ave NE (39)": {
+    "Location": "Iowa",
+    "Latitude": 42.02846,
+    "Longitude": -91.643666,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv39lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - US 20 @ E Mississippi River Bridge - West (24)": {
+    "Location": "Iowa",
+    "Latitude": 42.491704,
+    "Longitude": -90.649526,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dqtv24lb/playlist.m3u8"
+  },
+  "511ia.org | CR - Collins Rd @ Rockwell Dr NE (38)": {
+    "Location": "Iowa",
+    "Latitude": 42.028549,
+    "Longitude": -91.649128,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv38lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-235 @ 63rd St (15)": {
+    "Location": "Iowa",
+    "Latitude": 41.592994,
+    "Longitude": -93.703551,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv15lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - IA 3 @ NW Arterial - North Zoom (35)": {
+    "Location": "Iowa",
+    "Latitude": 42.541829,
+    "Longitude": -90.693638,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dqtv35lb/playlist.m3u8"
+  },
+  "511ia.org | SC - I-29 @ Bluff (26)": {
+    "Location": "Iowa",
+    "Latitude": 42.492907,
+    "Longitude": -96.413312,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv26lb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-80 @ Y Ave (26)": {
+    "Location": "Iowa",
+    "Latitude": 41.68705,
+    "Longitude": -91.852747,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv26lb/playlist.m3u8"
+  },
+  "511ia.org | SC - I-29 @ Singing Hills (04)": {
+    "Location": "Iowa",
+    "Latitude": 42.433816,
+    "Longitude": -96.375274,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv04lb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-380 @ MM 3.15 (37)": {
+    "Location": "Iowa",
+    "Latitude": 41.738384,
+    "Longitude": -91.642761,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv37lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-80/29 @ S Expressway St (55)": {
+    "Location": "Iowa",
+    "Latitude": 41.232508,
+    "Longitude": -95.85183,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv55lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 194": {
+    "Location": "Iowa",
+    "Latitude": 41.694474,
+    "Longitude": -92.50419,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV194lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29S @ I-29/80 Interchange (66)": {
+    "Location": "Iowa",
+    "Latitude": 41.228669,
+    "Longitude": -95.838814,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv66lb/playlist.m3u8"
+  },
+  "511ia.org | NV - US 30 @ SW 4th St (03)": {
+    "Location": "Iowa",
+    "Latitude": 42.006236,
+    "Longitude": -93.465303,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/nvtv03lb/playlist.m3u8"
+  },
+  "511ia.org | SC - I-29 @ 8th St in Sergeant Bluff (03)": {
+    "Location": "Iowa",
+    "Latitude": 42.410123,
+    "Longitude": -96.365032,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv03lb/playlist.m3u8"
+  },
+  "511ia.org | CB - 23rd Avenue @ 24th Street (32)": {
+    "Location": "Iowa",
+    "Latitude": 41.239543,
+    "Longitude": -95.878673,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv32lb/playlist.m3u8"
+  },
+  "511ia.org | WL - I-380 @ Poyner Road (15)": {
+    "Location": "Iowa",
+    "Latitude": 42.413256,
+    "Longitude": -92.172546,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv15lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-80 @ I-880 Interchange (38)": {
+    "Location": "Iowa",
+    "Latitude": 41.497344,
+    "Longitude": -95.582923,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv38lb/playlist.m3u8"
+  },
+  "511ia.org | NV - US 30 @ S 11th St (04)": {
+    "Location": "Iowa",
+    "Latitude": 42.005456,
+    "Longitude": -93.444603,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/nvtv04lb/playlist.m3u8"
+  },
+  "511ia.org | CR - I-380 @ 1st Ave SW (09Q)": {
+    "Location": "Iowa",
+    "Latitude": 41.975698,
+    "Longitude": -91.675959,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv09qlb/playlist.m3u8"
+  },
+  "511ia.org | SC - US 20 @ Morningside (17)": {
+    "Location": "Iowa",
+    "Latitude": 42.460034,
+    "Longitude": -96.327589,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv17lb/playlist.m3u8"
+  },
+  "511ia.org | D1 - I-35 @ 300th St (11)": {
+    "Location": "Iowa",
+    "Latitude": 42.354786,
+    "Longitude": -93.570034,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/d1tv11lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-80 @ West I-29 Interchange (East) (50)": {
+    "Location": "Iowa",
+    "Latitude": 41.232258,
+    "Longitude": -95.891698,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv50lb/playlist.m3u8"
+  },
+  "511ia.org | WL - I-380 @ S. Raymond Road (11)": {
+    "Location": "Iowa",
+    "Latitude": 42.448897,
+    "Longitude": -92.219431,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv11lb/playlist.m3u8"
+  },
+  "511ia.org | CB - Kanesville @ 7th Street (30)": {
+    "Location": "Iowa",
+    "Latitude": 41.261601,
+    "Longitude": -95.853052,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv30lb/playlist.m3u8"
+  },
+  "511ia.org | DM - US 65 @ University (28)": {
+    "Location": "Iowa",
+    "Latitude": 41.598766,
+    "Longitude": -93.497279,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv28lb/playlist.m3u8"
+  },
+  "511ia.org | CR - IA 100 Near Xavier High School - MM 6.2 (54)": {
+    "Location": "Iowa",
+    "Latitude": 42.028057,
+    "Longitude": -91.727041,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv54lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29S @ North of US275 (67)": {
+    "Location": "Iowa",
+    "Latitude": 41.224,
+    "Longitude": -95.836,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/cbtv67lb/playlist.m3u8"
+  },
+  "511ia.org | CR - I-380 @ Tower Terrace (20Q)": {
+    "Location": "Iowa",
+    "Latitude": 42.058838,
+    "Longitude": -91.700628,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv20qlb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 204": {
+    "Location": "Iowa",
+    "Latitude": 41.695903,
+    "Longitude": -92.319495,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV204lb/playlist.m3u8"
+  },
+  "511ia.org | CR - US 30 @ E of Jappa Rd (33)": {
+    "Location": "Iowa",
+    "Latitude": 41.924906,
+    "Longitude": -91.569904,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv33lb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-80 @ I-380 NB Flyover (39)": {
+    "Location": "Iowa",
+    "Latitude": 41.695207,
+    "Longitude": -91.636325,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/ictv39lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29/80EB @ S Expressway (05)": {
+    "Location": "Iowa",
+    "Latitude": 41.231867,
+    "Longitude": -95.855135,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/cbtv05lb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-80 @ Coral Ridge Ave (04)": {
+    "Location": "Iowa",
+    "Latitude": 41.693695,
+    "Longitude": -91.608918,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv04lb/playlist.m3u8"
+  },
+  "511ia.org | AM - US 30 @ E of I-35 (19)": {
+    "Location": "Iowa",
+    "Latitude": 42.008233,
+    "Longitude": -93.560122,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv19lb/playlist.m3u8"
+  },
+  "511ia.org | AM - I-35 @ MM 105.6 (03)": {
+    "Location": "Iowa",
+    "Latitude": 41.919281,
+    "Longitude": -93.569842,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv03lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-80 @ Hubbell Ave (59)": {
+    "Location": "Iowa",
+    "Latitude": 41.662157,
+    "Longitude": -93.493553,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv59lb/playlist.m3u8"
+  },
+  "511ia.org | BN - US 30 @ Story St (01)": {
+    "Location": "Iowa",
+    "Latitude": 42.034853,
+    "Longitude": -93.879475,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/bntv01lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - US 61 @ 9th St - South (32)": {
+    "Location": "Iowa",
+    "Latitude": 42.504898,
+    "Longitude": -90.660273,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dqtv32lb/playlist.m3u8"
+  },
+  "511ia.org | NW - I-80 @ Newton OH (02)": {
+    "Location": "Iowa",
+    "Latitude": 41.680814,
+    "Longitude": -93.100486,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/nwtv02lb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-74 @ 16th Ave-IL (40)": {
+    "Location": "Iowa",
+    "Latitude": 41.496959,
+    "Longitude": -90.506561,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv40lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 69": {
+    "Location": "Iowa",
+    "Latitude": 41.496159,
+    "Longitude": -94.777263,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/80tv069lb/playlist.m3u8"
+  },
+  "511ia.org | DM - US 65 @ NE 46th (27)": {
+    "Location": "Iowa",
+    "Latitude": 41.643836,
+    "Longitude": -93.509927,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv27lb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-380 @ Penn St (14)": {
+    "Location": "Iowa",
+    "Latitude": 41.752102,
+    "Longitude": -91.642027,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv14lb/playlist.m3u8"
+  },
+  "511ia.org | 2BY - I-35 @ MM 192.6 (IWZ 3138)": {
+    "Location": "Iowa",
+    "Latitude": 43.123833,
+    "Longitude": -93.355447,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/iwz3138lb/playlist.m3u8"
+  },
+  "511ia.org | CR - IA 100 @ Tama St (43)": {
+    "Location": "Iowa",
+    "Latitude": 42.019499,
+    "Longitude": -91.617667,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv43lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 42": {
+    "Location": "Iowa",
+    "Latitude": 41.498789,
+    "Longitude": -95.29656,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv042lb/playlist.m3u8"
+  },
+  "511ia.org | NW - I-80 @ W of Co Rd T38N (16)": {
+    "Location": "Iowa",
+    "Latitude": 41.695302,
+    "Longitude": -92.813274,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/nwtv16lb/playlist.m3u8"
+  },
+  "511ia.org | WL - I-380 @ Cedar River (06)": {
+    "Location": "Iowa",
+    "Latitude": 42.45542,
+    "Longitude": -92.309189,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv06lb/playlist.m3u8"
+  },
+  "511ia.org | BN - US 30 @ Quill Ave (02)": {
+    "Location": "Iowa",
+    "Latitude": 42.03445,
+    "Longitude": -93.850197,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/bntv02lb/playlist.m3u8"
+  },
+  "511ia.org | 4DS - US 71 @ US 6 (IWZ 3135)": {
+    "Location": "Iowa",
+    "Latitude": 41.403723,
+    "Longitude": -94.945327,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/iwz3135lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-80 EB @ Hubbell Ave (25)": {
+    "Location": "Iowa",
+    "Latitude": 41.661717,
+    "Longitude": -93.495679,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv25lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 150": {
+    "Location": "Iowa",
+    "Latitude": 41.681082,
+    "Longitude": -93.339829,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV150lb/playlist.m3u8"
+  },
+  "511ia.org | WL - I-380 @ US 20 East 2 (13)": {
+    "Location": "Iowa",
+    "Latitude": 42.44952,
+    "Longitude": -92.187073,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv13lb/playlist.m3u8"
+  },
+  "511ia.org | SC - S Lewis @ Golf Course (23)": {
+    "Location": "Iowa",
+    "Latitude": 42.470076,
+    "Longitude": -96.377714,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv23lb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-74 @ S End of EB Bridge (36)": {
+    "Location": "Iowa",
+    "Latitude": 41.514457,
+    "Longitude": -90.510819,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv36lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-80 @ NE 80th in Altoona (38)": {
+    "Location": "Iowa",
+    "Latitude": 41.671937,
+    "Longitude": -93.443828,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv38lb/playlist.m3u8"
+  },
+  "511ia.org | CB - US 275 @ 24th Street (26)": {
+    "Location": "Iowa",
+    "Latitude": 41.218858,
+    "Longitude": -95.879552,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv26lb/playlist.m3u8"
+  },
+  "511ia.org | D1 - I-35 @ US 20 Williams (10)": {
+    "Location": "Iowa",
+    "Latitude": 42.448915,
+    "Longitude": -93.565539,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/d1tv10lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-80 Ramps @ I-35 SB NE MixMaster (87)": {
+    "Location": "Iowa",
+    "Latitude": 41.655201,
+    "Longitude": -93.57621,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv87lb/playlist.m3u8"
+  },
+  "511ia.org | WL - US 20 @ S. Canfield Road (18)": {
+    "Location": "Iowa",
+    "Latitude": 42.451279,
+    "Longitude": -92.162011,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv18lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-235 @ Guthrie (03)": {
+    "Location": "Iowa",
+    "Latitude": 41.615052,
+    "Longitude": -93.577466,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv03lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - US 20 @ NW Arterial - East (15)": {
+    "Location": "Iowa",
+    "Latitude": 42.48849,
+    "Longitude": -90.7393,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dqtv15lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35/80 @ Hickman (19)": {
+    "Location": "Iowa",
+    "Latitude": 41.614795,
+    "Longitude": -93.776851,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv19lb/playlist.m3u8"
+  },
+  "511ia.org | 2CB - I-380 @ MM 43 (IWZ 3172)": {
+    "Location": "Iowa",
+    "Latitude": 0,
+    "Longitude": 0,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/iwz3172lb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-280 @ Kimberly Rd (22)": {
+    "Location": "Iowa",
+    "Latitude": 41.591525,
+    "Longitude": -90.675409,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv22lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-80 @ US 65 (26)": {
+    "Location": "Iowa",
+    "Latitude": 41.659877,
+    "Longitude": -93.521848,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv26lb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-74 @ S End of WB Bridge (37)": {
+    "Location": "Iowa",
+    "Latitude": 41.51415,
+    "Longitude": -90.509782,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv37lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29 @ South I-680 Interchange (36Q)": {
+    "Location": "Iowa",
+    "Latitude": 41.353988,
+    "Longitude": -95.900778,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv36qlb/playlist.m3u8"
+  },
+  "511ia.org | 1DD - I-80 @ MM 137.1 (IWZ 3196)": {
+    "Location": "Iowa",
+    "Latitude": 41.650207,
+    "Longitude": -93.589918,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/iwz3196lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - US 61 @ Mississippi River Bridge - East (05)": {
+    "Location": "Iowa",
+    "Latitude": 42.515706,
+    "Longitude": -90.642223,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dqtv05lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 149": {
+    "Location": "Iowa",
+    "Latitude": 41.680732,
+    "Longitude": -93.367645,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV149lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 70": {
+    "Location": "Iowa",
+    "Latitude": 41.497242,
+    "Longitude": -94.758107,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/80tv070lb/playlist.m3u8"
+  },
+  "511ia.org | CB - US 275 @ South Expressway (28)": {
+    "Location": "Iowa",
+    "Latitude": 41.219823,
+    "Longitude": -95.849662,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv28lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-235 @ Keo Way (09)": {
+    "Location": "Iowa",
+    "Latitude": 41.596212,
+    "Longitude": -93.636045,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv09lb/playlist.m3u8"
+  },
+  "511ia.org | WL - US 218 @ Williston Rd (23)": {
+    "Location": "Iowa",
+    "Latitude": 42.483736,
+    "Longitude": -92.328611,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv23lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-80 @ IA 141 Flyover (96)": {
+    "Location": "Iowa",
+    "Latitude": 41.649364,
+    "Longitude": -93.773752,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv96lb/playlist.m3u8"
+  },
+  "511ia.org | CR - I-380 @ Tower Terrace Rd (20)": {
+    "Location": "Iowa",
+    "Latitude": 42.058832,
+    "Longitude": -91.700623,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv20lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - Locust St @ Locust Conn - East (26)": {
+    "Location": "Iowa",
+    "Latitude": 42.493628,
+    "Longitude": -90.665012,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dqtv26lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-80 @ Jordan Creek (18)": {
+    "Location": "Iowa",
+    "Latitude": 41.592093,
+    "Longitude": -93.809252,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv18lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35/80 @ Westown Pkwy (68)": {
+    "Location": "Iowa",
+    "Latitude": 41.595295,
+    "Longitude": -93.778268,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv68lb/playlist.m3u8"
+  },
+  "511ia.org | CR - US 30 @ 21st St SW (26)": {
+    "Location": "Iowa",
+    "Latitude": 41.935867,
+    "Longitude": -91.705747,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv26lb/playlist.m3u8"
+  },
+  "511ia.org | 1DH - I-35 @ MM 102.2 (IWZ 3101)": {
+    "Location": "Iowa",
+    "Latitude": 41.869157,
+    "Longitude": -93.570861,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/iwz3101lb/playlist.m3u8"
+  },
+  "511ia.org | 1DD - I-235 @ MM 13 (IWZ 3113)": {
+    "Location": "Iowa",
+    "Latitude": 41.6383,
+    "Longitude": -93.5753,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/iwz3113lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35/80 @ Meredith Dr (57)": {
+    "Location": "Iowa",
+    "Latitude": 41.643855,
+    "Longitude": -93.776733,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv57lb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-80 @ Dubuque St (07)": {
+    "Location": "Iowa",
+    "Latitude": 41.686463,
+    "Longitude": -91.539888,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv07lb/playlist.m3u8"
+  },
+  "511ia.org | WL - US 218 @ W 1st St (26)": {
+    "Location": "Iowa",
+    "Latitude": 42.496107,
+    "Longitude": -92.346054,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv26lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 184": {
+    "Location": "Iowa",
+    "Latitude": 41.695327,
+    "Longitude": -92.697316,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV184lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29 @ I-80 EB Ramp (45)": {
+    "Location": "Iowa",
+    "Latitude": 41.237071,
+    "Longitude": -95.900103,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv45lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-480 W @ MM 0.1 (72)": {
+    "Location": "Iowa",
+    "Latitude": 41.261467,
+    "Longitude": -95.913824,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/cbtv72lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35 @ NE MixMaster (North) (69)": {
+    "Location": "Iowa",
+    "Latitude": 41.658489,
+    "Longitude": -93.57477,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv69lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-235 @ 2nd Ave (07)": {
+    "Location": "Iowa",
+    "Latitude": 41.595719,
+    "Longitude": -93.619781,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv07lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35/80 @ NW Beaver Dr (95)": {
+    "Location": "Iowa",
+    "Latitude": 41.651985,
+    "Longitude": -93.680345,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dmtv95lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 161": {
+    "Location": "Iowa",
+    "Latitude": 41.682918,
+    "Longitude": -93.137429,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV161lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-80 @ Woodbury Ave (58)": {
+    "Location": "Iowa",
+    "Latitude": 41.237776,
+    "Longitude": -95.826199,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv58lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35/80 @ 2nd Ave (23)": {
+    "Location": "Iowa",
+    "Latitude": 41.649581,
+    "Longitude": -93.620161,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv23lb/playlist.m3u8"
+  },
+  "511ia.org | CR - Collins Rd @ C Ave NE (40)": {
+    "Location": "Iowa",
+    "Latitude": 42.028101,
+    "Longitude": -91.638939,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv40lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-80 E Exit to N I-35 (67)": {
+    "Location": "Iowa",
+    "Latitude": 41.592542,
+    "Longitude": -93.772728,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv67lb/playlist.m3u8"
+  },
+  "511ia.org | CR - I-380 @ Collins Rd- South (16)": {
+    "Location": "Iowa",
+    "Latitude": 42.028188,
+    "Longitude": -91.672703,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv16lb/playlist.m3u8"
+  },
+  "511ia.org | CR - IA 100 @ Covington Rd - MM 3.8 (57)": {
+    "Location": "Iowa",
+    "Latitude": 42.012635,
+    "Longitude": -91.76693,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv57lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35 @ Mills Civic (50)": {
+    "Location": "Iowa",
+    "Latitude": 41.559219,
+    "Longitude": -93.776636,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv50lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29 @ Nebraska Ave DMS (16)": {
+    "Location": "Iowa",
+    "Latitude": 41.244481,
+    "Longitude": -95.905906,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv16lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29 S @ MM 53 (18)": {
+    "Location": "Iowa",
+    "Latitude": 41.254532,
+    "Longitude": -95.907134,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/cbtv18lb/playlist.m3u8"
+  },
+  "511ia.org | SC - US 20 @ Sunnybrook (16)": {
+    "Location": "Iowa",
+    "Latitude": 42.45379,
+    "Longitude": -96.334369,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv16lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35/80 @ Merle Hay (22)": {
+    "Location": "Iowa",
+    "Latitude": 41.652238,
+    "Longitude": -93.697844,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv22lb/playlist.m3u8"
+  },
+  "511ia.org | NW - I-80 @ E. 12th St. (05)": {
+    "Location": "Iowa",
+    "Latitude": 41.682955,
+    "Longitude": -93.039129,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/nwtv05lb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-80 @ I-280 (16)": {
+    "Location": "Iowa",
+    "Latitude": 41.602628,
+    "Longitude": -90.677354,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv16lb/playlist.m3u8"
+  },
+  "511ia.org | CR - IA 100 @ Edgewood Rd NE (35)": {
+    "Location": "Iowa",
+    "Latitude": 42.029509,
+    "Longitude": -91.701147,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv35lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - US 61 @ 9th St - North (31)": {
+    "Location": "Iowa",
+    "Latitude": 42.504907,
+    "Longitude": -90.66033,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dqtv31lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35 @ Ashworth Ave (55)": {
+    "Location": "Iowa",
+    "Latitude": 41.583897,
+    "Longitude": -93.777256,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv55lb/playlist.m3u8"
+  },
+  "511ia.org | NV - US 30 @ 19th St (05)": {
+    "Location": "Iowa",
+    "Latitude": 42.008381,
+    "Longitude": -93.434794,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/nvtv05lb/playlist.m3u8"
+  },
+  "511ia.org | WL - US 218 @ W 11th St (24)": {
+    "Location": "Iowa",
+    "Latitude": 42.488552,
+    "Longitude": -92.334652,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv24lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - US 20 @ NW Arterial - East Wide Angle (11)": {
+    "Location": "Iowa",
+    "Latitude": 42.488612,
+    "Longitude": -90.739416,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dqtv11lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 46": {
+    "Location": "Iowa",
+    "Latitude": 41.496965,
+    "Longitude": -95.222052,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv046lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29N @ I-480E Flyover (71)": {
+    "Location": "Iowa",
+    "Latitude": 41.262589,
+    "Longitude": -95.909663,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv71lb/playlist.m3u8"
+  },
+  "511ia.org | CR - I-380 @ 1st Ave SW (09)": {
+    "Location": "Iowa",
+    "Latitude": 41.975675,
+    "Longitude": -91.675767,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv09lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 223": {
+    "Location": "Iowa",
+    "Latitude": 41.687746,
+    "Longitude": -91.944621,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV223lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29/80E @ E. of S. Expressway (65)": {
+    "Location": "Iowa",
+    "Latitude": 41.232,
+    "Longitude": -95.847,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/cbtv65lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - US 20 @ W Mississippi River Bridge - West (22)": {
+    "Location": "Iowa",
+    "Latitude": 42.491487,
+    "Longitude": -90.659366,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dqtv22lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35 @ IA 92 (78)": {
+    "Location": "Iowa",
+    "Latitude": 41.36289,
+    "Longitude": -93.77981,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv78lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-235 @ 42nd St (13)": {
+    "Location": "Iowa",
+    "Latitude": 41.591191,
+    "Longitude": -93.674369,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv13lb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-80 @ LeClaire (20)": {
+    "Location": "Iowa",
+    "Latitude": 41.59307,
+    "Longitude": -90.372842,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv20lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - US 20 @ JFK Rd (16)": {
+    "Location": "Iowa",
+    "Latitude": 42.492048,
+    "Longitude": -90.71494,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dqtv16lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29N @ I-80W Interchange (62)": {
+    "Location": "Iowa",
+    "Latitude": 41.232871,
+    "Longitude": -95.842369,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv62lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - US 20 @ Locust St - East (20)": {
+    "Location": "Iowa",
+    "Latitude": 42.491972,
+    "Longitude": -90.665227,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dqtv20lb/playlist.m3u8"
+  },
+  "511ia.org | IC - US 218 @ IA 1 (11)": {
+    "Location": "Iowa",
+    "Latitude": 41.63357,
+    "Longitude": -91.56744,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv11lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 105": {
+    "Location": "Iowa",
+    "Latitude": 41.517179,
+    "Longitude": -94.099059,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv105lb/playlist.m3u8"
+  },
+  "511ia.org | SC - Gordon Dr @ Court St (42)": {
+    "Location": "Iowa",
+    "Latitude": 42.49004,
+    "Longitude": -96.395703,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/sctv42lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29 @ RR Crossing (68)": {
+    "Location": "Iowa",
+    "Latitude": 41.248051,
+    "Longitude": -95.906376,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/cbtv68lb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-380 @ MM 0.2 (03)": {
+    "Location": "Iowa",
+    "Latitude": 41.693802,
+    "Longitude": -91.638302,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv03lb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-74 @ N End of EB Bridge (32)": {
+    "Location": "Iowa",
+    "Latitude": 41.523175,
+    "Longitude": -90.512641,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv32lb/playlist.m3u8"
+  },
+  "511ia.org | CR - IA 13 @ Cottage Grove Pkwy (50)": {
+    "Location": "Iowa",
+    "Latitude": 41.994883,
+    "Longitude": -91.550868,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv50lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29 @ Nebraska Avenue (17)": {
+    "Location": "Iowa",
+    "Latitude": 41.242126,
+    "Longitude": -95.904113,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv17lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35 @ Corporate Woods DMS (37)": {
+    "Location": "Iowa",
+    "Latitude": 41.669295,
+    "Longitude": -93.578274,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv37lb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-380 @ Iowa River (17)": {
+    "Location": "Iowa",
+    "Latitude": 41.818836,
+    "Longitude": -91.654408,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv17lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-235 @ 22nd St in WDM (16)": {
+    "Location": "Iowa",
+    "Latitude": 41.593015,
+    "Longitude": -93.735673,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv16lb/playlist.m3u8"
+  },
+  "511ia.org | NW - I-80 @ Speedway Dr. (07)": {
+    "Location": "Iowa",
+    "Latitude": 41.682723,
+    "Longitude": -92.999912,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/nwtv07lb/playlist.m3u8"
+  },
+  "511ia.org | 1DH - I-35 @ MM 99.3 (IWZ 3167)": {
+    "Location": "Iowa",
+    "Latitude": 41.826732,
+    "Longitude": -93.570527,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/iwz3167lb/playlist.m3u8"
+  },
+  "511ia.org | CR - I-380 @ 33rd Ave SW (06)": {
+    "Location": "Iowa",
+    "Latitude": 41.945563,
+    "Longitude": -91.671625,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv06lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29/80 @ WB On Ramp S Expressway (48)": {
+    "Location": "Iowa",
+    "Latitude": 41.232599,
+    "Longitude": -95.862928,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv48lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - US 61 @ Mississippi River Bridge - West (06)": {
+    "Location": "Iowa",
+    "Latitude": 42.515707,
+    "Longitude": -90.642224,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dqtv06lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-235 @ MM 9.8 (106)": {
+    "Location": "Iowa",
+    "Latitude": 41.597389,
+    "Longitude": -93.59239,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv106lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-80 @ 38th in Altoona (54)": {
+    "Location": "Iowa",
+    "Latitude": 41.657006,
+    "Longitude": -93.543377,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv54lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35 @ Corporate Woods (53)": {
+    "Location": "Iowa",
+    "Latitude": 41.679928,
+    "Longitude": -93.576414,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dmtv53lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - US 61 @ Maquoketa Dr - South (28)": {
+    "Location": "Iowa",
+    "Latitude": 42.454579,
+    "Longitude": -90.678274,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dqtv28lb/playlist.m3u8"
+  },
+  "511ia.org | DM - IA 415 @ Mile Long Bridge (66)": {
+    "Location": "Iowa",
+    "Latitude": 41.765611,
+    "Longitude": -93.729773,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv66lb/playlist.m3u8"
+  },
+  "511ia.org | CR - IA 100 E of Cedar River - MM 5.7 (55)": {
+    "Location": "Iowa",
+    "Latitude": 42.029281,
+    "Longitude": -91.736105,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv55lb/playlist.m3u8"
+  },
+  "511ia.org | CR - US 30 @ Williams Blvd SW (24)": {
+    "Location": "Iowa",
+    "Latitude": 41.945301,
+    "Longitude": -91.74173,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv24lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-80 @ East I-29 Interchange (57)": {
+    "Location": "Iowa",
+    "Latitude": 41.2312,
+    "Longitude": -95.839759,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv57lb/playlist.m3u8"
+  },
+  "511ia.org | SC - I-29 @ US 20 - South (05)": {
+    "Location": "Iowa",
+    "Latitude": 42.445765,
+    "Longitude": -96.373508,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv05lb/playlist.m3u8"
+  },
+  "511ia.org | CR - I-380 @ 8th St NE (11)": {
+    "Location": "Iowa",
+    "Latitude": 41.983606,
+    "Longitude": -91.663952,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv11lb/playlist.m3u8"
+  },
+  "511ia.org | CB - 23rd Avenue @ Mid America Dr (33)": {
+    "Location": "Iowa",
+    "Latitude": 41.239843,
+    "Longitude": -95.893328,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv33lb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-80 @ S Cody Rd/US 67 (61)": {
+    "Location": "Iowa",
+    "Latitude": 41.58458,
+    "Longitude": -90.36786,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/qctv61lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 198": {
+    "Location": "Iowa",
+    "Latitude": 41.695767,
+    "Longitude": -92.421459,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV198lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - US 61 @ Catfish Creek DMS - North (01)": {
+    "Location": "Iowa",
+    "Latitude": 42.464867,
+    "Longitude": -90.669717,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dqtv01lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 202": {
+    "Location": "Iowa",
+    "Latitude": 41.695255,
+    "Longitude": -92.357481,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV202lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 62": {
+    "Location": "Iowa",
+    "Latitude": 41.496879,
+    "Longitude": -94.911799,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/80tv062lb/playlist.m3u8"
+  },
+  "511ia.org | AM - US 30 @ 500th Ave (12)": {
+    "Location": "Iowa",
+    "Latitude": 42.014856,
+    "Longitude": -93.698778,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv12lb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-380 @ Oak Hill School (36)": {
+    "Location": "Iowa",
+    "Latitude": 41.708494,
+    "Longitude": -91.643092,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv36lb/playlist.m3u8"
+  },
+  "511ia.org | SC - I-29 @ Riverside (13)": {
+    "Location": "Iowa",
+    "Latitude": 42.492735,
+    "Longitude": -96.466935,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv13lb/playlist.m3u8"
+  },
+  "511ia.org | CR - US 30 @ Ivanhoe Rd SW (31)": {
+    "Location": "Iowa",
+    "Latitude": 41.926337,
+    "Longitude": -91.617546,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv31lb/playlist.m3u8"
+  },
+  "511ia.org | WL - I-380 @ US 20 East 1 (12)": {
+    "Location": "Iowa",
+    "Latitude": 42.449262,
+    "Longitude": -92.19557,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv12lb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-80 @ MM 295.6 (18Q)": {
+    "Location": "Iowa",
+    "Latitude": 41.59662,
+    "Longitude": -90.569694,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/qctv18qlb/playlist.m3u8"
+  },
+  "511ia.org | WL - I-380 @ MM 64 (14)": {
+    "Location": "Iowa",
+    "Latitude": 42.427912,
+    "Longitude": -92.185915,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv14lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-80 @ Missouri River Bridge (01)": {
+    "Location": "Iowa",
+    "Latitude": 41.231067,
+    "Longitude": -95.908499,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv01lb/playlist.m3u8"
+  },
+  "511ia.org | CR - US 30 @ IA 13 (34)": {
+    "Location": "Iowa",
+    "Latitude": 41.926796,
+    "Longitude": -91.542331,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv34lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 192": {
+    "Location": "Iowa",
+    "Latitude": 41.696656,
+    "Longitude": -92.552721,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV192lb/playlist.m3u8"
+  },
+  "511ia.org | NW - I-80 @ Co Rd T22 (09)": {
+    "Location": "Iowa",
+    "Latitude": 41.682311,
+    "Longitude": -92.90258,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/nwtv09lb/playlist.m3u8"
+  },
+  "511ia.org | SC - I-29 @ MM 145.4 (46)": {
+    "Location": "Iowa",
+    "Latitude": 42.460087,
+    "Longitude": -96.379179,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/sctv46lb/playlist.m3u8"
+  },
+  "511ia.org | AM - I-35 @ US 30 W Flyover Ramp (21)": {
+    "Location": "Iowa",
+    "Latitude": 42.004577,
+    "Longitude": -93.57033,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv21lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - US 61 @ Twin Valley Dr (30)": {
+    "Location": "Iowa",
+    "Latitude": 42.459318,
+    "Longitude": -90.673237,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dqtv30lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-80/29 @ Indian Creek (61)": {
+    "Location": "Iowa",
+    "Latitude": 41.231929,
+    "Longitude": -95.866702,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv61lb/playlist.m3u8"
+  },
+  "511ia.org | SC - I-29 @ MM 147 (31)": {
+    "Location": "Iowa",
+    "Latitude": 42.477122,
+    "Longitude": -96.384869,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/sctv31lb/playlist.m3u8"
+  },
+  "511ia.org | SC - S Lewis @ Gordon (25)": {
+    "Location": "Iowa",
+    "Latitude": 42.489238,
+    "Longitude": -96.380546,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv25lb/playlist.m3u8"
+  },
+  "511ia.org | CB - Nebraska Ave @ 35th St (70)": {
+    "Location": "Iowa",
+    "Latitude": 41.244042,
+    "Longitude": -95.901186,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/cbtv70lb/playlist.m3u8"
+  },
+  "511ia.org | WL - US 20 @ Ansborough (01)": {
+    "Location": "Iowa",
+    "Latitude": 42.453983,
+    "Longitude": -92.376373,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv01lb/playlist.m3u8"
+  },
+  "511ia.org | WL - US 218 @ N of San Marnan Dr (21)": {
+    "Location": "Iowa",
+    "Latitude": 42.47426,
+    "Longitude": -92.321803,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv21lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-80 / 35 @ 100th St (97)": {
+    "Location": "Iowa",
+    "Latitude": 41.651847,
+    "Longitude": -93.755663,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dmtv97lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35/80 @ 86th St (21)": {
+    "Location": "Iowa",
+    "Latitude": 41.652324,
+    "Longitude": -93.736618,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv21lb/playlist.m3u8"
+  },
+  "511ia.org | DM - IA 141 @ IA 415 (93)": {
+    "Location": "Iowa",
+    "Latitude": 41.739614,
+    "Longitude": -93.77561,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv93lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 100": {
+    "Location": "Iowa",
+    "Latitude": 41.514014,
+    "Longitude": -94.196272,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv100lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35 @ Fillmore St. (76)": {
+    "Location": "Iowa",
+    "Latitude": 41.432337,
+    "Longitude": -93.781395,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv76lb/playlist.m3u8"
+  },
+  "511ia.org | CR - IA 100 @ IA 13 (47)": {
+    "Location": "Iowa",
+    "Latitude": 42.019718,
+    "Longitude": -91.550485,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv47lb/playlist.m3u8"
+  },
+  "511ia.org | AM - I-35 @ E Lincoln Way (08)": {
+    "Location": "Iowa",
+    "Latitude": 42.022869,
+    "Longitude": -93.571731,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv08lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35 @ Hoover St (77)": {
+    "Location": "Iowa",
+    "Latitude": 41.388562,
+    "Longitude": -93.783749,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv77lb/playlist.m3u8"
+  },
+  "511ia.org | WWD - US 30 @ S27 near Nevada (49)": {
+    "Location": "Iowa",
+    "Latitude": 42.00763,
+    "Longitude": -93.40522,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/wwd49lb/playlist.m3u8"
+  },
+  "511ia.org | SC - US 20 @ Christy (15)": {
+    "Location": "Iowa",
+    "Latitude": 42.445121,
+    "Longitude": -96.337545,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv15lb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-80 @ 1st Ave (06Q)": {
+    "Location": "Iowa",
+    "Latitude": 41.685024,
+    "Longitude": -91.565264,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/ictv06qlb/playlist.m3u8"
+  },
+  "511ia.org | AM - US 30 @ 520th Ave (14)": {
+    "Location": "Iowa",
+    "Latitude": 42.007239,
+    "Longitude": -93.659033,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv14lb/playlist.m3u8"
+  },
+  "511ia.org | CR - I-380 @ 4th St SE (10)": {
+    "Location": "Iowa",
+    "Latitude": 41.981684,
+    "Longitude": -91.666926,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv10lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 99.6": {
+    "Location": "Iowa",
+    "Latitude": 41.507803,
+    "Longitude": -94.20413,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv099lb/playlist.m3u8"
+  },
+  "511ia.org | BN - US 30 @ U Ave (05)": {
+    "Location": "Iowa",
+    "Latitude": 42.023047,
+    "Longitude": -93.776964,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/bntv05lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-80/29 @ Harry Langdon Blvd (64)": {
+    "Location": "Iowa",
+    "Latitude": 41.233356,
+    "Longitude": -95.829738,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv64lb/playlist.m3u8"
+  },
+  "511ia.org | BN - US 30 @ IA 17 (03)": {
+    "Location": "Iowa",
+    "Latitude": 42.03433,
+    "Longitude": -93.81554,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/bntv03lb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-80 @ Half Moon Rd (01)": {
+    "Location": "Iowa",
+    "Latitude": 41.694403,
+    "Longitude": -91.69095,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv01lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 159": {
+    "Location": "Iowa",
+    "Latitude": 41.689448,
+    "Longitude": -93.176725,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV159lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29 @ I-880 Interchange (37)": {
+    "Location": "Iowa",
+    "Latitude": 41.494224,
+    "Longitude": -95.901182,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv37lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 154": {
+    "Location": "Iowa",
+    "Latitude": 41.688095,
+    "Longitude": -93.265977,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV154lb/playlist.m3u8"
+  },
+  "511ia.org | CR - I-380 @ H Ave NE (12)": {
+    "Location": "Iowa",
+    "Latitude": 41.995566,
+    "Longitude": -91.666557,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv12lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29/80 @ 24th Street (03)": {
+    "Location": "Iowa",
+    "Latitude": 41.231797,
+    "Longitude": -95.878673,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv03lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-80/29 @ On Ramp S Expressway St (59)": {
+    "Location": "Iowa",
+    "Latitude": 41.232596,
+    "Longitude": -95.85907,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv59lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - US 61 @ Twin Valley Dr - South (29)": {
+    "Location": "Iowa",
+    "Latitude": 42.459476,
+    "Longitude": -90.672906,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dqtv29lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - US 20 @ W Mississippi River Bridge - East (23)": {
+    "Location": "Iowa",
+    "Latitude": 42.491486,
+    "Longitude": -90.659184,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dqtv23lb/playlist.m3u8"
+  },
+  "511ia.org | CR - US 30 @ J St SW (28)": {
+    "Location": "Iowa",
+    "Latitude": 41.926675,
+    "Longitude": -91.663188,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv28lb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-74 Off Ramp @ Grant St (30F)": {
+    "Location": "Iowa",
+    "Latitude": 41.52632,
+    "Longitude": -90.51404,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/qctv30flb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-380 SB @ I-80 EB Ramp (41)": {
+    "Location": "Iowa",
+    "Latitude": 41.696221,
+    "Longitude": -91.641507,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv41lb/playlist.m3u8"
+  },
+  "511ia.org | AM - US 30 @ W of University Blvd (15)": {
+    "Location": "Iowa",
+    "Latitude": 42.00335,
+    "Longitude": -93.646139,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv15lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - US 20 @ Bryant St - East (33)": {
+    "Location": "Iowa",
+    "Latitude": 42.489331,
+    "Longitude": -90.677746,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dqtv33lb/playlist.m3u8"
+  },
+  "511ia.org | SC - I-29 @ 1st St in Sergeant Bluff (02)": {
+    "Location": "Iowa",
+    "Latitude": 42.400081,
+    "Longitude": -96.366856,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv02lb/playlist.m3u8"
+  },
+  "511ia.org | CR - US 30 @ C St SW (30)": {
+    "Location": "Iowa",
+    "Latitude": 41.926356,
+    "Longitude": -91.637031,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv30lb/playlist.m3u8"
+  },
+  "511ia.org | CR - IA 100 @ Menards Ln (44)": {
+    "Location": "Iowa",
+    "Latitude": 42.016139,
+    "Longitude": -91.608465,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv44lb/playlist.m3u8"
+  },
+  "511ia.org | CR - IA 100 W of Edgewood Rd NE - MM 6.6 (53)": {
+    "Location": "Iowa",
+    "Latitude": 42.029932,
+    "Longitude": -91.719476,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv53lb/playlist.m3u8"
+  },
+  "511ia.org | CR - IA 13 @ Linn Aire Dr (51)": {
+    "Location": "Iowa",
+    "Latitude": 42.031399,
+    "Longitude": -91.550524,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv51lb/playlist.m3u8"
+  },
+  "511ia.org | NW - I-80 @ Co Rd T38N (12)": {
+    "Location": "Iowa",
+    "Latitude": 41.6951,
+    "Longitude": -92.795236,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/nwtv12lb/playlist.m3u8"
+  },
+  "511ia.org | 6EM - US 30 @  MM 299.5 (IWZ 3359)": {
+    "Location": "Iowa",
+    "Latitude": 41.829548,
+    "Longitude": -90.792953,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/iwz3359lb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-74 @ EB Miss River (34)": {
+    "Location": "Iowa",
+    "Latitude": 41.517005,
+    "Longitude": -90.51145,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv34lb/playlist.m3u8"
+  },
+  "511ia.org | DM - IA 5 @ Fleur (33)": {
+    "Location": "Iowa",
+    "Latitude": 41.507571,
+    "Longitude": -93.644693,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv33lb/playlist.m3u8"
+  },
+  "511ia.org | WL - Evansdale water Tower - East (17)": {
+    "Location": "Iowa",
+    "Latitude": 42.460828,
+    "Longitude": -92.258763,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv17lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 226": {
+    "Location": "Iowa",
+    "Latitude": 41.68735,
+    "Longitude": -91.886549,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV226lb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-80 @ 12th Avenue (23)": {
+    "Location": "Iowa",
+    "Latitude": 41.689188,
+    "Longitude": -91.581817,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv23lb/playlist.m3u8"
+  },
+  "511ia.org | SC - I-29 @ Sergeant Bluff Rest Area (01)": {
+    "Location": "Iowa",
+    "Latitude": 42.374032,
+    "Longitude": -96.353424,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv01lb/playlist.m3u8"
+  },
+  "511ia.org | IC - US 218 @ Melrose DMS (25)": {
+    "Location": "Iowa",
+    "Latitude": 41.666379,
+    "Longitude": -91.610357,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv25lb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-280 @ MM 9.25 (51)": {
+    "Location": "Iowa",
+    "Latitude": 41.483349,
+    "Longitude": -90.638198,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/qctv51lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 256.7": {
+    "Location": "Iowa",
+    "Latitude": 41.663235,
+    "Longitude": -91.30767,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/80tv256lb/playlist.m3u8"
+  },
+  "511ia.org | DM - US 65 @ Vandalia (29)": {
+    "Location": "Iowa",
+    "Latitude": 41.572287,
+    "Longitude": -93.513136,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv29lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 49": {
+    "Location": "Iowa",
+    "Latitude": 41.498363,
+    "Longitude": -95.173874,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv049lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29 @ S of US 275 (54)": {
+    "Location": "Iowa",
+    "Latitude": 41.219385,
+    "Longitude": -95.830923,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv54lb/playlist.m3u8"
+  },
+  "511ia.org | WL - I-380 @ River Forest Road (07)": {
+    "Location": "Iowa",
+    "Latitude": 42.45939,
+    "Longitude": -92.297655,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv07lb/playlist.m3u8"
+  },
+  "511ia.org | DM - US 65 @ IA 5 (31)": {
+    "Location": "Iowa",
+    "Latitude": 41.511154,
+    "Longitude": -93.527448,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv31lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-235 @ 7th Ave (08)": {
+    "Location": "Iowa",
+    "Latitude": 41.595783,
+    "Longitude": -93.62684,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv08lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - IA 3 @ NW Arterial - North (34)": {
+    "Location": "Iowa",
+    "Latitude": 42.541401,
+    "Longitude": -90.693439,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dqtv34lb/playlist.m3u8"
+  },
+  "511ia.org | CR - IA 100 @ S 22nd St (46)": {
+    "Location": "Iowa",
+    "Latitude": 42.01527,
+    "Longitude": -91.588579,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv46lb/playlist.m3u8"
+  },
+  "511ia.org | WL - I-380 @ US 20 West (05)": {
+    "Location": "Iowa",
+    "Latitude": 42.455635,
+    "Longitude": -92.31436,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv05lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 101": {
+    "Location": "Iowa",
+    "Latitude": 41.517601,
+    "Longitude": -94.175634,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv101lb/playlist.m3u8"
+  },
+  "511ia.org | NV - US 30 @ 600th Ave (02)": {
+    "Location": "Iowa",
+    "Latitude": 42.008581,
+    "Longitude": -93.501636,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/nvtv02lb/playlist.m3u8"
+  },
+  "511ia.org | D1 - I-35 @ IA 175 Ellsworth (09)": {
+    "Location": "Iowa",
+    "Latitude": 42.309804,
+    "Longitude": -93.569361,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/d1tv09lb/playlist.m3u8"
+  },
+  "511ia.org | AM - I-35 @ MM 107.8 (04)": {
+    "Location": "Iowa",
+    "Latitude": 41.949802,
+    "Longitude": -93.569297,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv04lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35 @ Maffitt Lake Rd (73)": {
+    "Location": "Iowa",
+    "Latitude": 41.519592,
+    "Longitude": -93.774156,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv73lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 109": {
+    "Location": "Iowa",
+    "Latitude": 41.535129,
+    "Longitude": -94.035708,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv109lb/playlist.m3u8"
+  },
+  "511ia.org | NW - I-80 @ MM 169.8 (14)": {
+    "Location": "Iowa",
+    "Latitude": 41.681387,
+    "Longitude": -92.967777,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/nwtv14lb/playlist.m3u8"
+  },
+  "511ia.org | WL - US 20 @ US 63 (28)": {
+    "Location": "Iowa",
+    "Latitude": 42.458561,
+    "Longitude": -92.404255,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv28lb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-74 @ 7th Ave-IL (38)": {
+    "Location": "Iowa",
+    "Latitude": 41.507181,
+    "Longitude": -90.508295,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv38lb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-80 @ East of Coral Ridge Ave (05)": {
+    "Location": "Iowa",
+    "Latitude": 41.69378,
+    "Longitude": -91.600142,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv05lb/playlist.m3u8"
+  },
+  "511ia.org | CR - I-380 @ 76th Ave (03)": {
+    "Location": "Iowa",
+    "Latitude": 41.906923,
+    "Longitude": -91.672059,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv03lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 52": {
+    "Location": "Iowa",
+    "Latitude": 41.496826,
+    "Longitude": -95.1181,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv052lb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-80 @ US 6 (40)": {
+    "Location": "Iowa",
+    "Latitude": 41.694427,
+    "Longitude": -91.618864,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv40lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-80 @ MM 137.7 (88)": {
+    "Location": "Iowa",
+    "Latitude": 41.65119,
+    "Longitude": -93.57851,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv88lb/playlist.m3u8"
+  },
+  "511ia.org | WWD - IA 141 @ MM 148.8 (40)": {
+    "Location": "Iowa",
+    "Latitude": 41.73971,
+    "Longitude": -93.7756,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/wwd40lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 152": {
+    "Location": "Iowa",
+    "Latitude": 41.681796,
+    "Longitude": -93.299839,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV152lb/playlist.m3u8"
+  },
+  "511ia.org | WL - US 218 @ Sergeant Rd (27)": {
+    "Location": "Iowa",
+    "Latitude": 42.499888,
+    "Longitude": -92.362421,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv27lb/playlist.m3u8"
+  },
+  "511ia.org | CR - US 30 @ IA 100 (22Q)": {
+    "Location": "Iowa",
+    "Latitude": 41.962701,
+    "Longitude": -91.781976,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/crtv22qlb/playlist.m3u8"
+  },
+  "511ia.org | CR - US 30 @ Honey Grove Rd (32)": {
+    "Location": "Iowa",
+    "Latitude": 41.926822,
+    "Longitude": -91.603394,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv32lb/playlist.m3u8"
+  },
+  "511ia.org | DM - IA 141 @ E 1st St (92)": {
+    "Location": "Iowa",
+    "Latitude": 41.688247,
+    "Longitude": -93.774056,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv92lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-235 @ 42nd WDM (72)": {
+    "Location": "Iowa",
+    "Latitude": 41.59201,
+    "Longitude": -93.764627,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv72lb/playlist.m3u8"
+  },
+  "511ia.org | BN - US 30 @ Story St - Quad (01Q)": {
+    "Location": "Iowa",
+    "Latitude": 42.035224,
+    "Longitude": -93.879595,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/bntv01qlb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-80 @ NE Mixmaster (East) (58)": {
+    "Location": "Iowa",
+    "Latitude": 41.653413,
+    "Longitude": -93.568592,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv58lb/playlist.m3u8"
+  },
+  "511ia.org | SC - I-29 @ US 20 - North (07)": {
+    "Location": "Iowa",
+    "Latitude": 42.45115,
+    "Longitude": -96.374495,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv07lb/playlist.m3u8"
+  },
+  "511ia.org | WL - Evansdale water Tower - West (16)": {
+    "Location": "Iowa",
+    "Latitude": 42.461278,
+    "Longitude": -92.260973,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv16lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 155": {
+    "Location": "Iowa",
+    "Latitude": 41.692005,
+    "Longitude": -93.247523,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV155lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - US 20 @ NW Arterial - West Zoom (14)": {
+    "Location": "Iowa",
+    "Latitude": 42.488554,
+    "Longitude": -90.738758,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dqtv14lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 214": {
+    "Location": "Iowa",
+    "Latitude": 41.694128,
+    "Longitude": -92.123938,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV214lb/playlist.m3u8"
+  },
+  "511ia.org | BN - US 30 @ MM 139 (04)": {
+    "Location": "Iowa",
+    "Latitude": 42.027817,
+    "Longitude": -93.793914,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/bntv04lb/playlist.m3u8"
+  },
+  "511ia.org | DM - IA 5 @ IA 28 (34)": {
+    "Location": "Iowa",
+    "Latitude": 41.513965,
+    "Longitude": -93.681772,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv34lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-80 @ 34th Ave (56)": {
+    "Location": "Iowa",
+    "Latitude": 41.661723,
+    "Longitude": -93.503434,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv56lb/playlist.m3u8"
+  },
+  "511ia.org | IC - Kansas Ave @ I-80/380 System IC (33)": {
+    "Location": "Iowa",
+    "Latitude": 41.692582,
+    "Longitude": -91.642794,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv33lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-80 @ McPherson (10)": {
+    "Location": "Iowa",
+    "Latitude": 41.260571,
+    "Longitude": -95.80385,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv10lb/playlist.m3u8"
+  },
+  "511ia.org | SC - I-29 @ IA-SD border (30)": {
+    "Location": "Iowa",
+    "Latitude": 42.495179,
+    "Longitude": -96.475779,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv30lb/playlist.m3u8"
+  },
+  "511ia.org | NW - I-80 @ W. 4th St. (04)": {
+    "Location": "Iowa",
+    "Latitude": 41.683518,
+    "Longitude": -93.058412,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/nwtv04lb/playlist.m3u8"
+  },
+  "511ia.org | AM - I-35 @ MM 109 (20)": {
+    "Location": "Iowa",
+    "Latitude": 41.971583,
+    "Longitude": -93.570898,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv20lb/playlist.m3u8"
+  },
+  "511ia.org | CR - IA 100 @ E Ave NW - MM 1.3 (59)": {
+    "Location": "Iowa",
+    "Latitude": 41.97888,
+    "Longitude": -91.776477,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv59lb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-74 @ 35th Ave-IL (41)": {
+    "Location": "Iowa",
+    "Latitude": 41.4779,
+    "Longitude": -90.493882,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv41lb/playlist.m3u8"
+  },
+  "511ia.org | AM - US 30 @ University Blvd (16)": {
+    "Location": "Iowa",
+    "Latitude": 42.002675,
+    "Longitude": -93.639856,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv16lb/playlist.m3u8"
+  },
+  "511ia.org | DM - US 65 @ Army Post Rd (30)": {
+    "Location": "Iowa",
+    "Latitude": 41.524823,
+    "Longitude": -93.519144,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv30lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-235 @ MM 10.9 (107)": {
+    "Location": "Iowa",
+    "Latitude": 41.609018,
+    "Longitude": -93.578707,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv107lb/playlist.m3u8"
+  },
+  "511ia.org | WL - I-380 @ Evansdale Drive (09)": {
+    "Location": "Iowa",
+    "Latitude": 42.457974,
+    "Longitude": -92.253356,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv09lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29 @ West I-80 Interchange (North) (52)": {
+    "Location": "Iowa",
+    "Latitude": 41.238052,
+    "Longitude": -95.900372,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv52lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29/80 @ E of S 24th St (47)": {
+    "Location": "Iowa",
+    "Latitude": 41.232803,
+    "Longitude": -95.878188,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv47lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-80 @ West I-29 Interchange (02)": {
+    "Location": "Iowa",
+    "Latitude": 41.232818,
+    "Longitude": -95.897184,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv02lb/playlist.m3u8"
+  },
+  "511ia.org | NV - US 30 @ 580th Ave (01)": {
+    "Location": "Iowa",
+    "Latitude": 42.008486,
+    "Longitude": -93.54146,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/nvtv01lb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-74 @ 53rd St (11)": {
+    "Location": "Iowa",
+    "Latitude": 41.574733,
+    "Longitude": -90.522172,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv11lb/playlist.m3u8"
+  },
+  "511ia.org | IC - US 218 @ Melrose (12)": {
+    "Location": "Iowa",
+    "Latitude": 41.657066,
+    "Longitude": -91.598318,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv12lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 40.3": {
+    "Location": "Iowa",
+    "Latitude": 41.497974,
+    "Longitude": -95.336294,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv040lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 65": {
+    "Location": "Iowa",
+    "Latitude": 41.497558,
+    "Longitude": -94.868297,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/80tv065lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 219": {
+    "Location": "Iowa",
+    "Latitude": 41.686628,
+    "Longitude": -92.034876,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV219lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 58": {
+    "Location": "Iowa",
+    "Latitude": 41.49762,
+    "Longitude": -95.003723,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv058lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35 @ McKinley St (79)": {
+    "Location": "Iowa",
+    "Latitude": 41.322681,
+    "Longitude": -93.780428,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv79lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-235 @ 28th St (11)": {
+    "Location": "Iowa",
+    "Latitude": 41.59308,
+    "Longitude": -93.654521,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv11lb/playlist.m3u8"
+  },
+  "511ia.org | QC - US 67 Centennial Bridge - IL (12)": {
+    "Location": "Iowa",
+    "Latitude": 41.511862,
+    "Longitude": -90.579786,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv12lb/playlist.m3u8"
+  },
+  "511ia.org | CB - Avenue G @ 16th Street (41)": {
+    "Location": "Iowa",
+    "Latitude": 41.267889,
+    "Longitude": -95.867622,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv41lb/playlist.m3u8"
+  },
+  "511ia.org | DM - IA 141 @ NW 121st St - ICWS (94)": {
+    "Location": "Iowa",
+    "Latitude": 41.743902,
+    "Longitude": -93.785265,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv94lb/playlist.m3u8"
+  },
+  "511ia.org | CR - I-380 @ Collins Rd- North (17)": {
+    "Location": "Iowa",
+    "Latitude": 42.028292,
+    "Longitude": -91.673271,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv17lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35 @ Co. Rd G50 (80)": {
+    "Location": "Iowa",
+    "Latitude": 41.293538,
+    "Longitude": -93.77947,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv80lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-80 @ East of US 65 (47)": {
+    "Location": "Iowa",
+    "Latitude": 41.662722,
+    "Longitude": -93.478712,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv47lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-235 @ MLK (10)": {
+    "Location": "Iowa",
+    "Latitude": 41.596353,
+    "Longitude": -93.644447,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv10lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29 NB @ MM 55 (29)": {
+    "Location": "Iowa",
+    "Latitude": 41.273961,
+    "Longitude": -95.893968,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv29lb/playlist.m3u8"
+  },
+  "511ia.org | CB - Avenue G @ 8th Street (42)": {
+    "Location": "Iowa",
+    "Latitude": 41.26791,
+    "Longitude": -95.856013,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv42lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - US 20 @ E Mississippi River Bridge - East (25)": {
+    "Location": "Iowa",
+    "Latitude": 42.491733,
+    "Longitude": -90.649352,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dqtv25lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35/80 @ E 14th (24)": {
+    "Location": "Iowa",
+    "Latitude": 41.649792,
+    "Longitude": -93.600168,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv24lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35 @ 1st St in Ankeny (41)": {
+    "Location": "Iowa",
+    "Latitude": 41.732463,
+    "Longitude": -93.576719,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dmtv41lb/playlist.m3u8"
+  },
+  "511ia.org | WL - I-380 @ River Road (08)": {
+    "Location": "Iowa",
+    "Latitude": 42.460506,
+    "Longitude": -92.279105,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv08lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35 @ NE 158 Ave (64)": {
+    "Location": "Iowa",
+    "Latitude": 41.849694,
+    "Longitude": -93.570631,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dmtv64lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-235 @ Euclid (02)": {
+    "Location": "Iowa",
+    "Latitude": 41.627862,
+    "Longitude": -93.575213,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv02lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35/80 @ University (51)": {
+    "Location": "Iowa",
+    "Latitude": 41.600375,
+    "Longitude": -93.776679,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv51lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 66": {
+    "Location": "Iowa",
+    "Latitude": 41.496747,
+    "Longitude": -94.83509,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv066lb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-74 EB Truss (34F)": {
+    "Location": "Iowa",
+    "Latitude": 41.516981,
+    "Longitude": -90.511247,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv34flb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 205": {
+    "Location": "Iowa",
+    "Latitude": 41.696081,
+    "Longitude": -92.300283,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV205lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 96": {
+    "Location": "Iowa",
+    "Latitude": 41.493311,
+    "Longitude": -94.273468,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv096lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35/80 @ Morningstar (43)": {
+    "Location": "Iowa",
+    "Latitude": 41.649985,
+    "Longitude": -93.652568,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv43lb/playlist.m3u8"
+  },
+  "511ia.org | SC - Gordon Dr @ Nebraska (19)": {
+    "Location": "Iowa",
+    "Latitude": 42.489624,
+    "Longitude": -96.403441,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv19lb/playlist.m3u8"
+  },
+  "511ia.org | AM - US 30 @ S Dayton Ave (18)": {
+    "Location": "Iowa",
+    "Latitude": 42.006272,
+    "Longitude": -93.586508,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv18lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - US 61 @ Catfish Creek DMS - South (02)": {
+    "Location": "Iowa",
+    "Latitude": 42.464885,
+    "Longitude": -90.669858,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/DQTV02lb/playlist.m3u8"
+  },
+  "511ia.org | SC - I-29 @ US 20 (06)": {
+    "Location": "Iowa",
+    "Latitude": 42.446988,
+    "Longitude": -96.378293,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv06lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29 @ S of South I-680 Interchange (35)": {
+    "Location": "Iowa",
+    "Latitude": 41.344128,
+    "Longitude": -95.890903,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv35lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 104": {
+    "Location": "Iowa",
+    "Latitude": 41.517361,
+    "Longitude": -94.123225,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv104lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-80 @ Harry Langdon (07)": {
+    "Location": "Iowa",
+    "Latitude": 41.234779,
+    "Longitude": -95.826466,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv07lb/playlist.m3u8"
+  },
+  "511ia.org | CR - IA 100 @ Ellis Rd - MM 2.8 (58)": {
+    "Location": "Iowa",
+    "Latitude": 42.00026,
+    "Longitude": -91.774975,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv58lb/playlist.m3u8"
+  },
+  "511ia.org | AM - I-35 @ E 13th St (09)": {
+    "Location": "Iowa",
+    "Latitude": 42.034328,
+    "Longitude": -93.570231,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv09lb/playlist.m3u8"
+  },
+  "511ia.org | SC - I-29 @ South of Riverside (12)": {
+    "Location": "Iowa",
+    "Latitude": 42.491267,
+    "Longitude": -96.441833,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv12lb/playlist.m3u8"
+  },
+  "511ia.org | IC - US 218 @ South of I-80 (34)": {
+    "Location": "Iowa",
+    "Latitude": 41.686833,
+    "Longitude": -91.634585,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv34lb/playlist.m3u8"
+  },
+  "511ia.org | CR - IA 100 @ Edgewood Rd NE (35Q)": {
+    "Location": "Iowa",
+    "Latitude": 42.029264,
+    "Longitude": -91.701402,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv35qlb/playlist.m3u8"
+  },
+  "511ia.org | DQ - US 20 @ NW Arterial - West (13)": {
+    "Location": "Iowa",
+    "Latitude": 42.488504,
+    "Longitude": -90.738727,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dqtv13lb/playlist.m3u8"
+  },
+  "511ia.org | CR - I-380 @ 32nd St NE (14)": {
+    "Location": "Iowa",
+    "Latitude": 42.012173,
+    "Longitude": -91.66713,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv14lb/playlist.m3u8"
+  },
+  "511ia.org | DM - IA 141 @ SE 19th St (91)": {
+    "Location": "Iowa",
+    "Latitude": 41.673212,
+    "Longitude": -93.774565,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv91lb/playlist.m3u8"
+  },
+  "511ia.org | SC - I-29 @ Floyd (09)": {
+    "Location": "Iowa",
+    "Latitude": 42.488407,
+    "Longitude": -96.397483,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv09lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - US 20 @ SW Arterial Bridge - East (08)": {
+    "Location": "Iowa",
+    "Latitude": 42.475847,
+    "Longitude": -90.763981,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dqtv08lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-80 @ MM 130.5 (101)": {
+    "Location": "Iowa",
+    "Latitude": 41.652942,
+    "Longitude": -93.716865,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dmtv101lb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-74 @ N End of WB Bridge (31)": {
+    "Location": "Iowa",
+    "Latitude": 41.523484,
+    "Longitude": -90.512111,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv31lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29SB @ MM 54.9 (21)": {
+    "Location": "Iowa",
+    "Latitude": 41.273479,
+    "Longitude": -95.896561,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv21lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35 @ IA 5  (36)": {
+    "Location": "Iowa",
+    "Latitude": 41.52257,
+    "Longitude": -93.773074,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv36lb/playlist.m3u8"
+  },
+  "511ia.org | 4.1 - I-80 @ MM 5.1 (IWZ8222)": {
+    "Location": "Iowa",
+    "Latitude": 41.242497,
+    "Longitude": -95.823358,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/iwz8222lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 188": {
+    "Location": "Iowa",
+    "Latitude": 41.696174,
+    "Longitude": -92.629441,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV188lb/playlist.m3u8"
+  },
+  "511ia.org | AM - US 30 @ S Duff Ave (17)": {
+    "Location": "Iowa",
+    "Latitude": 42.004697,
+    "Longitude": -93.610481,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv17lb/playlist.m3u8"
+  },
+  "511ia.org | CR - IA 100 W of Cedar River - MM 5.3 (56)": {
+    "Location": "Iowa",
+    "Latitude": 42.026503,
+    "Longitude": -91.744641,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv56lb/playlist.m3u8"
+  },
+  "511ia.org | CR - IA 13 @ 7th Ave (52)": {
+    "Location": "Iowa",
+    "Latitude": 42.035706,
+    "Longitude": -91.550633,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv52lb/playlist.m3u8"
+  },
+  "511ia.org | WL - I-380 @ N of US 20 (19)": {
+    "Location": "Iowa",
+    "Latitude": 42.460889,
+    "Longitude": -92.313856,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv19lb/playlist.m3u8"
+  },
+  "511ia.org | WL - I-380 @ Gilbertville Road (10)": {
+    "Location": "Iowa",
+    "Latitude": 42.45055,
+    "Longitude": -92.236426,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv10lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-235 @ University (71)": {
+    "Location": "Iowa",
+    "Latitude": 41.600715,
+    "Longitude": -93.584624,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv71lb/playlist.m3u8"
+  },
+  "511ia.org | SC - I-29 @ Floyd River (44)": {
+    "Location": "Iowa",
+    "Latitude": 42.483594,
+    "Longitude": -96.391501,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/sctv44lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35 @ Oralabor (40)": {
+    "Location": "Iowa",
+    "Latitude": 41.702836,
+    "Longitude": -93.5762,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv40lb/playlist.m3u8"
+  },
+  "511ia.org | WWD - I-235 @ MM 10.5 (68)": {
+    "Location": "Iowa",
+    "Latitude": 41.60282,
+    "Longitude": -93.580484,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/wwd68lb/playlist.m3u8"
+  },
+  "511ia.org | IC - US 218 NB Ramp to I-80 (32)": {
+    "Location": "Iowa",
+    "Latitude": 41.692319,
+    "Longitude": -91.634688,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv32lb/playlist.m3u8"
+  },
+  "511ia.org | SC - S Lewis @ Glenn (22)": {
+    "Location": "Iowa",
+    "Latitude": 42.465227,
+    "Longitude": -96.375504,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv22lb/playlist.m3u8"
+  },
+  "511ia.org | DM - IA 415 @ NW 106th Ave (65)": {
+    "Location": "Iowa",
+    "Latitude": 41.752522,
+    "Longitude": -93.75592,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dmtv65lb/playlist.m3u8"
+  },
+  "511ia.org | D1 - I-35 @ MM 140 near Williams (02)": {
+    "Location": "Iowa",
+    "Latitude": 42.411334,
+    "Longitude": -93.568409,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/d1tv02lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-235 @ MM 13.1 (109)": {
+    "Location": "Iowa",
+    "Latitude": 41.635229,
+    "Longitude": -93.575418,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv109lb/playlist.m3u8"
+  },
+  "511ia.org | CR - I-380 @ Wilson Ave SW (07Q)": {
+    "Location": "Iowa",
+    "Latitude": 41.955715,
+    "Longitude": -91.671113,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv07qlb/playlist.m3u8"
+  },
+  "511ia.org | CB I-29 N @ MM 54 (19)": {
+    "Location": "Iowa",
+    "Latitude": 41.265448,
+    "Longitude": -95.908552,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/cbtv19lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-80 E @ MM 5.7 (09)": {
+    "Location": "Iowa",
+    "Latitude": 41.246525,
+    "Longitude": -95.814801,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/cbtv09lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-80/29 @ East of S 24th St (60)": {
+    "Location": "Iowa",
+    "Latitude": 41.231922,
+    "Longitude": -95.870346,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv60lb/playlist.m3u8"
+  },
+  "511ia.org | AM - I-35 @ US 30 (06)": {
+    "Location": "Iowa",
+    "Latitude": 42.007297,
+    "Longitude": -93.571411,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv06lb/playlist.m3u8"
+  },
+  "511ia.org | AM - I-35 @ US 30 (06Q)": {
+    "Location": "Iowa",
+    "Latitude": 42.007297,
+    "Longitude": -93.57141,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/amtv06qlb/playlist.m3u8"
+  },
+  "511ia.org | 1DD - I-80 @ MM 140.2 (IWZ 3173)": {
+    "Location": "Iowa",
+    "Latitude": 41.659028,
+    "Longitude": -93.530426,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/iwz3173lb/playlist.m3u8"
+  },
+  "511ia.org | CR - US 30 @ 80th St SW (60Q)": {
+    "Location": "Iowa",
+    "Latitude": 41.957412,
+    "Longitude": -91.774878,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv60qlb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-74 @ Middle Rd (09)": {
+    "Location": "Iowa",
+    "Latitude": 41.540916,
+    "Longitude": -90.517988,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv09lb/playlist.m3u8"
+  },
+  "511ia.org | DM - IA 141 @ SE 37th St (90)": {
+    "Location": "Iowa",
+    "Latitude": 41.657078,
+    "Longitude": -93.77548,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv90lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29 N @ MM 53.5 (73)": {
+    "Location": "Iowa",
+    "Latitude": 41.258373,
+    "Longitude": -95.906978,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv73lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-235 @ E 21st (04)": {
+    "Location": "Iowa",
+    "Latitude": 41.602878,
+    "Longitude": -93.580533,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv04lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-80 @ West I-29 Interchange (West) (49)": {
+    "Location": "Iowa",
+    "Latitude": 41.231854,
+    "Longitude": -95.900496,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv49lb/playlist.m3u8"
+  },
+  "511ia.org | WL - US 218 @ San Marnan Dr (20)": {
+    "Location": "Iowa",
+    "Latitude": 42.469044,
+    "Longitude": -92.318461,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/wltv20lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29 @ IA 370 (13)": {
+    "Location": "Iowa",
+    "Latitude": 41.149378,
+    "Longitude": -95.822582,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv13lb/playlist.m3u8"
+  },
+  "511ia.org | 1DH - US 69 @ 126th Ave (IWZ 3141)": {
+    "Location": "Iowa",
+    "Latitude": 41.791,
+    "Longitude": -93.6005,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/iwz3141lb/playlist.m3u8"
+  },
+  "511ia.org | CB - I-29 @ IA 192 (23)": {
+    "Location": "Iowa",
+    "Latitude": 41.286278,
+    "Longitude": -95.86627,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/cbtv23lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 114": {
+    "Location": "Iowa",
+    "Latitude": 41.553252,
+    "Longitude": -93.93048,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv114lb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-80 @ Herbert Hoover Hwy (19Q)": {
+    "Location": "Iowa",
+    "Latitude": 41.671944,
+    "Longitude": -91.445006,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/ictv19qlb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-80 @ Visitor Center (60)": {
+    "Location": "Iowa",
+    "Latitude": 41.57095,
+    "Longitude": -90.36033,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/qctv60lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35 @ 1st St in Ankeny QUAD (41Q)": {
+    "Location": "Iowa",
+    "Latitude": 41.732096,
+    "Longitude": -93.576819,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dmtv41qlb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-80 @ Herbert Hoover Hwy (19)": {
+    "Location": "Iowa",
+    "Latitude": 41.671944,
+    "Longitude": -91.445001,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv19lb/playlist.m3u8"
+  },
+  "511ia.org | 4CF - I-80 @ MM 111.5 (IWZ 3174)": {
+    "Location": "Iowa",
+    "Latitude": 41.542663,
+    "Longitude": -93.987185,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/iwz3174lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - US 20 @ Locust St - West Zoom (18)": {
+    "Location": "Iowa",
+    "Latitude": 42.492628,
+    "Longitude": -90.665218,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dqtv18lb/playlist.m3u8"
+  },
+  "511ia.org | NW - I-80 @ MM 174.8 (11)": {
+    "Location": "Iowa",
+    "Latitude": 41.688551,
+    "Longitude": -92.876394,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/nwtv11lb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-280 @ Centennial Expwy - IL (50)": {
+    "Location": "Iowa",
+    "Latitude": 41.4649,
+    "Longitude": -90.61432,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/qctv50lb/playlist.m3u8"
+  },
+  "511ia.org | 4CF - I-80 EB @ MM 111.45 (IWZ 3164)": {
+    "Location": "Iowa",
+    "Latitude": 41.54885,
+    "Longitude": -93.9511,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/iwz3164lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 93": {
+    "Location": "Iowa",
+    "Latitude": 41.492642,
+    "Longitude": -94.318584,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv093lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 200": {
+    "Location": "Iowa",
+    "Latitude": 41.696492,
+    "Longitude": -92.396557,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV200lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 225": {
+    "Location": "Iowa",
+    "Latitude": 41.687643,
+    "Longitude": -91.906137,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV225lb/playlist.m3u8"
+  },
+  "511ia.org | NW - I-80 @ IA 14 (03)": {
+    "Location": "Iowa",
+    "Latitude": 41.683652,
+    "Longitude": -93.077276,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/nwtv03lb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-74 @ I-80 (19)": {
+    "Location": "Iowa",
+    "Latitude": 41.596413,
+    "Longitude": -90.525275,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv19lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 147": {
+    "Location": "Iowa",
+    "Latitude": 41.67982,
+    "Longitude": -93.406338,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV147lb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-74 @ WB Miss River (35)": {
+    "Location": "Iowa",
+    "Latitude": 41.518204,
+    "Longitude": -90.510754,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv35lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-35/80/235 @ NE Mixmaster (01)": {
+    "Location": "Iowa",
+    "Latitude": 41.652389,
+    "Longitude": -93.573797,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv01lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-80 @ Grand Prairie Pkwy (48)": {
+    "Location": "Iowa",
+    "Latitude": 41.569064,
+    "Longitude": -93.853553,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv48lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 83": {
+    "Location": "Iowa",
+    "Latitude": 41.495936,
+    "Longitude": -94.520469,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv083lb/playlist.m3u8"
+  },
+  "511ia.org | NW - I-80 @ W of US 6 (13)": {
+    "Location": "Iowa",
+    "Latitude": 41.682973,
+    "Longitude": -93.081361,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/nwtv13lb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-80 @ Northwest Blvd (17)": {
+    "Location": "Iowa",
+    "Latitude": 41.599639,
+    "Longitude": -90.618498,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv17lb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-80 @ IA 1 (08)": {
+    "Location": "Iowa",
+    "Latitude": 41.686828,
+    "Longitude": -91.499569,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv08lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 197": {
+    "Location": "Iowa",
+    "Latitude": 41.695924,
+    "Longitude": -92.446427,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV197lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 79": {
+    "Location": "Iowa",
+    "Latitude": 41.493215,
+    "Longitude": -94.597491,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/80tv079lb/playlist.m3u8"
+  },
+  "511ia.org | 6EM - US 30 @ MM 298.5 (IWZ 3361)": {
+    "Location": "Iowa",
+    "Latitude": 41.829612,
+    "Longitude": -90.806362,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/iwz3361lb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-74 @ Avenue of the Cities (01)": {
+    "Location": "Iowa",
+    "Latitude": 41.490959,
+    "Longitude": -90.504845,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv01lb/playlist.m3u8"
+  },
+  "511ia.org | CR - US 30 @ Kirkwood Blvd SW (29)": {
+    "Location": "Iowa",
+    "Latitude": 41.926491,
+    "Longitude": -91.656562,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv29lb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-80 @ Co Rd Y48 (15)": {
+    "Location": "Iowa",
+    "Latitude": 41.603449,
+    "Longitude": -90.685652,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv15lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 196": {
+    "Location": "Iowa",
+    "Latitude": 41.695064,
+    "Longitude": -92.465635,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV196lb/playlist.m3u8"
+  },
+  "511ia.org | 6CO - I-80 @ MM 253 (IWZ3190)": {
+    "Location": "Iowa",
+    "Latitude": 41.66827,
+    "Longitude": -91.37802,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/iwz3190lb/playlist.m3u8"
+  },
+  "511ia.org | QC - I-74 @ 11th Ave-IL (39)": {
+    "Location": "Iowa",
+    "Latitude": 41.501957,
+    "Longitude": -90.508201,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/qctv39lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 181": {
+    "Location": "Iowa",
+    "Latitude": 41.694855,
+    "Longitude": -92.767184,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV181lb/playlist.m3u8"
+  },
+  "511ia.org | NW - I-80 @ MM 168.3 (07Q)": {
+    "Location": "Iowa",
+    "Latitude": 41.68272,
+    "Longitude": -93.00017,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/nwtv07qlb/playlist.m3u8"
+  },
+  "511ia.org | CR - US 30 @ 16th Ave SW (22)": {
+    "Location": "Iowa",
+    "Latitude": 41.963126,
+    "Longitude": -91.781595,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv22lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 88": {
+    "Location": "Iowa",
+    "Latitude": 41.495617,
+    "Longitude": -94.414174,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv088lb/playlist.m3u8"
+  },
+  "511ia.org | SC - US 20 @ Gordon (18)": {
+    "Location": "Iowa",
+    "Latitude": 42.475226,
+    "Longitude": -96.323469,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/sctv18lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - US 20 @ Menards Hill - South (10)": {
+    "Location": "Iowa",
+    "Latitude": 42.48356,
+    "Longitude": -90.754429,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dqtv10lb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-80 @ I-380 NB Flyover (38)": {
+    "Location": "Iowa",
+    "Latitude": 41.693479,
+    "Longitude": -91.636813,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/ictv38lb/playlist.m3u8"
+  },
+  "511ia.org | DM - I-80 @ 1st Ave in Altoona (39)": {
+    "Location": "Iowa",
+    "Latitude": 41.667323,
+    "Longitude": -93.46447,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/dmtv39lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - US 20 @ SW Arterial West Ramp Terminal - East (07)": {
+    "Location": "Iowa",
+    "Latitude": 42.475847,
+    "Longitude": -90.764027,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dqtv07lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 186": {
+    "Location": "Iowa",
+    "Latitude": 41.695969,
+    "Longitude": -92.658775,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80TV186lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - US 20 @ Locust St - North (21)": {
+    "Location": "Iowa",
+    "Latitude": 42.491655,
+    "Longitude": -90.664889,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dqtv21lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 106": {
+    "Location": "Iowa",
+    "Latitude": 41.519548,
+    "Longitude": -94.077069,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv106lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 45": {
+    "Location": "Iowa",
+    "Latitude": 41.497754,
+    "Longitude": -95.251175,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv045lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 74": {
+    "Location": "Iowa",
+    "Latitude": 41.497105,
+    "Longitude": -94.688536,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv074lb/playlist.m3u8"
+  },
+  "511ia.org | I-80 @ MM 90": {
+    "Location": "Iowa",
+    "Latitude": 41.495738,
+    "Longitude": -94.375758,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/80tv090lb/playlist.m3u8"
+  },
+  "511ia.org | WWD - I-235 @ MM 8.3 (67)": {
+    "Location": "Iowa",
+    "Latitude": 41.595738,
+    "Longitude": -93.619557,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/wwd67lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - US 20 @ Locust St - West (19)": {
+    "Location": "Iowa",
+    "Latitude": 42.491998,
+    "Longitude": -90.665107,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dqtv19lb/playlist.m3u8"
+  },
+  "511ia.org | CR - US 30 @ W of 6th St SW (27)": {
+    "Location": "Iowa",
+    "Latitude": 41.929825,
+    "Longitude": -91.683914,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/crtv27lb/playlist.m3u8"
+  },
+  "511ia.org | DQ - US 20 @ SW Arterial - EB Exit Ramp - West (09)": {
+    "Location": "Iowa",
+    "Latitude": 42.475848,
+    "Longitude": -90.763982,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/dqtv09lb/playlist.m3u8"
+  },
+  "511ia.org | NW - I-80 @ 52nd St (01)": {
+    "Location": "Iowa",
+    "Latitude": 41.68155,
+    "Longitude": -93.116353,
+    "url": "https://iowadotsfs2.us-east-1.skyvdn.com:443/rtplive/nwtv01lb/playlist.m3u8"
+  },
+  "511ia.org | IC - I-80 @ Black Hawk Ave NW (27)": {
+    "Location": "Iowa",
+    "Latitude": 41.688397,
+    "Longitude": -91.805056,
+    "url": "https://iowadotsfs1.us-east-1.skyvdn.com:443/rtplive/ictv27lb/playlist.m3u8"
+  }
+}
