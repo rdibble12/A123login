@@ -718,7 +718,7 @@
         "longitude": -93.67934
     },
     "Nathan Moore": {
-        "url": "rtmp://rtmp.radaromega.com/live/2b3a57b079ea",
+        "url": "https://video1.cdn.radaromega.com/live/2b3a57b079ea/stream.m3u8",
         "location": "Storm Chaser"
     },
     "511la.org #64 US 165 at Richwood": {
@@ -7480,6 +7480,10 @@
     },
     "Joshua Brinker": {
         "url": "rtmp://ingest.severetv.com/live/max.archer",
+        "location": "Storm Chaser"
+    },
+    "Dan Fitts": {
+        "url": "rtmp://ingest.severetv.com/live/dan.fitts",
         "location": "Storm Chaser"
     },
     "PTZ View | Virtual RailFan Oklahoma City": {
