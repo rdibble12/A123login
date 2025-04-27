@@ -7474,6 +7474,14 @@
         "url": "rtmp://ingest.severetv.com/live/max.archer",
         "location": "Storm Chaser"
     },
+    "John Peterson": {
+        "url": "rtmp://ingest.severetv.com/live/max.archer",
+        "location": "Storm Chaser"
+    },
+    "Joshua Brinker": {
+        "url": "rtmp://ingest.severetv.com/live/max.archer",
+        "location": "Storm Chaser"
+    },
     "PTZ View | Virtual RailFan Oklahoma City": {
         "longitude": -97.515089,
         "latitude": 35.514518,
