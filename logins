@@ -7965,7 +7965,7 @@
         "location": "Storm Chaser"
     },
     "Chelsey Dallmann": {
-        "url": "rtmp://ingest.severetv.com/live/chelsey.dallman",
+        "url": "rtmp://ingest.severetv.com/live/chelsey.dallmann",
         "location": "Storm Chaser"
     },
     "CJ Ziegler": {
@@ -7982,6 +7982,10 @@
     },
     "Reilly Dibble": {
         "url": "rtmp://ingest.severetv.com/live/reilly.dibble",
+        "location": "Storm Chaser"
+    },
+    "Tim Purington": {
+        "url": "rtmp://ingest.severetv.com/live/tim.purington",
         "location": "Storm Chaser"
     },
     "Jaden Pappenheim": {
