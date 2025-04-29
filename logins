@@ -70094,448 +70094,910 @@
         "latitude": 43.114664,
         "longitude": -77.616193
     },
-    "511ny.org | South Ave at Court St": {
-        "location": "New York",
-        "url": "https://s53.nysdot.skyvdn.com:443/rtplive/R4_226/playlist.m3u8",
-        "latitude": 43.153691,
-        "longitude": -77.607583
-    },
-    "10TH ST BYPASS @ I-279": {
-        "location": "Pennsylvania",
-        "latitude": "40.4437",
-        "longitude": "-80.00562",
-        "url": "https://pa-se2.arcadis-ivds.com:8200/chan-3112/index.m3u8"
-    },
-    "26TH ST TUNNEL TO I-76 WEST": {
-        "location": "Pennsylvania",
-        "latitude": "39.92176",
-        "longitude": "-75.190624",
-        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-3383/index.m3u8"
-    },
-    "26TH ST @ PENROSE AVE": {
-        "location": "Pennsylvania",
-        "latitude": "39.90578",
-        "longitude": "-75.194",
-        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-2993/index.m3u8"
-    },
-    "I-76 EB TUNNEL TO 26TH ST": {
-        "location": "Pennsylvania",
-        "latitude": "39.92158",
-        "longitude": "-75.19057",
-        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-4302/index.m3u8"
-    },
-    "17TH ST @ VALLEY VIEW BLVD": {
-        "location": "Pennsylvania",
-        "latitude": "40.49915",
-        "longitude": "-78.39025",
-        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-2501/index.m3u8"
-    },
-    "PA 453 @ PA 45": {
-        "location": "Pennsylvania",
-        "latitude": "40.58516",
-        "longitude": "-78.14583",
-        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-2505/index.m3u8"
-    },
-    "US 22 @ PA 453": {
-        "location": "Pennsylvania",
-        "latitude": "40.57137",
-        "longitude": "-78.13869",
-        "url": "https://pa-se2.arcadis-ivds.com:8200/chan-2506/index.m3u8"
-    },
-    "LOGAN BLVD @ CONVENTION CENTER BLVD": {
-        "location": "Pennsylvania",
-        "latitude": "40.45791",
-        "longitude": "-78.39508",
-        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-2678/index.m3u8"
-    },
-    "CHESTNUT A VENUE @ N 2ND ST": {
-        "location": "Pennsylvania",
-        "latitude": "40.5333",
-        "longitude": "-78.38608",
-        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-2891/index.m3u8"
-    },
-    "17TH ST @ 6TH AVE": {
-        "location": "Pennsylvania",
-        "latitude": "40.5081",
-        "longitude": "-78.39988",
-        "url": "https://pa-se2.arcadis-ivds.com:8200/chan-3076/index.m3u8"
-    },
-    "PLANK RD @ LOGAN BLVD": {
-        "location": "Pennsylvania",
-        "latitude": "40.47819",
-        "longitude": "-78.40377",
-        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-3077/index.m3u8"
-    },
-    "PLANK RD @ CONVENTION CENTER BLVD": {
-        "location": "Pennsylvania",
-        "latitude": "40.45226",
-        "longitude": "-78.4093",
-        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-3260/index.m3u8"
-    },
-    "CHESTNUT AVE @ JUNIATA GAP RD": {
-        "location": "Pennsylvania",
-        "latitude": "40.52934",
-        "longitude": "-78.38911",
-        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-3261/index.m3u8"
-    },
-    "PA 764 @ LOGAN BLVD": {
-        "location": "Pennsylvania",
-        "latitude": "40.49027",
-        "longitude": "-78.41366",
-        "url": "https://pa-se2.arcadis-ivds.com:8200/chan-3262/index.m3u8"
-    },
-    "CHESTNUT AVE @ 4TH ST": {
-        "location": "Pennsylvania",
-        "latitude": "40.52227",
-        "longitude": "-78.39484",
-        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-3453/index.m3u8"
-    },
-    "6TH AVE @ 8TH ST": {
-        "location": "Pennsylvania",
-        "latitude": "40.51627",
-        "longitude": "-78.39277",
-        "url": "https://pa-se2.arcadis-ivds.com:8200/chan-3454/index.m3u8"
-    },
-    "7TH AVE @ 7TH ST": {
-        "location": "Pennsylvania",
-        "latitude": "40.51727",
-        "longitude": "-78.39319",
-        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-4021/index.m3u8"
-    },
-    "CHESTNUT AVE @ 8TH ST": {
-        "location": "Pennsylvania",
-        "latitude": "40.51891",
-        "longitude": "-78.39735",
-        "url": "https://pa-se2.arcadis-ivds.com:8200/chan-4097/index.m3u8"
-    },
-    "17TH ST @ MARGARET AVE": {
-        "location": "Pennsylvania",
-        "latitude": "40.51162",
-        "longitude": "-78.40526",
-        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-4196/index.m3u8"
-    },
-    "PLANK RD @ JUNIATA ST": {
-        "location": "Pennsylvania",
-        "latitude": "40.437745",
-        "longitude": "-78.412458",
-        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-4204/index.m3u8"
-    },
-    "CONVENTION CENTER BLVD @ CONVENTION CENTER DR": {
-        "location": "Pennsylvania",
-        "latitude": "40.45418",
-        "longitude": "-78.40343",
-        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-4318/index.m3u8"
-    },
-    "HARBINSON AVE @ SANGER ST": {
-        "location": "Pennsylvania",
-        "latitude": "40.01684",
-        "longitude": "-75.06683",
-        "url": "https://pa-se2.arcadis-ivds.com:8200/chan-2818/index.m3u8"
-    },
-    "E GIRADE AVE @ ARAMINGO AVE": {
-        "location": "Pennsylvania",
-        "latitude": "39.97332",
-        "longitude": "-75.12287",
-        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-3399/index.m3u8"
-    },
-    "ARAMINGO AVE @ TACONY ST": {
-        "location": "Pennsylvania",
-        "latitude": "40.008053",
-        "longitude": "-75.072407",
-        "url": "https://pa-se2.arcadis-ivds.com:8200/chan-4152/index.m3u8"
-    },
-    "ATHERTON ST @ ROLLING RIDGE DRIVE": {
-        "location": "Pennsylvania",
-        "latitude": "40.784483",
-        "longitude": "-77.827288",
-        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-4225/index.m3u8"
-    },
-    "ATHERTON ST @ VAIRO BLVD": {
-        "location": "Pennsylvania",
-        "latitude": "40.808",
-        "longitude": "-77.8951",
-        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-2570/index.m3u8"
-    },
-    "ATHERTON ST @ PARK AVE": {
-        "location": "Pennsylvania",
-        "latitude": "40.7966",
-        "longitude": "-77.8724",
-        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-2571/index.m3u8"
-    },
-    "ATHERTON ST @ COLONNADE BLVD": {
-        "location": "Pennsylvania",
-        "latitude": "40.8094",
-        "longitude": "-77.9079",
-        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-2771/index.m3u8"
-    },
-    "ATHERTON ST @ WEST BEAVER AVE": {
-        "location": "Pennsylvania",
-        "latitude": "40.7909",
-        "longitude": "-77.8638",
-        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-3347/index.m3u8"
-    },
-    "ATHERTON ST @ WEST COLLEGE AVE": {
-        "location": "Pennsylvania",
-        "latitude": "40.7918",
-        "longitude": "-77.8652",
-        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-3955/index.m3u8"
-    },
-    "BAYFRONT PARKWAY @ EXIT 183A (PA 5/PA 290 EAST 12TH ST)": {
-        "location": "Pennsylvania",
-        "latitude": "42.10901",
-        "longitude": "-80.12263",
-        "url": "https://pa-se2.arcadis-ivds.com:8200/chan-2950/index.m3u8"
-    },
-    "BAYFRONT PARKWAY @ EXIT 183B (PA 5 WEST 12TH ST)": {
-        "location": "Pennsylvania",
-        "latitude": "42.1108",
-        "longitude": "-80.12017",
-        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-3953/index.m3u8"
-    },
-    "S COLUMBUS BLVD @ E OREGON AVE": {
-        "location": "Pennsylvania",
-        "latitude": "39.9123",
-        "longitude": "-75.138",
-        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-2858/index.m3u8"
-    },
-    "S COLUMBUS BLVD @ E SNYDER AVE": {
-        "location": "Pennsylvania",
-        "latitude": "39.9208",
-        "longitude": "-75.1411",
-        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-4311/index.m3u8"
-    },
-    "N COLUMBUS BLVD @ RACE ST": {
-        "location": "Pennsylvania",
-        "latitude": "39.9534",
-        "longitude": "-75.1397",
-        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-3968/index.m3u8"
-    },
-    "DELAWARE AVE @ LEWIS ST": {
-        "location": "Pennsylvania",
-        "latitude": "39.986627",
-        "longitude": "-75.075853",
-        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-4386/index.m3u8"
-    },
-    "DELAWARE AVE @ SPRING GARDEN ST": {
-        "location": "Pennsylvania",
-        "latitude": "39.9603",
-        "longitude": "-75.1374",
-        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-3389/index.m3u8"
-    },
-    "N DELAWARE AVE @ E COLUMBIA AVE": {
-        "location": "Pennsylvania",
-        "latitude": "39.96727",
-        "longitude": "-75.1288",
-        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-3023/index.m3u8"
-    },
-    "US-202 BUS. (BUTLER AVE) @ BRISTOL RD": {
-        "location": "Pennsylvania",
-        "latitude": "40.28423",
-        "longitude": "-75.20987",
-        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-2804/index.m3u8"
-    },
-    "US-202 BUS. (BUTLER AVE) @ PA-152 (LIMEKILN PK)": {
-        "location": "Pennsylvania",
-        "latitude": "40.26561",
-        "longitude": "-75.22836",
-        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-3977/index.m3u8"
-    },
-    "S FRONT ST @ PACKER AVE": {
-        "location": "Pennsylvania",
-        "latitude": "39.9072",
-        "longitude": "-75.151",
-        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-3425/index.m3u8"
-    },
-    "S FRONT ST @ OREGON AVE": {
-        "location": "Pennsylvania",
-        "latitude": "39.9139",
-        "longitude": "-75.1502",
-        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-2835/index.m3u8"
-    },
-    "GIRARD AVE @ FRANKFORD AVE": {
-        "location": "Pennsylvania",
-        "latitude": "39.968936",
-        "longitude": "-75.134539",
-        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-2453/index.m3u8"
-    },
-    "GIRARD AVE @ PALMER ST": {
-        "location": "Pennsylvania",
-        "latitude": "39.970982",
-        "longitude": "-75.12858",
-        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-4310/index.m3u8"
-    },
-    "I-176 @ EXIT 1 (PA TPK/PA 10)": {
-        "location": "Pennsylvania",
-        "latitude": "40.1645",
-        "longitude": "-75.8837",
-        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-4323/index.m3u8"
-    },
-    "I-176 @ EXIT 11 (US 422)": {
-        "location": "Pennsylvania",
-        "latitude": "40.307",
-        "longitude": "-75.8983",
-        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-3335/index.m3u8"
-    },
-    "I-180 @ EXIT 29 (US 15 NORTH MANSFIELD)": {
-        "location": "Pennsylvania",
-        "latitude": "41.23192",
-        "longitude": "-77.04155",
-        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-2960/index.m3u8"
-    },
-    "I-279 @ MM 0.2 (I-376 INTERCHANGE)": {
-        "location": "Pennsylvania",
-        "latitude": "40.44216",
-        "longitude": "-80.00872",
-        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-4350/index.m3u8"
-    },
-    "I-279 @ MM 0.3 (FT DUQUESNE BLVD)": {
-        "location": "Pennsylvania",
-        "latitude": "40.44332",
-        "longitude": "-80.00902",
-        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-4029/index.m3u8"
-    },
-    "I-279 @ MM 0.4 (PA 65 INTERCHANGE)": {
-        "location": "Pennsylvania",
-        "latitude": "40.44552",
-        "longitude": "-80.0097",
-        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-4354/index.m3u8"
-    },
-    "I-279 @ MM 0.67 EAST LACOCK ST)": {
-        "location": "Pennsylvania",
-        "latitude": "40.44876",
-        "longitude": "-80.00686",
-        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-3278/index.m3u8"
-    },
-    "I-279 @ EXIT 1D (PA 28 NORTH CHESTNUT ST/EAST OHIO ST/ETNA)": {
-        "location": "Pennsylvania",
-        "latitude": "40.44983",
-        "longitude": "-79.99965",
-        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-4027/index.m3u8"
-    },
-    "I-279 @ MM 1.2 (PA 28)": {
-        "location": "Pennsylvania",
-        "latitude": "40.45259",
-        "longitude": "-79.99669",
-        "url": "https://pa-se2.arcadis-ivds.com:8200/chan-4135/index.m3u8"
-    },
-    "I-279 @ EXIT 2B (EAST OHIO ST)": {
-        "location": "Pennsylvania",
-        "latitude": "40.46084",
-        "longitude": "-79.99919",
-        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-2717/index.m3u8"
-    },
-    "I-279 @ EXIT 3 (HAZLETT ST)": {
-        "location": "Pennsylvania",
-        "latitude": "40.47393",
-        "longitude": "-80.00556",
-        "url": "https://pa-se2.arcadis-ivds.com:8200/chan-4128/index.m3u8"
-    },
-    "I-279 @ MM 3.6 (EAST ST)": {
-        "location": "Pennsylvania",
-        "latitude": "40.48296",
-        "longitude": "-80.0074",
-        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-3491/index.m3u8"
-    },
-    "I-279 NB @ EXIT 4 (MCKNIGHT RD)": {
-        "location": "Pennsylvania",
-        "latitude": "40.49377",
-        "longitude": "-80.01123",
-        "url": "https://pa-se2.arcadis-ivds.com:8200/chan-4061/index.m3u8"
-    },
-    "I-279 @ MM 4.5 (MCKNIGHT RD)": {
-        "location": "Pennsylvania",
-        "latitude": "40.49529",
-        "longitude": "-80.01333",
-        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-3314/index.m3u8"
-    },
-    "I-279 @ EXIT 5 (US 19 PERRYSVILLE AVNUE)": {
-        "location": "Pennsylvania",
-        "latitude": "40.5002",
-        "longitude": "-80.0238",
-        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-2720/index.m3u8"
-    },
-    "I-279 @ MM 5.5 (SR 6279 SB ON-RAMP - HOV))": {
-        "location": "Pennsylvania",
-        "latitude": "40.50402",
-        "longitude": "-80.02852",
-        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-3315/index.m3u8"
-    },
-    "I-279 @ MM 0.5 (HOV - PARK-N-RIDE)": {
-        "location": "Pennsylvania",
-        "latitude": "40.50712",
-        "longitude": "-80.03122",
-        "url": "https://pa-se2.arcadis-ivds.com:8200/chan-3136/index.m3u8"
-    },
-    "I-279 @ MM 6 (JACKS RUN RD)": {
-        "location": "Pennsylvania",
-        "latitude": "40.50708",
-        "longitude": "-80.03493",
-        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-4235/index.m3u8"
-    },
-    "I-279 @ MM 6.5 ( BELLEVUE RD)": {
-        "location": "Pennsylvania",
-        "latitude": "40.50774",
-        "longitude": "-80.04465",
-        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-4355/index.m3u8"
-    },
-    "I-279 @ EXIT 7 (BELLEVUE/WEST VIEW)": {
-        "location": "Pennsylvania",
-        "latitude": "40.51396",
-        "longitude": "-80.05205",
-        "url": "https://pa-se2.arcadis-ivds.com:8200/chan-3316/index.m3u8"
-    },
-    "I-279 @ MM 7.4 (UNION AVE)": {
-        "location": "Pennsylvania",
-        "latitude": "40.51909",
-        "longitude": "-80.05442",
-        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-3459/index.m3u8"
-    },
-    "I-279 @ MM 7.9 (GASS RD)": {
-        "location": "Pennsylvania",
-        "latitude": "40.52",
-        "longitude": "-80.06309",
-        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-4034/index.m3u8"
-    },
-    "I-279 @ EXIT 8 (CAMP HORNE RD)": {
-        "location": "Pennsylvania",
-        "latitude": "40.52441",
-        "longitude": "-80.07018",
-        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-4276/index.m3u8"
-    },
-    "I-279 @ MM 9.4 (WEISS LANE)": {
-        "location": "Pennsylvania",
-        "latitude": "40.53863",
-        "longitude": "-80.07965",
-        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-3464/index.m3u8"
-    },
-    "I-279 @ MM 10.3 (MT NEBO RD)": {
-        "location": "Pennsylvania",
-        "latitude": "40.55053",
-        "longitude": "-80.08662",
-        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-4208/index.m3u8"
-    },
-    "I-279 @ MM 11.6 (MONTOGOMERY RD)": {
-        "location": "Pennsylvania",
-        "latitude": "40.56572",
-        "longitude": "-80.09003",
-        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-2703/index.m3u8"
-    },
-    "I-279 @ MM 12.3 (MCALEER RD)": {
-        "location": "Pennsylvania",
-        "latitude": "40.57537",
-        "longitude": "-80.09317",
-        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-2696/index.m3u8"
-    },
-    "I-279 @ I-79 NB": {
-        "location": "Pennsylvania",
-        "latitude": "40.58646",
-        "longitude": "-80.09952",
-        "url": "https://pa-se2.arcadis-ivds.com:8200/chan-4060/index.m3u8"
-    },
-    "I-283 @ EXIT 1A (PA 283 EAST HARRISBURG INTERNATIONAL AIRPORT/LANCASTER)": {
-        "location": "Pennsylvania",
-        "latitude": "40.21944",
-        "longitude": "-76.78729",
-        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-2669/index.m3u8"
+    "kandrive.gov | I-70 east of Wakeeney MM 129": {
+        "location": "Kansas",
+        "latitude": 39.00877,
+        "longitude": -99.85894,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/3-070-1290-2-I-70eastofWakeeneyMM129.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-235 at Meridian S": {
+        "location": "Kansas",
+        "latitude": 37.6288,
+        "longitude": -97.3712,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-235-0029-2-I-235atMeridianS.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-54 at I-235": {
+        "location": "Kansas",
+        "latitude": 37.67359,
+        "longitude": -97.40151,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-054-2123-2-US-54atI-235.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-135 at Harry": {
+        "location": "Kansas",
+        "latitude": 37.66471,
+        "longitude": -97.31202,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-135-0050-2-I-135atHarry.stream/playlist.m3u8"
+    },
+    "kandrive.gov | K-15 & MIXING YARD (55th Street)": {
+        "location": "Kansas",
+        "latitude": 37.59581,
+        "longitude": -97.2869,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-015-0713-2-K-15&MIXINGYARD.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-54 at Topeka": {
+        "location": "Kansas",
+        "latitude": 37.67888,
+        "longitude": -97.33412,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-054-2159-2-US-54atTopeka.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-70 at Mingo Exit 62 ": {
+        "location": "Kansas",
+        "latitude": 39.27827,
+        "longitude": -100.94138,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/3-070-0620-2-I-70atMingoexit62.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-135 at 61st": {
+        "location": "Kansas",
+        "latitude": 37.7956,
+        "longitude": -97.3288,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-135-0142-2-I-135at61st.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-70 at Solomon Exit 266": {
+        "location": "Kansas",
+        "latitude": 38.92927,
+        "longitude": -97.37161,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/2-070-2660-2-I-70atSolomonexit266.stream/playlist.m3u8"
+    },
+    "kandrive.gov | K-254 E of Hydraulic Ave": {
+        "location": "Kansas",
+        "latitude": 37.76624,
+        "longitude": -97.31374,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-254-0006-2K-254EofHydraulicAve.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-70 at Alma Exit 328": {
+        "location": "Kansas",
+        "latitude": 39.06598,
+        "longitude": -96.28878,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/1-070-3280-2-I-70atAlmaexit328.stream/playlist.m3u8"
+    },
+    "kandrive.gov | K-15 & MEADOWLARK RD. / 71ST ST.": {
+        "location": "Kansas",
+        "latitude": 37.5626,
+        "longitude": -97.2765,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-015-0690-2-K-15&MEADOWLARKRD.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-54 at Webb Rd": {
+        "location": "Kansas",
+        "latitude": 37.67935,
+        "longitude": -97.2213,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-054-2221-2-US-54atWebbRd.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-70 east of Wanamaker": {
+        "location": "Kansas",
+        "latitude": 39.05443,
+        "longitude": -95.75312,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/1-070-3560-2-I-70eastofWanamaker.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-54 at Airport W": {
+        "location": "Kansas",
+        "latitude": 37.6742,
+        "longitude": -97.42893,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-054-2107-2-US-54atMid-ContinentW.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-70 at Wilson Exit 206": {
+        "location": "Kansas",
+        "latitude": 38.84932,
+        "longitude": -98.4677,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/2-070-2060-2-I-70atWilsonExit206.stream/playlist.m3u8"
+    },
+    "kandrive.gov | DMS_US-54 at Pratt WB": {
+        "location": "Kansas",
+        "latitude": 37.6426,
+        "longitude": -98.79832,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/5-054-1350-2-US-54atPrattWBCCTV.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-70 at Ellis Exit 146": {
+        "location": "Kansas",
+        "latitude": 38.95001,
+        "longitude": -99.55979,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/3-070-1460-2-I-70atEllisExit146.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-54 at I-135 W": {
+        "location": "Kansas",
+        "latitude": 37.67905,
+        "longitude": -97.3169,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-054-2168-2-US-54atI-135W.stream/playlist.m3u8"
+    },
+    "kandrive.gov | K-96 at Central": {
+        "location": "Kansas",
+        "latitude": 37.6938,
+        "longitude": -97.1872,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-096-3000-2-K-96atCentral.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-135 at 2nd": {
+        "location": "Kansas",
+        "latitude": 37.69009,
+        "longitude": -97.3139,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-135-0068-2-I-135at2nd.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-235 at Broadway S": {
+        "location": "Kansas",
+        "latitude": 37.61665,
+        "longitude": -97.33371,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-235-0004-2-I-235atS.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-54 at Tyler": {
+        "location": "Kansas",
+        "latitude": 37.67032,
+        "longitude": -97.44605,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-054-2097-2-US-54atTyler.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-54 at Zelta": {
+        "location": "Kansas",
+        "latitude": 37.67952,
+        "longitude": -97.19711,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-054-2233-2-US-54atZelta.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-70 at Manhattan Exit 313": {
+        "location": "Kansas",
+        "latitude": 39.06301,
+        "longitude": -96.53811,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/1-070-3130-2-I-70atManhattanexit313.stream/playlist.m3u8"
+    },
+    "kandrive.gov | K-15 & MADISON AVE.": {
+        "location": "Kansas",
+        "latitude": 37.548,
+        "longitude": -97.2703,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-015-0679-2-K-15atMadison.stream/playlist.m3u8"
+    },
+    "kandrive.gov | K-254 at 45th & Hillside Tower": {
+        "location": "Kansas",
+        "latitude": 37.76845,
+        "longitude": -97.29753,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-254-0010-C-45th&HillsideTower.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-70 near Auburn Road Exit 353": {
+        "location": "Kansas",
+        "latitude": 39.05078,
+        "longitude": -95.80801,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/1-070-3530-2-I-70nearAuburnRoadexit.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-135 at Central": {
+        "location": "Kansas",
+        "latitude": 37.69411,
+        "longitude": -97.31604,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-135-0072-2-I-135atCentral.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-135 at 29th": {
+        "location": "Kansas",
+        "latitude": 37.73524,
+        "longitude": -97.31689,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-135-0100-2-I-135at29th.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-70 at Junction City (Henry Dr.) Exit 301": {
+        "location": "Kansas",
+        "latitude": 39.03977,
+        "longitude": -96.76595,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/2-070-3010-2-I-70atJunctionCityExit301.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-70 east of Goodland MM 22": {
+        "location": "Kansas",
+        "latitude": 39.33012,
+        "longitude": -101.6305,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/3-070-0220-2-I-70eastofGoodland.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-70 at Walker Exit 172": {
+        "location": "Kansas",
+        "latitude": 38.86281,
+        "longitude": -99.07658,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/3-070-1720-2-I-70atWalkerexit172.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-70 east of Walker": {
+        "location": "Kansas",
+        "latitude": 38.86671,
+        "longitude": -99.04827,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/1-070-1740-2-I-70EastofWalker.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-135 at US-50 MM 30": {
+        "location": "Kansas",
+        "latitude": 38.02603,
+        "longitude": -97.32888,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/5-135-0300-2-I-135atUS-50SBMM30.stream/playlist.m3u8"
+    },
+    "kandrive.gov | K-96 at Hydraulic": {
+        "location": "Kansas",
+        "latitude": 37.74389,
+        "longitude": -97.3078,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-096-2910-2-K-96atHydraulic.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-54 at I-135 E": {
+        "location": "Kansas",
+        "latitude": 37.67929,
+        "longitude": -97.31157,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-054-2170-2-US-54atI-135E.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-70 east of Kanorado MM 5": {
+        "location": "Kansas",
+        "latitude": 39.32877,
+        "longitude": -101.94069,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/3-070-0050-2-I-70eastofKanorado.stream/playlist.m3u8"
+    },
+    "kandrive.gov | K-96 at Meridian": {
+        "location": "Kansas",
+        "latitude": 37.7582,
+        "longitude": -97.37,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-096-2852-2-K-96atMeridian.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-235 at Central S": {
+        "location": "Kansas",
+        "latitude": 37.6903,
+        "longitude": -97.4096,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-235-0083-2-I-235atCentralS.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-54 at West St": {
+        "location": "Kansas",
+        "latitude": 37.67336,
+        "longitude": -97.38828,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-054-2129-2-US-54atWestSt.stream/playlist.m3u8"
+    },
+    "kandrive.gov | DMS_US-50 at Newton EB": {
+        "location": "Kansas",
+        "latitude": 38.02828,
+        "longitude": -97.43796,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-050-2670-2-US-50atNewtonEBCCTV.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-135 at 21st": {
+        "location": "Kansas",
+        "latitude": 37.7229,
+        "longitude": -97.31837,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-135-0090-2-I-135at21st.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-70 at US- 77 Tower W": {
+        "location": "Kansas",
+        "latitude": 38.99713,
+        "longitude": -96.8577,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/2-070-2951-2-I-70atUS-77TowerW.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-135 at 9th": {
+        "location": "Kansas",
+        "latitude": 37.70076,
+        "longitude": -97.31725,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-135-0076-2-I-135at9th.stream/playlist.m3u8"
+    },
+    "kandrive.gov | DMS_US-50 at Garden City EB": {
+        "location": "Kansas",
+        "latitude": 38.00354,
+        "longitude": -100.84497,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/6-050-0680-2-US-50atGardenCityEBCCTV.stream/playlist.m3u8"
+    },
+    "kandrive.gov | K-96 WO Greenwich": {
+        "location": "Kansas",
+        "latitude": 37.73069,
+        "longitude": -97.21744,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-096-2966-2-K-96WestofGreenwich.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-235 at K-42": {
+        "location": "Kansas",
+        "latitude": 37.64699,
+        "longitude": -97.39897,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-235-0052-2-I-235atK-42.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-235 at EO Broadway N": {
+        "location": "Kansas",
+        "latitude": 37.75898,
+        "longitude": -97.32985,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-235-0161-2-I-235EOBroadwayN.stream/playlist.m3u8"
+    },
+    "kandrive.gov | K-15 & 47TH ST.": {
+        "location": "Kansas",
+        "latitude": 37.60605,
+        "longitude": -97.29126,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-015-0721-2-K-15&47THST.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-70 at Abilene Exit 275": {
+        "location": "Kansas",
+        "latitude": 38.94037,
+        "longitude": -97.21435,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/2-070-2750-2-I-70atAbileneExit275.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-83/US-160/K-144 Jct. ": {
+        "location": "Kansas",
+        "latitude": 37.56132,
+        "longitude": -100.8688,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/789-0034-US-144_160atUS-83.stream/playlist.m3u8"
+    },
+    "kandrive.gov | K-96 at West": {
+        "location": "Kansas",
+        "latitude": 37.75365,
+        "longitude": -97.38252,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-096-2844-2-K-96atWestSt.stream/playlist.m3u8"
+    },
+    "kandrive.gov | K-254 W of 53rd": {
+        "location": "Kansas",
+        "latitude": 37.78018,
+        "longitude": -97.28981,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/5-254-0025-2K-254Wof53rd.stream/playlist.m3u8"
+    },
+    "kandrive.gov | K-15 & MACARTHUR RD.": {
+        "location": "Kansas",
+        "latitude": 37.62013,
+        "longitude": -97.29454,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-015-0731-2-K-15&MACARTHURRD.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-70 at Hays Exit 159": {
+        "location": "Kansas",
+        "latitude": 38.8985,
+        "longitude": -99.31751,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/3-070-1590-2-I-70atHaysexit159.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-135 north of McPherson": {
+        "location": "Kansas",
+        "latitude": 38.42097,
+        "longitude": -97.62115,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/2-135-0640-2-I-135northofMcPherson.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-135 N of 45th St": {
+        "location": "Kansas",
+        "latitude": 37.77346,
+        "longitude": -97.32651,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/5-135-0125-2I-135Nof45thSt.stream/playlist.m3u8"
+    },
+    "kandrive.gov | DMS_US-54 at Meade EB": {
+        "location": "Kansas",
+        "latitude": 37.28532,
+        "longitude": -100.37041,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/6-054-0420-2-US-54atMeadeEBCCTV.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-135 at 13th": {
+        "location": "Kansas",
+        "latitude": 37.70783,
+        "longitude": -97.32037,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-135-0080-2-I-135at13th.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-135 at 11th": {
+        "location": "Kansas",
+        "latitude": 37.70434,
+        "longitude": -97.31833,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-135-0078-2-I-135at11th.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-54 at Sycamore": {
+        "location": "Kansas",
+        "latitude": 37.67748,
+        "longitude": -97.34786,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-054-2151-2-US-54atSycamore.stream/playlist.m3u8"
+    },
+    "kandrive.gov | K-96 at 13th": {
+        "location": "Kansas",
+        "latitude": 37.70833,
+        "longitude": -97.20121,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-096-2988-2-K-96at13th.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-135 at Hydraulic S": {
+        "location": "Kansas",
+        "latitude": 37.62908,
+        "longitude": -97.31656,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-135-0026-2-I-135atHydraulicS.stream/playlist.m3u8"
+    },
+    "kandrive.gov | K-96 at Oliver": {
+        "location": "Kansas",
+        "latitude": 37.74578,
+        "longitude": -97.28101,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-096-2926-2-K-96atOliver.stream/playlist.m3u8"
+    },
+    "kandrive.gov | DMS_I-70 at Milford Exit 291": {
+        "location": "Kansas",
+        "latitude": 38.99873,
+        "longitude": -96.93418,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/2-070-2910-C-DMS_I-70atMilfordExit291.stream/playlist.m3u8"
+    },
+    "kandrive.gov | K-15 & PATRIOT AVE. / 63RD ST.": {
+        "location": "Kansas",
+        "latitude": 37.5772,
+        "longitude": -97.27997,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-015-0700-2-K-15&PATRIOTAVE.stream/playlist.m3u8"
+    },
+    "kandrive.gov | DMS_US-54 at Greensburg WB": {
+        "location": "Kansas",
+        "latitude": 37.60619,
+        "longitude": -99.32513,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/5-054-1060-2-US-54atGreensburgEBCCTV.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-70 at US-77 Tower E": {
+        "location": "Kansas",
+        "latitude": 38.99804,
+        "longitude": -96.85654,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/2-070-2950-2-I-70atUS-77TowerE.stream/playlist.m3u8"
+    },
+    "kandrive.gov | K-96 North of US-54 N": {
+        "location": "Kansas",
+        "latitude": 37.6821,
+        "longitude": -97.1858,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-096-3008-2-K-96NorthofUS-54N.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-54 at Eastern": {
+        "location": "Kansas",
+        "latitude": 37.67959,
+        "longitude": -97.23591,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-054-2213-2-US-54atEastern.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-54 at US-400 (Mullinville) WB MM 157": {
+        "location": "Kansas",
+        "latitude": 37.58579,
+        "longitude": -99.45233,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-054-1570-2-US-54atUS-400WBMM157.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-35 at Emporia MM 135": {
+        "location": "Kansas",
+        "latitude": 38.41064,
+        "longitude": -96.09511,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/4-035-1350-2-I-35EastofEmporiaMM135.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-70 at Grainfield Exit 93": {
+        "location": "Kansas",
+        "latitude": 39.11006,
+        "longitude": -100.47916,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/3-070-0940-2-I-70atGrainfieldExit94.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-54 south of Liberal": {
+        "location": "Kansas",
+        "latitude": 36.99825,
+        "longitude": -100.99569,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/6-054-0010-2-US-54southofLiberal.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-135 at I-235 N": {
+        "location": "Kansas",
+        "latitude": 37.76449,
+        "longitude": -97.32243,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-135-0121-2-I-135atI-235N.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-70 at Wakeeney Exit 127": {
+        "location": "Kansas",
+        "latitude": 39.01482,
+        "longitude": -99.88988,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/3-070-1270-2-I-70atWakeeneyexit127.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-54 at Washington": {
+        "location": "Kansas",
+        "latitude": 37.67902,
+        "longitude": -97.32601,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-054-2164-2-US-54atWashington.stream/playlist.m3u8"
+    },
+    "kandrive.gov | K-96 at Woodlawn": {
+        "location": "Kansas",
+        "latitude": 37.74569,
+        "longitude": -97.25318,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-096-2942-2-K-96atWoodlawn.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-135 NO I-235 N": {
+        "location": "Kansas",
+        "latitude": 37.76403,
+        "longitude": -97.32213,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-135-0120-2-I-135NOI-235N.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-54 at Greenwich": {
+        "location": "Kansas",
+        "latitude": 37.67938,
+        "longitude": -97.20873,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-054-2228-2-US-54atGreenwich.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-70 at Oakley Exit 76": {
+        "location": "Kansas",
+        "latitude": 39.11974,
+        "longitude": -100.80799,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/3-070-0760-2-I-70atOakleyexit76.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-70 at Chapman Exit 286": {
+        "location": "Kansas",
+        "latitude": 38.9901,
+        "longitude": -97.0244,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/2-070-2860-2-I-70atChapmanexit286.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-54 at Edgemoor": {
+        "location": "Kansas",
+        "latitude": 37.6797,
+        "longitude": -97.27398,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-054-2192-2-US-54atEdgemoor.stream/playlist.m3u8"
+    },
+    "kandrive.gov | K-254 W of Webb": {
+        "location": "Kansas",
+        "latitude": 37.79673,
+        "longitude": -97.22965,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/5-254-0062-2K-254WofWebbRoad.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-135 at K-15": {
+        "location": "Kansas",
+        "latitude": 37.63857,
+        "longitude": -97.30843,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-135-0032-2-I-135atK-15.stream/playlist.m3u8"
+    },
+    "kandrive.gov | DMS_US-50 at Hutchinson EB": {
+        "location": "Kansas",
+        "latitude": 38.0108,
+        "longitude": -98.00681,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/5-050-2360-2-US-50atHutchinsonEBCCTV.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-54 at Seneca ": {
+        "location": "Kansas",
+        "latitude": 37.67651,
+        "longitude": -97.35991,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-054-2144-2-US-54atSeneca.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-235 at 21st": {
+        "location": "Kansas",
+        "latitude": 37.7236,
+        "longitude": -97.3888,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-235-0110-2-I-235at21st.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-54 at SW Blvd": {
+        "location": "Kansas",
+        "latitude": 37.67468,
+        "longitude": -97.37419,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-054-2136-2-US-54atSWBlvd.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-235 at K-96": {
+        "location": "Kansas",
+        "latitude": 37.75308,
+        "longitude": -97.37409,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-096-2860-2-I-235atK-96.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-81 north of Belleville": {
+        "location": "Kansas",
+        "latitude": 39.84866,
+        "longitude": -97.62959,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/2-081-2230-2-US81northofBelleville.stream/playlist.m3u8"
+    },
+    "kandrive.gov | DMS_US-54 at Liberal WB": {
+        "location": "Kansas",
+        "latitude": 37.09851,
+        "longitude": -100.80576,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/6-054-0130-2-US-54atLiberalWBCCTV.stream/playlist.m3u8"
+    },
+    "kandrive.gov | DMS_US-54 at Pratt EB": {
+        "location": "Kansas",
+        "latitude": 37.64221,
+        "longitude": -98.79835,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/5-054-1350-2-US-54atPrattEBCCTV.stream/playlist.m3u8"
+    },
+    "kandrive.gov | K-96 at Chisholm Creek": {
+        "location": "Kansas",
+        "latitude": 37.74522,
+        "longitude": -97.26604,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-096-2934-2-K-96atChisholmCreek.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-81 & U24": {
+        "location": "Kansas",
+        "latitude": 39.36525,
+        "longitude": -97.66651,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/2-081-1890-2-U-81&U24.stream/playlist.m3u8"
+    },
+    "kandrive.gov | K-96 at 21st": {
+        "location": "Kansas",
+        "latitude": 37.72339,
+        "longitude": -97.19925,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-096-2977-2-K-96at21st.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-70 east of Hays MM 160": {
+        "location": "Kansas",
+        "latitude": 38.88791,
+        "longitude": -99.2938,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/3-070-1600-2-I-70eastofHays.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-235 at US-54": {
+        "location": "Kansas",
+        "latitude": 37.66992,
+        "longitude": -97.40095,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-235-0067-2-I-235atUS-54.stream/playlist.m3u8"
+    },
+    "kandrive.gov | K-96 at US-54": {
+        "location": "Kansas",
+        "latitude": 37.67889,
+        "longitude": -97.18541,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-096-3011-2-K-96atUS-54.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-54 at Wildcat Ln": {
+        "location": "Kansas",
+        "latitude": 37.67926,
+        "longitude": -97.22328,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-054-2222-2-US-54atWildcatLn.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-135 at Pawnee": {
+        "location": "Kansas",
+        "latitude": 37.6497,
+        "longitude": -97.3106,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-135-0040-2-I-135atPawnee.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-54 at Hoover": {
+        "location": "Kansas",
+        "latitude": 37.67319,
+        "longitude": -97.41022,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-054-2118-2-US-54atHoover.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-135 at 47th": {
+        "location": "Kansas",
+        "latitude": 37.61287,
+        "longitude": -97.32679,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-135-0009-2-I-135at47th.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-135 at Lincoln ": {
+        "location": "Kansas",
+        "latitude": 37.67386,
+        "longitude": -97.31202,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-135-0055-2-I-135atLincoln.stream/playlist.m3u8"
+    },
+    "kandrive.gov | K-96 North of US-54 S": {
+        "location": "Kansas",
+        "latitude": 37.68207,
+        "longitude": -97.1858,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-096-3009-2-K-96NorthofUS-54S.stream/playlist.m3u8"
+    },
+    "kandrive.gov | K-15 & MARKET ST.": {
+        "location": "Kansas",
+        "latitude": 37.54424,
+        "longitude": -97.27031,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-015-0677-2-K-15atMarket.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-235 at Seneca N": {
+        "location": "Kansas",
+        "latitude": 37.7569,
+        "longitude": -97.35427,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-235-0144-2-I-235atSenecaN.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-235 at Zoo": {
+        "location": "Kansas",
+        "latitude": 37.71401,
+        "longitude": -97.39911,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-235-0101-2-I-235atZoo.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-35 and K-130 Exit 141": {
+        "location": "Kansas",
+        "latitude": 38.40839,
+        "longitude": -95.98682,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/1-035-1410-2-I-35andK-130Exit141.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-235 at Central": {
+        "location": "Kansas",
+        "latitude": 37.69838,
+        "longitude": -97.40964,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-235-0088-2-I-235atCentral.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-135 at MacArthur": {
+        "location": "Kansas",
+        "latitude": 37.62288,
+        "longitude": -97.32906,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-135-0016-2-I-135atMacArthur.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-70 at Lincoln Hill MM 229": {
+        "location": "Kansas",
+        "latitude": 38.87375,
+        "longitude": -98.05281,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/2-070-2290-2-I-70atLincolnHill.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-235 at Maple": {
+        "location": "Kansas",
+        "latitude": 37.68107,
+        "longitude": -97.40598,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-235-0076-2-I-235atMaple.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-54 at Armour": {
+        "location": "Kansas",
+        "latitude": 37.6796,
+        "longitude": -97.24728,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-054-2207-2-US-54atArmour.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-135 at I-235": {
+        "location": "Kansas",
+        "latitude": 37.76311,
+        "longitude": -97.3219,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-135-0119-2-I-135atI-235.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-70 at Russell Exit 184": {
+        "location": "Kansas",
+        "latitude": 38.86428,
+        "longitude": -98.85486,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/3-070-1840-2-I-70atRussellexit184.stream/playlist.m3u8"
+    },
+    "kandrive.gov | K-96 at Webb": {
+        "location": "Kansas",
+        "latitude": 37.73881,
+        "longitude": -97.22705,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-096-2957-2-K-96atWebb.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-50 NB & Spruce / Garden City": {
+        "location": "Kansas",
+        "latitude": 37.97024,
+        "longitude": -100.83865,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/6-050-0710-2-US-50NB&Spruce_GardenCity.stream/playlist.m3u8"
+    },
+    "kandrive.gov | K-96 at Hillside": {
+        "location": "Kansas",
+        "latitude": 37.74338,
+        "longitude": -97.29575,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-096-2918-2-K-96atHillside.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-235 at 25th": {
+        "location": "Kansas",
+        "latitude": 37.73581,
+        "longitude": -97.37509,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-235-0122-2-I-235at25th.stream/playlist.m3u8"
+    },
+    "kandrive.gov | K-96 at Rock": {
+        "location": "Kansas",
+        "latitude": 37.74429,
+        "longitude": -97.23491,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-096-2951-2-K-96atRock.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-235 at Broadway N": {
+        "location": "Kansas",
+        "latitude": 37.7584,
+        "longitude": -97.33243,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/5-235-0160-2-I-235atBroadwayN.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-235 at WO Broadway N": {
+        "location": "Kansas",
+        "latitude": 37.75602,
+        "longitude": -97.33607,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-235-0153-2-I-235atWOBroadwayN.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-35 and Burlingame Road Exit 131": {
+        "location": "Kansas",
+        "latitude": 38.41326,
+        "longitude": -96.16283,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/1-035-1310-2-I-35andBurlingameRoadExit131.stream/playlist.m3u8"
+    },
+    "kandrive.gov | DMS_US-54 at Kingman WB": {
+        "location": "Kansas",
+        "latitude": 37.66052,
+        "longitude": -98.07504,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/5-054-1750-2-US-54atKingmanWBCCTV.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-235 at West St": {
+        "location": "Kansas",
+        "latitude": 37.63103,
+        "longitude": -97.38888,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-235-0039-2-I-235atWestSt.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-54 at Dugan": {
+        "location": "Kansas",
+        "latitude": 37.67269,
+        "longitude": -97.41484,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-054-2116-2-US-54atDugan.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-70 at Colby Exit 53": {
+        "location": "Kansas",
+        "latitude": 39.36507,
+        "longitude": -101.05527,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/3-070-0530-2-I-70atColbyexit53.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-70 west of Wanamaker": {
+        "location": "Kansas",
+        "latitude": 39.05428,
+        "longitude": -95.76338,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/1-070-3561-2-I-70westofWanamaker.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-54 at Maize": {
+        "location": "Kansas",
+        "latitude": 37.66575,
+        "longitude": -97.4601,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-054-2089-2-US-54atMaize.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-135 at Centennial Road MM 91": {
+        "location": "Kansas",
+        "latitude": 38.80797,
+        "longitude": -97.62795,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/2-135-0910-2I-135atCentennialRdMM91.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-70 east of Russell MM 186": {
+        "location": "Kansas",
+        "latitude": 38.8573,
+        "longitude": -98.80511,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/3-070-1860-2-I-70eastofRussell.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-54 at Airport E": {
+        "location": "Kansas",
+        "latitude": 37.67269,
+        "longitude": -97.42759,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-054-2108-2-US-54atMid-ContinentE.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-70 at Goodland Exit 17": {
+        "location": "Kansas",
+        "latitude": 39.3285,
+        "longitude": -101.72581,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/3-070-0170-2-I-70atGoodlandexit17.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-70 at Deep Creek Road MM 315": {
+        "location": "Kansas",
+        "latitude": 39.06549,
+        "longitude": -96.50793,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/1-070-3150-2-I-70atDeepCreekRoad.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-235 at MacArthur": {
+        "location": "Kansas",
+        "latitude": 37.62291,
+        "longitude": -97.33904,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-235-0010-2-I-235atMacArthur.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-135 at 53rd": {
+        "location": "Kansas",
+        "latitude": 37.78176,
+        "longitude": -97.3258,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-135-0133-2-I-135at53rd.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-70 east of Colby MM 59": {
+        "location": "Kansas",
+        "latitude": 39.32028,
+        "longitude": -100.99158,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/3-070-0580-2-I-70eastofColby.stream/playlist.m3u8"
+    },
+    "kandrive.gov | 789-0024 I-135 at 37th Temp.": {
+        "location": "Kansas",
+        "latitude": 37.75416,
+        "longitude": -97.32097,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-135-0114-2-I-135at37th.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-135 at 17th": {
+        "location": "Kansas",
+        "latitude": 37.7166,
+        "longitude": -97.3219,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-135-0085-2-I-135at17thSt.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-54 at Woodlawn": {
+        "location": "Kansas",
+        "latitude": 37.67958,
+        "longitude": -97.25948,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-054-2196-2-US-54atWoodlawn.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-235 at Seneca S": {
+        "location": "Kansas",
+        "latitude": 37.62816,
+        "longitude": -97.35294,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-235-0019-2-I-235atSenecaS.stream/playlist.m3u8"
+    },
+    "kandrive.gov | K-96 at Greenwich": {
+        "location": "Kansas",
+        "latitude": 37.7298,
+        "longitude": -97.20757,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-096-2970-2-K-96atGreenwich.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-54 at Oliver": {
+        "location": "Kansas",
+        "latitude": 37.67893,
+        "longitude": -97.28561,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-054-2186-2-US-54atOliver.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-54 at Hillside ": {
+        "location": "Kansas",
+        "latitude": 37.67916,
+        "longitude": -97.29844,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/5-054-2178-2-US-54atHillside.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-400 EB W of K-99": {
+        "location": "Kansas",
+        "latitude": 37.63568,
+        "longitude": -96.26607,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/4-400-3344-2-US-400EBWofK-99.stream/playlist.m3u8"
+    },
+    "kandrive.gov | K-18 S. of Scenic Dr.": {
+        "location": "Kansas",
+        "latitude": 39.14524,
+        "longitude": -96.65325,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/1-018-1850-1-K-18SofScenicDr.stream/playlist.m3u8"
+    },
+    "kandrive.gov | US-24 at Flush Rd  ": {
+        "location": "Kansas",
+        "latitude": 39.2009,
+        "longitude": -96.4393,
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/789-0064-OlathePortable-K-10EOKillcreek(modemsite).stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-70 west of K-99": {
+        "location": "Kansas",
+        "latitude": 39.06478,
+        "longitude": -96.35044,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/1-070-3244-2-I-70westofK-99.stream/playlist.m3u8"
+    },
+    "kandrive.gov | I-70 east of K-99": {
+        "location": "Kansas",
+        "latitude": 39.06678,
+        "longitude": -96.25517,
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/1-070-3292-2-I-70eastofK-99.stream/playlist.m3u8"
     }
 }
