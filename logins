@@ -7512,7 +7512,7 @@
     },
     "PTZ View | Virtual RailFan Saint Paul": {
         "longitude": -93.168449,
-        "latitude": 44.970759, 
+        "latitude": 44.970759,
         "location": "Saint Paul, Minneosta",
         "url": "https://1693215245.rsc.cdn77.org/43d66c402de27716c595a7fe5d7b68d0/tracks-v3/rewind-3600.fmp4.m3u8"
     },
@@ -70099,5 +70099,443 @@
         "url": "https://s53.nysdot.skyvdn.com:443/rtplive/R4_226/playlist.m3u8",
         "latitude": 43.153691,
         "longitude": -77.607583
+    },
+    "10TH ST BYPASS @ I-279": {
+        "location": "Pennsylvania",
+        "latitude": "40.4437",
+        "longitude": "-80.00562",
+        "url": "https://pa-se2.arcadis-ivds.com:8200/chan-3112/index.m3u8"
+    },
+    "26TH ST TUNNEL TO I-76 WEST": {
+        "location": "Pennsylvania",
+        "latitude": "39.92176",
+        "longitude": "-75.190624",
+        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-3383/index.m3u8"
+    },
+    "26TH ST @ PENROSE AVE": {
+        "location": "Pennsylvania",
+        "latitude": "39.90578",
+        "longitude": "-75.194",
+        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-2993/index.m3u8"
+    },
+    "I-76 EB TUNNEL TO 26TH ST": {
+        "location": "Pennsylvania",
+        "latitude": "39.92158",
+        "longitude": "-75.19057",
+        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-4302/index.m3u8"
+    },
+    "17TH ST @ VALLEY VIEW BLVD": {
+        "location": "Pennsylvania",
+        "latitude": "40.49915",
+        "longitude": "-78.39025",
+        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-2501/index.m3u8"
+    },
+    "PA 453 @ PA 45": {
+        "location": "Pennsylvania",
+        "latitude": "40.58516",
+        "longitude": "-78.14583",
+        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-2505/index.m3u8"
+    },
+    "US 22 @ PA 453": {
+        "location": "Pennsylvania",
+        "latitude": "40.57137",
+        "longitude": "-78.13869",
+        "url": "https://pa-se2.arcadis-ivds.com:8200/chan-2506/index.m3u8"
+    },
+    "LOGAN BLVD @ CONVENTION CENTER BLVD": {
+        "location": "Pennsylvania",
+        "latitude": "40.45791",
+        "longitude": "-78.39508",
+        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-2678/index.m3u8"
+    },
+    "CHESTNUT A VENUE @ N 2ND ST": {
+        "location": "Pennsylvania",
+        "latitude": "40.5333",
+        "longitude": "-78.38608",
+        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-2891/index.m3u8"
+    },
+    "17TH ST @ 6TH AVE": {
+        "location": "Pennsylvania",
+        "latitude": "40.5081",
+        "longitude": "-78.39988",
+        "url": "https://pa-se2.arcadis-ivds.com:8200/chan-3076/index.m3u8"
+    },
+    "PLANK RD @ LOGAN BLVD": {
+        "location": "Pennsylvania",
+        "latitude": "40.47819",
+        "longitude": "-78.40377",
+        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-3077/index.m3u8"
+    },
+    "PLANK RD @ CONVENTION CENTER BLVD": {
+        "location": "Pennsylvania",
+        "latitude": "40.45226",
+        "longitude": "-78.4093",
+        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-3260/index.m3u8"
+    },
+    "CHESTNUT AVE @ JUNIATA GAP RD": {
+        "location": "Pennsylvania",
+        "latitude": "40.52934",
+        "longitude": "-78.38911",
+        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-3261/index.m3u8"
+    },
+    "PA 764 @ LOGAN BLVD": {
+        "location": "Pennsylvania",
+        "latitude": "40.49027",
+        "longitude": "-78.41366",
+        "url": "https://pa-se2.arcadis-ivds.com:8200/chan-3262/index.m3u8"
+    },
+    "CHESTNUT AVE @ 4TH ST": {
+        "location": "Pennsylvania",
+        "latitude": "40.52227",
+        "longitude": "-78.39484",
+        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-3453/index.m3u8"
+    },
+    "6TH AVE @ 8TH ST": {
+        "location": "Pennsylvania",
+        "latitude": "40.51627",
+        "longitude": "-78.39277",
+        "url": "https://pa-se2.arcadis-ivds.com:8200/chan-3454/index.m3u8"
+    },
+    "7TH AVE @ 7TH ST": {
+        "location": "Pennsylvania",
+        "latitude": "40.51727",
+        "longitude": "-78.39319",
+        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-4021/index.m3u8"
+    },
+    "CHESTNUT AVE @ 8TH ST": {
+        "location": "Pennsylvania",
+        "latitude": "40.51891",
+        "longitude": "-78.39735",
+        "url": "https://pa-se2.arcadis-ivds.com:8200/chan-4097/index.m3u8"
+    },
+    "17TH ST @ MARGARET AVE": {
+        "location": "Pennsylvania",
+        "latitude": "40.51162",
+        "longitude": "-78.40526",
+        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-4196/index.m3u8"
+    },
+    "PLANK RD @ JUNIATA ST": {
+        "location": "Pennsylvania",
+        "latitude": "40.437745",
+        "longitude": "-78.412458",
+        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-4204/index.m3u8"
+    },
+    "CONVENTION CENTER BLVD @ CONVENTION CENTER DR": {
+        "location": "Pennsylvania",
+        "latitude": "40.45418",
+        "longitude": "-78.40343",
+        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-4318/index.m3u8"
+    },
+    "HARBINSON AVE @ SANGER ST": {
+        "location": "Pennsylvania",
+        "latitude": "40.01684",
+        "longitude": "-75.06683",
+        "url": "https://pa-se2.arcadis-ivds.com:8200/chan-2818/index.m3u8"
+    },
+    "E GIRADE AVE @ ARAMINGO AVE": {
+        "location": "Pennsylvania",
+        "latitude": "39.97332",
+        "longitude": "-75.12287",
+        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-3399/index.m3u8"
+    },
+    "ARAMINGO AVE @ TACONY ST": {
+        "location": "Pennsylvania",
+        "latitude": "40.008053",
+        "longitude": "-75.072407",
+        "url": "https://pa-se2.arcadis-ivds.com:8200/chan-4152/index.m3u8"
+    },
+    "ATHERTON ST @ ROLLING RIDGE DRIVE": {
+        "location": "Pennsylvania",
+        "latitude": "40.784483",
+        "longitude": "-77.827288",
+        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-4225/index.m3u8"
+    },
+    "ATHERTON ST @ VAIRO BLVD": {
+        "location": "Pennsylvania",
+        "latitude": "40.808",
+        "longitude": "-77.8951",
+        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-2570/index.m3u8"
+    },
+    "ATHERTON ST @ PARK AVE": {
+        "location": "Pennsylvania",
+        "latitude": "40.7966",
+        "longitude": "-77.8724",
+        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-2571/index.m3u8"
+    },
+    "ATHERTON ST @ COLONNADE BLVD": {
+        "location": "Pennsylvania",
+        "latitude": "40.8094",
+        "longitude": "-77.9079",
+        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-2771/index.m3u8"
+    },
+    "ATHERTON ST @ WEST BEAVER AVE": {
+        "location": "Pennsylvania",
+        "latitude": "40.7909",
+        "longitude": "-77.8638",
+        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-3347/index.m3u8"
+    },
+    "ATHERTON ST @ WEST COLLEGE AVE": {
+        "location": "Pennsylvania",
+        "latitude": "40.7918",
+        "longitude": "-77.8652",
+        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-3955/index.m3u8"
+    },
+    "BAYFRONT PARKWAY @ EXIT 183A (PA 5/PA 290 EAST 12TH ST)": {
+        "location": "Pennsylvania",
+        "latitude": "42.10901",
+        "longitude": "-80.12263",
+        "url": "https://pa-se2.arcadis-ivds.com:8200/chan-2950/index.m3u8"
+    },
+    "BAYFRONT PARKWAY @ EXIT 183B (PA 5 WEST 12TH ST)": {
+        "location": "Pennsylvania",
+        "latitude": "42.1108",
+        "longitude": "-80.12017",
+        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-3953/index.m3u8"
+    },
+    "S COLUMBUS BLVD @ E OREGON AVE": {
+        "location": "Pennsylvania",
+        "latitude": "39.9123",
+        "longitude": "-75.138",
+        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-2858/index.m3u8"
+    },
+    "S COLUMBUS BLVD @ E SNYDER AVE": {
+        "location": "Pennsylvania",
+        "latitude": "39.9208",
+        "longitude": "-75.1411",
+        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-4311/index.m3u8"
+    },
+    "N COLUMBUS BLVD @ RACE ST": {
+        "location": "Pennsylvania",
+        "latitude": "39.9534",
+        "longitude": "-75.1397",
+        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-3968/index.m3u8"
+    },
+    "DELAWARE AVE @ LEWIS ST": {
+        "location": "Pennsylvania",
+        "latitude": "39.986627",
+        "longitude": "-75.075853",
+        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-4386/index.m3u8"
+    },
+    "DELAWARE AVE @ SPRING GARDEN ST": {
+        "location": "Pennsylvania",
+        "latitude": "39.9603",
+        "longitude": "-75.1374",
+        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-3389/index.m3u8"
+    },
+    "N DELAWARE AVE @ E COLUMBIA AVE": {
+        "location": "Pennsylvania",
+        "latitude": "39.96727",
+        "longitude": "-75.1288",
+        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-3023/index.m3u8"
+    },
+    "US-202 BUS. (BUTLER AVE) @ BRISTOL RD": {
+        "location": "Pennsylvania",
+        "latitude": "40.28423",
+        "longitude": "-75.20987",
+        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-2804/index.m3u8"
+    },
+    "US-202 BUS. (BUTLER AVE) @ PA-152 (LIMEKILN PK)": {
+        "location": "Pennsylvania",
+        "latitude": "40.26561",
+        "longitude": "-75.22836",
+        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-3977/index.m3u8"
+    },
+    "S FRONT ST @ PACKER AVE": {
+        "location": "Pennsylvania",
+        "latitude": "39.9072",
+        "longitude": "-75.151",
+        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-3425/index.m3u8"
+    },
+    "S FRONT ST @ OREGON AVE": {
+        "location": "Pennsylvania",
+        "latitude": "39.9139",
+        "longitude": "-75.1502",
+        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-2835/index.m3u8"
+    },
+    "GIRARD AVE @ FRANKFORD AVE": {
+        "location": "Pennsylvania",
+        "latitude": "39.968936",
+        "longitude": "-75.134539",
+        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-2453/index.m3u8"
+    },
+    "GIRARD AVE @ PALMER ST": {
+        "location": "Pennsylvania",
+        "latitude": "39.970982",
+        "longitude": "-75.12858",
+        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-4310/index.m3u8"
+    },
+    "I-176 @ EXIT 1 (PA TPK/PA 10)": {
+        "location": "Pennsylvania",
+        "latitude": "40.1645",
+        "longitude": "-75.8837",
+        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-4323/index.m3u8"
+    },
+    "I-176 @ EXIT 11 (US 422)": {
+        "location": "Pennsylvania",
+        "latitude": "40.307",
+        "longitude": "-75.8983",
+        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-3335/index.m3u8"
+    },
+    "I-180 @ EXIT 29 (US 15 NORTH MANSFIELD)": {
+        "location": "Pennsylvania",
+        "latitude": "41.23192",
+        "longitude": "-77.04155",
+        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-2960/index.m3u8"
+    },
+    "I-279 @ MM 0.2 (I-376 INTERCHANGE)": {
+        "location": "Pennsylvania",
+        "latitude": "40.44216",
+        "longitude": "-80.00872",
+        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-4350/index.m3u8"
+    },
+    "I-279 @ MM 0.3 (FT DUQUESNE BLVD)": {
+        "location": "Pennsylvania",
+        "latitude": "40.44332",
+        "longitude": "-80.00902",
+        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-4029/index.m3u8"
+    },
+    "I-279 @ MM 0.4 (PA 65 INTERCHANGE)": {
+        "location": "Pennsylvania",
+        "latitude": "40.44552",
+        "longitude": "-80.0097",
+        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-4354/index.m3u8"
+    },
+    "I-279 @ MM 0.67 EAST LACOCK ST)": {
+        "location": "Pennsylvania",
+        "latitude": "40.44876",
+        "longitude": "-80.00686",
+        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-3278/index.m3u8"
+    },
+    "I-279 @ EXIT 1D (PA 28 NORTH CHESTNUT ST/EAST OHIO ST/ETNA)": {
+        "location": "Pennsylvania",
+        "latitude": "40.44983",
+        "longitude": "-79.99965",
+        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-4027/index.m3u8"
+    },
+    "I-279 @ MM 1.2 (PA 28)": {
+        "location": "Pennsylvania",
+        "latitude": "40.45259",
+        "longitude": "-79.99669",
+        "url": "https://pa-se2.arcadis-ivds.com:8200/chan-4135/index.m3u8"
+    },
+    "I-279 @ EXIT 2B (EAST OHIO ST)": {
+        "location": "Pennsylvania",
+        "latitude": "40.46084",
+        "longitude": "-79.99919",
+        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-2717/index.m3u8"
+    },
+    "I-279 @ EXIT 3 (HAZLETT ST)": {
+        "location": "Pennsylvania",
+        "latitude": "40.47393",
+        "longitude": "-80.00556",
+        "url": "https://pa-se2.arcadis-ivds.com:8200/chan-4128/index.m3u8"
+    },
+    "I-279 @ MM 3.6 (EAST ST)": {
+        "location": "Pennsylvania",
+        "latitude": "40.48296",
+        "longitude": "-80.0074",
+        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-3491/index.m3u8"
+    },
+    "I-279 NB @ EXIT 4 (MCKNIGHT RD)": {
+        "location": "Pennsylvania",
+        "latitude": "40.49377",
+        "longitude": "-80.01123",
+        "url": "https://pa-se2.arcadis-ivds.com:8200/chan-4061/index.m3u8"
+    },
+    "I-279 @ MM 4.5 (MCKNIGHT RD)": {
+        "location": "Pennsylvania",
+        "latitude": "40.49529",
+        "longitude": "-80.01333",
+        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-3314/index.m3u8"
+    },
+    "I-279 @ EXIT 5 (US 19 PERRYSVILLE AVNUE)": {
+        "location": "Pennsylvania",
+        "latitude": "40.5002",
+        "longitude": "-80.0238",
+        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-2720/index.m3u8"
+    },
+    "I-279 @ MM 5.5 (SR 6279 SB ON-RAMP - HOV))": {
+        "location": "Pennsylvania",
+        "latitude": "40.50402",
+        "longitude": "-80.02852",
+        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-3315/index.m3u8"
+    },
+    "I-279 @ MM 0.5 (HOV - PARK-N-RIDE)": {
+        "location": "Pennsylvania",
+        "latitude": "40.50712",
+        "longitude": "-80.03122",
+        "url": "https://pa-se2.arcadis-ivds.com:8200/chan-3136/index.m3u8"
+    },
+    "I-279 @ MM 6 (JACKS RUN RD)": {
+        "location": "Pennsylvania",
+        "latitude": "40.50708",
+        "longitude": "-80.03493",
+        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-4235/index.m3u8"
+    },
+    "I-279 @ MM 6.5 ( BELLEVUE RD)": {
+        "location": "Pennsylvania",
+        "latitude": "40.50774",
+        "longitude": "-80.04465",
+        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-4355/index.m3u8"
+    },
+    "I-279 @ EXIT 7 (BELLEVUE/WEST VIEW)": {
+        "location": "Pennsylvania",
+        "latitude": "40.51396",
+        "longitude": "-80.05205",
+        "url": "https://pa-se2.arcadis-ivds.com:8200/chan-3316/index.m3u8"
+    },
+    "I-279 @ MM 7.4 (UNION AVE)": {
+        "location": "Pennsylvania",
+        "latitude": "40.51909",
+        "longitude": "-80.05442",
+        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-3459/index.m3u8"
+    },
+    "I-279 @ MM 7.9 (GASS RD)": {
+        "location": "Pennsylvania",
+        "latitude": "40.52",
+        "longitude": "-80.06309",
+        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-4034/index.m3u8"
+    },
+    "I-279 @ EXIT 8 (CAMP HORNE RD)": {
+        "location": "Pennsylvania",
+        "latitude": "40.52441",
+        "longitude": "-80.07018",
+        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-4276/index.m3u8"
+    },
+    "I-279 @ MM 9.4 (WEISS LANE)": {
+        "location": "Pennsylvania",
+        "latitude": "40.53863",
+        "longitude": "-80.07965",
+        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-3464/index.m3u8"
+    },
+    "I-279 @ MM 10.3 (MT NEBO RD)": {
+        "location": "Pennsylvania",
+        "latitude": "40.55053",
+        "longitude": "-80.08662",
+        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-4208/index.m3u8"
+    },
+    "I-279 @ MM 11.6 (MONTOGOMERY RD)": {
+        "location": "Pennsylvania",
+        "latitude": "40.56572",
+        "longitude": "-80.09003",
+        "url": "https://pa-se3.arcadis-ivds.com:8200/chan-2703/index.m3u8"
+    },
+    "I-279 @ MM 12.3 (MCALEER RD)": {
+        "location": "Pennsylvania",
+        "latitude": "40.57537",
+        "longitude": "-80.09317",
+        "url": "https://pa-se4.arcadis-ivds.com:8200/chan-2696/index.m3u8"
+    },
+    "I-279 @ I-79 NB": {
+        "location": "Pennsylvania",
+        "latitude": "40.58646",
+        "longitude": "-80.09952",
+        "url": "https://pa-se2.arcadis-ivds.com:8200/chan-4060/index.m3u8"
+    },
+    "I-283 @ EXIT 1A (PA 283 EAST HARRISBURG INTERNATIONAL AIRPORT/LANCASTER)": {
+        "location": "Pennsylvania",
+        "latitude": "40.21944",
+        "longitude": "-76.78729",
+        "url": "https://pa-se1.arcadis-ivds.com:8200/chan-2669/index.m3u8"
     }
 }
