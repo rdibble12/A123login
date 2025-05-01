@@ -22,6 +22,18 @@
         "latitude": 35.003661043019,
         "longitude": -92.80855729861
     },
+    "Serenity Ranch | RadarOmega": {
+        "url": "rtmp://rtmp.radaromega.com/live/30b50573042c",
+        "location": "Loving, Texas",
+        "latitude": 33.33128760652,
+        "longitude": -98.421823552714
+    },
+    "Burkburnett | RadarOmega": {
+        "url": "rtmp://rtmp.radaromega.com/live/020bd634b69c",
+        "location": "Burkburnett, Texas",
+        "latitude": 34.076120174278,
+        "longitude": -98.535972916673
+    },
     "RadarOmega HQ 1 | RadarOmega": {
         "url": "rtmp://rtmp.radaromega.com/live/281188c0eb07",
         "location": "Silver City, Georgia",
