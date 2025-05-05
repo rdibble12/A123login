@@ -212,7 +212,6 @@
     "Warren County OH Turtlecreek Twp | RadarOmega": {
         "url": "rtmp://rtmp.radaromega.com/live/7bf66e5ad124",
         "location": "Lebanon, Ohio",
-        
         "latitude": 39.424093148641,
         "longitude": -84.198653619188
     },
@@ -726,7 +725,7 @@
         "latitude": 32.557186,
         "longitude": -93.67934
     },
-    "Nathan Moore": {
+    "StormChaserIRL": {
         "url": "https://video1.cdn.radaromega.com/live/2b3a57b079ea/stream.m3u8",
         "location": "Storm Chaser"
     },
@@ -8014,7 +8013,7 @@
         "location": "Storm Chaser"
     },
     "Ben Williams": {
-        "url": "No stream",
+        "url": "rtmp://ingest.severetv.com/live/ben.williams",
         "location": "Storm Chaser"
     },
     "Paige Berdomas": {
