@@ -8024,6 +8024,18 @@
         "url": "rtmp://ingest.severetv.com/live/kip.metcalf",
         "location": "Storm Chaser"
     },
+    "Ryan Cartee": {
+        "url": "https://edge.livestormchasing.com/hls/NAnLFSU3vs1T55KsIUqR/index.m3u8",
+        "location": "Storm Chaser LSM"
+    },
+    "Stacy Gifford": {
+        "url": "https://edge.livestormchasing.com/hls/wjIUkrIzh9mKngzL8yLt/index.m3u8",
+        "location": "Storm Chaser LSM"
+    },
+    "Nick Smego": {
+        "url": "https://edge.livestormchasing.com/hls/adsHN50CXpY9yJyiw1Kz/index.m3u8",
+        "location": "Storm Chaser LSM"
+    },
     "Ryan Scholl": {
         "url": "rtmp://ingest.severetv.com/live/ryan.scholl",
         "location": "Storm Chaser"
