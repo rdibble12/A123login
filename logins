@@ -7490,6 +7490,18 @@
         "url": "rtmp://ingest.severetv.com/live/max.archer",
         "location": "Storm Chaser"
     },
+    "Brian Emfinger": {
+        "url": "https://edge.livestormchasing.com/hls/YpaSYKIVZ6mGz9PrImXe/index.m3u8",
+        "location": "Storm Chaser"
+    },
+    "Aaroon Eastman": {
+        "url": "https://edge.livestormchasing.com/hls/tFOBNCDw9xRsDkGj7Eul/index.m3u8",
+        "location": "Storm Chaser"
+    },
+    "Josh Alecci": {
+        "url": "https://edge.livestormchasing.com/hls/0ukYCM5cPJzaV0rGGHAF/index.m3u8",
+        "location": "Storm Chaser"
+    },
     "Dan Fitts": {
         "url": "rtmp://ingest.severetv.com/live/dan.fitts",
         "location": "Storm Chaser"
