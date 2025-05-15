@@ -7474,6 +7474,23 @@
         "url": "",
         "location": "Storm Chaser"
     },
+    "RDD 1 / ProjectWeatherEye.com": {
+        "url": "https://video1.cdn.radaromega.com/live/8c94da4e77d1/stream.m3u8",
+        "location": "Storm Chaser"
+    },
+    "RDD 2 / ProjectWeatherEye.com": {
+        "url": "https://video1.cdn.radaromega.com/live/ea74231d4b7d/stream.m3u8",
+        "location": "Storm Chaser"
+    },
+    "RDD 4 / ProjectWeatherEye.com": {
+        "url": "https://video1.cdn.radaromega.com/live/b16fdf993a15/stream.m3u8",
+        "location": "Storm Chaser"
+    },
+    "RDD 5 / ProjectWeatherEye.com": {
+        "url": "https://video1.cdn.radaromega.com/live/a63cdb78eaf2/stream.m3u8",
+        "location": "Storm Chaser"
+        
+    },
     "Tornado Paigeyy": {
         "url": "srt://usw.srt.belabox.net:4001?streamid=OOn5nxqJVVGioo319c3kIY5RY7qheb&timeout=2000000",
         "location": "Storm Chaser"
