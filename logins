@@ -7507,6 +7507,10 @@
         "url": "rtmp://ingest.severetv.com/live/ryan.scholl",
         "location": "Storm Chaser"
     },
+    "Charlie Bourdo": {
+        "url": "rtmp://ingest.severetv.com/live/charlie.bourdo",
+        "location": "Storm Chaser"
+    },
     "Max Archer": {
         "url": "rtmp://ingest.severetv.com/live/max.archer",
         "location": "Storm Chaser"
