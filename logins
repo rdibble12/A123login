@@ -80355,5 +80355,1907 @@
         "url": "https://strmr3.sha.maryland.gov/rtplive/950008fc01cf000f005cd336c4235c0a/playlist.m3u8",
         "latitude": 39.70911,
         "longitude": -78.18272
+    },
+    "deldot.gov | DE 1 @ MILFORD NECK ROAD (NORTH OFF)": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM001.stream/playlist.m3u8",
+        "latitude": 38.990931,
+        "longitude": -75.448625
+    },
+    "deldot.gov | W NORTH STREET @ WEST DOVER CONNECTOR": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM002.stream/playlist.m3u8",
+        "latitude": 39.153462,
+        "longitude": -75.542016
+    },
+    "deldot.gov | US 13 SB @ WEST DOVER CONNECTOR": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM003.stream/playlist.m3u8",
+        "latitude": 39.124642,
+        "longitude": -75.532336
+    },
+    "deldot.gov | US 13 @ RD 88": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM004.stream/playlist.m3u8",
+        "latitude": 39.180998,
+        "longitude": -75.529771
+    },
+    "deldot.gov | NEW BURTON RD S @ WEST DOVER CONNECTOR": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM005.stream/playlist.m3u8",
+        "latitude": 39.129917,
+        "longitude": -75.54346
+    },
+    "deldot.gov | US 13 @ HARRINGTON FAIR RD - HARRINGTON": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM020.stream/playlist.m3u8",
+        "latitude": 38.908166,
+        "longitude": -75.569731
+    },
+    "deldot.gov | US 13 @ RD 315 (TOWER HILL RD)": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM021.stream/playlist.m3u8",
+        "latitude": 38.89491,
+        "longitude": -75.571382
+    },
+    "deldot.gov | LEIPSIC RD @ PLAZA DR": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM024.stream/playlist.m3u8",
+        "latitude": 39.189323,
+        "longitude": -75.527593
+    },
+    "deldot.gov | DE 1 @ MAIN TOLL PLAZA": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM025.stream/playlist.m3u8",
+        "latitude": 39.18481,
+        "longitude": -75.515299
+    },
+    "deldot.gov | US 13 @ SCARBOROUGH RD": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM027.stream/playlist.m3u8",
+        "latitude": 39.200015,
+        "longitude": -75.556265
+    },
+    "deldot.gov | US 13 @ TOWNSEND BLVD": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM028.stream/playlist.m3u8",
+        "latitude": 39.174683,
+        "longitude": -75.522474
+    },
+    "deldot.gov | US 13 @ WHITE OAK RD": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM029.stream/playlist.m3u8",
+        "latitude": 39.168512,
+        "longitude": -75.516881
+    },
+    "deldot.gov | US 13 @ DIVISION ST": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM030.stream/playlist.m3u8",
+        "latitude": 39.163386,
+        "longitude": -75.515487
+    },
+    "deldot.gov | DE 8 @ SAULSBURY RD": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM031.stream/playlist.m3u8",
+        "latitude": 39.159117,
+        "longitude": -75.542656
+    },
+    "deldot.gov | US 13 @ BAY RD": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM032.stream/playlist.m3u8",
+        "latitude": 39.158657,
+        "longitude": -75.51146
+    },
+    "deldot.gov | US 13 @ DOVER DOWNS (ENT)": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM086.stream/playlist.m3u8",
+        "latitude": 39.1866,
+        "longitude": -75.5364
+    },
+    "deldot.gov | DE 1 @ TOLL RAMP E (S. SMYRNA)": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM090.stream/playlist.m3u8",
+        "latitude": 39.281918,
+        "longitude": -75.59127
+    },
+    "deldot.gov | US 13 @ DE 300": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM091.stream/playlist.m3u8",
+        "latitude": 39.306505,
+        "longitude": -75.607302
+    },
+    "deldot.gov | DE 1 @ THOMPSONVILLE RD": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM092.stream/playlist.m3u8",
+        "latitude": 38.957405,
+        "longitude": -75.427714
+    },
+    "deldot.gov | US 13 SB @ DE 14": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM102.stream/playlist.m3u8",
+        "latitude": 38.923876,
+        "longitude": -75.567883
+    },
+    "deldot.gov | US 13 @ DE 14": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM103.stream/playlist.m3u8",
+        "latitude": 38.923848,
+        "longitude": -75.566335
+    },
+    "deldot.gov | DE 1 @ SCARBOROUGH RD": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM109.stream/playlist.m3u8",
+        "latitude": 39.206545,
+        "longitude": -75.544608
+    },
+    "deldot.gov | BAY RD @ PUNCHEON RUN": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM110.stream/playlist.m3u8",
+        "latitude": 39.145994,
+        "longitude": -75.500362
+    },
+    "deldot.gov | DE 1 @ BOWERS BEACH RD (RD18)": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM111.stream/playlist.m3u8",
+        "latitude": 39.04152,
+        "longitude": -75.45568
+    },
+    "deldot.gov | US 13 @ PUNCHEON RUN RAMP": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM124.stream/playlist.m3u8",
+        "latitude": 39.139356,
+        "longitude": -75.522207
+    },
+    "deldot.gov | US 13 @ DE 10": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM125.stream/playlist.m3u8",
+        "latitude": 39.113145,
+        "longitude": -75.537258
+    },
+    "deldot.gov | BAY RD @ DE 10": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM126.stream/playlist.m3u8",
+        "latitude": 39.1311,
+        "longitude": -75.4923
+    },
+    "deldot.gov | DE 1 @ DE 9 INTERCHANGE": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM127.stream/playlist.m3u8",
+        "latitude": 39.106816,
+        "longitude": -75.454974
+    },
+    "deldot.gov | DE 1 @ N FREDERICA INTERCHANGE": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM128.stream/playlist.m3u8",
+        "latitude": 39.014672,
+        "longitude": -75.461172
+    },
+    "deldot.gov | DE 8 @ DE 44": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM129.stream/playlist.m3u8",
+        "latitude": 39.153863,
+        "longitude": -75.649249
+    },
+    "deldot.gov | DE 300 @ CARTER RD": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM147.stream/playlist.m3u8",
+        "latitude": 39.293638,
+        "longitude": -75.622309
+    },
+    "deldot.gov | DE 1 @ TRAP SHOOTERS RD": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM159.stream/playlist.m3u8",
+        "latitude": 39.084873,
+        "longitude": -75.457562
+    },
+    "deldot.gov | CLAPHAM RD @ BUFFALO RD": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM161.stream/playlist.m3u8",
+        "latitude": 39.051762,
+        "longitude": -75.459917
+    },
+    "deldot.gov | US 13 @ JEFFERIC BLVD": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM162.stream/playlist.m3u8",
+        "latitude": 39.177945,
+        "longitude": -75.526017
+    },
+    "deldot.gov | BAY RD @ BOWERS BEACH RD": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM163.stream/playlist.m3u8",
+        "latitude": 39.041558,
+        "longitude": -75.457299
+    },
+    "deldot.gov | US 13 @ JACKSON DITCH RD": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM169.stream/playlist.m3u8",
+        "latitude": 38.933804,
+        "longitude": -75.566067
+    },
+    "deldot.gov | US 13 @ DSP HQ (K335)": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM170.stream/playlist.m3u8",
+        "latitude": 39.192841,
+        "longitude": -75.545698
+    },
+    "deldot.gov | US 113 @ DE 14": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM171.stream/playlist.m3u8",
+        "latitude": 38.915799,
+        "longitude": -75.443168
+    },
+    "deldot.gov | KENTON RD @ GREENTREE DR": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM172.stream/playlist.m3u8",
+        "latitude": 39.160827,
+        "longitude": -75.55737
+    },
+    "deldot.gov | SAULSBURY RD @ WALKER RD": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM173.stream/playlist.m3u8",
+        "latitude": 39.169308,
+        "longitude": -75.546557
+    },
+    "deldot.gov | US 13 @ RD 30": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM174.stream/playlist.m3u8",
+        "latitude": 39.071463,
+        "longitude": -75.553631
+    },
+    "deldot.gov | US 13 @ JEROME DR": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM175.stream/playlist.m3u8",
+        "latitude": 39.217514,
+        "longitude": -75.573387
+    },
+    "deldot.gov | US 13 @ CARTER RD": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM176.stream/playlist.m3u8",
+        "latitude": 39.278566,
+        "longitude": -75.59241
+    },
+    "deldot.gov | US 13 @ DE 12": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM177.stream/playlist.m3u8",
+        "latitude": 39.006534,
+        "longitude": -75.56889
+    },
+    "deldot.gov | US 13 @ BIG WOODS RD": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM178.stream/playlist.m3u8",
+        "latitude": 39.264149,
+        "longitude": -75.586329
+    },
+    "deldot.gov | US 13 @ BELMONT AVE": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM179.stream/playlist.m3u8",
+        "latitude": 39.291462,
+        "longitude": -75.596444
+    },
+    "deldot.gov | US 13 @ DOVER MALL": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM180.stream/playlist.m3u8",
+        "latitude": 39.191366,
+        "longitude": -75.543163
+    },
+    "deldot.gov | BAY RD @ BLUE HEN MALL S. ENT": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM181.stream/playlist.m3u8",
+        "latitude": 39.15012,
+        "longitude": -75.503508
+    },
+    "deldot.gov | S LITTLE CREEK RD @ E DOVER ELEM": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM185.stream/playlist.m3u8",
+        "latitude": 39.157053,
+        "longitude": -75.503649
+    },
+    "deldot.gov | DE 8 @ CHESTNUT GROVE RD / NAULT RD": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM186.stream/playlist.m3u8",
+        "latitude": 39.155717,
+        "longitude": -75.612772
+    },
+    "deldot.gov | DE 1 BUSINESS (N REHOBOTH @ NO": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM187.stream/playlist.m3u8",
+        "latitude": 38.917994,
+        "longitude": -75.418297
+    },
+    "deldot.gov | DE 8 @ HEATHERFIELD WAY": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM189.stream/playlist.m3u8",
+        "latitude": 39.158408,
+        "longitude": -75.566542
+    },
+    "deldot.gov | US 13 @ FARMINGTON FIRE SIGNAL": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM190.stream/playlist.m3u8",
+        "latitude": 38.870458,
+        "longitude": -75.575017
+    },
+    "deldot.gov | US 113 @ AIRPORT RD / NW 10TH": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM191.stream/playlist.m3u8",
+        "latitude": 38.92771,
+        "longitude": -75.43307
+    },
+    "deldot.gov | DE 15 (MCKEE RD) @ COLLEGE RD": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/KCAM192.stream/playlist.m3u8",
+        "latitude": 39.176283,
+        "longitude": -75.553342
+    },
+    "deldot.gov | I 95 @ DE 141 (ON RAMP)": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM001.stream/playlist.m3u8",
+        "latitude": 39.700253,
+        "longitude": -75.60295
+    },
+    "deldot.gov | DE 1 NB RAMP @ FASHION BLVD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM002.stream/playlist.m3u8",
+        "latitude": 39.672962,
+        "longitude": -75.651032
+    },
+    "deldot.gov | DE 1 @ RAMP B1 TO I 95 NB": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM005.stream/playlist.m3u8",
+        "latitude": 39.683682,
+        "longitude": -75.654481
+    },
+    "deldot.gov | I 95 @ DE 273": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM006.stream/playlist.m3u8",
+        "latitude": 39.671952,
+        "longitude": -75.675288
+    },
+    "deldot.gov | I 95 @ SOUTH OF DE 141": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM008.stream/playlist.m3u8",
+        "latitude": 39.696957,
+        "longitude": -75.615329
+    },
+    "deldot.gov | DE 7 @ DE 72": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM015.stream/playlist.m3u8",
+        "latitude": 39.750525,
+        "longitude": -75.702943
+    },
+    "deldot.gov | US 40 @ DE 1 SB RAMP": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM016.stream/playlist.m3u8",
+        "latitude": 39.635502,
+        "longitude": -75.654559
+    },
+    "deldot.gov | US 40 @ DE 896": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM017.stream/playlist.m3u8",
+        "latitude": 39.605802,
+        "longitude": -75.741832
+    },
+    "deldot.gov | US 13 @ DE 896 (BOYDS CORNER)": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM018.stream/playlist.m3u8",
+        "latitude": 39.499757,
+        "longitude": -75.649024
+    },
+    "deldot.gov | US 13 @ US 40": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM019.stream/playlist.m3u8",
+        "latitude": 39.653743,
+        "longitude": -75.617641
+    },
+    "deldot.gov | US 13 @ PINE TREE RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM022.stream/playlist.m3u8",
+        "latitude": 39.406927,
+        "longitude": -75.661988
+    },
+    "deldot.gov | US 40 @ DE 72": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM023.stream/playlist.m3u8",
+        "latitude": 39.608383,
+        "longitude": -75.715758
+    },
+    "deldot.gov | DE 273 @ DE 1 SB OFF RAMP": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM034.stream/playlist.m3u8",
+        "latitude": 39.661268,
+        "longitude": -75.653104
+    },
+    "deldot.gov | DE 273 @ CHAPMAN RD / EAGLE RUN": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM035.stream/playlist.m3u8",
+        "latitude": 39.668527,
+        "longitude": -75.670852
+    },
+    "deldot.gov | DE 273 @ HARMONY RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM036.stream/playlist.m3u8",
+        "latitude": 39.675123,
+        "longitude": -75.680185
+    },
+    "deldot.gov | DE 273 @ DE 4 / STANTON-OGLETOWN RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM037.stream/playlist.m3u8",
+        "latitude": 39.679189,
+        "longitude": -75.694585
+    },
+    "deldot.gov | DE 7 @ DE 4 STANTON": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM039.stream/playlist.m3u8",
+        "latitude": 39.712187,
+        "longitude": -75.648171
+    },
+    "deldot.gov | DE 7 @ DE 4 MORGAN": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM040.stream/playlist.m3u8",
+        "latitude": 39.697116,
+        "longitude": -75.651218
+    },
+    "deldot.gov | DE 7 @ CHURCHMANS RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM041.stream/playlist.m3u8",
+        "latitude": 39.688998,
+        "longitude": -75.654988
+    },
+    "deldot.gov | DE 4 @ HARMONY RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM042.stream/playlist.m3u8",
+        "latitude": 39.685305,
+        "longitude": -75.681961
+    },
+    "deldot.gov | DE 4 @ CHURCHMANS RD (DEL PARK ENT.)": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM043.stream/playlist.m3u8",
+        "latitude": 39.693244,
+        "longitude": -75.669314
+    },
+    "deldot.gov | CHRISTIANA MALL @ TEMP RING RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM046.stream/playlist.m3u8",
+        "latitude": 39.676947,
+        "longitude": -75.655407
+    },
+    "deldot.gov | US 202 @ NAAMANS RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM048.stream/playlist.m3u8",
+        "latitude": 39.828616,
+        "longitude": -75.544773
+    },
+    "deldot.gov | US 202 @ SILVERSIDE RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM049.stream/playlist.m3u8",
+        "latitude": 39.80937,
+        "longitude": -75.549867
+    },
+    "deldot.gov | US 202 @ MURPHY RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM050.stream/playlist.m3u8",
+        "latitude": 39.785073,
+        "longitude": -75.5464
+    },
+    "deldot.gov | FOULK RD @ SILVERSIDE RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM051.stream/playlist.m3u8",
+        "latitude": 39.808416,
+        "longitude": -75.51529
+    },
+    "deldot.gov | DE 92 @ FOULK RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM052.stream/playlist.m3u8",
+        "latitude": 39.824597,
+        "longitude": -75.501276
+    },
+    "deldot.gov | MARSHALL ST @ JUSTIS ST": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM053.stream/playlist.m3u8",
+        "latitude": 39.714619,
+        "longitude": -75.609044
+    },
+    "deldot.gov | I 495 @ 12TH STREET / BRANDYWINE": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM054.stream/playlist.m3u8",
+        "latitude": 39.735298,
+        "longitude": -75.521349
+    },
+    "deldot.gov | I 495 @ I 495 OFF-RAMP TO TERMINAL AVE": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM055.stream/playlist.m3u8",
+        "latitude": 39.718569,
+        "longitude": -75.542489
+    },
+    "deldot.gov | GOV PRINTZ BLVD @ EDGEMOOR RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM056.stream/playlist.m3u8",
+        "latitude": 39.754414,
+        "longitude": -75.499402
+    },
+    "deldot.gov | US 13 @ I-495 RAMP": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM057.stream/playlist.m3u8",
+        "latitude": 39.8064,
+        "longitude": -75.4511
+    },
+    "deldot.gov | I 95 @ DE 92 (NAAMANS RD)": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM058.stream/playlist.m3u8",
+        "latitude": 39.815739,
+        "longitude": -75.453729
+    },
+    "deldot.gov | I 95 @ US 202": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM059.stream/playlist.m3u8",
+        "latitude": 39.766975,
+        "longitude": -75.543028
+    },
+    "deldot.gov | DE 141 @ DUPONT EXPER STA": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM060.stream/playlist.m3u8",
+        "latitude": 39.773272,
+        "longitude": -75.5766
+    },
+    "deldot.gov | DE 141 @ DE 52 - GREENVILLE": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM062.stream/playlist.m3u8",
+        "latitude": 39.772637,
+        "longitude": -75.592228
+    },
+    "deldot.gov | US 13 BUS. @ 12TH ST": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM063.stream/playlist.m3u8",
+        "latitude": 39.7439,
+        "longitude": -75.5366
+    },
+    "deldot.gov | PHILADELPHIA PIKE @ WASHINGTON ST EXT": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM064.stream/playlist.m3u8",
+        "latitude": 39.769399,
+        "longitude": -75.503084
+    },
+    "deldot.gov | US 13 BUS. @ HOLLY OAK RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM065.stream/playlist.m3u8",
+        "latitude": 39.785058,
+        "longitude": -75.477881
+    },
+    "deldot.gov | PHILADELPHIA PIKE @ GOV PRINTZ BLVD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM066.stream/playlist.m3u8",
+        "latitude": 39.800926,
+        "longitude": -75.459907
+    },
+    "deldot.gov | I 495 @ NORTH SLIP RAMPS/YALE AVENUE": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM067.stream/playlist.m3u8",
+        "latitude": 39.79334,
+        "longitude": -75.459948
+    },
+    "deldot.gov | I 495 @ BELLEVUE RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM068.stream/playlist.m3u8",
+        "latitude": 39.770932,
+        "longitude": -75.483384
+    },
+    "deldot.gov | DE 273 @ LIBRARY AVE": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM069.stream/playlist.m3u8",
+        "latitude": 39.684499,
+        "longitude": -75.7368
+    },
+    "deldot.gov | DE 2 @ S COLLEGE AVE": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM070.stream/playlist.m3u8",
+        "latitude": 39.683009,
+        "longitude": -75.753659
+    },
+    "deldot.gov | DE 4 @ DE 896": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM071.stream/playlist.m3u8",
+        "latitude": 39.65851,
+        "longitude": -75.751795
+    },
+    "deldot.gov | DE 4 @ DE 2": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM072.stream/playlist.m3u8",
+        "latitude": 39.665543,
+        "longitude": -75.776058
+    },
+    "deldot.gov | US 13 @ DE 273": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM073.stream/playlist.m3u8",
+        "latitude": 39.665042,
+        "longitude": -75.604381
+    },
+    "deldot.gov | US 13 @ BOULDEN BLVD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM074.stream/playlist.m3u8",
+        "latitude": 39.690091,
+        "longitude": -75.581047
+    },
+    "deldot.gov | I 495 @ US 13 - SOUTHERN INTERCHANGE": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM075.stream/playlist.m3u8",
+        "latitude": 39.71703,
+        "longitude": -75.558608
+    },
+    "deldot.gov | DE 48 @ DE 141": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM076.stream/playlist.m3u8",
+        "latitude": 39.758771,
+        "longitude": -75.604239
+    },
+    "deldot.gov | CENTERVILLE RD @ BOXWOOD RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM077.stream/playlist.m3u8",
+        "latitude": 39.725726,
+        "longitude": -75.616565
+    },
+    "deldot.gov | I 95 @ MARSH RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM078.stream/playlist.m3u8",
+        "latitude": 39.7801,
+        "longitude": -75.5061
+    },
+    "deldot.gov | I 95 @ I 95 NB OFF-RAMP TO HARVEY RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM080.stream/playlist.m3u8",
+        "latitude": 39.8027,
+        "longitude": -75.4795
+    },
+    "deldot.gov | DE 141 @ KIRKWOOD HIGHWAY": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM087.stream/playlist.m3u8",
+        "latitude": 39.737573,
+        "longitude": -75.619947
+    },
+    "deldot.gov | DE 141 @ DE 100": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM088.stream/playlist.m3u8",
+        "latitude": 39.773084,
+        "longitude": -75.587316
+    },
+    "deldot.gov | DE 1 @ US 13 (BLACKBIRD, N. OF DE 71 H&H)": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM089.stream/playlist.m3u8",
+        "latitude": 39.3855,
+        "longitude": -75.6647
+    },
+    "deldot.gov | US 13 @ RD 381": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM096.stream/playlist.m3u8",
+        "latitude": 39.621247,
+        "longitude": -75.641291
+    },
+    "deldot.gov | DE 1 @ US 13 (SCOTT RUN - SOUTH OF CANAL)": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM097.stream/playlist.m3u8",
+        "latitude": 39.5391,
+        "longitude": -75.6491
+    },
+    "deldot.gov | DE 896 @ RD 15": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM100.stream/playlist.m3u8",
+        "latitude": 39.511201,
+        "longitude": -75.711291
+    },
+    "deldot.gov | DE 896 @ DE 71 (NORTH OF CANAL)": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM104.stream/playlist.m3u8",
+        "latitude": 39.560007,
+        "longitude": -75.737348
+    },
+    "deldot.gov | DE 896 @ BETHEL CHURCH RD (SOUTH OF CANAL)": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM105.stream/playlist.m3u8",
+        "latitude": 39.52925,
+        "longitude": -75.736606
+    },
+    "deldot.gov | DE 72 @ DE 1 SB OFF RAMP": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM106.stream/playlist.m3u8",
+        "latitude": 39.580163,
+        "longitude": -75.662451
+    },
+    "deldot.gov | US 13 @ OLD STATE RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM107.stream/playlist.m3u8",
+        "latitude": 39.4221,
+        "longitude": -75.6577
+    },
+    "deldot.gov | DE 299 @ DE 1 NB RMP": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM108.stream/playlist.m3u8",
+        "latitude": 39.4547,
+        "longitude": -75.6755
+    },
+    "deldot.gov | DE 141 @ DE 34": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM113.stream/playlist.m3u8",
+        "latitude": 39.747774,
+        "longitude": -75.610011
+    },
+    "deldot.gov | I 95 @ TOLL PLAZA SB": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM114.stream/playlist.m3u8",
+        "latitude": 39.644818,
+        "longitude": -75.763514
+    },
+    "deldot.gov | I 95 @ DE 896": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM115.stream/playlist.m3u8",
+        "latitude": 39.647049,
+        "longitude": -75.746123
+    },
+    "deldot.gov | I 95 @ REST STOP SB": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM116.stream/playlist.m3u8",
+        "latitude": 39.6632,
+        "longitude": -75.6906
+    },
+    "deldot.gov | I 95 NB @ DE 141": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM117.stream/playlist.m3u8",
+        "latitude": 39.6984,
+        "longitude": -75.6011
+    },
+    "deldot.gov | I 95 @ I 495 SPLIT": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM118.stream/playlist.m3u8",
+        "latitude": 39.71306,
+        "longitude": -75.585859
+    },
+    "deldot.gov | DE 299 @ BUNKER HILL RD (MAIN ST)": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM121.stream/playlist.m3u8",
+        "latitude": 39.450239,
+        "longitude": -75.728758
+    },
+    "deldot.gov | US 301 @ SOUTH OF DE 299 SPLIT - MD LINE WEIGH STATION": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM122.stream/playlist.m3u8",
+        "latitude": 39.41952,
+        "longitude": -75.76395
+    },
+    "deldot.gov | US 13 @ DE 1 NORTH SMYRNA RAMP": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM123.stream/playlist.m3u8",
+        "latitude": 39.3299,
+        "longitude": -75.6251
+    },
+    "deldot.gov | DE 71 @ DE 72": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM132.stream/playlist.m3u8",
+        "latitude": 39.585297,
+        "longitude": -75.684916
+    },
+    "deldot.gov | I 95 @ I 95 SB OFF-RAMP TO DE 141 SB": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM137.stream/playlist.m3u8",
+        "latitude": 39.7061,
+        "longitude": -75.6072
+    },
+    "deldot.gov | 9TH ST @ ADAMS ST (N)": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM138.stream/playlist.m3u8",
+        "latitude": 39.748306,
+        "longitude": -75.556882
+    },
+    "deldot.gov | DE 2 @ OTTS CHAPEL RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM139.stream/playlist.m3u8",
+        "latitude": 39.657912,
+        "longitude": -75.784611
+    },
+    "deldot.gov | DE 896 @ OLD BALTIMORE PIKE": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM140.stream/playlist.m3u8",
+        "latitude": 39.636049,
+        "longitude": -75.74351
+    },
+    "deldot.gov | US 301 @ LEVELS RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM141.stream/playlist.m3u8",
+        "latitude": 39.440663,
+        "longitude": -75.746941
+    },
+    "deldot.gov | US 13 @ DUCK CREEK RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM142.stream/playlist.m3u8",
+        "latitude": 39.324946,
+        "longitude": -75.62198
+    },
+    "deldot.gov | DE 7 @ VALLEY RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM149.stream/playlist.m3u8",
+        "latitude": 39.774897,
+        "longitude": -75.715411
+    },
+    "deldot.gov | DE 141 @ COMMONS BLVD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM150.stream/playlist.m3u8",
+        "latitude": 39.693859,
+        "longitude": -75.599359
+    },
+    "deldot.gov | ELKTON RD @ APPLE RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM152.stream/playlist.m3u8",
+        "latitude": 39.677664,
+        "longitude": -75.762507
+    },
+    "deldot.gov | MLK BLVD @ S JUSTISON ST / DE 48": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM153.stream/playlist.m3u8",
+        "latitude": 39.73971,
+        "longitude": -75.55669
+    },
+    "deldot.gov | MD AVE @ 95 NB EXIT": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM154.stream/playlist.m3u8",
+        "latitude": 39.739422,
+        "longitude": -75.562413
+    },
+    "deldot.gov | DE 1 @ CHRISTIANA MALL RAMP": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM156.stream/playlist.m3u8",
+        "latitude": 39.675909,
+        "longitude": -75.65703
+    },
+    "deldot.gov | DE 1 @ ROAD 336A": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM157.stream/playlist.m3u8",
+        "latitude": 39.673813,
+        "longitude": -75.654761
+    },
+    "deldot.gov | I 95 @ DE 7 RAMP WITH I 95 SB": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM158.stream/playlist.m3u8",
+        "latitude": 39.683873,
+        "longitude": -75.657903
+    },
+    "deldot.gov | US 13 @ BAYLOR BOULEVARD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM159.stream/playlist.m3u8",
+        "latitude": 39.695063,
+        "longitude": -75.576952
+    },
+    "deldot.gov | DE 273 @ AIRPORT RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM160.stream/playlist.m3u8",
+        "latitude": 39.663148,
+        "longitude": -75.639352
+    },
+    "deldot.gov | US 202 @ RIGHTER PARKWAY": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM161.stream/playlist.m3u8",
+        "latitude": 39.813339,
+        "longitude": -75.549725
+    },
+    "deldot.gov | DE 2 @ DE 7": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM162.stream/playlist.m3u8",
+        "latitude": 39.723771,
+        "longitude": -75.657687
+    },
+    "deldot.gov | DE 1 @ NORTH OF SCHOOL BELL BR": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM163.stream/playlist.m3u8",
+        "latitude": 39.648724,
+        "longitude": -75.649881
+    },
+    "deldot.gov | DE 2 @ DELAWARE PARK DR": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM164.stream/playlist.m3u8",
+        "latitude": 39.71386,
+        "longitude": -75.67508
+    },
+    "deldot.gov | US 301 SB RAMP @ LEVELS RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM165.stream/playlist.m3u8",
+        "latitude": 39.44591,
+        "longitude": -75.753155
+    },
+    "deldot.gov | DE 72 @ OLD BALTIMORE PIKE": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM166.stream/playlist.m3u8",
+        "latitude": 39.642422,
+        "longitude": -75.729861
+    },
+    "deldot.gov | DE 52 @ N ADAMS ST (CITY OF WILM)": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM167.stream/playlist.m3u8",
+        "latitude": 39.75109,
+        "longitude": -75.554682
+    },
+    "deldot.gov | E 4TH ST @ N WALNUT ST (CITY O": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM168.stream/playlist.m3u8",
+        "latitude": 39.739313,
+        "longitude": -75.548559
+    },
+    "deldot.gov | I 95 SB @ AT DE 141 OFF RAMP": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM169.stream/playlist.m3u8",
+        "latitude": 39.705713,
+        "longitude": -75.601223
+    },
+    "deldot.gov | US 301 NB @ DE 896 (BOYDS CORNER RD)": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM170.stream/playlist.m3u8",
+        "latitude": 39.506322,
+        "longitude": -75.692754
+    },
+    "deldot.gov | US 301 @ JAMISONS CORNER RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM171.stream/playlist.m3u8",
+        "latitude": 39.524414,
+        "longitude": -75.6796
+    },
+    "deldot.gov | US 301 NB @ US 301 OFF RAMP": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM172.stream/playlist.m3u8",
+        "latitude": 39.528122,
+        "longitude": -75.651081
+    },
+    "deldot.gov | US 301 SB @ RAMP H & G": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM173.stream/playlist.m3u8",
+        "latitude": 39.473344,
+        "longitude": -75.733076
+    },
+    "deldot.gov | US 301 NB @ N. MIDDLETOWN": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM174.stream/playlist.m3u8",
+        "latitude": 39.484097,
+        "longitude": -75.721753
+    },
+    "deldot.gov | MALL RD @ W CENTER BLVD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM175.stream/playlist.m3u8",
+        "latitude": 39.676151,
+        "longitude": -75.650386
+    },
+    "deldot.gov | US 40 @ PORTER RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM176.stream/playlist.m3u8",
+        "latitude": 39.618743,
+        "longitude": -75.694705
+    },
+    "deldot.gov | US 13 NB @ DE 299": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM177.stream/playlist.m3u8",
+        "latitude": 39.456367,
+        "longitude": -75.660608
+    },
+    "deldot.gov | DE 4 @ DE 72": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM178.stream/playlist.m3u8",
+        "latitude": 39.661437,
+        "longitude": -75.735768
+    },
+    "deldot.gov | WALNUT STREET @ SOUTH OF A STR": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM179.stream/playlist.m3u8",
+        "latitude": 39.73282,
+        "longitude": -75.552533
+    },
+    "deldot.gov | US 13 (MARKET ST) @ NEW SWEDEN ST": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM180.stream/playlist.m3u8",
+        "latitude": 39.728324,
+        "longitude": -75.55623
+    },
+    "deldot.gov | DE 896 (BOYDS CORNER RD @ JAMISONS CORNER RD)": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM181.stream/playlist.m3u8",
+        "latitude": 39.503948,
+        "longitude": -75.684539
+    },
+    "deldot.gov | DE 72 @ AMERICAN BLVD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM182.stream/playlist.m3u8",
+        "latitude": 39.583719,
+        "longitude": -75.677833
+    },
+    "deldot.gov | E MAIN ST (DE 273) @ THE GREEN": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM183.stream/playlist.m3u8",
+        "latitude": 39.683092,
+        "longitude": -75.752368
+    },
+    "deldot.gov | E MAIN ST @ POMEROY LANE (TRAI": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM185.stream/playlist.m3u8",
+        "latitude": 39.683737,
+        "longitude": -75.744309
+    },
+    "deldot.gov | PHILADELPHIA PIKE (US 13) @ TRANSIT CTR DR": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM186.stream/playlist.m3u8",
+        "latitude": 39.807542,
+        "longitude": -75.448135
+    },
+    "deldot.gov | TRANSIT CENTER DRIVE @ TRANSIT": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM187.stream/playlist.m3u8",
+        "latitude": 39.80414,
+        "longitude": -75.447187
+    },
+    "deldot.gov | DE 72 @ PORTER RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM188.stream/playlist.m3u8",
+        "latitude": 39.593346,
+        "longitude": -75.699159
+    },
+    "deldot.gov | DE 896 @ PORTER RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM189.stream/playlist.m3u8",
+        "latitude": 39.587354,
+        "longitude": -75.740172
+    },
+    "deldot.gov | DE 2 @ E CLEVELAND AVE/WOODLAWN AVE": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM190.stream/playlist.m3u8",
+        "latitude": 39.686592,
+        "longitude": -75.735982
+    },
+    "deldot.gov | DE 299 @ DE 71 (BROAD ST)": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM191.stream/playlist.m3u8",
+        "latitude": 39.44968,
+        "longitude": -75.716701
+    },
+    "deldot.gov | US 13 SB @ DE 299": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM192.stream/playlist.m3u8",
+        "latitude": 39.457241,
+        "longitude": -75.661924
+    },
+    "deldot.gov | OLD BALTIMORE PIKE @ SALEM CHURCH RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM194.stream/playlist.m3u8",
+        "latitude": 39.648611,
+        "longitude": -75.697575
+    },
+    "deldot.gov | US 13 @ DE 72": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM195.stream/playlist.m3u8",
+        "latitude": 39.579432,
+        "longitude": -75.657589
+    },
+    "deldot.gov | DE 4 @ ALBAN DR": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM196.stream/playlist.m3u8",
+        "latitude": 39.73401,
+        "longitude": -75.575476
+    },
+    "deldot.gov | LANCASTER AVE @ JACKSON ST": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM197.stream/playlist.m3u8",
+        "latitude": 39.741844,
+        "longitude": -75.562441
+    },
+    "deldot.gov | 4TH ST @ WASHINGTON ST": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM198.stream/playlist.m3u8",
+        "latitude": 39.742087,
+        "longitude": -75.55528
+    },
+    "deldot.gov | 4TH ST @ ADAMS ST": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM199.stream/playlist.m3u8",
+        "latitude": 39.743893,
+        "longitude": -75.559707
+    },
+    "deldot.gov | 2ND ST @ KING ST": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM201.stream/playlist.m3u8",
+        "latitude": 39.738367,
+        "longitude": -75.551519
+    },
+    "deldot.gov | DE 299 @ CLEAVER FARM RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM203.stream/playlist.m3u8",
+        "latitude": 39.450289,
+        "longitude": -75.701938
+    },
+    "deldot.gov | LANCASTER AVE @ LINCOLN ST": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM204.stream/playlist.m3u8",
+        "latitude": 39.746399,
+        "longitude": -75.573359
+    },
+    "deldot.gov | Portable Camera - NCAM205": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM205.stream/playlist.m3u8",
+        "latitude": 39.748576,
+        "longitude": -75.552087
+    },
+    "deldot.gov | CONCORD AVE @ BAYNARD BLVD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM206.stream/playlist.m3u8",
+        "latitude": 39.761325,
+        "longitude": -75.542321
+    },
+    "deldot.gov | MARKET ST @ CONCORD AVE": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM207.stream/playlist.m3u8",
+        "latitude": 39.752214,
+        "longitude": -75.540833
+    },
+    "deldot.gov | 4TH ST @ UNION ST": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM208.stream/playlist.m3u8",
+        "latitude": 39.749246,
+        "longitude": -75.573084
+    },
+    "deldot.gov | DELAWARE AVE @ JACKSON ST": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM209.stream/playlist.m3u8",
+        "latitude": 39.751917,
+        "longitude": -75.555607
+    },
+    "deldot.gov | DE 2 @ POLLY DRUMMOND HILL RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM210.stream/playlist.m3u8",
+        "latitude": 39.698188,
+        "longitude": -75.709141
+    },
+    "deldot.gov | DE 141 @ DE 273 (FRENCHTOWN RD)": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM211.stream/playlist.m3u8",
+        "latitude": 39.664376,
+        "longitude": -75.579396
+    },
+    "deldot.gov | KING ST/MARKET ST @ 16TH ST": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM212.stream/playlist.m3u8",
+        "latitude": 39.749788,
+        "longitude": -75.544014
+    },
+    "deldot.gov | WALNUT ST @ 11TH ST": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM213.stream/playlist.m3u8",
+        "latitude": 39.745383,
+        "longitude": -75.544369
+    },
+    "deldot.gov | KING ST @ 10TH ST": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM214.stream/playlist.m3u8",
+        "latitude": 39.745269,
+        "longitude": -75.546949
+    },
+    "deldot.gov | I 95 NB @ NORTH ADAMS STREET O": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM215.stream/playlist.m3u8",
+        "latitude": 39.752204,
+        "longitude": -75.553424
+    },
+    "deldot.gov | MARKET ST @ CHRISTINA CROSSING": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM217.stream/playlist.m3u8",
+        "latitude": 39.733073,
+        "longitude": -75.556083
+    },
+    "deldot.gov | BAYNARD BLVD @ 16TH ST / WAS": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM218.stream/playlist.m3u8",
+        "latitude": 39.753354,
+        "longitude": -75.547643
+    },
+    "deldot.gov | HEALD ST @ CHRISTINA AVE": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM219.stream/playlist.m3u8",
+        "latitude": 39.733508,
+        "longitude": -75.540739
+    },
+    "deldot.gov | 12TH ST @ MARKET ST": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM221.stream/playlist.m3u8",
+        "latitude": 39.747307,
+        "longitude": -75.546675
+    },
+    "deldot.gov | PENNSYLVANIA AVE @ GREENHILL AVE": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM222.stream/playlist.m3u8",
+        "latitude": 39.760041,
+        "longitude": -75.574865
+    },
+    "deldot.gov | PENNSYLVANIA AVE @ N RODNEY ST": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM223.stream/playlist.m3u8",
+        "latitude": 39.754062,
+        "longitude": -75.561805
+    },
+    "deldot.gov | LANCASTER AVE @ S DUPONT RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM224.stream/playlist.m3u8",
+        "latitude": 39.751993,
+        "longitude": -75.587055
+    },
+    "deldot.gov | DE 52 @ DE 100": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM225.stream/playlist.m3u8",
+        "latitude": 39.769729,
+        "longitude": -75.588024
+    },
+    "deldot.gov | DE 2 @ DE 100": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM226.stream/playlist.m3u8",
+        "latitude": 39.739103,
+        "longitude": -75.589332
+    },
+    "deldot.gov | AUGUSTINE CUTOFF @ 18TH ST": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM227.stream/playlist.m3u8",
+        "latitude": 39.761706,
+        "longitude": -75.553477
+    },
+    "deldot.gov | CENTERVILLE RD @ OLD CAPITOL TRAIL": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM229.stream/playlist.m3u8",
+        "latitude": 39.735854,
+        "longitude": -75.622557
+    },
+    "deldot.gov | CENTERVILLE RD @ GREENBANK RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM230.stream/playlist.m3u8",
+        "latitude": 39.738092,
+        "longitude": -75.622706
+    },
+    "deldot.gov | DE 34 (FAULKLAND RD) @ DE 100": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM236.stream/playlist.m3u8",
+        "latitude": 39.749181,
+        "longitude": -75.589723
+    },
+    "deldot.gov | CASHO MILL RD @ SOUTH OF CSX TRACKS": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM243.stream/playlist.m3u8",
+        "latitude": 39.674874,
+        "longitude": -75.773317
+    },
+    "deldot.gov | CASHO MILL RD @ NORTH OF CSX TRACKS": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM244.stream/playlist.m3u8",
+        "latitude": 39.676187,
+        "longitude": -75.774218
+    },
+    "deldot.gov | FOULK RD @ BRANDYWINE HS": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM247.stream/playlist.m3u8",
+        "latitude": 39.800381,
+        "longitude": -75.522722
+    },
+    "deldot.gov | POLE BRIDGE RD @ DE 1 NB RAMP": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM249.stream/playlist.m3u8",
+        "latitude": 39.500819,
+        "longitude": -75.64472
+    },
+    "deldot.gov | SR 896 @ WELSH TRACT ROAD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM253.stream/playlist.m3u8",
+        "latitude": 39.651895,
+        "longitude": -75.749543
+    },
+    "deldot.gov | DE 9 @ CLINTON ST": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM255.stream/playlist.m3u8",
+        "latitude": 39.573028,
+        "longitude": -75.594744
+    },
+    "deldot.gov | DE 72 @ DE 9 (RIVER RD) / CLARKS CORNER RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM256.stream/playlist.m3u8",
+        "latitude": 39.580259,
+        "longitude": -75.629247
+    },
+    "deldot.gov | DE 9 @ HAMBURG RD (FLASHER)": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM257.stream/playlist.m3u8",
+        "latitude": 39.615524,
+        "longitude": -75.631633
+    },
+    "deldot.gov | RAMP FROM SB I-495 AND I- @ NB": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM258.stream/playlist.m3u8",
+        "latitude": 39.702866,
+        "longitude": -75.589652
+    },
+    "deldot.gov | SUMMIT BRIDGE RD @ SUMMIT AVIATION": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM263.stream/playlist.m3u8",
+        "latitude": 39.523074,
+        "longitude": -75.717387
+    },
+    "deldot.gov | LEVELS RD @ PATRIOT DR": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM264.stream/playlist.m3u8",
+        "latitude": 39.438453,
+        "longitude": -75.745639
+    },
+    "deldot.gov | HEALD ST @ ROGERS RD (DE 13A @ ROGERS RD)": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM266.stream/playlist.m3u8",
+        "latitude": 39.718669,
+        "longitude": -75.5546
+    },
+    "deldot.gov | BOYDS CORNER ROAD @ WEST CENTRAL PARK DR": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM268.stream/playlist.m3u8",
+        "latitude": 39.502574,
+        "longitude": -75.677278
+    },
+    "deldot.gov | TELEGRAPH RD @ NORTH OF CSX BR": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM269.stream/playlist.m3u8",
+        "latitude": 39.71503,
+        "longitude": -75.658643
+    },
+    "deldot.gov | TELEGRAPH RD @ SOUTH OF CSX BR": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM270.stream/playlist.m3u8",
+        "latitude": 39.714186,
+        "longitude": -75.657265
+    },
+    "deldot.gov | DE 41 @ DE 48": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM271.stream/playlist.m3u8",
+        "latitude": 39.773049,
+        "longitude": -75.671283
+    },
+    "deldot.gov | DE 71 @ SAINT ANNES CHURCH RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM273.stream/playlist.m3u8",
+        "latitude": 39.435458,
+        "longitude": -75.712328
+    },
+    "deldot.gov | US 40 @ PLEASANT VALLEY ROAD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM274.stream/playlist.m3u8",
+        "latitude": 39.605024,
+        "longitude": -75.769146
+    },
+    "deldot.gov | CENTER BLVD S @ CHRISTIANA RET": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM275.stream/playlist.m3u8",
+        "latitude": 39.675465,
+        "longitude": -75.649275
+    },
+    "deldot.gov | DE 2 @ MEADOWOOD DRIVE": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM276.stream/playlist.m3u8",
+        "latitude": 39.707134,
+        "longitude": -75.684698
+    },
+    "deldot.gov | MILLTOWN RD @ MCKENNANS CHURCH RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM281.stream/playlist.m3u8",
+        "latitude": 39.731137,
+        "longitude": -75.665774
+    },
+    "deldot.gov | DE 7 @ MILLTOWN RD": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM282.stream/playlist.m3u8",
+        "latitude": 39.7311,
+        "longitude": -75.666647
+    },
+    "deldot.gov | A STREET @ NEW CASTLE AVE": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM285.stream/playlist.m3u8",
+        "latitude": 39.730211,
+        "longitude": -75.542754
+    },
+    "deldot.gov | DE 41 @ WITHERS WAY": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/NCAM295.stream/playlist.m3u8",
+        "latitude": 39.777358,
+        "longitude": -75.676899
+    },
+    "deldot.gov | DE 1 @ Access Road B": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/PCAM4061.stream/playlist.m3u8",
+        "latitude": 38.60195,
+        "longitude": -75.06301
+    },
+    "deldot.gov | DE 1 @ HUDSON FIELDS": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/PCAM4066.stream/playlist.m3u8",
+        "latitude": 38.777234,
+        "longitude": -75.22978
+    },
+    "deldot.gov | 912 KENTON RD, DOVER, DE 19904, USA": {
+        "location": "Kent County, Delaware",
+        "url": "https://video.deldot.gov:443/live/PCAM4067.stream/playlist.m3u8",
+        "latitude": 39.166424,
+        "longitude": -75.561963
+    },
+    "deldot.gov | DE 1 @ HUDSON RD": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/PCAM4068.stream/playlist.m3u8",
+        "latitude": 38.78523,
+        "longitude": -75.24172
+    },
+    "deldot.gov | ROUTE 13 @ EXIT 114 RAMP - SMYRNA": {
+        "location": "New Castle County, Delaware",
+        "url": "https://video.deldot.gov:443/live/PCAM4461.stream/playlist.m3u8",
+        "latitude": 39.346233,
+        "longitude": -75.641043
+    },
+    "deldot.gov | DE 1 @ DE 54": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM001.stream/playlist.m3u8",
+        "latitude": 38.452241,
+        "longitude": -75.052019
+    },
+    "deldot.gov | DE 1 @ DE 26": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM002.stream/playlist.m3u8",
+        "latitude": 38.538401,
+        "longitude": -75.059042
+    },
+    "deldot.gov | DE 1 @ US 9": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM003.stream/playlist.m3u8",
+        "latitude": 38.748216,
+        "longitude": -75.173495
+    },
+    "deldot.gov | DE 26 @ DE 17": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM004.stream/playlist.m3u8",
+        "latitude": 38.550665,
+        "longitude": -75.131553
+    },
+    "deldot.gov | DE 1 @ DE 1A": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM009.stream/playlist.m3u8",
+        "latitude": 38.697707,
+        "longitude": -75.075627
+    },
+    "deldot.gov | DE 1 @ DE 1A REHOBOTH": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM010.stream/playlist.m3u8",
+        "latitude": 38.71252,
+        "longitude": -75.101443
+    },
+    "deldot.gov | DE 1 @ DE 24": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM011.stream/playlist.m3u8",
+        "latitude": 38.731836,
+        "longitude": -75.133573
+    },
+    "deldot.gov | DE 1 @ RD 268A": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM012.stream/playlist.m3u8",
+        "latitude": 38.745057,
+        "longitude": -75.153419
+    },
+    "deldot.gov | DE 1 @ COLLINS ST (DEWEY BEACH)": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM013.stream/playlist.m3u8",
+        "latitude": 38.680499,
+        "longitude": -75.071786
+    },
+    "deldot.gov | DE 1 @ CAMELOT": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM014.stream/playlist.m3u8",
+        "latitude": 38.721363,
+        "longitude": -75.120926
+    },
+    "deldot.gov | US 113 @ US 9": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM082.stream/playlist.m3u8",
+        "latitude": 38.681511,
+        "longitude": -75.396088
+    },
+    "deldot.gov | HIGH ST @ FRONT ST": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM083.stream/playlist.m3u8",
+        "latitude": 38.642281,
+        "longitude": -75.609041
+    },
+    "deldot.gov | US 113 @ DE 24": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM084.stream/playlist.m3u8",
+        "latitude": 38.585411,
+        "longitude": -75.295312
+    },
+    "deldot.gov | US 113 @ RD 334": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM085.stream/playlist.m3u8",
+        "latitude": 38.566357,
+        "longitude": -75.27834
+    },
+    "deldot.gov | DE 26 @ RD 357": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM093.stream/playlist.m3u8",
+        "latitude": 38.544507,
+        "longitude": -75.091115
+    },
+    "deldot.gov | US 113 @ DE 18": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM094.stream/playlist.m3u8",
+        "latitude": 38.698504,
+        "longitude": -75.400978
+    },
+    "deldot.gov | US 13 @ DE 404": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM095.stream/playlist.m3u8",
+        "latitude": 38.723254,
+        "longitude": -75.59086
+    },
+    "deldot.gov | DE 1 @ INDIAN RIVER BRIDGE INLET - NORTH": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM098.stream/playlist.m3u8",
+        "latitude": 38.6154,
+        "longitude": -75.0658
+    },
+    "deldot.gov | DE 1 @ INDIAN RIVER BRIDGE INLET - SOUTH": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM099.stream/playlist.m3u8",
+        "latitude": 38.6015,
+        "longitude": -75.062
+    },
+    "deldot.gov | DE 54 @ DE 20": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM101.stream/playlist.m3u8",
+        "latitude": 38.470154,
+        "longitude": -75.115791
+    },
+    "deldot.gov | US 13 @ RD 534": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM112.stream/playlist.m3u8",
+        "latitude": 38.66103,
+        "longitude": -75.594197
+    },
+    "deldot.gov | US 13 @ DE 20 NORTH": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM130.stream/playlist.m3u8",
+        "latitude": 38.652834,
+        "longitude": -75.594614
+    },
+    "deldot.gov | US 113 @ TOWN CENTER BLVD": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM133.stream/playlist.m3u8",
+        "latitude": 38.572,
+        "longitude": -75.2837
+    },
+    "deldot.gov | DE 1A @ CHURCH ST": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM135.stream/playlist.m3u8",
+        "latitude": 38.71358,
+        "longitude": -75.096618
+    },
+    "deldot.gov | DE 26 @ DE 20": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM143.stream/playlist.m3u8",
+        "latitude": 38.54807,
+        "longitude": -75.237918
+    },
+    "deldot.gov | DE 1 @ RD 283": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM144.stream/playlist.m3u8",
+        "latitude": 38.738121,
+        "longitude": -75.143136
+    },
+    "deldot.gov | DE 1 @ JAMES ST": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM146.stream/playlist.m3u8",
+        "latitude": 38.465266,
+        "longitude": -75.051941
+    },
+    "deldot.gov | DE 1 @ DE 30": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM148.stream/playlist.m3u8",
+        "latitude": 38.891291,
+        "longitude": -75.388098
+    },
+    "deldot.gov | DE 26 @ MAIN ST": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM151.stream/playlist.m3u8",
+        "latitude": 38.546506,
+        "longitude": -75.243198
+    },
+    "deldot.gov | US 113 @ ARROW SAFETY RD": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM155.stream/playlist.m3u8",
+        "latitude": 38.671,
+        "longitude": -75.3857
+    },
+    "deldot.gov | DE 26 @ RD 334": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM160.stream/playlist.m3u8",
+        "latitude": 38.549164,
+        "longitude": -75.245407
+    },
+    "deldot.gov | PRIMEHOOK RD @ SNOW GOOSE RD": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM161.stream/playlist.m3u8",
+        "latitude": 38.855187,
+        "longitude": -75.244138
+    },
+    "deldot.gov | DE 1 @ DE 16": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM162.stream/playlist.m3u8",
+        "latitude": 38.804267,
+        "longitude": -75.272419
+    },
+    "deldot.gov | US 13 NB @ DE 16": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM163.stream/playlist.m3u8",
+        "latitude": 38.806135,
+        "longitude": -75.583963
+    },
+    "deldot.gov | US 113 @ FITZGERALD RD/JOHNS": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM164.stream/playlist.m3u8",
+        "latitude": 38.869326,
+        "longitude": -75.439703
+    },
+    "deldot.gov | US 113 @ DE 26": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM165.stream/playlist.m3u8",
+        "latitude": 38.541618,
+        "longitude": -75.257364
+    },
+    "deldot.gov | US 113 @ DE 16": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM166.stream/playlist.m3u8",
+        "latitude": 38.806413,
+        "longitude": -75.439001
+    },
+    "deldot.gov | DE 1 NB @ NE FRONT STREET INTE": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM168.stream/playlist.m3u8",
+        "latitude": 38.926072,
+        "longitude": -75.412813
+    },
+    "deldot.gov | DE 1 @ IRIB SOUTH PYLON TOP": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM169.stream/playlist.m3u8",
+        "latitude": 38.607766,
+        "longitude": -75.06355
+    },
+    "deldot.gov | DE 1 @ IRIB NORTH PYLON TOP": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM170.stream/playlist.m3u8",
+        "latitude": 38.608814,
+        "longitude": -75.063883
+    },
+    "deldot.gov | US 9 @ DE 5": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM174.stream/playlist.m3u8",
+        "latitude": 38.725011,
+        "longitude": -75.285423
+    },
+    "deldot.gov | DE 24 @ BEEBE ROAD": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM175.stream/playlist.m3u8",
+        "latitude": 38.727181,
+        "longitude": -75.138921
+    },
+    "deldot.gov | DE 24 @ REHOBOTH MALL": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM176.stream/playlist.m3u8",
+        "latitude": 38.729573,
+        "longitude": -75.136095
+    },
+    "deldot.gov | DE 24 @ PLANTATION/WARRINGTON": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM177.stream/playlist.m3u8",
+        "latitude": 38.723641,
+        "longitude": -75.142638
+    },
+    "deldot.gov | US 9 @ SAND HILL RD": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM178.stream/playlist.m3u8",
+        "latitude": 38.699042,
+        "longitude": -75.368528
+    },
+    "deldot.gov | DE 24 EB @ STATE ST": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM179.stream/playlist.m3u8",
+        "latitude": 38.591743,
+        "longitude": -75.291297
+    },
+    "deldot.gov | DE 24 WB @ STATE ST": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM180.stream/playlist.m3u8",
+        "latitude": 38.591927,
+        "longitude": -75.291938
+    },
+    "deldot.gov | DE 24 @ DE 5/23 (ROAD 22)": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM181.stream/playlist.m3u8",
+        "latitude": 38.635682,
+        "longitude": -75.194284
+    },
+    "deldot.gov | US 9 KINGS HWY @ CLAY RD": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM182.stream/playlist.m3u8",
+        "latitude": 38.751993,
+        "longitude": -75.150068
+    },
+    "deldot.gov | US 9 @ PARK AVE": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM183.stream/playlist.m3u8",
+        "latitude": 38.706419,
+        "longitude": -75.34265
+    },
+    "deldot.gov | US 113 @ DEER FOREST RD/E REDD": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM184.stream/playlist.m3u8",
+        "latitude": 38.739088,
+        "longitude": -75.424324
+    },
+    "deldot.gov | US 9 @ DE 1/US 9/DE 23 CONNECTOR": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM187.stream/playlist.m3u8",
+        "latitude": 38.747328,
+        "longitude": -75.176098
+    },
+    "deldot.gov | US 13 @ DE 24": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM188.stream/playlist.m3u8",
+        "latitude": 38.554928,
+        "longitude": -75.556258
+    },
+    "deldot.gov | US 13 @ US 9": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM189.stream/playlist.m3u8",
+        "latitude": 38.570306,
+        "longitude": -75.563041
+    },
+    "deldot.gov | US 113 @ DE 54": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM190.stream/playlist.m3u8",
+        "latitude": 38.463278,
+        "longitude": -75.233983
+    },
+    "deldot.gov | US 13 @ DE 54": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM191.stream/playlist.m3u8",
+        "latitude": 38.455888,
+        "longitude": -75.557932
+    },
+    "deldot.gov | DE 24 @ ROBINSONVILLE RD/ANGOLA RD": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM192.stream/playlist.m3u8",
+        "latitude": 38.67743,
+        "longitude": -75.18322
+    },
+    "deldot.gov | DE 24 @ MOUNT JOY ROAD": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM193.stream/playlist.m3u8",
+        "latitude": 38.614379,
+        "longitude": -75.202328
+    },
+    "deldot.gov | DE 24 @ RD 279 (PEDDLERS VILLAGE)": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM194.stream/playlist.m3u8",
+        "latitude": 38.699952,
+        "longitude": -75.169262
+    },
+    "deldot.gov | DE 24 @ AUTUMN RD": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM195.stream/playlist.m3u8",
+        "latitude": 38.626692,
+        "longitude": -75.196379
+    },
+    "deldot.gov | DE 24 @ BEACON MIDDLE SCHOOL": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM196.stream/playlist.m3u8",
+        "latitude": 38.714494,
+        "longitude": -75.151335
+    },
+    "deldot.gov | DE 24 @ HOLLYVILLE RD": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM197.stream/playlist.m3u8",
+        "latitude": 38.601169,
+        "longitude": -75.281753
+    },
+    "deldot.gov | DE 24 @ HOLLYMOUNT ROAD": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM198.stream/playlist.m3u8",
+        "latitude": 38.668336,
+        "longitude": -75.188861
+    },
+    "deldot.gov | DE 1 @ SPRING LAKE DR": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM199.stream/playlist.m3u8",
+        "latitude": 38.70535,
+        "longitude": -75.086658
+    },
+    "deldot.gov | DE 1 @ BELLEVUE ST": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM200.stream/playlist.m3u8",
+        "latitude": 38.694367,
+        "longitude": -75.075185
+    },
+    "deldot.gov | DE 54 @ LINCOLN AVE": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM202.stream/playlist.m3u8",
+        "latitude": 38.456103,
+        "longitude": -75.071248
+    },
+    "deldot.gov | DE 1 @ READ ST": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM203.stream/playlist.m3u8",
+        "latitude": 38.691899,
+        "longitude": -75.074529
+    },
+    "deldot.gov | DE 1 @ RD 360": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM204.stream/playlist.m3u8",
+        "latitude": 38.55559,
+        "longitude": -75.060266
+    },
+    "deldot.gov | US 113 @ GOVERNOR STOCKLEY RD": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM206.stream/playlist.m3u8",
+        "latitude": 38.633555,
+        "longitude": -75.350038
+    },
+    "deldot.gov | US 113 @ AVENUE OF HONOR": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM207.stream/playlist.m3u8",
+        "latitude": 38.618322,
+        "longitude": -75.335116
+    },
+    "deldot.gov | DE 1 @ REHOBOTH MALL": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM208.stream/playlist.m3u8",
+        "latitude": 38.729788,
+        "longitude": -75.131065
+    },
+    "deldot.gov | US 113 @ MASON DIXON SHOPPING": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM209.stream/playlist.m3u8",
+        "latitude": 38.459058,
+        "longitude": -75.233578
+    },
+    "deldot.gov | US 113 @ HOSIER ST": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM210.stream/playlist.m3u8",
+        "latitude": 38.456175,
+        "longitude": -75.233019
+    },
+    "deldot.gov | US 9 @ MINOS CONAWAY RD/ LAKEV": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM211.stream/playlist.m3u8",
+        "latitude": 38.739222,
+        "longitude": -75.205792
+    },
+    "deldot.gov | US 9 @ MONROE AVE": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM213.stream/playlist.m3u8",
+        "latitude": 38.768018,
+        "longitude": -75.139098
+    },
+    "deldot.gov | DE 1 BUSINESS (S REHOBOTH @ SO": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM214.stream/playlist.m3u8",
+        "latitude": 38.916672,
+        "longitude": -75.416895
+    },
+    "deldot.gov | US 13 SB @ DE 16": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM215.stream/playlist.m3u8",
+        "latitude": 38.806175,
+        "longitude": -75.585208
+    },
+    "deldot.gov | DE 24 @ DE 30 (GRAVEL HILL RD)": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM217.stream/playlist.m3u8",
+        "latitude": 38.59621,
+        "longitude": -75.291162
+    },
+    "deldot.gov | US 9 (KINGS HWY) @ GILLS NECK": {
+        "location": "Sussex County, Delaware",
+        "url": "https://video.deldot.gov:443/live/SCAM233.stream/playlist.m3u8",
+        "latitude": 38.755437,
+        "longitude": -75.148264
     }
 }
