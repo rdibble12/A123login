@@ -6792,7 +6792,7 @@
         "location": "Storm Chaser"
     },
     "Tornado Paigeyy": {
-        "url": "srt://usw.srt.belabox.net:4001?streamid=OOn5nxqJVVGioo319c3kIY5RY7qheb&timeout=2000000",
+        "url": "rtmp://ch-1.castr.io/static/live_ae9570401ed211f0927195571f488e41",
         "location": "Storm Chaser"
     },
     "Scott Roberts": {
