@@ -1,295 +1,7 @@
 {
-    "United Rescue Alliance Camp Barkeley | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/c8a6b491812c",
-        "location": "Abilene, Texas",
-        "latitude": 32.3157,
-        "longitude": -99.8698
-    },
-    "The Weather House / Y'all Sqaud HQ | RadarOmega": {
-        "location": "Pikeville, Kentucky",
-        "latitude": 37.4924,
-        "longitude": -82.5518,
-        "url1": "https://video1.cdn.radaromega.com/live/3cb2d952be32/stream.m3u8",
-        "url2": "https://video2.cdn.radaromega.com/live/3cb2d952be32/stream.m3u8",
-        "url": "https://video3.cdn.radaromega.com/live/3cb2d952be32/stream.m3u8",
-        "url4": "https://video4.cdn.radaromega.com/live/3cb2d952be32/stream.m3u8",
-        "url5": "https://video5.cdn.radaromega.com/live/3cb2d952be32/stream.m3u8",
-        "url6": "https://video6.cdn.radaromega.com/live/3cb2d952be32/stream.m3u8"
-    },
-    "Perry County Weather Watchers | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/c9e8eeb0c059",
-        "location": "Perryville, Arkansas",
-        "latitude": 35.003661043019,
-        "longitude": -92.80855729861
-    },
-    "Serenity Ranch | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/30b50573042c",
-        "location": "Loving, Texas",
-        "latitude": 33.33128760652,
-        "longitude": -98.421823552714
-    },
-    "Burkburnett | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/020bd634b69c",
-        "location": "Burkburnett, Texas",
-        "latitude": 34.076120174278,
-        "longitude": -98.535972916673
-    },
-    "RadarOmega HQ 1 | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/281188c0eb07",
-        "location": "Silver City, Georgia",
-        "latitude": 34.334383768906,
-        "longitude": -84.114380805775
-    },
-    "RadarOmega HQ 2 | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/dae00d63000a",
-        "location": "Silver City, Georgia",
-        "latitude": 34.334383768906,
-        "longitude": -84.114380805775
-    },
-    "RadarOmega HQ 3 | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/89cbe7218ecc",
-        "location": "Silver City, Georgia",
-        "latitude": 34.334383768906,
-        "longitude": -84.114380805775
-    },
-    "Cherokee Co. Fire Station 12 | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/33b5184984ba",
-        "location": "Waleska, Georgia",
-        "latitude": 34.3156007,
-        "longitude": -84.5547034
-    },
-    "Chestatee Golf Neighborhood | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/1922f782ee4a",
-        "location": "Dawsonville, Georgia",
-        "latitude": 34.403262232484,
-        "longitude": -83.981912245181
-    },
-    "Jefferson County EMA | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/ac3cb9a46146",
-        "location": "Louisville, Georgia",
-        "latitude": 32.994328620769,
-        "longitude": -82.421713778676
-    },
-    "Cherokee EMA | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/f8f3e5bdb68a",
-        "location": "Univeter, Georgia",
-        "latitude": 34.19399,
-        "longitude": -84.494002
-    },
-    "Systems Atlanta | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/9ef01ebc06c2",
-        "location": "Kennesaw, Georgia",
-        "latitude": 34.0053,
-        "longitude": -84.6107
-    },
-    "Rockdale County EMA | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/2339c1a95534",
-        "location": "Richardson, Georgia",
-        "latitude": 33.600016364936,
-        "longitude": -84.101987931708
-    },
-    "Crystal Falls Golf Course | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/7119f4094af0",
-        "location": "Hubbardsville, Georgia",
-        "latitude": 34.371748690606,
-        "longitude": -84.23940377351
-    },
-    "Derbocity | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/cebe6d410d6d_B5D01E",
-        "location": "Woodstock, Georgia",
-        "latitude": 34.1345817,
-        "longitude": -84.391159
-    },
-    "Killeen, TX | RadarOmega": {
-        "location": "Killeen, Texas",
-        "latitude": 31.069924130874302,
-        "longitude": -97.73331274100588,
-        "url": "https://video1.cdn.radaromega.com/live/010e4ff81e95/stream.m3u8",
-        "url2": "https://video2.cdn.radaromega.com/live/010e4ff81e95/stream.m3u8",
-        "url3": "https://video3.cdn.radaromega.com/live/010e4ff81e95/stream.m3u8",
-        "url4": "https://video4.cdn.radaromega.com/live/010e4ff81e95/stream.m3u8",
-        "url5": "https://video5.cdn.radaromega.com/live/010e4ff81e95/stream.m3u8",
-        "url6": "https://video6.cdn.radaromega.com/live/010e4ff81e95/stream.m3u8"
-    },
-    "Cajun Broadband | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/0de4dacd49e8",
-        "location": "Broussard, Louisiana",
-        "latitude": 30.136111,
-        "longitude": -91.943669
-    },
-    "Burnsville, NC 2NC0 | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/aec1855e8f63",
-        "location": "Burnsville, North Carolina",
-        "latitude": 35.870035973727,
-        "longitude": -82.340185344271
-    },
-    "Simmons Bank liberty Stadium | RadarOmega": {
-        "location": "Memphis, Tennessee",
-        "latitude": 35.121706,
-        "longitude": -89.976507,
-        "url": "https://video1.cdn.radaromega.com/live/9edf47cd6fb3/stream.m3u8",
-        "url2": "https://video2.cdn.radaromega.com/live/9edf47cd6fb3/stream.m3u8",
-        "url3": "https://video3.cdn.radaromega.com/live/9edf47cd6fb3/stream.m3u8",
-        "url4": "https://video4.cdn.radaromega.com/live/9edf47cd6fb3/stream.m3u8",
-        "url5": "https://video5.cdn.radaromega.com/live/9edf47cd6fb3/stream.m3u8",
-        "url6": "https://video6.cdn.radaromega.com/live/9edf47cd6fb3/stream.m3u8"
-    },
-    "Bank of America Stadium Outside | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/49a55b1a2b56",
-        "location": "Charlotte, North Carolina",
-        "latitude": 35.226355455651,
-        "longitude": -80.853958327174
-    },
-    "Bank of America Stadium Inside | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/239b6de9a46f",
-        "location": "Charlotte, North Carolina",
-        "latitude": 35.226355455651,
-        "longitude": -80.853958327174
-    },
-    "Boltek HQ | RadarOmega": {
-        "url": "https://video1.cdn.radaromega.com/live/a46740584b80/stream.m3u8",
-        "url2": "https://video2.cdn.radaromega.com/live/a46740584b80/stream.m3u8",
-        "url3": "https://video3.cdn.radaromega.com/live/a46740584b80/stream.m3u8",
-        "url4": "https://video4.cdn.radaromega.com/live/a46740584b80/stream.m3u8",
-        "url5": "https://video5.cdn.radaromega.com/live/a46740584b80/stream.m3u8",
-        "url6": "https://video6.cdn.radaromega.com/live/a46740584b80/stream.m3u8",
-        "location": "Portcolberne, Ontario",
-        "latitude": 42.9195,
-        "longitude": -79.2591
-    },
-    "Texas City | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/a43c2d07ee9b",
-        "location": "Texas City, Texas",
-        "latitude": 29.39484528266,
-        "longitude": -94.908731069586
-    },
-    "www.parksmarina.com/webcams/ | RadarOmega": {
-        "location": "Spirit Lake, Iowa",
-        "latitude": 43.391573236644,
-        "longitude": -95.102785637739,
-        "url": "https://video1.cdn.radaromega.com/live/5db400a8b543_BF9810/stream.m3u8",
-        "url2": "https://video2.cdn.radaromega.com/live/5db400a8b543_BF9810/stream.m3u8",
-        "url3": "https://video3.cdn.radaromega.com/live/5db400a8b543_BF9810/stream.m3u8",
-        "url4": "https://video4.cdn.radaromega.com/live/5db400a8b543_BF9810/stream.m3u8",
-        "url5": "https://video5.cdn.radaromega.com/live/5db400a8b543_BF9810/stream.m3u8",
-        "url6": "https://video6.cdn.radaromega.com/live/5db400a8b543_BF9810/stream.m3u8"
-    },
-    "Dragon Nation | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/9835e6965eac",
-        "location": "Faucett, Missouri",
-        "latitude": 39.632841096588,
-        "longitude": -94.813280506202
-    },
-    "Firetext | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/686b597517bf",
-        "location": "Trumann, Arkansas",
-        "latitude": 35.676764551661,
-        "longitude": -90.545960324464
-    },
-    "Chapaton | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/f5ba2981b1cc",
-        "location": "St. Clair Shores, Michigan",
-        "latitude": 42.464308290449,
-        "longitude": -82.885303528758
-    },
-    "Hinds County, MS EMA | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/bba461eca5ca",
-        "location": "Jackson, Mississippi",
-        "latitude": 32.3599,
-        "longitude": -90.1517
-    },
-    "Stanton County EMA | RadarOmega": {
-        "location": "Norfolk, Nebraska",
-        "latitude": 42.019182554663,
-        "longitude": -97.318550310601,
-        "url": "https://video1.cdn.radaromega.com/live/4457f25b959c/stream.m3u8",
-        "url2": "https://video2.cdn.radaromega.com/live/4457f25b959c/stream.m3u8",
-        "url3": "https://video3.cdn.radaromega.com/live/4457f25b959c/stream.m3u8",
-        "url4": "https://video4.cdn.radaromega.com/live/4457f25b959c/stream.m3u8",
-        "url5": "https://video5.cdn.radaromega.com/live/4457f25b959c/stream.m3u8",
-        "url6": "https://video6.cdn.radaromega.com/live/4457f25b959c/stream.m3u8"
-    },
-    "Warren County OH Turtlecreek Twp | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/7bf66e5ad124",
-        "location": "Lebanon, Ohio",
-        "latitude": 39.424093148641,
-        "longitude": -84.198653619188
-    },
-    "Red Level Weather | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/4ab1b0d963a1_10143D",
-        "location": "Red Level, Alabama",
-        "latitude": 31.37368891021,
-        "longitude": -86.620430159324
-    },
-    "Dickinson, TX OEM | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/a81793f3f2e6",
-        "location": "Dickinson, Texas",
-        "latitude": 29.462471664315,
-        "longitude": -95.0521484698
-    },
-    "Vega HS Cycloneport | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/9a55b704eb4f",
-        "location": "Vega, Texas",
-        "latitude": 35.2504591,
-        "longitude": -102.4197436
-    },
-    "Mt. Shasta Chamber of Commerce | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/7e2b45b755d9_2CB70A",
-        "location": "Mount Shasta, California",
-        "latitude": 41.3121025,
-        "longitude": -122.3145093
-    },
-    "Warren County OH Deerfield Twp. | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/93ad469f9ab8",
-        "location": "Socialville, Ohio",
-        "latitude": 39.320630086616,
-        "longitude": -84.331799646563
-    },
-    "Warren County OH Franklin Twp. | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/dbf7964a709b",
-        "location": "Franklin, Ohio",
-        "latitude": 39.526434983122,
-        "longitude": -84.321425139071
-    },
-    "Warren County OH Massie Twp. | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/40f0bc09de75",
-        "location": "Waynesville, Ohio",
-        "latitude": 39.520754346041,
-        "longitude": -84.028466484518
-    },
-    "Warren County OH Harlan Twp. | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/10715eea5d14",
-        "location": "Blanchester, Ohio",
-        "latitude": 39.3180773618,
-        "longitude": -84.052501240542
-    },
-    "KDPS HQ | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/211d1edd2bee",
-        "location": "Kalamazoo, Michigan",
-        "latitude": 42.279683063406,
-        "longitude": -85.580958310675
-    },
-    "Smithville Airport 0A3": {
-        "url": "rtmp://rtmp.radaromega.com/live/4ee351980e93",
-        "location": "Smithville, Tennessee",
-        "latitude": 35.985328952761,
-        "longitude": -85.806224264212
-    },
     "Evan Vaske Sunset Live Cam": {
         "url": "rtmp://rtmp.radaromega.com/live/7edc90c38ba2",
         "location": "Storm Chaser"
-    },
-    "Van Wert Emergency Management | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/9bfabb41be19",
-        "location": "Van Wert, Ohio",
-        "latitude": 40.87127,
-        "longitude": -84.56545
-    },
-    "Bartow County Fire & EMS | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/b98694ac2169",
-        "location": "Cartersville, Georgia",
-        "latitude": 34.203755183767,
-        "longitude": -84.791957576157
     },
     "Connor Croff": {
         "url": "https://video1.cdn.radaromega.com/live/5f3b662a9ae9/stream.m3u8",
@@ -298,54 +10,6 @@
         "longitude": -89.019845800303,
         "Type": "Radaromega",
         "UUID": "20226bb3-7ec6-4e8f-92ee-a1218bc58568"
-    },
-    "Pickens County EMA 1 | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/488a0afca2d7",
-        "location": "Jasper, Georgia",
-        "latitude": 34.52163897122386,
-        "longitude": -84.33850880000112
-    },
-    "Bolivar TN Watch Coalition | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/8221366cc96e",
-        "location": "Bolivar, Tennessee",
-        "latitude": 35.2671,
-        "longitude": -89.0005
-    },
-    "Bedford EMA @ Courthouse Annex | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/61e36b8870b2",
-        "location": "Shelbyville, Tennessee",
-        "latitude": 35.4832222,
-        "longitude": -86.4616211
-    },
-    "Sam Rikard WeatherMayor LLC | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/a5efa8e114e0_E69D5C",
-        "location": "Olive Branch, Mississippi",
-        "latitude": 34.953504069629,
-        "longitude": -89.829577811471
-    },
-    "Bartlett, TN Fire Station #1 | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/86af407068fa",
-        "location": "Bartlett, Tennessee",
-        "latitude": 35.2055396,
-        "longitude": -89.8488349
-    },
-    "Arlington, TN Fire Station #1 | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/c98948bf5dce",
-        "location": "Arlington, Tennessee",
-        "latitude": 35.28592,
-        "longitude": -89.671139
-    },
-    "Millington, TN Fire Station #2 | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/cdc43825cefe",
-        "location": "Millington, Tennessee",
-        "latitude": 35.324525,
-        "longitude": -89.904565
-    },
-    "Dyersburg, TN WATCH Coalition | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/b07cc75e5592",
-        "location": "Dyersburg, Tennessee",
-        "latitude": 36.047799703526,
-        "longitude": -89.384592487094
     },
     "511la.org #1 I-10 at Ruth Street": {
         "url": "https://itsstreamingbr2.dotd.la.gov/public/lkc-cam-201.streams/chunklist_w890681935.m3u8",
@@ -830,54 +494,6 @@
         "location": "Monroe, Louisiana",
         "latitude": 32.503823,
         "longitude": -92.12828
-    },
-    "Mississippi EMA 1 | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/ca1b3afcf69e",
-        "location": "Pearl, Mississippi",
-        "latitude": 32.246705,
-        "longitude": -90.094817
-    },
-    "Mississippi EMA 2 | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/cf0c710ecad7",
-        "location": "Pearl, Mississippi",
-        "latitude": 32.246705,
-        "longitude": -90.094817
-    },
-    "Choctaw Emergency Management | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/a3b55fee2755",
-        "location": "Choctaw, Mississippi",
-        "latitude": 32.7713,
-        "longitude": -89.1962
-    },
-    "Jackson County Office of Emergency Services | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/e024f9a8ba7a",
-        "location": "Pascagoula, Mississippi",
-        "latitude": 30.365,
-        "longitude": -88.558889
-    },
-    "Columbia, MS Marion EMA | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/8aa2f0cda175",
-        "location": "Columbia, Mississippi",
-        "latitude": 31.250268,
-        "longitude": -89.836312
-    },
-    "Forrest CO EOC | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/acc222aceef0",
-        "location": "Hattiesburg, Mississippi",
-        "latitude": 31.254632702146,
-        "longitude": -89.339325993105
-    },
-    "University of Southern Miss. | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/db24e96e5bf3",
-        "location": "Hattiesburg, Mississippi",
-        "latitude": 31.32724,
-        "longitude": -89.32964
-    },
-    "Boaz-Marshall Dekalb Electric Coop | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/64a77729af87",
-        "location": "Boaz, Alabama",
-        "latitude": 34.19744,
-        "longitude": -86.149002
     },
     "Mdottraffic.com #1 Stateline and US 51": {
         "url": "https://streamingshvn1.mdottraffic.com/rtplive/040305.stream/playlist.m3u8",
@@ -2057,12 +1673,6 @@
         "latitude": 30.006754,
         "longitude": -90.291931
     },
-    "Burlington KS | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/750aec71f0e6",
-        "location": "Burlington, Kansas",
-        "latitude": 38.1839,
-        "longitude": -95.7748
-    },
     "511la.org #110 I-10 at Williams": {
         "url": "https://itsstreamingno.dotd.la.gov/public/nor-cam-022.streams/playlist.m3u8",
         "location": "New Orelens Louisiana",
@@ -2079,7 +1689,7 @@
         "url": "https://itsstreamingno.dotd.la.gov/public/nor-cam-119.streams/playlist.m3u8",
         "location": "New Orelens Louisiana",
         "latitude": 29.999527,
-        "longitude": -90.184300
+        "longitude": -90.1843
     },
     "511la.org #113 I-10 at Causeway ": {
         "url": "https://itsstreamingno.dotd.la.gov/public/nor-cam-120.streams/playlist.m3u8",
@@ -3634,12 +3244,6 @@
         "latitude": 38.7495,
         "location": "Null",
         "url": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_082/playlist.m3u8"
-    },
-    "64 AT GRAND, MM 36.9": {
-        "longitude": -90.236704,
-        "latitude": 38.6322,
-        "location": "Null",
-        "url": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_077/playlist.m3u8"
     },
     "64 AT GRAND, MM 36.9": {
         "longitude": -90.2364,
@@ -7050,10 +6654,10 @@
         "url": "https://s2.ozarkstrafficoneview.com/rtplive/CAM106/playlist.m3u8"
     },
     "cwwp2.dot.ca.gov | (C017) SR-163 : Just North Of I-5": {
-        "longitude": -117.156370,
-        "latitude": 32.726446,
+        "url": "https://wzmedia.dot.ca.gov/D11/C017_SB_163_JNO_Rte_5.stream/playlist.m3u8",
         "location": "San Diego, California",
-        "url": "https://wzmedia.dot.ca.gov/D11/C017_SB_163_JNO_Rte_5.stream/playlist.m3u8"
+        "latitude": "32.72647",
+        "longitude": "-117.15637"
     },
     "511sc.org | Us 501 N @ 16th Ave": {
         "longitude": -79.062775,
@@ -7062,28 +6666,28 @@
         "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50001/playlist.m3u8"
     },
     "511ny.org | NY 3 at I-81": {
-        "longitude": -75.949472,
-        "latitude": 43.975661,
-        "location": "Watertown, New York",
-        "url": "https://s7.nysdot.skyvdn.com/rtplive/R7_004/playlist.m3u8"
+        "location": "New York",
+        "url": "https://s7.nysdot.skyvdn.com:443/rtplive/R7_004/playlist.m3u8",
+        "latitude": 43.975218,
+        "longitude": -75.950549
     },
     "511ny.org | I-781 East of US 11NY near Fort Drum Main Gate": {
-        "longitude": -75.830532,
-        "latitude": 44.053070,
-        "location": "Watertown, New York",
-        "url": "https://s7.nysdot.skyvdn.com/rtplive/R7_003/playlist.m3u8"
+        "location": "New York",
+        "url": "https://s7.nysdot.skyvdn.com:443/rtplive/R7_003/playlist.m3u8",
+        "latitude": 44.053111,
+        "longitude": -75.830531
     },
     "511ny.org | US 11 South of Fort Drum Main Gate": {
-        "longitude": -75.834683,
-        "latitude": 44.053169,
-        "location": "Watertown, New York",
-        "url": "https://s7.nysdot.skyvdn.com/rtplive/R7_001/playlist.m3u8"
+        "location": "New York",
+        "url": "https://s7.nysdot.skyvdn.com:443/rtplive/R7_001/playlist.m3u8",
+        "latitude": 44.053203,
+        "longitude": -75.834256
     },
     "511ny.org | US 11 North of Fort Drum Main Gate": {
-        "longitude": -75.835048,
-        "latitude": 44.055410,
-        "location": "Watertown, New York",
-        "url": "https://s7.nysdot.skyvdn.com/rtplive/R7_002/playlist.m3u8"
+        "location": "New York",
+        "url": "https://s7.nysdot.skyvdn.com:443/rtplive/R7_002/playlist.m3u8",
+        "latitude": 44.054775,
+        "longitude": -75.834225
     },
     "511.vdot.virginia.gov | I-66 / MM 50.1 / EB ": {
         "longitude": -77.473352,
@@ -7098,10 +6702,10 @@
         "url": "https://sfs1.roadsummary.com/rtplive/CAM002/playlist.m3u8"
     },
     "511ny.org | I-190 MP 003.80 SB at Interchange 5 (Hamburg Street)": {
-        "longitude": -78.858316,
-        "latitude": 42.873219,
-        "location": "Buffalo, New York",
-        "url": "https://s53.nysdot.skyvdn.com/rtplive/TA_141/playlist.m3u8"
+        "location": "New York",
+        "url": "https://s53.nysdot.skyvdn.com:443/rtplive/TA_141/playlist.m3u8",
+        "latitude": 42.8733,
+        "longitude": -78.85812
     },
     "511ny.org | I-190 MP 002.28 SB at Interchange 3 (Seneca Street Route 16))": {
         "longitude": -78.830315,
@@ -7110,349 +6714,46 @@
         "url": "https://s52.nysdot.skyvdn.com/rtplive/TA_139/playlist.m3u8"
     },
     "511ny.org | I-190 MP 003.25 NB at Interchange 4 (Smith Street)": {
-        "longitude": -78.846785,
-        "latitude": 42.871752,
-        "location": "Buffalo, New York",
-        "url": "https://s52.nysdot.skyvdn.com/rtplive/TA_140/playlist.m3u8"
-    },
-    "Dodson Branch, TN | RadarOmega": {
-        "longitude": -85.529624746857,
-        "latitude": 36.307105129125,
-        "location": "Cookeville, Tennessee",
-        "url": "https://video1.cdn.radaromega.com/live/86b46ad457ab_029E75/stream.m3u8",
-        "url2": "https://video2.cdn.radaromega.com/live/86b46ad457ab_029E75/stream.m3u8",
-        "url3": "https://video3.cdn.radaromega.com/live/86b46ad457ab_029E75/stream.m3u8",
-        "url4": "https://video4.cdn.radaromega.com/live/86b46ad457ab_029E75/stream.m3u8",
-        "url5": "https://video5.cdn.radaromega.com/live/86b46ad457ab_029E75/stream.m3u8",
-        "url6": "https://video6.cdn.radaromega.com/live/86b46ad457ab_029E75/stream.m3u8"
-    },
-    "Gainesboro, TN | RadarOmega": {
-        "longitude": -85.6692609,
-        "latitude": 36.3601279,
-        "location": "Gainesboro, Tennessee",
-        "url": "https://video1.cdn.radaromega.com/live/a0bdcbc63aef/stream.m3u8",
-        "url2": "https://video2.cdn.radaromega.com/live/a0bdcbc63aef/stream.m3u8",
-        "url3": "https://video3.cdn.radaromega.com/live/a0bdcbc63aef/stream.m3u8",
-        "url4": "https://video4.cdn.radaromega.com/live/a0bdcbc63aef/stream.m3u8",
-        "url5": "https://video5.cdn.radaromega.com/live/a0bdcbc63aef/stream.m3u8",
-        "url6": "https://video6.cdn.radaromega.com/live/a0bdcbc63aef/stream.m3u8"
-    },
-    "Rickman, TN | RadarOmega": {
-        "longitude": -85.373397008164,
-        "latitude": 36.265810792573,
-        "location": "Rickman, Tennessee",
-        "url": "https://video1.cdn.radaromega.com/live/60446489fa87_6C18AB/stream.m3u8",
-        "url2": "https://video2.cdn.radaromega.com/live/60446489fa87_6C18AB/stream.m3u8",
-        "url3": "https://video3.cdn.radaromega.com/live/60446489fa87_6C18AB/stream.m3u8",
-        "url4": "https://video4.cdn.radaromega.com/live/60446489fa87_6C18AB/stream.m3u8",
-        "url5": "https://video5.cdn.radaromega.com/live/60446489fa87_6C18AB/stream.m3u8",
-        "url6": "https://video6.cdn.radaromega.com/live/60446489fa87_6C18AB/stream.m3u8"
-    },
-    "Putnam EMA (Cookeville, TN) | RadarOmega": {
-        "longitude": -85.522585744706,
-        "latitude": 36.148653268591,
-        "location": "Cookeville, Tennessee",
-        "url": "https://video1.cdn.radaromega.com/live/1921c1de9f28/stream.m3u8",
-        "url2": "https://video2.cdn.radaromega.com/live/1921c1de9f28/stream.m3u8",
-        "url3": "https://video3.cdn.radaromega.com/live/1921c1de9f28/stream.m3u8",
-        "url4": "https://video4.cdn.radaromega.com/live/1921c1de9f28/stream.m3u8",
-        "url5": "https://video5.cdn.radaromega.com/live/1921c1de9f28/stream.m3u8",
-        "url6": "https://video6.cdn.radaromega.com/live/1921c1de9f28/stream.m3u8"
-    },
-    "Clarkrange Fentress County, TN | RadarOmega": {
-        "longitude": -85.021239530885,
-        "latitude": 36.192542553086,
-        "location": "Clarkrange, Tennessee",
-        "url": "https://video1.cdn.radaromega.com/live/34eefea26b5b/stream.m3u8",
-        "url2": "https://video2.cdn.radaromega.com/live/34eefea26b5b/stream.m3u8",
-        "url3": "https://video3.cdn.radaromega.com/live/34eefea26b5b/stream.m3u8",
-        "url4": "https://video4.cdn.radaromega.com/live/34eefea26b5b/stream.m3u8",
-        "url5": "https://video5.cdn.radaromega.com/live/34eefea26b5b/stream.m3u8",
-        "url6": "https://video6.cdn.radaromega.com/live/34eefea26b5b/stream.m3u8"
-    },
-    "Ut - Oak Ridge | RadarOmega": {
-        "longitude": -84.249507264104,
-        "latitude": 36.016537585044,
-        "location": "Oak Ridge, Tennessee",
-        "url": "https://video1.cdn.radaromega.com/live/b38851ea0dcd/stream.m3u8",
-        "url2": "https://video2.cdn.radaromega.com/live/b38851ea0dcd/stream.m3u8",
-        "url3": "https://video3.cdn.radaromega.com/live/b38851ea0dcd/stream.m3u8",
-        "url4": "https://video4.cdn.radaromega.com/live/b38851ea0dcd/stream.m3u8",
-        "url5": "https://video5.cdn.radaromega.com/live/b38851ea0dcd/stream.m3u8",
-        "url6": "https://video6.cdn.radaromega.com/live/b38851ea0dcd/stream.m3u8"
-    },
-    "Ut - Knoxville IPS | RadarOmega": {
-        "longitude": -83.9387,
-        "latitude": 35.9674,
-        "location": "Knoxville, Tennessee",
-        "url": "https://video1.cdn.radaromega.com/live/d89feede9d82/stream.m3u8",
-        "url2": "https://video2.cdn.radaromega.com/live/d89feede9d82/stream.m3u8",
-        "url3": "https://video3.cdn.radaromega.com/live/d89feede9d82/stream.m3u8",
-        "url4": "https://video4.cdn.radaromega.com/live/d89feede9d82/stream.m3u8",
-        "url5": "https://video5.cdn.radaromega.com/live/d89feede9d82/stream.m3u8",
-        "url6": "https://video6.cdn.radaromega.com/live/d89feede9d82/stream.m3u8"
-    },
-    "UT - Knoxville Neyland | RadarOmega": {
-        "longitude": -83.925763204363,
-        "latitude": 35.954464901586,
-        "location": "Knoxville, Tennessee",
-        "url": "https://video1.cdn.radaromega.com/live/3fdb1f58c932/stream.m3u8",
-        "url2": "https://video2.cdn.radaromega.com/live/3fdb1f58c932/stream.m3u8",
-        "url3": "https://video3.cdn.radaromega.com/live/3fdb1f58c932/stream.m3u8",
-        "url4": "https://video4.cdn.radaromega.com/live/3fdb1f58c932/stream.m3u8",
-        "url5": "https://video5.cdn.radaromega.com/live/3fdb1f58c932/stream.m3u8",
-        "url6": "https://video6.cdn.radaromega.com/live/3fdb1f58c932/stream.m3u8"
+        "location": "New York",
+        "url": "https://s52.nysdot.skyvdn.com:443/rtplive/TA_140/playlist.m3u8",
+        "latitude": 42.87141,
+        "longitude": -78.84682
     },
     "mdottraffic.com | US 90 at MS 57": {
         "url": "https://streaminglym2.mdottraffic.com/rtplive/052503.stream/playlist.m3u8",
         "location": "Gautier, Mississippi",
-        "latitude": 0.0,
-        "longitude": 0.0
+        "latitude": 0,
+        "longitude": 0
     },
     "mdottraffic.com | Ingalls Shipyard": {
         "url": "https://streaminglym2.mdottraffic.com/rtplive/051806.stream/playlist.m3u8",
         "location": "Gautier, Mississippi",
-        "latitude": 0.0,
-        "longitude": 0.0
-    },
-    "mdottraffic.com | US 90 of 14th St": {
-        "url": "rtmp://rtmp.radaromega.com/live/9edf47cd6fb3",
-        "location": "Gautier, Mississippi",
-        "latitude": 0.0,
-        "longitude": 0.0
+        "latitude": 0,
+        "longitude": 0
     },
     "mdottraffic.com | I-10 at MS Welcome Center": {
         "url": "https://streaminglym1.mdottraffic.com/rtplive/052308.stream/playlist.m3u8",
         "location": "Pascagoula, Mississippi",
-        "latitude": 0.0,
-        "longitude": 0.0
+        "latitude": 0,
+        "longitude": 0
     },
     "mdottraffic.com | Market St at Ingalls Ave": {
         "url": "https://streaminglym2.mdottraffic.com/rtplive/052649.stream/playlist.m3u8",
         "location": "Pascagoula, Mississippi",
-        "latitude": 0.0,
-        "longitude": 0.0
+        "latitude": 0,
+        "longitude": 0
     },
     "mdottraffic.com | MS 611 to US 90": {
         "url": "https://streaminglym1.mdottraffic.com/rtplive/052646.stream/playlist.m3u8",
         "location": "Pascagoula, Mississippi",
-        "latitude": 0.0,
-        "longitude": 0.0
+        "latitude": 0,
+        "longitude": 0
     },
     "Mdottraffic.com | Us 49 at US 84 Collins South View": {
         "url": "https://streaminghat1.mdottraffic.com/rtplive/032008.stream/playlist.m3u8",
         "location": "Collins, Mississippi",
         "latitude": 31.65288,
         "longitude": -89.571087
-    },
-    "Massac EMA | RadarOmega": {
-        "location": "Metropolis, Illinois",
-        "latitude": 37.152066,
-        "longitude": -88.732931,
-        "url": "https://video1.cdn.radaromega.com/live/ac34cdff5de8/stream.m3u8",
-        "url2": "https://video2.cdn.radaromega.com/live/ac34cdff5de8/stream.m3u8",
-        "url3": "https://video3.cdn.radaromega.com/live/ac34cdff5de8/stream.m3u8",
-        "url4": "https://video4.cdn.radaromega.com/live/ac34cdff5de8/stream.m3u8",
-        "url5": "https://video5.cdn.radaromega.com/live/ac34cdff5de8/stream.m3u8",
-        "url6": "https://video6.cdn.radaromega.com/live/ac34cdff5de8/stream.m3u8"
-    },
-    "Columbia, TN Maury 911 | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/ee84e79abe74",
-        "location": "Columbia, Tennessee",
-        "latitude": 35.593130217634,
-        "longitude": -87.096370412587
-    },
-    "Carthage, TN | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/c4decfec16ac_F894B1",
-        "location": "Carthage, Tennessee",
-        "latitude": 36.253047433405,
-        "longitude": -85.949124896059
-    },
-    "Three Way, TN Madison County 911 | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/6e4e54b7197f_F39D07",
-        "location": "Humboldt, Tennessee",
-        "latitude": 35.767023661102,
-        "longitude": -88.844779213483
-    },
-    "Columbia, TN Fire Station 3": {
-        "url": "rtmp://rtmp.radaromega.com/live/a9291045eb27_5A239D",
-        "location": "Columbia, Tennessee",
-        "latitude": 35.639659401612,
-        "longitude": -86.970515943352
-    },
-    "Putnam EMA (Cookeville, TN) | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/1921c1de9f28",
-        "location": "Denmark, Tennessee",
-        "latitude": 35.556957872161,
-        "longitude": -88.96498030484
-    },
-    "White County OEM (Sparta, TN) | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/518693e0338b_64F840",
-        "location": "Sparta, Tennessee",
-        "latitude": 35.925541296319,
-        "longitude": -85.464206325016
-    },
-    "Jamestown, TN | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/62a6c8dc8f01",
-        "location": "Jamestown, Tennessee",
-        "latitude": 36.432323200607,
-        "longitude": -84.943081457672
-    },
-    "Dekalb EMA-Snows Hill | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/31e90165fee5",
-        "location": "Dowelltown, Tennessee",
-        "latitude": 35.9900089147,
-        "longitude": -85.884534998333
-    },
-    "Smithville, TN | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/b1627be2d6c2",
-        "location": "Smithville, Tennessee",
-        "latitude": 35.96102,
-        "longitude": -85.81212
-    },
-    "UT Martin | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/c4b80531716f",
-        "location": "Martin, Tennessee",
-        "latitude": 36.345027791578,
-        "longitude": -88.86174759861
-    },
-    "UT Health Science Center | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/73bd78247939",
-        "location": "Memphis, Tennessee",
-        "latitude": 35.14062655985,
-        "longitude": -90.030567130012
-    },
-    "UT Chattanooga | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/11361d455bae",
-        "location": "Chattanooga, Tennessee",
-        "latitude": 35.046743890552,
-        "longitude": -85.299311771734
-    },
-    "Baxter Fire and Rescue| RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/43d813316a29",
-        "location": "Baxter, Tennessee",
-        "latitude": 36.162587,
-        "longitude": -85.622123
-    },
-    "Gibson County EOC | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/ea2b9f1fa4d5",
-        "location": "Trenton, Tennessee",
-        "latitude": 35.9514674,
-        "longitude": -88.9476749
-    },
-    "Kenton, TN | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/5681cefc6b0d",
-        "location": "Kenton, Tennessee",
-        "latitude": 36.189676,
-        "longitude": -89.008867
-    },
-    "Hardin EMA  Savannah, TN | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/43fd4a10e8bf_C6D367",
-        "location": "Savannah, Tennessee",
-        "latitude": 35.222739,
-        "longitude": -88.254196
-    },
-    "Madison County 911 | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/e247ae3daf6f_373DC1",
-        "location": "Jackson, Tennessee",
-        "latitude": 35.5512246,
-        "longitude": -88.77483
-    },
-    "Franklin County EMA | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/e34d5b64b1cb_9593DD",
-        "location": "Winchester, Tennessee",
-        "latitude": 35.172370880199,
-        "longitude": -86.135039998914
-    },
-    "Decatur County EMA - Parsons | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/c49db5274fe7",
-        "location": "Parsons, Tennessee",
-        "latitude": 35.643025148349,
-        "longitude": -88.123172175612
-    },
-    "South Marshall FD | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/1e180b9b5e1e_5CB9FD",
-        "location": "Cornersville, Tennessee",
-        "latitude": 35.332262421548,
-        "longitude": -86.860072423105
-    },
-    "Chapel Hill, TN | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/7f72fe0a9834",
-        "location": "Chapel Hill, Tennessee",
-        "latitude": 35.6259,
-        "longitude": -86.7092
-    },
-    "Crockett EMA | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/b01d5a4906dc",
-        "location": "Alamo, Tennessee",
-        "latitude": 35.785212763826,
-        "longitude": -89.112309820068
-    },
-    "Short Mountain - Dekalb 911 | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/9497bb965d6a",
-        "location": "Woodbury, Tennessee",
-        "latitude": 35.86976517678,
-        "longitude": -85.970782400576
-    },
-    "Pinnacle Tower-Erwin | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/a1ee3ed953e1_BF7841",
-        "location": "Erwin, Tennessee",
-        "latitude": 36.128130727804,
-        "longitude": -82.42809148769
-    },
-    "UT Southern | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/cfcf537c4d36",
-        "location": "Pulaski, Tennessee",
-        "latitude": 35.2003556,
-        "longitude": -87.03661
-    },
-    "Humboldt Fire | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/5ea66b1c7182",
-        "location": "Humboldt, Tennessee",
-        "latitude": 35.819546,
-        "longitude": -88.918939
-    },
-    "Centerville | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/c4a88346d4c4",
-        "location": "Centerville, Tennessee",
-        "latitude": 35.815987929776,
-        "longitude": -87.436409673902
-    },
-    "Clay County EMA | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/1205077120d7",
-        "location": "Celina, Tennessee",
-        "latitude": 36.539904330849,
-        "longitude": -85.499278070717
-    },
-    "Pleasantville Tower | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/f52c38a84c92",
-        "location": "Pleasantville, Tennessee",
-        "latitude": 35.660969848116,
-        "longitude": -87.586246245148
-    },
-    "Bolivar, TN WATCH Coalition | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/8221366cc96e",
-        "location": "Bolivar, Tennessee",
-        "latitude": 35.2671,
-        "longitude": -89.0005
-    },
-    "Jackson, TN WATCH Coalition | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/b72d21a0410f",
-        "location": "Jackson, Tennessee",
-        "latitude": 35.6367,
-        "longitude": -88.8328
-    },
-    "Collierville, TN Town Hall | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/f948f8aecac8",
-        "location": "Collierville, Tennessee",
-        "latitude": 35.0502262,
-        "longitude": -89.6866654
-    },
-    "Cumberland EMA | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/326d7c146837",
-        "location": "Crossville, Tennessee",
-        "latitude": 35.940850311403,
-        "longitude": -85.022781128191
     },
     "Jordan Hall / My Radar": {
         "url": "rtmp://ingest.severetv.com/live/jordan.hall",
@@ -7489,7 +6790,6 @@
     "RDD 5 / ProjectWeatherEye.com": {
         "url": "https://video1.cdn.radaromega.com/live/a63cdb78eaf2/stream.m3u8",
         "location": "Storm Chaser"
-        
     },
     "Tornado Paigeyy": {
         "url": "srt://usw.srt.belabox.net:4001?streamid=OOn5nxqJVVGioo319c3kIY5RY7qheb&timeout=2000000",
@@ -7553,13 +6853,13 @@
     },
     "PTZ View | Virtual RailFan Quanah": {
         "longitude": -99.739045,
-        "latitude": 34.300010,
+        "latitude": 34.30001,
         "location": "Quanah, Texas",
         "url": "https://1378457074.rsc.cdn77.org/a849d7af0a8dd74b110685d4818cfb3c/tracks-v3/rewind-1200.fmp4.m3u8"
     },
     "East View | Virtual RailFan Quanah": {
         "longitude": -99.739045,
-        "latitude": 34.300010,
+        "latitude": 34.30001,
         "location": "Quanah, Texas",
         "url": "https://1378457074.rsc.cdn77.org/9f272ecb828abeb33be50da600060968/tracks-v3/rewind-1200.fmp4.m3u8"
     },
@@ -7647,60 +6947,6 @@
         "location": "Austell, Georgia",
         "url": "https://1378457074.rsc.cdn77.org/c19331f316a8d3b95d289b72ee88cbcb/tracks-v2/rewind-3600.fmp4.m3u8"
     },
-    "Stoddard Co EMA | RadarOmega": {
-        "longitude": -90.17019039478,
-        "latitude": 36.935486732178,
-        "location": "Puxico, Missouri",
-        "url": "rtmp://rtmp.radaromega.com/live/a8d640224f2c"
-    },
-    "White Oak | RadarOmega": {
-        "longitude": -90.407357583604,
-        "latitude": 36.793142451892,
-        "location": "Poplar Bluff, Missouri",
-        "url": "rtmp://rtmp.radaromega.com/live/70a3536a00b4_B155A1"
-    },
-    "Stoddard Co EMA | RadarOmega": {
-        "longitude": -90.17019039478,
-        "latitude": 36.935486732178,
-        "location": "Puxico, Missouri",
-        "url": "rtmp://rtmp.radaromega.com/live/a8d640224f2c"
-    },
-    "Boycom | RadarOmega": {
-        "longitude": -90.465918346011,
-        "latitude": 36.780241501043,
-        "location": "Poplar Bluff, Missouri",
-        "url": "rtmp://rtmp.radaromega.com/live/e5a82d97e070"
-    },
-    "Heartland Express | RadarOmega": {
-        "longitude": -90.455693714983,
-        "latitude": 36.72975437919,
-        "location": "Poplar Bluff, Missouri",
-        "url": "rtmp://rtmp.radaromega.com/live/9ef34db55a63"
-    },
-    "Harviell Mo. KZMA | RadarOmega": {
-        "longitude": -90.487617394601,
-        "latitude": 36.662392215359,
-        "location": "Harviell, Missouri",
-        "url": "rtmp://rtmp.radaromega.com/live/a8e9cf712e78"
-    },
-    "Qulin | RadarOmega": {
-        "longitude": -90.213296292936,
-        "latitude": 36.585561147036,
-        "location": "Poplar Bluff, Missouri",
-        "url": "rtmp://rtmp.radaromega.com/live/94ff9fc31494"
-    },
-    "Stoddard Co EMA | RadarOmega": {
-        "longitude": -89.965164892193,
-        "latitude": 36.799316190719,
-        "location": "Dexter, Missouri",
-        "url": "rtmp://rtmp.radaromega.com/live/95daa428d01d"
-    },
-    "Stoddard Co EMA | RadarOmega": {
-        "longitude": -89.86158825754,
-        "latitude": 36.813439186123,
-        "location": "Essex, Missouri",
-        "url": "rtmp://rtmp.radaromega.com/live/57c16d2abe33_78550E"
-    },
     "Static View | Virtual RailFan Chesterton": {
         "longitude": -87.0746769,
         "latitude": 41.613394,
@@ -7756,13 +7002,13 @@
         "url": "https://1252425589.rsc.cdn77.org/086dd3b0da219f2b2a93bd5c02e1bd5e/tracks-v3/rewind-3600.fmp4.m3u8"
     },
     "PTZ View | Virtual RailFan Waupaca": {
-        "longitude": -89.077790,
+        "longitude": -89.07779,
         "latitude": 44.362251,
         "location": "Waupaca, Wisconsin",
         "url": "https://1378457074.rsc.cdn77.org/07b6551d0ff9071f728ed381d200864f/tracks-v3/rewind-3600.fmp4.m3u8"
     },
     "East View | Virtual RailFan Waupaca": {
-        "longitude": -89.077790,
+        "longitude": -89.07779,
         "latitude": 44.362251,
         "location": "Waupaca, Wisconsin",
         "url": "https://1378457074.rsc.cdn77.org/18242f0c12dc49699f3109f1542a5db4/tracks-v3/rewind-3600.fmp4.m3u8"
@@ -8081,10 +7327,6 @@
         "url": "https://edge.livestormchasing.com/hls/adsHN50CXpY9yJyiw1Kz/index.m3u8",
         "location": "Storm Chaser LSM"
     },
-    "Ryan Scholl": {
-        "url": "rtmp://ingest.severetv.com/live/ryan.scholl",
-        "location": "Storm Chaser"
-    },
     "ResortCam.com | King Street Boone": {
         "url": "https://stream.resortcams.com/live/kingstreet.stream/playlist.m3u8",
         "longitude": -81.6854466,
@@ -8112,7 +7354,7 @@
     "ResortCam.com | Madeline Island Cam": {
         "url": "https://stream.resortcams.com/live/madelineisland.stream/playlist.m3u8",
         "longitude": -90.787152,
-        "latitude": 46.777980,
+        "latitude": 46.77798,
         "location": "La Pointe, Wisconsin"
     },
     "ResortCam.com | Deep Creek Lake": {
@@ -8186,12 +7428,6 @@
         "longitude": -86.85993,
         "latitude": 40.39684,
         "location": "Lafayette, Indiana"
-    },
-    "Neelyville | RadarOmega": {
-        "url": "rtmp://rtmp.radaromega.com/live/e6e411ed1432",
-        "longitude": -90.510073527765,
-        "latitude": 36.563256172996,
-        "location": "Neelyville, Missouri"
     },
     "Smartway.tn.gov | I-40/75 @ West Hills": {
         "url": "https://mcleansfs1.us-east-1.skyvdn.com:443/rtplive/R1_010/playlist.m3u8",
@@ -54117,12 +53353,6 @@
         "latitude": "32.72414",
         "longitude": "-117.15696"
     },
-    "cwwp2.dot.ca.gov | (C017) SR-163 : Just North Of I-5": {
-        "url": "https://wzmedia.dot.ca.gov/D11/C017_SB_163_JNO_Rte_5.stream/playlist.m3u8",
-        "location": "San Diego, California",
-        "latitude": "32.72647",
-        "longitude": "-117.15637"
-    },
     "cwwp2.dot.ca.gov | (C018) NB 5 : SR-163": {
         "url": "https://wzmedia.dot.ca.gov/D11/C018_NB_5_at_Rte_163.stream/playlist.m3u8",
         "location": "San Diego, California",
@@ -60915,12 +60145,6 @@
         "latitude": 42.87542,
         "longitude": -78.78889
     },
-    "511ny.org | I-190 MP 003.80 SB at Interchange 5 (Hamburg Street)": {
-        "location": "New York",
-        "url": "https://s53.nysdot.skyvdn.com:443/rtplive/TA_141/playlist.m3u8",
-        "latitude": 42.8733,
-        "longitude": -78.85812
-    },
     "511ny.org | I-190 MP 005.05 NB at Interchange 7 (Route 5 Skyway)": {
         "location": "New York",
         "url": "https://s53.nysdot.skyvdn.com:443/rtplive/TA_142/playlist.m3u8",
@@ -61982,30 +61206,6 @@
         "url": "https://s7.nysdot.skyvdn.com:443/rtplive/R3_064/playlist.m3u8",
         "latitude": 42.799011,
         "longitude": -76.122117
-    },
-    "511ny.org | US 11 South of Fort Drum Main Gate": {
-        "location": "New York",
-        "url": "https://s7.nysdot.skyvdn.com:443/rtplive/R7_001/playlist.m3u8",
-        "latitude": 44.053203,
-        "longitude": -75.834256
-    },
-    "511ny.org | US 11 North of Fort Drum Main Gate": {
-        "location": "New York",
-        "url": "https://s7.nysdot.skyvdn.com:443/rtplive/R7_002/playlist.m3u8",
-        "latitude": 44.054775,
-        "longitude": -75.834225
-    },
-    "511ny.org | I-781 East of US 11NY near Fort Drum Main Gate": {
-        "location": "New York",
-        "url": "https://s7.nysdot.skyvdn.com:443/rtplive/R7_003/playlist.m3u8",
-        "latitude": 44.053111,
-        "longitude": -75.830531
-    },
-    "511ny.org | NY 3 at I-81": {
-        "location": "New York",
-        "url": "https://s7.nysdot.skyvdn.com:443/rtplive/R7_004/playlist.m3u8",
-        "latitude": 43.975218,
-        "longitude": -75.950549
     },
     "511ny.org | US 11 at NY 178": {
         "location": "New York",
@@ -63260,12 +62460,6 @@
         "url": "https://s52.nysdot.skyvdn.com:443/rtplive/TA_139/playlist.m3u8",
         "latitude": 42.86784,
         "longitude": -78.82966
-    },
-    "511ny.org | I-190 MP 003.25 NB at Interchange 4 (Smith Street)": {
-        "location": "New York",
-        "url": "https://s52.nysdot.skyvdn.com:443/rtplive/TA_140/playlist.m3u8",
-        "latitude": 42.87141,
-        "longitude": -78.84682
     },
     "511ny.org | OVD - Southbound NY106/107 to Eastbound NSP": {
         "location": "New York",
@@ -77882,5 +77076,1424 @@
         "url": "https://pa-se2.arcadis-ivds.com:8200/chan-4437/index.m3u8",
         "latitude": 40.810912,
         "longitude": -80.117196
+    },
+    "Systems Atlanta | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/9ef01ebc06c2/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/9ef01ebc06c2/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/9ef01ebc06c2/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/9ef01ebc06c2/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/9ef01ebc06c2/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/9ef01ebc06c2/stream.m3u8",
+        "location": "Kennesaw, Georgia",
+        "latitude": 34.0053,
+        "longitude": -84.6107
+    },
+    "Stoddard Co EMA | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/5577dd61ca81/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/5577dd61ca81/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/5577dd61ca81/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/5577dd61ca81/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/5577dd61ca81/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/5577dd61ca81/stream.m3u8",
+        "location": "Bernie, Missouri",
+        "latitude": 36.646428997564,
+        "longitude": -90.058260653629
+    },
+    "Bernie, MO | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/ed8f5d0da042/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/ed8f5d0da042/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/ed8f5d0da042/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/ed8f5d0da042/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/ed8f5d0da042/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/ed8f5d0da042/stream.m3u8",
+        "location": "Bernie, Missouri",
+        "latitude": 36.67591934204,
+        "longitude": -89.969232182976
+    },
+    "Olive Branch, MS City Hall | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/4302de06a601/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/4302de06a601/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/4302de06a601/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/4302de06a601/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/4302de06a601/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/4302de06a601/stream.m3u8",
+        "location": "Olive Branch, Mississippi",
+        "latitude": 34.96172706738,
+        "longitude": -89.826936106189
+    },
+    "Columbia, TN | Maury 911 | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/ee84e79abe74/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/ee84e79abe74/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/ee84e79abe74/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/ee84e79abe74/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/ee84e79abe74/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/ee84e79abe74/stream.m3u8",
+        "location": "Columbia, Tennessee",
+        "latitude": 35.593130217634,
+        "longitude": -87.096370412587
+    },
+    "Jackson, TN | Madison County 911 | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/0b5e4eb56cd7/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/0b5e4eb56cd7/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/0b5e4eb56cd7/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/0b5e4eb56cd7/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/0b5e4eb56cd7/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/0b5e4eb56cd7/stream.m3u8",
+        "location": "Jackson, Tennessee",
+        "latitude": 35.551183680467,
+        "longitude": -88.774815597847
+    },
+    "Boycom | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/e5a82d97e070/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/e5a82d97e070/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/e5a82d97e070/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/e5a82d97e070/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/e5a82d97e070/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/e5a82d97e070/stream.m3u8",
+        "location": "Poplar Bluff, Missouri",
+        "latitude": 36.780241501043,
+        "longitude": -90.465918346011
+    },
+    "White Oak | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/22216ae40e52/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/22216ae40e52/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/22216ae40e52/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/22216ae40e52/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/22216ae40e52/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/22216ae40e52/stream.m3u8",
+        "location": "Poplar Bluff, Missouri",
+        "latitude": 36.793142451892,
+        "longitude": -90.407357583604
+    },
+    "Heartland Express | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/9ef34db55a63/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/9ef34db55a63/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/9ef34db55a63/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/9ef34db55a63/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/9ef34db55a63/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/9ef34db55a63/stream.m3u8",
+        "location": "Poplar Bluff, Missouri",
+        "latitude": 36.72975437919,
+        "longitude": -90.455693714983
+    },
+    "Gainesboro, TN | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/a0bdcbc63aef/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/a0bdcbc63aef/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/a0bdcbc63aef/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/a0bdcbc63aef/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/a0bdcbc63aef/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/a0bdcbc63aef/stream.m3u8",
+        "location": "Gainesboro, Tennessee",
+        "latitude": 36.3601279,
+        "longitude": -85.6692609
+    },
+    "Qulin, MO | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/94ff9fc31494/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/94ff9fc31494/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/94ff9fc31494/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/94ff9fc31494/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/94ff9fc31494/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/94ff9fc31494/stream.m3u8",
+        "location": "Qulin, Missouri",
+        "latitude": 36.585561147036,
+        "longitude": -90.213296292936
+    },
+    "Harviell Mo. KZMA | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/a8e9cf712e78/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/a8e9cf712e78/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/a8e9cf712e78/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/a8e9cf712e78/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/a8e9cf712e78/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/a8e9cf712e78/stream.m3u8",
+        "location": "Harviell, Missouri",
+        "latitude": 36.662392215359,
+        "longitude": -90.487617394601
+    },
+    "Three Way, TN | Madison County 911 | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/f584ff6f3dcb/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/f584ff6f3dcb/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/f584ff6f3dcb/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/f584ff6f3dcb/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/f584ff6f3dcb/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/f584ff6f3dcb/stream.m3u8",
+        "location": "Humboldt, Tennessee",
+        "latitude": 35.767023661102,
+        "longitude": -88.844779213483
+    },
+    "Columbia, TN | Fire Station 3 | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/bd5549b7fe67/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/bd5549b7fe67/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/bd5549b7fe67/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/bd5549b7fe67/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/bd5549b7fe67/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/bd5549b7fe67/stream.m3u8",
+        "location": "Columbia, Tennessee",
+        "latitude": 35.639659401612,
+        "longitude": -86.970515943352
+    },
+    "Decatur County EMA | Decaturville, TN | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/2bee83b73c07/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/2bee83b73c07/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/2bee83b73c07/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/2bee83b73c07/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/2bee83b73c07/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/2bee83b73c07/stream.m3u8",
+        "location": "Decaturville, Tennessee",
+        "latitude": 35.58317958756,
+        "longitude": -88.117620319418
+    },
+    "Putnam EMA (Cookeville, TN) | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/1921c1de9f28/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/1921c1de9f28/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/1921c1de9f28/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/1921c1de9f28/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/1921c1de9f28/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/1921c1de9f28/stream.m3u8",
+        "location": "Cookeville, Tennessee",
+        "latitude": 36.148653268591,
+        "longitude": -85.522585744706
+    },
+    "White County OEM (Sparta, TN) | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/a6c88f46b162/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/a6c88f46b162/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/a6c88f46b162/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/a6c88f46b162/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/a6c88f46b162/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/a6c88f46b162/stream.m3u8",
+        "location": "Sparta, Tennessee",
+        "latitude": 35.925541296319,
+        "longitude": -85.464206325016
+    },
+    "Jamestown, TN | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/62a6c8dc8f01/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/62a6c8dc8f01/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/62a6c8dc8f01/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/62a6c8dc8f01/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/62a6c8dc8f01/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/62a6c8dc8f01/stream.m3u8",
+        "location": "Jamestown, Tennessee",
+        "latitude": 36.432323200607,
+        "longitude": -84.943081457672
+    },
+    "Dekalb EMA|Snows Hill | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/31e90165fee5/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/31e90165fee5/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/31e90165fee5/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/31e90165fee5/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/31e90165fee5/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/31e90165fee5/stream.m3u8",
+        "location": "Dowelltown, Tennessee",
+        "latitude": 35.9900089147,
+        "longitude": -85.884534998333
+    },
+    "Smithville, TN | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/b1627be2d6c2/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/b1627be2d6c2/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/b1627be2d6c2/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/b1627be2d6c2/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/b1627be2d6c2/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/b1627be2d6c2/stream.m3u8",
+        "location": "Smithville, Tennessee",
+        "latitude": 35.96102,
+        "longitude": -85.81212
+    },
+    "UT Martin | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/c4b80531716f/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/c4b80531716f/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/c4b80531716f/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/c4b80531716f/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/c4b80531716f/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/c4b80531716f/stream.m3u8",
+        "location": "Martin, Tennessee",
+        "latitude": 36.345027791578,
+        "longitude": -88.861747598619
+    },
+    "UT Health Science Center | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/73bd78247939/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/73bd78247939/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/73bd78247939/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/73bd78247939/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/73bd78247939/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/73bd78247939/stream.m3u8",
+        "location": "Memphis, Tennessee",
+        "latitude": 35.14062655985,
+        "longitude": -90.030567130012
+    },
+    "UT Chattanooga | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/11361d455bae/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/11361d455bae/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/11361d455bae/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/11361d455bae/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/11361d455bae/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/11361d455bae/stream.m3u8",
+        "location": "Chattanooga, Tennessee",
+        "latitude": 35.046743890552,
+        "longitude": -85.299311771734
+    },
+    "UT Knoxville  | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/3fdb1f58c932/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/3fdb1f58c932/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/3fdb1f58c932/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/3fdb1f58c932/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/3fdb1f58c932/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/3fdb1f58c932/stream.m3u8",
+        "location": "Knoxville, Tennessee",
+        "latitude": 35.954464901586,
+        "longitude": -83.925763204363
+    },
+    "Baxter Fire and Rescue | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/6e2cbb466cca/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/6e2cbb466cca/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/6e2cbb466cca/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/6e2cbb466cca/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/6e2cbb466cca/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/6e2cbb466cca/stream.m3u8",
+        "location": "Baxter, Tennessee",
+        "latitude": 36.162587,
+        "longitude": -85.622123
+    },
+    "Serenity Ranch | Jermyn,TX | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/30b50573042c/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/30b50573042c/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/30b50573042c/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/30b50573042c/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/30b50573042c/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/30b50573042c/stream.m3u8",
+        "location": "Loving, Texas",
+        "latitude": 33.33128760652,
+        "longitude": -98.421823552714
+    },
+    "Gibson County EOC | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/84bc1ee27fcf/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/84bc1ee27fcf/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/84bc1ee27fcf/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/84bc1ee27fcf/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/84bc1ee27fcf/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/84bc1ee27fcf/stream.m3u8",
+        "location": "Trenton, Tennessee",
+        "latitude": 35.9514674,
+        "longitude": -88.9476749
+    },
+    "Kenton, TN | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/5681cefc6b0d/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/5681cefc6b0d/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/5681cefc6b0d/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/5681cefc6b0d/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/5681cefc6b0d/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/5681cefc6b0d/stream.m3u8",
+        "location": "Kenton, Tennessee",
+        "latitude": 36.189676,
+        "longitude": -89.008867
+    },
+    "Cajun Broadband | Broussard LA | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/0de4dacd49e8/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/0de4dacd49e8/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/0de4dacd49e8/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/0de4dacd49e8/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/0de4dacd49e8/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/0de4dacd49e8/stream.m3u8",
+        "location": "Broussard, Louisiana",
+        "latitude": 30.136111,
+        "longitude": -91.943669
+    },
+    "Sam Rikard | WeatherMayor LLC | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/be6b8c31861b/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/be6b8c31861b/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/be6b8c31861b/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/be6b8c31861b/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/be6b8c31861b/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/be6b8c31861b/stream.m3u8",
+        "location": "Olive Branch, Mississippi",
+        "latitude": 34.953504069629,
+        "longitude": -89.829577811471
+    },
+    "UT Space Institute | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/54500ba0489e/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/54500ba0489e/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/54500ba0489e/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/54500ba0489e/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/54500ba0489e/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/54500ba0489e/stream.m3u8",
+        "location": "Estill Springs, Tennessee",
+        "latitude": 35.318412099076,
+        "longitude": -86.10060792713
+    },
+    "Denmark, TN | Madison County 911 | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/24ca9daeb426/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/24ca9daeb426/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/24ca9daeb426/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/24ca9daeb426/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/24ca9daeb426/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/24ca9daeb426/stream.m3u8",
+        "location": "Denmark, Tennessee",
+        "latitude": 35.556714005812,
+        "longitude": -88.964965118272
+    },
+    "Franklin County EMA | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/89e36e6cb710/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/89e36e6cb710/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/89e36e6cb710/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/89e36e6cb710/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/89e36e6cb710/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/89e36e6cb710/stream.m3u8",
+        "location": "Winchester, Tennessee",
+        "latitude": 35.172370880199,
+        "longitude": -86.135039998914
+    },
+    "Decatur County EMA | Parsons | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/c49db5274fe7/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/c49db5274fe7/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/c49db5274fe7/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/c49db5274fe7/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/c49db5274fe7/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/c49db5274fe7/stream.m3u8",
+        "location": "Parsons, Tennessee",
+        "latitude": 35.643025148349,
+        "longitude": -88.123172175612
+    },
+    " Bedford EMA @ Courthouse Annex | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/e68cbe5af341/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/e68cbe5af341/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/e68cbe5af341/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/e68cbe5af341/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/e68cbe5af341/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/e68cbe5af341/stream.m3u8",
+        "location": "Shelbyville, Tennessee",
+        "latitude": 35.483390371862,
+        "longitude": -86.461374173959
+    },
+    "Chapel Hill, TN | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/7f72fe0a9834/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/7f72fe0a9834/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/7f72fe0a9834/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/7f72fe0a9834/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/7f72fe0a9834/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/7f72fe0a9834/stream.m3u8",
+        "location": "Chapel Hill, Tennessee",
+        "latitude": 35.6259,
+        "longitude": -86.7092
+    },
+    "Lewisburg, TN | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/4b942d6d83f5/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/4b942d6d83f5/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/4b942d6d83f5/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/4b942d6d83f5/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/4b942d6d83f5/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/4b942d6d83f5/stream.m3u8",
+        "location": "Lewisburg, Tennessee",
+        "latitude": 35.454011493114,
+        "longitude": -86.790172678963
+    },
+    "Forrest CO EOC | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/acc222aceef0/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/acc222aceef0/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/acc222aceef0/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/acc222aceef0/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/acc222aceef0/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/acc222aceef0/stream.m3u8",
+        "location": "Hattiesburg, Mississippi",
+        "latitude": 31.254632702146,
+        "longitude": -89.339325993105
+    },
+    "Forsyth County School District | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/8b084bfca24e/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/8b084bfca24e/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/8b084bfca24e/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/8b084bfca24e/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/8b084bfca24e/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/8b084bfca24e/stream.m3u8",
+        "location": "Cumming, Georgia",
+        "latitude": 34.214490270752,
+        "longitude": -84.143405402951
+    },
+    "Dragon Nation | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/9835e6965eac/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/9835e6965eac/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/9835e6965eac/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/9835e6965eac/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/9835e6965eac/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/9835e6965eac/stream.m3u8",
+        "location": "Faucett, Missouri",
+        "latitude": 39.632841096588,
+        "longitude": -94.813280506202
+    },
+    "KDPS HQ | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/211d1edd2bee/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/211d1edd2bee/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/211d1edd2bee/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/211d1edd2bee/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/211d1edd2bee/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/211d1edd2bee/stream.m3u8",
+        "location": "Kalamazoo, Michigan",
+        "latitude": 42.279683063406,
+        "longitude": -85.580958310675
+    },
+    "Crockett EMA | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/989d024f1d90/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/989d024f1d90/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/989d024f1d90/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/989d024f1d90/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/989d024f1d90/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/989d024f1d90/stream.m3u8",
+        "location": "Alamo, Tennessee",
+        "latitude": 35.785212763826,
+        "longitude": -89.112309820068
+    },
+    "Short Mountain | Dekalb 911 | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/9497bb965d6a/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/9497bb965d6a/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/9497bb965d6a/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/9497bb965d6a/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/9497bb965d6a/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/9497bb965d6a/stream.m3u8",
+        "location": "Woodbury, Tennessee",
+        "latitude": 35.86976517678,
+        "longitude": -85.970782400576
+    },
+    "Pinnacle Tower|Erwin | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/e3ffbb62962a/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/e3ffbb62962a/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/e3ffbb62962a/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/e3ffbb62962a/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/e3ffbb62962a/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/e3ffbb62962a/stream.m3u8",
+        "location": "Erwin, Tennessee",
+        "latitude": 36.217325194109,
+        "longitude": -82.370755387804
+    },
+    "Dawson High School | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/6324469156ae/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/6324469156ae/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/6324469156ae/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/6324469156ae/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/6324469156ae/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/6324469156ae/stream.m3u8",
+        "location": "Dawsonville, Georgia",
+        "latitude": 34.414901661268,
+        "longitude": -84.101751151386
+    },
+    "Dickinson, TX OEM | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/a81793f3f2e6/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/a81793f3f2e6/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/a81793f3f2e6/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/a81793f3f2e6/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/a81793f3f2e6/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/a81793f3f2e6/stream.m3u8",
+        "location": "Dickinson, Texas",
+        "latitude": 29.462471664315,
+        "longitude": -95.0521484698
+    },
+    "Neelyville, MO | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/e6e411ed1432/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/e6e411ed1432/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/e6e411ed1432/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/e6e411ed1432/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/e6e411ed1432/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/e6e411ed1432/stream.m3u8",
+        "location": "Neelyville, Missouri",
+        "latitude": 36.563256172996,
+        "longitude": -90.510073527765
+    },
+    "Bank of America Stadium | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/49a55b1a2b56/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/49a55b1a2b56/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/49a55b1a2b56/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/49a55b1a2b56/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/49a55b1a2b56/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/49a55b1a2b56/stream.m3u8",
+        "location": "Charlotte, North Carolina",
+        "latitude": 35.226355455651,
+        "longitude": -80.853958327174
+    },
+    "Rabun County High School | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/e61d1325c7b1/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/e61d1325c7b1/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/e61d1325c7b1/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/e61d1325c7b1/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/e61d1325c7b1/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/e61d1325c7b1/stream.m3u8",
+        "location": "Tiger, Georgia",
+        "latitude": 34.827222,
+        "longitude": -83.416944
+    },
+    "UT Southern | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/cfcf537c4d36/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/cfcf537c4d36/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/cfcf537c4d36/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/cfcf537c4d36/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/cfcf537c4d36/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/cfcf537c4d36/stream.m3u8",
+        "location": "Pulaski, Tennessee",
+        "latitude": 35.2003556,
+        "longitude": -87.03661
+    },
+    "UT | Oak Ridge IPS | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/b38851ea0dcd/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/b38851ea0dcd/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/b38851ea0dcd/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/b38851ea0dcd/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/b38851ea0dcd/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/b38851ea0dcd/stream.m3u8",
+        "location": "Oak Ridge, Tennessee",
+        "latitude": 36.016537585044,
+        "longitude": -84.249507264104
+    },
+    "Columbia, MS | Marion EMA | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/8aa2f0cda175/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/8aa2f0cda175/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/8aa2f0cda175/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/8aa2f0cda175/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/8aa2f0cda175/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/8aa2f0cda175/stream.m3u8",
+        "location": "Columbia, Mississippi",
+        "latitude": 31.250268,
+        "longitude": -89.836312
+    },
+    "Dawsonville City Hall | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/c9a15dcf95f0/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/c9a15dcf95f0/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/c9a15dcf95f0/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/c9a15dcf95f0/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/c9a15dcf95f0/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/c9a15dcf95f0/stream.m3u8",
+        "location": "Dawsonville, Georgia",
+        "latitude": 34.418278355732,
+        "longitude": -84.112481705425
+    },
+    "Cherokee Co. Fire Station 12 | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/33b5184984ba/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/33b5184984ba/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/33b5184984ba/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/33b5184984ba/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/33b5184984ba/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/33b5184984ba/stream.m3u8",
+        "location": "Waleska, Georgia",
+        "latitude": 34.3156007,
+        "longitude": -84.5547034
+    },
+    "Cherokee EMA | Canton | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/f8f3e5bdb68a/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/f8f3e5bdb68a/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/f8f3e5bdb68a/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/f8f3e5bdb68a/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/f8f3e5bdb68a/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/f8f3e5bdb68a/stream.m3u8",
+        "location": "Canton, Georgia",
+        "latitude": 34.19399,
+        "longitude": -84.494002
+    },
+    "Burlington, KS | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/750aec71f0e6/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/750aec71f0e6/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/750aec71f0e6/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/750aec71f0e6/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/750aec71f0e6/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/750aec71f0e6/stream.m3u8",
+        "location": "Burlington, Kansas",
+        "latitude": 38.1839,
+        "longitude": -95.7748
+    },
+    "Boltek HQ | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/a46740584b80/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/a46740584b80/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/a46740584b80/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/a46740584b80/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/a46740584b80/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/a46740584b80/stream.m3u8",
+        "location": "Port Colborne, Ontario",
+        "latitude": 42.9195,
+        "longitude": -79.2591
+    },
+    "UT | Knoxville IPS | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/d89feede9d82/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/d89feede9d82/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/d89feede9d82/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/d89feede9d82/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/d89feede9d82/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/d89feede9d82/stream.m3u8",
+        "location": "Knoxville, Tennessee",
+        "latitude": 35.9674,
+        "longitude": -83.9387
+    },
+    "Centerville | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/c4a88346d4c4/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/c4a88346d4c4/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/c4a88346d4c4/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/c4a88346d4c4/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/c4a88346d4c4/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/c4a88346d4c4/stream.m3u8",
+        "location": "Centerville, Tennessee",
+        "latitude": 35.815987929776,
+        "longitude": -87.436409673902
+    },
+    "Clay County EMA | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/1205077120d7/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/1205077120d7/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/1205077120d7/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/1205077120d7/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/1205077120d7/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/1205077120d7/stream.m3u8",
+        "location": "Celina, Tennessee",
+        "latitude": 36.539904330849,
+        "longitude": -85.499278070717
+    },
+    "Rockdale County, GA EMA | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/2339c1a95534/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/2339c1a95534/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/2339c1a95534/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/2339c1a95534/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/2339c1a95534/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/2339c1a95534/stream.m3u8",
+        "location": "Stockbridge, Georgia",
+        "latitude": 33.600016364936,
+        "longitude": -84.101987931708
+    },
+    "University of Southern Miss. | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/db24e96e5bf3/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/db24e96e5bf3/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/db24e96e5bf3/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/db24e96e5bf3/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/db24e96e5bf3/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/db24e96e5bf3/stream.m3u8",
+        "location": "Hattiesburg, Mississippi",
+        "latitude": 31.32724,
+        "longitude": -89.32964
+    },
+    "Jackson County Office of Emergency Services | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/e024f9a8ba7a/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/e024f9a8ba7a/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/e024f9a8ba7a/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/e024f9a8ba7a/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/e024f9a8ba7a/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/e024f9a8ba7a/stream.m3u8",
+        "location": "Pascagoula, Mississippi",
+        "latitude": 30.365,
+        "longitude": -88.558889
+    },
+    "FireTEXT | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/686b597517bf/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/686b597517bf/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/686b597517bf/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/686b597517bf/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/686b597517bf/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/686b597517bf/stream.m3u8",
+        "location": "Trumann, Arkansas",
+        "latitude": 35.676764551661,
+        "longitude": -90.545960324464
+    },
+    "Charlotte Football Club | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/43bab87e3713/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/43bab87e3713/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/43bab87e3713/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/43bab87e3713/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/43bab87e3713/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/43bab87e3713/stream.m3u8",
+        "location": "Charlotte, North Carolina",
+        "latitude": 35.1514195,
+        "longitude": -80.7507685
+    },
+    "Smithville Airport | 0A3 | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/99aba172a68e/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/99aba172a68e/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/99aba172a68e/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/99aba172a68e/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/99aba172a68e/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/99aba172a68e/stream.m3u8",
+        "location": "Smithville, Tennessee",
+        "latitude": 35.985328952761,
+        "longitude": -85.806224264212
+    },
+    "Boaz|Marshall Dekalb Electric Coop | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/64a77729af87/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/64a77729af87/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/64a77729af87/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/64a77729af87/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/64a77729af87/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/64a77729af87/stream.m3u8",
+        "location": "Boaz, Alabama",
+        "latitude": 34.19744,
+        "longitude": -86.149002
+    },
+    "Pleasantville Tower | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/5583a5a01163/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/5583a5a01163/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/5583a5a01163/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/5583a5a01163/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/5583a5a01163/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/5583a5a01163/stream.m3u8",
+        "location": "Pleasantville, Tennessee",
+        "latitude": 35.660969848116,
+        "longitude": -87.586246245148
+    },
+    "Rickman, TN | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/912f0c984807/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/912f0c984807/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/912f0c984807/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/912f0c984807/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/912f0c984807/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/912f0c984807/stream.m3u8",
+        "location": "Rickman, Tennessee",
+        "latitude": 36.265810792573,
+        "longitude": -85.373397008164
+    },
+    "Bolivar, TN WATCH Coalition | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/8221366cc96e/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/8221366cc96e/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/8221366cc96e/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/8221366cc96e/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/8221366cc96e/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/8221366cc96e/stream.m3u8",
+        "location": "Bolivar, Tennessee",
+        "latitude": 35.2671,
+        "longitude": -89.0005
+    },
+    "Jackson, TN WATCH Coalition | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/b72d21a0410f/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/b72d21a0410f/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/b72d21a0410f/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/b72d21a0410f/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/b72d21a0410f/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/b72d21a0410f/stream.m3u8",
+        "location": "Jackson, Tennessee",
+        "latitude": 35.6367,
+        "longitude": -88.8328
+    },
+    "Union City, TN WATCH Coalition | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/cb2455ed8520/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/cb2455ed8520/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/cb2455ed8520/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/cb2455ed8520/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/cb2455ed8520/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/cb2455ed8520/stream.m3u8",
+        "location": "Union City, Tennessee",
+        "latitude": 36.4141,
+        "longitude": -89.0473
+    },
+    "Haywood, TN WATCH Coalition | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/313764a36e47/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/313764a36e47/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/313764a36e47/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/313764a36e47/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/313764a36e47/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/313764a36e47/stream.m3u8",
+        "location": "Brownsville, Tennessee",
+        "latitude": 35.6105,
+        "longitude": -89.2455
+    },
+    "Dyersburg, TN WATCH Coalition | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/b07cc75e5592/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/b07cc75e5592/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/b07cc75e5592/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/b07cc75e5592/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/b07cc75e5592/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/b07cc75e5592/stream.m3u8",
+        "location": "Dyersburg, Tennessee",
+        "latitude": 36.047799703526,
+        "longitude": -89.384592487094
+    },
+    "The Weather House / Y’all Squad HQ  | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/3cb2d952be32/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/3cb2d952be32/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/3cb2d952be32/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/3cb2d952be32/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/3cb2d952be32/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/3cb2d952be32/stream.m3u8",
+        "location": "Pikeville, Kentucky",
+        "latitude": 37.4924,
+        "longitude": -82.5518
+    },
+    "Arlington, TN Fire Station #1 | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/c98948bf5dce/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/c98948bf5dce/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/c98948bf5dce/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/c98948bf5dce/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/c98948bf5dce/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/c98948bf5dce/stream.m3u8",
+        "location": "Arlington, Tennessee",
+        "latitude": 35.28592,
+        "longitude": -89.671139
+    },
+    "Millington, TN Sta. 2 | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/cdc43825cefe/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/cdc43825cefe/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/cdc43825cefe/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/cdc43825cefe/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/cdc43825cefe/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/cdc43825cefe/stream.m3u8",
+        "location": "Millington, Tennessee",
+        "latitude": 35.324525,
+        "longitude": -89.904565
+    },
+    "Bartlett, TN Fire Station #1 | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/86af407068fa/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/86af407068fa/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/86af407068fa/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/86af407068fa/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/86af407068fa/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/86af407068fa/stream.m3u8",
+        "location": "Bartlett, Tennessee",
+        "latitude": 35.2055396,
+        "longitude": -89.8488349
+    },
+    "Collierville, TN Town Hall | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/f948f8aecac8/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/f948f8aecac8/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/f948f8aecac8/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/f948f8aecac8/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/f948f8aecac8/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/f948f8aecac8/stream.m3u8",
+        "location": "Collierville, Tennessee",
+        "latitude": 35.0502262,
+        "longitude": -89.6866654
+    },
+    "Baldwin County School District  | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/e91f3c2a705c/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/e91f3c2a705c/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/e91f3c2a705c/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/e91f3c2a705c/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/e91f3c2a705c/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/e91f3c2a705c/stream.m3u8",
+        "location": null,
+        "latitude": 33.0882132,
+        "longitude": -83.262867
+    },
+    "United Rescue Alliance Camp Barkeley | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/c8a6b491812c/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/c8a6b491812c/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/c8a6b491812c/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/c8a6b491812c/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/c8a6b491812c/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/c8a6b491812c/stream.m3u8",
+        "location": null,
+        "latitude": 32.3157,
+        "longitude": -99.8698
+    },
+    "Hinds County EMA | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/bba461eca5ca/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/bba461eca5ca/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/bba461eca5ca/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/bba461eca5ca/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/bba461eca5ca/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/bba461eca5ca/stream.m3u8",
+        "location": null,
+        "latitude": 32.3599,
+        "longitude": -90.1517
+    },
+    "Massac EMA | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/ac34cdff5de8/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/ac34cdff5de8/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/ac34cdff5de8/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/ac34cdff5de8/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/ac34cdff5de8/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/ac34cdff5de8/stream.m3u8",
+        "location": null,
+        "latitude": 37.152066,
+        "longitude": -88.732931
+    },
+    "Chestatee Golf Neighborhood | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/1922f782ee4a/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/1922f782ee4a/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/1922f782ee4a/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/1922f782ee4a/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/1922f782ee4a/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/1922f782ee4a/stream.m3u8",
+        "location": "Dawsonville, Georgia",
+        "latitude": 34.403262232484,
+        "longitude": -83.981912245181
+    },
+    "Stanton County EMA | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/4457f25b959c/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/4457f25b959c/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/4457f25b959c/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/4457f25b959c/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/4457f25b959c/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/4457f25b959c/stream.m3u8",
+        "location": "Norfolk, Nebraska",
+        "latitude": 42.019182554663,
+        "longitude": -97.318550310601
+    },
+    "Crystal Falls Golf Course | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/7119f4094af0/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/7119f4094af0/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/7119f4094af0/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/7119f4094af0/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/7119f4094af0/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/7119f4094af0/stream.m3u8",
+        "location": "Dawsonville, Georgia",
+        "latitude": 34.371748690606,
+        "longitude": -84.23940377351
+    },
+    "Vega,TX | HS cyclonePORT  | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/9a55b704eb4f/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/9a55b704eb4f/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/9a55b704eb4f/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/9a55b704eb4f/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/9a55b704eb4f/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/9a55b704eb4f/stream.m3u8",
+        "location": "Vega, Texas",
+        "latitude": 35.2504591,
+        "longitude": -102.4197436
+    },
+    "Warren County OH Turtlecreek Twp. | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/7bf66e5ad124/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/7bf66e5ad124/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/7bf66e5ad124/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/7bf66e5ad124/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/7bf66e5ad124/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/7bf66e5ad124/stream.m3u8",
+        "location": "Lebanon, Ohio",
+        "latitude": 39.424093148641,
+        "longitude": -84.198653619188
+    },
+    "Warren County OH Deerfield Twp. | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/93ad469f9ab8/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/93ad469f9ab8/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/93ad469f9ab8/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/93ad469f9ab8/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/93ad469f9ab8/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/93ad469f9ab8/stream.m3u8",
+        "location": "Mason, Ohio",
+        "latitude": 39.320630086616,
+        "longitude": -84.331799646563
+    },
+    "Warren County OH Massie Twp. | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/40f0bc09de75/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/40f0bc09de75/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/40f0bc09de75/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/40f0bc09de75/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/40f0bc09de75/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/40f0bc09de75/stream.m3u8",
+        "location": "Waynesville, Ohio",
+        "latitude": 39.520754346041,
+        "longitude": -84.028466484518
+    },
+    "Pickens County EMA | 1 | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/488a0afca2d7/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/488a0afca2d7/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/488a0afca2d7/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/488a0afca2d7/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/488a0afca2d7/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/488a0afca2d7/stream.m3u8",
+        "location": null,
+        "latitude": 34.52163897122386,
+        "longitude": -84.33850880000112
+    },
+    "Pickens County EMA | 2  | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/090cb9e181d4/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/090cb9e181d4/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/090cb9e181d4/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/090cb9e181d4/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/090cb9e181d4/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/090cb9e181d4/stream.m3u8",
+        "location": "Jasper, Georgia",
+        "latitude": 34.432500334148,
+        "longitude": -84.561467725289
+    },
+    "Putnam County EMA | Brotherton Mountain | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/7592f083e95f/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/7592f083e95f/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/7592f083e95f/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/7592f083e95f/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/7592f083e95f/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/7592f083e95f/stream.m3u8",
+        "location": null,
+        "latitude": 36.185276623547,
+        "longitude": -85.373216745729
+    },
+    "Putnam County EMA (Gentry, TN) | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/b56426918d7b/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/b56426918d7b/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/b56426918d7b/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/b56426918d7b/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/b56426918d7b/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/b56426918d7b/stream.m3u8",
+        "location": null,
+        "latitude": 36.179546878833,
+        "longitude": -85.748860032403
+    },
+    "Haydenburg Fire Tower | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/6c9ca5364873/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/6c9ca5364873/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/6c9ca5364873/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/6c9ca5364873/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/6c9ca5364873/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/6c9ca5364873/stream.m3u8",
+        "location": "Cookeville, Tennessee",
+        "latitude": 36.42757967604,
+        "longitude": -85.722161920386
+    },
+    "Wildwood Marina | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/67f4c960cafc/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/67f4c960cafc/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/67f4c960cafc/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/67f4c960cafc/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/67f4c960cafc/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/67f4c960cafc/stream.m3u8",
+        "location": null,
+        "latitude": 36.256059341973,
+        "longitude": -85.800760213119
+    },
+    "Putnam County EMA | Monterey, TN | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/7e5f76ee68e7/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/7e5f76ee68e7/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/7e5f76ee68e7/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/7e5f76ee68e7/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/7e5f76ee68e7/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/7e5f76ee68e7/stream.m3u8",
+        "location": null,
+        "latitude": 36.146449886355,
+        "longitude": -85.260145954036
+    },
+    "Putnam Co EMA| Burgess Falls Rd | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/5ae584a4ec71/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/5ae584a4ec71/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/5ae584a4ec71/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/5ae584a4ec71/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/5ae584a4ec71/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/5ae584a4ec71/stream.m3u8",
+        "location": null,
+        "latitude": 36.076543588376,
+        "longitude": -85.589898049659
+    },
+    "Hermitage Springs Tower | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/90dce2a877d2/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/90dce2a877d2/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/90dce2a877d2/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/90dce2a877d2/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/90dce2a877d2/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/90dce2a877d2/stream.m3u8",
+        "location": null,
+        "latitude": 36.583269548893,
+        "longitude": -85.770417093363
+    },
+    "Clarkrange Fentress County, TN | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/34eefea26b5b/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/34eefea26b5b/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/34eefea26b5b/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/34eefea26b5b/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/34eefea26b5b/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/34eefea26b5b/stream.m3u8",
+        "location": "Clarkrange, Tennessee",
+        "latitude": 36.192542553086,
+        "longitude": -85.021239530885
+    },
+    "Pea Ridge | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/827b22867455/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/827b22867455/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/827b22867455/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/827b22867455/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/827b22867455/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/827b22867455/stream.m3u8",
+        "location": null,
+        "latitude": 36.197853002342,
+        "longitude": -85.853408419732
+    },
+    "WCOEM Upper Cumberland Airport | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/19474f4991e9/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/19474f4991e9/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/19474f4991e9/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/19474f4991e9/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/19474f4991e9/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/19474f4991e9/stream.m3u8",
+        "location": null,
+        "latitude": 36.055483347777,
+        "longitude": -85.528580793842
+    },
+    "Beechboard | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/7f2a6efaab90/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/7f2a6efaab90/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/7f2a6efaab90/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/7f2a6efaab90/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/7f2a6efaab90/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/7f2a6efaab90/stream.m3u8",
+        "location": "Carthage, Tennessee",
+        "latitude": 36.25202569463,
+        "longitude": -86.032760346711
+    },
+    "Warren County OH Harlan Twp. | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/10715eea5d14/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/10715eea5d14/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/10715eea5d14/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/10715eea5d14/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/10715eea5d14/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/10715eea5d14/stream.m3u8",
+        "location": "Blanchester, Ohio",
+        "latitude": 39.3180773618,
+        "longitude": -84.052501240542
+    },
+    "Warren County OH Franklin Twp. | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/dbf7964a709b/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/dbf7964a709b/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/dbf7964a709b/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/dbf7964a709b/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/dbf7964a709b/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/dbf7964a709b/stream.m3u8",
+        "location": "Franklin, Ohio",
+        "latitude": 39.526434983122,
+        "longitude": -84.321425139071
+    },
+    "Smith County 911 | Radio Hill | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/6f29ce499721/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/6f29ce499721/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/6f29ce499721/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/6f29ce499721/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/6f29ce499721/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/6f29ce499721/stream.m3u8",
+        "location": "Cookeville, Tennessee",
+        "latitude": 36.310548034611,
+        "longitude": -85.952371670787
+    },
+    "Henderson Co. Community Hospital | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/d2763d48bb7e/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/d2763d48bb7e/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/d2763d48bb7e/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/d2763d48bb7e/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/d2763d48bb7e/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/d2763d48bb7e/stream.m3u8",
+        "location": null,
+        "latitude": 35.655299,
+        "longitude": -88.39869
+    },
+    "Henry County EMA | WATCH Coalition | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/1574f0aaf4f9/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/1574f0aaf4f9/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/1574f0aaf4f9/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/1574f0aaf4f9/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/1574f0aaf4f9/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/1574f0aaf4f9/stream.m3u8",
+        "location": null,
+        "latitude": 36.29341,
+        "longitude": -88.33066
+    },
+    "City of Henderson Fire Dept. | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/32a815c7d1c6/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/32a815c7d1c6/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/32a815c7d1c6/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/32a815c7d1c6/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/32a815c7d1c6/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/32a815c7d1c6/stream.m3u8",
+        "location": null,
+        "latitude": 35.43357,
+        "longitude": -88.650957
+    },
+    "Milledgeville, TN | WATCH Coalition | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/0b3f000702f2/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/0b3f000702f2/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/0b3f000702f2/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/0b3f000702f2/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/0b3f000702f2/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/0b3f000702f2/stream.m3u8",
+        "location": null,
+        "latitude": 35.37488039484,
+        "longitude": -88.369137279723
+    },
+    "Alexandria, TN | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/641b7d7b20c2/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/641b7d7b20c2/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/641b7d7b20c2/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/641b7d7b20c2/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/641b7d7b20c2/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/641b7d7b20c2/stream.m3u8",
+        "location": "Alexandria, Tennessee",
+        "latitude": 36.070239805867,
+        "longitude": -86.031145074874
+    },
+    "Bartow County Fire & EMS | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/b98694ac2169/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/b98694ac2169/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/b98694ac2169/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/b98694ac2169/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/b98694ac2169/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/b98694ac2169/stream.m3u8",
+        "location": "Cartersville, Georgia",
+        "latitude": 34.203755183767,
+        "longitude": -84.791957576157
+    },
+    "UT | Nashville IPS | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/d35e7f046b71/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/d35e7f046b71/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/d35e7f046b71/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/d35e7f046b71/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/d35e7f046b71/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/d35e7f046b71/stream.m3u8",
+        "location": null,
+        "latitude": 36.135502,
+        "longitude": -86.748434
+    },
+    "Sunset Boat Ramp| Reelfoot Lake | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/5b427b8e44da/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/5b427b8e44da/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/5b427b8e44da/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/5b427b8e44da/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/5b427b8e44da/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/5b427b8e44da/stream.m3u8",
+        "location": null,
+        "latitude": 36.377767,
+        "longitude": -89.361704
+    },
+    "Cumberland EMA | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/527513815760/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/527513815760/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/527513815760/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/527513815760/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/527513815760/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/527513815760/stream.m3u8",
+        "location": "Crossville, Tennessee",
+        "latitude": 35.940850311403,
+        "longitude": -85.022781128191
+    },
+    "Dekalb 911 | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/f7cdf6a5c71e/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/f7cdf6a5c71e/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/f7cdf6a5c71e/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/f7cdf6a5c71e/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/f7cdf6a5c71e/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/f7cdf6a5c71e/stream.m3u8",
+        "location": null,
+        "latitude": 35.959799417099,
+        "longitude": -85.816747046036
+    },
+    "WXorNOT|#1 | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/39d8e2c642f8/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/39d8e2c642f8/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/39d8e2c642f8/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/39d8e2c642f8/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/39d8e2c642f8/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/39d8e2c642f8/stream.m3u8",
+        "location": "Scottsville, Kentucky",
+        "latitude": 36.833419558741,
+        "longitude": -86.083391630749
+    },
+    "Russellville, KY | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/c113345fbcea/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/c113345fbcea/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/c113345fbcea/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/c113345fbcea/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/c113345fbcea/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/c113345fbcea/stream.m3u8",
+        "location": "Russellville, Kentucky",
+        "latitude": 36.844416143171,
+        "longitude": -86.923471501379
+    },
+    "Gold City, KY | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/9d441ed2a679/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/9d441ed2a679/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/9d441ed2a679/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/9d441ed2a679/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/9d441ed2a679/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/9d441ed2a679/stream.m3u8",
+        "location": "Franklin, Kentucky",
+        "latitude": 36.749840008276,
+        "longitude": -86.454744418619
+    },
+    "Bowling Green, KY | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/92f235916909/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/92f235916909/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/92f235916909/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/92f235916909/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/92f235916909/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/92f235916909/stream.m3u8",
+        "location": "Bowling Green, Kentucky",
+        "latitude": 36.994268318133,
+        "longitude": -86.44046883188
+    },
+    "Morgantown, KY | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/4658741adbc6/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/4658741adbc6/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/4658741adbc6/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/4658741adbc6/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/4658741adbc6/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/4658741adbc6/stream.m3u8",
+        "location": "Morgantown, Kentucky",
+        "latitude": 37.225283892807,
+        "longitude": -86.683055277572
+    },
+    "Rural Fire | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/af85a7170432/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/af85a7170432/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/af85a7170432/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/af85a7170432/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/af85a7170432/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/af85a7170432/stream.m3u8",
+        "location": "Blodgett, Missouri",
+        "latitude": 37.004406071311,
+        "longitude": -89.52725693391
+    },
+    "Dodson Branch | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/87b578553d1a/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/87b578553d1a/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/87b578553d1a/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/87b578553d1a/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/87b578553d1a/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/87b578553d1a/stream.m3u8",
+        "location": null,
+        "latitude": 36.307104023087,
+        "longitude": -85.529817232061
+    },
+    "Dawson Middle School | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/ee1502ab7e19/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/ee1502ab7e19/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/ee1502ab7e19/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/ee1502ab7e19/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/ee1502ab7e19/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/ee1502ab7e19/stream.m3u8",
+        "location": null,
+        "latitude": 34.354525125467,
+        "longitude": -84.115346941997
+    },
+    "Fire Tower | Pickett County | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/69a5dc9bee1b/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/69a5dc9bee1b/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/69a5dc9bee1b/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/69a5dc9bee1b/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/69a5dc9bee1b/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/69a5dc9bee1b/stream.m3u8",
+        "location": "Byrdstown, Tennessee",
+        "latitude": 36.525929883144,
+        "longitude": -85.103971856601
+    },
+    "Robertson County EMA / TNHRHCC | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/71d22451cb75/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/71d22451cb75/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/71d22451cb75/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/71d22451cb75/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/71d22451cb75/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/71d22451cb75/stream.m3u8",
+        "location": "Springfield, Tennessee",
+        "latitude": 36.535397523171,
+        "longitude": -86.889686847089
+    },
+    "Montgomery Co. EMA | TNHRHCC | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/074abf28eb17/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/074abf28eb17/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/074abf28eb17/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/074abf28eb17/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/074abf28eb17/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/074abf28eb17/stream.m3u8",
+        "location": "Nashville, Tennessee",
+        "latitude": 36.527463335036,
+        "longitude": -87.358240852472
+    },
+    "Stewart County EMA | Hopewell | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/42b3011fd675/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/42b3011fd675/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/42b3011fd675/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/42b3011fd675/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/42b3011fd675/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/42b3011fd675/stream.m3u8",
+        "location": "Nashville, Tennessee",
+        "latitude": 36.431145557424,
+        "longitude": -87.641433202281
+    },
+    "Burkburnett | RadarOmega": {
+        "url": "https://video1.cdn.radaromega.com/live/020bd634b69c/stream.m3u8",
+        "url2": "https://video2.cdn.radaromega.com/live/020bd634b69c/stream.m3u8",
+        "url3": "https://video3.cdn.radaromega.com/live/020bd634b69c/stream.m3u8",
+        "url4": "https://video4.cdn.radaromega.com/live/020bd634b69c/stream.m3u8",
+        "url5": "https://video5.cdn.radaromega.com/live/020bd634b69c/stream.m3u8",
+        "url6": "https://video6.cdn.radaromega.com/live/020bd634b69c/stream.m3u8",
+        "location": null,
+        "latitude": 34.076120174278,
+        "longitude": -98.535972916673
     }
 }
