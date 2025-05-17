@@ -82269,5 +82269,11 @@
     "Aaron Jayjack": {
         "url": "https://video1.cdn.radaromega.com/live/08128fd97391/stream.m3u8",
         "location": "Storm Chaser"
+    },
+    "WMI West": {
+        "url": "https://wmiradar.com/ahsp/webcam/cea3w/latest.jpg",
+        "location": "Olds Aiport, Alberta",
+        "latitude": 51.710846, 
+        "longitude": -114.107029
     }
 }
