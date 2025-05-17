@@ -82261,25 +82261,13 @@
     "Connor Croff": {
         "url": "https://video1.cdn.radaromega.com/live/5f3b662a9ae9/stream.m3u8",
         "location": "Storm Chaser",
-        "latitude": 31.919285423805,
-        "longitude": -89.019845800303,
-        "Type": "Radaromega",
-        "UUID": "20226bb3-7ec6-4e8f-92ee-a1218bc58568"
     },
     "Brad Arnold": {
         "url": "https://video1.cdn.radaromega.com/live/6c4184fe0be2/stream.m3u8",
         "location": "Storm Chaser",
-        "latitude": 35.4586005,
-        "longitude": -95.552079,
-        "Type": "Radaromega",
-        "UUID": "8e27fd13-0390-4f66-9ab6-07dcce0a0ccb"
     },
     "Aaron Jayjack": {
         "url": "https://video1.cdn.radaromega.com/live/08128fd97391/stream.m3u8",
         "location": "Storm Chaser",
-        "latitude": 35.534881242427,
-        "longitude": -98.24600572554,
-        "Type": "Radaromega",
-        "UUID": "f8b0bd96-7a81-458f-8bdf-948d93524602"
     }
 }
