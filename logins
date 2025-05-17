@@ -82257,5 +82257,13 @@
         "url": "https://video.deldot.gov:443/live/SCAM233.stream/playlist.m3u8",
         "latitude": 38.755437,
         "longitude": -75.148264
+    },
+    "Connor Croff": {
+        "url": "https://video1.cdn.radaromega.com/live/5f3b662a9ae9/stream.m3u8",
+        "location": "Storm Chaser",
+        "latitude": 31.919285423805,
+        "longitude": -89.019845800303,
+        "Type": "Radaromega",
+        "UUID": "20226bb3-7ec6-4e8f-92ee-a1218bc58568"
     }
 }
