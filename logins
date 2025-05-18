@@ -6907,6 +6907,12 @@
         "url": "rtmp://ingest.severetv.com/live/jonathan.anderson",
         "location": "Storm Chaser"
     },
+    "North Georgia Weather SkyCam": {
+        "url": "https://streamtest.tropitracker.com/hls/ngwx-skycam.m3u8",
+        "location": "Dallas, Georgia",
+        "longitude": -84.88484,
+        "latitude": 33.99
+    },
     "PTZ View | Virtual RailFan Oklahoma City": {
         "longitude": -97.515089,
         "latitude": 35.514518,
