@@ -6851,6 +6851,50 @@
         "url": "rtmp://ingest.severetv.com/live/dan.fitts",
         "location": "Storm Chaser"
     },
+    "Jeff Robbins": {
+        "url": "https://edge.livestormchasing.com/hls/gcsrvJhUzbwzlskyu1FJ/index.m3u8",
+        "location": "Storm Chaser"
+    },
+    "Adam Lucio": {
+        "url": "https://edge.livestormchasing.com/hls/qWDg5AS9IjEaNhmcgF3y/index.m3u8",
+        "location": "Storm Chaser"
+    },
+    "Bryce Kintigh": {
+        "url": "https://edge.livestormchasing.com/hls/bryce.kintigh/index.m3u8",
+        "location": "Storm Chaser"
+    },
+    "Nick Busby": {
+        "url": "https://edge.livestormchasing.com/hls/5ioV3WzK0Da0wUloohlg/index.m3u8",
+        "location": "Storm Chaser"
+    },
+    "Bob Pack": {
+        "url": "https://edge.livestormchasing.com/hls/66dqQzvVz4ruIodRGy0y/index.m3u8",
+        "location": "Storm Chaser"
+    },
+    "Matt Grantham": {
+        "url": "https://edge.livestormchasing.com/hls/Gac8SG9N9Ops41UFgcnj/index.m3u8",
+        "location": "Storm Chaser"
+    },
+    "Daniel Whittaker": {
+        "url": "https://edge.livestormchasing.com/hls/AROrWq3TckvPtfldUBQO/index.m3u8",
+        "location": "Storm Chaser"
+    },
+    "Becca Furnish": {
+        "url": "https://edge.livestormchasing.com/hls/f4zzA8FrYUJ8NlHPhIBI/index.m3u8",
+        "location": "Storm Chaser"
+    },
+    "Ryan Pitt": {
+        "url": "https://edge.livestormchasing.com/hls/ynFv3dSJJExLLXQIGdkB/index.m3u8",
+        "location": "Storm Chaser"
+    },
+    "Carl Hobi": {
+        "url": "https://edge.livestormchasing.com/hls/8UEbxSXVKWacboEZd6sG/index.m3u8",
+        "location": "Storm Chaser"
+    },
+    "Chris Novy": {
+        "url": "https://edge.livestormchasing.com/hls/chris.novy/index.m3u8",
+        "location": "Storm Chaser"
+    },
     "PTZ View | Virtual RailFan Oklahoma City": {
         "longitude": -97.515089,
         "latitude": 35.514518,
