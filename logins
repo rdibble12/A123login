@@ -7351,10 +7351,6 @@
         "location": "Hatton, Alabama",
         "url": "https://node3.video.hazcams.com/hatton-al-us-001/index.m3u8"
     },
-    "Freddy McKinney": {
-        "url": "rtmp://ingest.severetv.com/live/freddy.mckinney",
-        "location": "Storm Chaser"
-    },
     "Chelsey Dallmann": {
         "url": "rtmp://ingest.severetv.com/live/chelsey.dallmann",
         "location": "Storm Chaser"
