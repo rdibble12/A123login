@@ -6819,6 +6819,10 @@
         "url": "rtmp://ingest.severetv.com/live/ryan.scholl",
         "location": "Storm Chaser"
     },
+    "Peter Griffin": {
+        "url": "",
+        "location": "SN DOT ONLY USE RYAN SCHOLL FOR STREAM"
+    },
     "Charlie Bourdo": {
         "url": "rtmp://ingest.severetv.com/live/charlie.bourdo",
         "location": "Storm Chaser"
