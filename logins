@@ -6907,9 +6907,10 @@
         "url": "rtmp://ingest.severetv.com/live/jonathan.anderson",
         "location": "Storm Chaser"
     },
-    "North Georgia Weather SkyCam": {
-        "url": "https://streamtest.tropitracker.com/hls/ngwx-skycam.m3u8",
-        "location": "Dallas, Georgia",
+    "North Georgia Weather WxCam": {
+        "url": "https://cameras.tropitracker.com/hls/ngwx-cam.m3u8",
+        "url2": "https://cameras.tropitracker.com/dash/ngwx-cam.mpd",
+        "location": "Northwest Georgia",
         "longitude": -84.88484,
         "latitude": 33.99
     },
@@ -84307,6 +84308,5 @@
           "latitude": 35.678364,
           "longitude": -97.054842,
           "url": "https://stream.oktraffic.org/delay-stream/f5cc4ce650ef8702.stream/playlist.m3u8"
-
     }
 }
