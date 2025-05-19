@@ -6911,6 +6911,18 @@
         "url": "",
         "location": "Storm Chaser"
     },
+    "Connor Croff": {
+        "url": "https://video1.cdn.radaromega.com/live/5f3b662a9ae9/stream.m3u8",
+        "location": "Storm Chaser"
+    },
+    "Brad Arnold": {
+        "url": "https://video1.cdn.radaromega.com/live/6c4184fe0be2/stream.m3u8",
+        "location": "Storm Chaser"
+    },
+    "Aaron Jayjack": {
+        "url": "https://video1.cdn.radaromega.com/live/08128fd97391/stream.m3u8",
+        "location": "Storm Chaser"
+    },
     "North Georgia Weather WxCam": {
         "url": "https://cameras.tropitracker.com/hls/ngwx-cam.m3u8",
         "url2": "https://cameras.tropitracker.com/dash/ngwx-cam.mpd",
