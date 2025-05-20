@@ -87250,5 +87250,11 @@
         "latitude": 35.678364,
         "longitude": -97.054842,
         "url": "https://stream.oktraffic.org/delay-stream/29de4ad2adc4c56c.stream/playlist.m3u8"
+    },
+    "Hazcam | Centerville, TN": {
+        "longitude": -87.535105,
+        "latitude": 35.760885,
+        "location": "Centerville, Tenneessee",
+        "url": "https://node3.video.hazcams.com/centerville-tn-us-001/index.m3u8"
     }
 }
