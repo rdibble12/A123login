@@ -6920,7 +6920,7 @@
         "location": "Storm Chaser"
     },
     "Brad Arnold": {
-        "url": "https://video1.cdn.radaromega.com/live/6c4184fe0be2/stream.m3u8",
+        "url": "rtmp://rtmp.radaromega.com/live/6c4184fe0be2/",
         "location": "Storm Chaser"
     },
     "Aaron Jayjack": {
