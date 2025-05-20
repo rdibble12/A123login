@@ -87256,5 +87256,11 @@
         "latitude": 35.760885,
         "location": "Centerville, Tenneessee",
         "url": "https://node3.video.hazcams.com/centerville-tn-us-001/index.m3u8"
+    },
+    "Hazcam | Campellsville, TN" : {
+        "longitude": -87.1461933,
+        "latitude": 35.3277297,
+        "location": "Campellsville, Tenneessee",
+        "url": "https://node3.video.hazcams.com/campbellsville-tn-us-001/index.m3u8"
     }
 }
