@@ -6807,6 +6807,10 @@
         "url": "https://video1.cdn.radaromega.com/live/a63cdb78eaf2/stream.m3u8",
         "location": "Storm Chaser"
     },
+    "RDD 6 / ProjectWeatherEye.com": {
+        "url": "https://video1.cdn.radaromega.com/live/e6ea4e7d1f45/stream.m3u8",
+        "location": "Storm Chaser"
+    },
     "Tornado Paigeyy": {
         "url": "rtmp://ch-1.castr.io/static/live_ae9570401ed211f0927195571f488e41",
         "location": "Storm Chaser"
