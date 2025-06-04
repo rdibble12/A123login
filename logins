@@ -6827,9 +6827,9 @@
         "url": "rtmp://ingest.severetv.com/live/ryan.scholl",
         "location": "Storm Chaser"
     },
-    "Peter Griffin": {
-        "url": "",
-        "location": "SN DOT ONLY USE RYAN SCHOLL FOR STREAM"
+    "Jason Cooley": {
+        "url": "https://edge.livestormchasing.com/hls/PZDoVSnYnIw8Mvvrepjz/index.m3u8",
+        "location": "Storm Chaser"
     },
     "Charlie Bourdo": {
         "url": "rtmp://ingest.severetv.com/live/charlie.bourdo",
