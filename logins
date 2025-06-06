@@ -6827,8 +6827,16 @@
         "url": "rtmp://ingest.severetv.com/live/ryan.scholl",
         "location": "Storm Chaser"
     },
+    "Ken Engquist": {
+        "url": "rtmp://ingest.severetv.com/live/ken.engquist",
+        "location": "Storm Chaser"
+    },
     "Jason Cooley": {
         "url": "https://edge.livestormchasing.com/hls/PZDoVSnYnIw8Mvvrepjz/index.m3u8",
+        "location": "Storm Chaser"
+    },
+    "Nick Smego": {
+        "url": "https://edge.livestormchasing.com/hls/adsHN50CXpY9yJyiw1Kz/index.m3u8",
         "location": "Storm Chaser"
     },
     "Charlie Bourdo": {
@@ -6997,10 +7005,6 @@
     },
     "Stacy Gifford": {
         "url": "https://edge.livestormchasing.com/hls/wjIUkrIzh9mKngzL8yLt/index.m3u8",
-        "location": "Storm Chaser LSM"
-    },
-    "Nick Smego": {
-        "url": "https://edge.livestormchasing.com/hls/adsHN50CXpY9yJyiw1Kz/index.m3u8",
         "location": "Storm Chaser LSM"
     },
     "North Georgia Weather WxCam": {
