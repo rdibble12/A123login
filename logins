@@ -85310,1919 +85310,1925 @@
         "latitude": 35.835133,
         "longitude": -90.750469,
         "location": "Arkansas"
-    },
-    "oktraffic.org | I-44 & I-240 S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.39637,
-        "longitude": -97.57406,
-        "url": "https://stream.oktraffic.org/delay-stream/d1d9de94d54bccc5.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & I-240 E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.39637,
-        "longitude": -97.57406,
-        "url": "https://stream.oktraffic.org/delay-stream/18fa14421a8935f9.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & Airport Rd N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.4155,
-        "longitude": -97.5812,
-        "url": "https://stream.oktraffic.org/delay-stream/8391ac1dd591dc85.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & Airport Rd S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.4155,
-        "longitude": -97.5812,
-        "url": "https://stream.oktraffic.org/delay-stream/eef457a861b4d7b7.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & S29th N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.43513,
-        "longitude": -97.56993,
-        "url": "https://stream.oktraffic.org/delay-stream/a41ea56b573ed451.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & S29th E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.43513,
-        "longitude": -97.56993,
-        "url": "https://stream.oktraffic.org/delay-stream/a3371129a64f9f0c.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & S29th W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.43513,
-        "longitude": -97.56993,
-        "url": "https://stream.oktraffic.org/delay-stream/04ebf50249db3ea0.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & I-40 N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.45988315,
-        "longitude": -97.57485429,
-        "url": "https://stream.oktraffic.org/delay-stream/03f2a1057146a14b.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & I-40 S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.45988315,
-        "longitude": -97.57485429,
-        "url": "https://stream.oktraffic.org/delay-stream/8b25413030b81c55.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & I-40 E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.45988315,
-        "longitude": -97.57485429,
-        "url": "https://stream.oktraffic.org/delay-stream/f682ef9fa549a93f.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & I-40 W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.45988315,
-        "longitude": -97.57485429,
-        "url": "https://stream.oktraffic.org/delay-stream/d6af9dff1fc411cd.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & N10th N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.47842,
-        "longitude": -97.57879,
-        "url": "https://stream.oktraffic.org/delay-stream/e09226611c1ac7d0.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & N10th S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.47842,
-        "longitude": -97.57879,
-        "url": "https://stream.oktraffic.org/delay-stream/cfe27bc4a6439b07.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & N10th E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.47842,
-        "longitude": -97.57879,
-        "url": "https://stream.oktraffic.org/delay-stream/ccca2f7ded7b3ecd.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & N10th W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.47842,
-        "longitude": -97.57879,
-        "url": "https://stream.oktraffic.org/delay-stream/9d6ade859dd90687.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & N23rd N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.4932,
-        "longitude": -97.57904,
-        "url": "https://stream.oktraffic.org/delay-stream/9109b98db84697a3.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & N23rd S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.4932,
-        "longitude": -97.57904,
-        "url": "https://stream.oktraffic.org/delay-stream/9ad5ecefb502be84.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & N23rd E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.4932,
-        "longitude": -97.57904,
-        "url": "https://stream.oktraffic.org/delay-stream/26eabd309cbdb93a.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & N23rd W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.4932,
-        "longitude": -97.57904,
-        "url": "https://stream.oktraffic.org/delay-stream/25577bba676a1f75.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & SH-66 N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.51097978,
-        "longitude": -97.57564991,
-        "url": "https://stream.oktraffic.org/delay-stream/c09ba9c54a43bdd3.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & SH-66 W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.51097978,
-        "longitude": -97.57564991,
-        "url": "https://stream.oktraffic.org/delay-stream/82e3b0173a8a506d.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & SH-66 E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.51097978,
-        "longitude": -97.57564991,
-        "url": "https://stream.oktraffic.org/delay-stream/350fe39185cdabe4.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & SH-66 S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.51097978,
-        "longitude": -97.57564991,
-        "url": "https://stream.oktraffic.org/delay-stream/f9464a741d54c0f1.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-74 & SH-3 N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.53269025,
-        "longitude": -97.57983148,
-        "url": "https://stream.oktraffic.org/delay-stream/0fe5a23dac92122f.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-74 & SH-3 S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.53269025,
-        "longitude": -97.57983148,
-        "url": "https://stream.oktraffic.org/delay-stream/3c3a29823e6c758a.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-74 & SH-3 W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.53269025,
-        "longitude": -97.57983148,
-        "url": "https://stream.oktraffic.org/delay-stream/1e894c3112c32382.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-74 & SH-3 E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.53269025,
-        "longitude": -97.57983148,
-        "url": "https://stream.oktraffic.org/delay-stream/c300b65ea6ce7fe8.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-74 & Grand S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.54459601,
-        "longitude": -97.57483854,
-        "url": "https://stream.oktraffic.org/delay-stream/546b6e899cb2fb09.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-74 & Grand N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.54459601,
-        "longitude": -97.57483854,
-        "url": "https://stream.oktraffic.org/delay-stream/f89a302fe9e1fdb5.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-74 & Britton N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.56558,
-        "longitude": -97.57484,
-        "url": "https://stream.oktraffic.org/delay-stream/3e2d73c0bf071962.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-74 & Britton S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.56558,
-        "longitude": -97.57484,
-        "url": "https://stream.oktraffic.org/delay-stream/c8b420d4f3965928.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-74 & Britton E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.56558,
-        "longitude": -97.57484,
-        "url": "https://stream.oktraffic.org/delay-stream/cabfc4f98122d685.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-74 & Hefner N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.58018,
-        "longitude": -97.57991,
-        "url": "https://stream.oktraffic.org/delay-stream/600f348d4b7ae40e.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-74 & Hefner S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.58018,
-        "longitude": -97.57991,
-        "url": "https://stream.oktraffic.org/delay-stream/2dae94ee8629be34.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-74 & Hefner E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.58018,
-        "longitude": -97.57991,
-        "url": "https://stream.oktraffic.org/delay-stream/dab50dca9c572f32.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-74 & N122nd S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.5947,
-        "longitude": -97.58495,
-        "url": "https://stream.oktraffic.org/delay-stream/4f816462e9441c88.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-74 & N122nd N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.5947,
-        "longitude": -97.58495,
-        "url": "https://stream.oktraffic.org/delay-stream/e4706b70eff6c795.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-74 & N122nd E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.5947,
-        "longitude": -97.58495,
-        "url": "https://stream.oktraffic.org/delay-stream/e99c2397debb912f.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-74 & Memorial N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.60948,
-        "longitude": -97.58505,
-        "url": "https://stream.oktraffic.org/delay-stream/ae0c783d5443ad77.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-74 & Memorial S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.60948,
-        "longitude": -97.58505,
-        "url": "https://stream.oktraffic.org/delay-stream/eda2cfc3a7b876a6.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-74 & Memorial E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.60948,
-        "longitude": -97.58505,
-        "url": "https://stream.oktraffic.org/delay-stream/80ed7f18e19e9988.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-74 & Memorial W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.60948,
-        "longitude": -97.58505,
-        "url": "https://stream.oktraffic.org/delay-stream/468115df95f266c0.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & Meridian N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.45997,
-        "longitude": -97.60125,
-        "url": "https://stream.oktraffic.org/delay-stream/a70498c160a227ad.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & Meridian S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.45997,
-        "longitude": -97.60125,
-        "url": "https://stream.oktraffic.org/delay-stream/5869a75f83f18fe4.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & Meridian E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.45997,
-        "longitude": -97.60125,
-        "url": "https://stream.oktraffic.org/delay-stream/29a7ab54691aad17.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & Meridian W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.45997,
-        "longitude": -97.60125,
-        "url": "https://stream.oktraffic.org/delay-stream/0c2ff216925f13db.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & May E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.461165,
-        "longitude": -97.566121,
-        "url": "https://stream.oktraffic.org/delay-stream/fa83e6b0d5452b16.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & May W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.461165,
-        "longitude": -97.566121,
-        "url": "https://stream.oktraffic.org/delay-stream/7dfa7039d005a979.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & May N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.461165,
-        "longitude": -97.566121,
-        "url": "https://stream.oktraffic.org/delay-stream/153f69dff6e8a96b.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & May S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.461165,
-        "longitude": -97.566121,
-        "url": "https://stream.oktraffic.org/delay-stream/df10428a709dc14b.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & Agnew W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.461126,
-        "longitude": -97.55554,
-        "url": "https://stream.oktraffic.org/delay-stream/2975b4f507546d04.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & Agnew E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.461126,
-        "longitude": -97.55554,
-        "url": "https://stream.oktraffic.org/delay-stream/a3fe381b595bebea.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & Agnew S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.461126,
-        "longitude": -97.55554,
-        "url": "https://stream.oktraffic.org/delay-stream/b750b81d3679a0c4.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & Agnew N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.461126,
-        "longitude": -97.55554,
-        "url": "https://stream.oktraffic.org/delay-stream/01321bdb67a5fc47.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & Penn W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.461465,
-        "longitude": -97.546838,
-        "url": "https://stream.oktraffic.org/delay-stream/14fa7b44932b3b3a.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & Penn E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.461465,
-        "longitude": -97.546838,
-        "url": "https://stream.oktraffic.org/delay-stream/4dec77a49f7f1d01.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & Western W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.458261,
-        "longitude": -97.531872,
-        "url": "https://stream.oktraffic.org/delay-stream/abb61a4b83d44710.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & Western E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.458261,
-        "longitude": -97.531872,
-        "url": "https://stream.oktraffic.org/delay-stream/453f33f9da578eeb.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & N12th S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.34903757,
-        "longitude": -97.49519134,
-        "url": "https://stream.oktraffic.org/delay-stream/a115af31379ee0cc.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & N12th E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.34903757,
-        "longitude": -97.49519134,
-        "url": "https://stream.oktraffic.org/delay-stream/1f1b89732ded2bb0.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & N12th W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.34903757,
-        "longitude": -97.49519134,
-        "url": "https://stream.oktraffic.org/delay-stream/6f942d989358870f.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & N27th N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.36284253,
-        "longitude": -97.49503711,
-        "url": "https://stream.oktraffic.org/delay-stream/c6f9bae3ddabfbf7.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & N27th E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.36284253,
-        "longitude": -97.49503711,
-        "url": "https://stream.oktraffic.org/delay-stream/7794a8317c8d3202.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & S89th N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.37616664,
-        "longitude": -97.49522554,
-        "url": "https://stream.oktraffic.org/delay-stream/9dac489f17fc8ddd.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & S89th S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.37616664,
-        "longitude": -97.49522554,
-        "url": "https://stream.oktraffic.org/delay-stream/d997e7166ae83dad.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & I-240 E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.39367,
-        "longitude": -97.49787,
-        "url": "https://stream.oktraffic.org/delay-stream/b0dacdd920220117.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & I-240 SW": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.39367,
-        "longitude": -97.49787,
-        "url": "https://stream.oktraffic.org/delay-stream/76c97269ebe2b69f.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & S59th S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.40679572,
-        "longitude": -97.49404,
-        "url": "https://stream.oktraffic.org/delay-stream/54771d2d64bad7dd.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & S36th S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.427937,
-        "longitude": -97.485684,
-        "url": "https://stream.oktraffic.org/delay-stream/eda634e3228921e1.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & S36th N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.427937,
-        "longitude": -97.485684,
-        "url": "https://stream.oktraffic.org/delay-stream/ab089fa2ec273cec.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & S29th N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.435499,
-        "longitude": -97.485824,
-        "url": "https://stream.oktraffic.org/delay-stream/3c65c98175a695ae.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & S29th S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.435499,
-        "longitude": -97.485824,
-        "url": "https://stream.oktraffic.org/delay-stream/12a35a6d84d09e68.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & I-35 E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.462333,
-        "longitude": -97.490531,
-        "url": "https://stream.oktraffic.org/delay-stream/4aa75fc7cb117eaa.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & I-35 W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.462333,
-        "longitude": -97.490531,
-        "url": "https://stream.oktraffic.org/delay-stream/6f9213407f815da1.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & Shields N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.455475,
-        "longitude": -97.514,
-        "url": "https://stream.oktraffic.org/delay-stream/0a4d1c507d0720a3.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & Shields S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.455475,
-        "longitude": -97.514,
-        "url": "https://stream.oktraffic.org/delay-stream/c7ed142c917c0380.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & Shields E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.455475,
-        "longitude": -97.514,
-        "url": "https://stream.oktraffic.org/delay-stream/29f207bce9298cf7.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & Shields W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.455475,
-        "longitude": -97.514,
-        "url": "https://stream.oktraffic.org/delay-stream/f40049436f803cde.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & Reno N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.463533,
-        "longitude": -97.461758,
-        "url": "https://stream.oktraffic.org/delay-stream/7b75a3f87e1da82f.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & Reno NW": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.463533,
-        "longitude": -97.461758,
-        "url": "https://stream.oktraffic.org/delay-stream/ac78320905c660ea.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & Reno SE": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.463533,
-        "longitude": -97.461758,
-        "url": "https://stream.oktraffic.org/delay-stream/6e9ff91699610767.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & S29th NW": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.43517,
-        "longitude": -97.40991,
-        "url": "https://stream.oktraffic.org/delay-stream/6a31b90b9f3ea44c.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & S29th E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.43517,
-        "longitude": -97.40991,
-        "url": "https://stream.oktraffic.org/delay-stream/6ebfdc5bd9fc1a50.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & Air Depot N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.43441,
-        "longitude": -97.40589,
-        "url": "https://stream.oktraffic.org/delay-stream/5c7bca7e3f33fe20.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & Air Depot S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.43441,
-        "longitude": -97.40589,
-        "url": "https://stream.oktraffic.org/delay-stream/9acad61f77113e66.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & Air Depot E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.43441,
-        "longitude": -97.40589,
-        "url": "https://stream.oktraffic.org/delay-stream/b2f5de8dadee45b0.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & Air Depot W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.43441,
-        "longitude": -97.40589,
-        "url": "https://stream.oktraffic.org/delay-stream/ec7d7cbfa4b8f7ca.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & Eaker Gate E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.43455,
-        "longitude": -97.39814,
-        "url": "https://stream.oktraffic.org/delay-stream/779d9424d99025bd.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & Eaker Gate N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.43455,
-        "longitude": -97.39814,
-        "url": "https://stream.oktraffic.org/delay-stream/b079a316e7320ef4.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & Eaker Gate W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.43455,
-        "longitude": -97.39814,
-        "url": "https://stream.oktraffic.org/delay-stream/fdbe605ef15a3f20.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & A Ave E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.4352,
-        "longitude": -97.38692,
-        "url": "https://stream.oktraffic.org/delay-stream/6049a64af480d907.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & A Ave W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.4352,
-        "longitude": -97.38692,
-        "url": "https://stream.oktraffic.org/delay-stream/45b3cd95e54d3a88.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & Douglas S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.43431,
-        "longitude": -97.37113,
-        "url": "https://stream.oktraffic.org/delay-stream/15cb3cae349c410e.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & Douglas N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.43431,
-        "longitude": -97.37113,
-        "url": "https://stream.oktraffic.org/delay-stream/f93dd1d3bd4198e3.stream/playlist.m3u8"
-      },
-      "oktraffic.org | OKC Blvd & Penn E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.464925,
-        "longitude": -97.548119,
-        "url": "https://stream.oktraffic.org/delay-stream/d3118cd789e26e1a.stream/playlist.m3u8"
-      },
-      "oktraffic.org | OKC Blvd & Penn W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.464925,
-        "longitude": -97.548119,
-        "url": "https://stream.oktraffic.org/delay-stream/944b609e985e4c39.stream/playlist.m3u8"
-      },
-      "oktraffic.org | OKC Blvd & Penn N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.464925,
-        "longitude": -97.548119,
-        "url": "https://stream.oktraffic.org/delay-stream/2ace64fbf4afdc89.stream/playlist.m3u8"
-      },
-      "oktraffic.org | OKC Blvd & Penn S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.464925,
-        "longitude": -97.548119,
-        "url": "https://stream.oktraffic.org/delay-stream/2b0732d7092d482c.stream/playlist.m3u8"
-      },
-      "oktraffic.org | OKC Blvd & Western W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.46562,
-        "longitude": -97.53125,
-        "url": "https://stream.oktraffic.org/delay-stream/e149ad85721833d2.stream/playlist.m3u8"
-      },
-      "oktraffic.org | OKC Blvd & Lee E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.462514,
-        "longitude": -97.523919,
-        "url": "https://stream.oktraffic.org/delay-stream/b57c23dfbef2b625.stream/playlist.m3u8"
-      },
-      "oktraffic.org | OKC Blvd & Lee NW": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.462514,
-        "longitude": -97.523919,
-        "url": "https://stream.oktraffic.org/delay-stream/1129eb2e76a18d27.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & Reno E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.464069,
-        "longitude": -97.473067,
-        "url": "https://stream.oktraffic.org/delay-stream/95cdde0e7c05b481.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & Reno SW": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.464069,
-        "longitude": -97.473067,
-        "url": "https://stream.oktraffic.org/delay-stream/c4ad26b2f8195de4.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & Reno SE": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.464069,
-        "longitude": -97.473067,
-        "url": "https://stream.oktraffic.org/delay-stream/d58bec8bb56fe538.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & W I-244 E": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.08797,
-        "longitude": -96.04051,
-        "url": "https://stream.oktraffic.org/delay-stream/d7b4e9bd865ab161.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & W I-244 SW": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.08797,
-        "longitude": -96.04051,
-        "url": "https://stream.oktraffic.org/delay-stream/f95bf6c225088d90.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & W I-244 W": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.08797,
-        "longitude": -96.04051,
-        "url": "https://stream.oktraffic.org/delay-stream/1862a264d8eb5dcd.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-244 & SW Blvd N": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.12221084,
-        "longitude": -96.00868937,
-        "url": "https://stream.oktraffic.org/delay-stream/04feb9396dd5aae1.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-244 & SW Blvd S": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.12221084,
-        "longitude": -96.00868937,
-        "url": "https://stream.oktraffic.org/delay-stream/818bcfdef05724e5.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-244 & US-169 N": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.16498,
-        "longitude": -95.85945,
-        "url": "https://stream.oktraffic.org/delay-stream/c3ad362655f27cae.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-244 & US-169 S": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.16498,
-        "longitude": -95.85945,
-        "url": "https://stream.oktraffic.org/delay-stream/da058de45e17a235.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-244 & US-169 E": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.16498,
-        "longitude": -95.85945,
-        "url": "https://stream.oktraffic.org/delay-stream/323004b5312b813a.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-244 & US-169 W": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.16498,
-        "longitude": -95.85945,
-        "url": "https://stream.oktraffic.org/delay-stream/2f4ea1e9343a6baa.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & E I-244 E": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.161382,
-        "longitude": -95.826574,
-        "url": "https://stream.oktraffic.org/delay-stream/48570ef154d489f2.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & E I-244 SW": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.161382,
-        "longitude": -95.826574,
-        "url": "https://stream.oktraffic.org/delay-stream/518dbef1b291dbac.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & E I-244 NW": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.161382,
-        "longitude": -95.826574,
-        "url": "https://stream.oktraffic.org/delay-stream/aa441eae872b68d7.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-51 & US-64/75 N": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.14241,
-        "longitude": -95.97886,
-        "url": "https://stream.oktraffic.org/delay-stream/73f75701d6054d4e.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-51 & US-64/75 E": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.14241,
-        "longitude": -95.97886,
-        "url": "https://stream.oktraffic.org/delay-stream/bba21b51a83d1b43.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & SH-51 NE": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.11393,
-        "longitude": -95.89715,
-        "url": "https://stream.oktraffic.org/delay-stream/7d338989f008b64f.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & SH-51 SE": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.11393,
-        "longitude": -95.89715,
-        "url": "https://stream.oktraffic.org/delay-stream/fcfe1c9a7da04f10.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & SH-51 NW": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.11393,
-        "longitude": -95.89715,
-        "url": "https://stream.oktraffic.org/delay-stream/72000ab21101b3b8.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-169 & SH-51 N": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.09775,
-        "longitude": -95.8592,
-        "url": "https://stream.oktraffic.org/delay-stream/3066d36a3922043d.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-169 & SH-51 S": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.09775,
-        "longitude": -95.8592,
-        "url": "https://stream.oktraffic.org/delay-stream/827f34d10d1c1141.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-51 & S 129th E SE": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.08578,
-        "longitude": -95.82837,
-        "url": "https://stream.oktraffic.org/delay-stream/80932f5c32a747c8.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-169 & E 71st N": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.06105,
-        "longitude": -95.85827,
-        "url": "https://stream.oktraffic.org/delay-stream/0809e84b60ed273d.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-169 & E 71st S": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.06105,
-        "longitude": -95.85827,
-        "url": "https://stream.oktraffic.org/delay-stream/dd4cdb468992346d.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & US-169 N": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.13892,
-        "longitude": -95.86049,
-        "url": "https://stream.oktraffic.org/delay-stream/5099f901f2928326.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & US-169 S": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.13892,
-        "longitude": -95.86049,
-        "url": "https://stream.oktraffic.org/delay-stream/08a4621d98d636de.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & US-169 NE": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.13892,
-        "longitude": -95.86049,
-        "url": "https://stream.oktraffic.org/delay-stream/a8687378d03b2fa3.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & N 193rd E N": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.162145,
-        "longitude": -95.76191,
-        "url": "https://stream.oktraffic.org/delay-stream/5ba8e8480b492be9.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & N 193rd E S": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.162145,
-        "longitude": -95.76191,
-        "url": "https://stream.oktraffic.org/delay-stream/9c006235f37790b7.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & N 193rd E E": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.162145,
-        "longitude": -95.76191,
-        "url": "https://stream.oktraffic.org/delay-stream/ff462fc8e0f34142.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-235 & N13th N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.48214091,
-        "longitude": -97.51050174,
-        "url": "https://stream.oktraffic.org/delay-stream/a92fbf0615100169.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-235 & N13th S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.48214091,
-        "longitude": -97.51050174,
-        "url": "https://stream.oktraffic.org/delay-stream/08ae59df4c928f15.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-235 & N13th E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.48214091,
-        "longitude": -97.51050174,
-        "url": "https://stream.oktraffic.org/delay-stream/c5e85b62b212bb43.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-235 & N13th W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.48214091,
-        "longitude": -97.51050174,
-        "url": "https://stream.oktraffic.org/delay-stream/0222efdb290e99e3.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-235 & N23rd N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.49209705,
-        "longitude": -97.51129835,
-        "url": "https://stream.oktraffic.org/delay-stream/9371854d6fcd3068.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-235 & N23rd S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.49209705,
-        "longitude": -97.51129835,
-        "url": "https://stream.oktraffic.org/delay-stream/5e3f5e8797a8cf5b.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-235 & N36th N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.50887623,
-        "longitude": -97.51498773,
-        "url": "https://stream.oktraffic.org/delay-stream/0b9b39231e4609de.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-235 & N36th S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.50887623,
-        "longitude": -97.51498773,
-        "url": "https://stream.oktraffic.org/delay-stream/581988ef3d075fa7.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-235 & N36th E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.50887623,
-        "longitude": -97.51498773,
-        "url": "https://stream.oktraffic.org/delay-stream/cb2bdcf932d755fa.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-235 & N36th W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.50887623,
-        "longitude": -97.51498773,
-        "url": "https://stream.oktraffic.org/delay-stream/7099edde622414e3.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & S66th N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.39924263,
-        "longitude": -97.49541565,
-        "url": "https://stream.oktraffic.org/delay-stream/f2e9e1a7c31e187e.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & S66th S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.39924263,
-        "longitude": -97.49541565,
-        "url": "https://stream.oktraffic.org/delay-stream/08577cb1c9e8537b.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & S66th E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.39924263,
-        "longitude": -97.49541565,
-        "url": "https://stream.oktraffic.org/delay-stream/e79d2ab85383d18d.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & S66th W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.39924263,
-        "longitude": -97.49541565,
-        "url": "https://stream.oktraffic.org/delay-stream/cf7341130539abfc.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & S44th N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.42054823,
-        "longitude": -97.4886243,
-        "url": "https://stream.oktraffic.org/delay-stream/55cd97152c972816.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & S44th S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.42054823,
-        "longitude": -97.4886243,
-        "url": "https://stream.oktraffic.org/delay-stream/5f3b93b8cfe5b2fc.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & S44th E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.42054823,
-        "longitude": -97.4886243,
-        "url": "https://stream.oktraffic.org/delay-stream/4388ff2a0184319c.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & I-235 S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.46259723,
-        "longitude": -97.49594271,
-        "url": "https://stream.oktraffic.org/delay-stream/ea40b9a760057469.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & I-235 N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.46259723,
-        "longitude": -97.49594271,
-        "url": "https://stream.oktraffic.org/delay-stream/32176bfdd6cc299f.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & I-235 W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.46259723,
-        "longitude": -97.49594271,
-        "url": "https://stream.oktraffic.org/delay-stream/d29c3044d48e752d.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & I-235 E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.46259723,
-        "longitude": -97.49594271,
-        "url": "https://stream.oktraffic.org/delay-stream/d1ea8f3722aefbf4.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & Lincoln W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.52921,
-        "longitude": -97.50356,
-        "url": "https://stream.oktraffic.org/delay-stream/4e434441862c1382.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & Lincoln E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.52921,
-        "longitude": -97.50356,
-        "url": "https://stream.oktraffic.org/delay-stream/2a929bcd4dd5da7d.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & Broadway Ext W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.52905,
-        "longitude": -97.515992,
-        "url": "https://stream.oktraffic.org/delay-stream/cc460937529be2da.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & Broadway Ext E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.52905,
-        "longitude": -97.515992,
-        "url": "https://stream.oktraffic.org/delay-stream/7e88a0e49a8c18bb.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-169 & E 61st N": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.07579572,
-        "longitude": -95.85921049,
-        "url": "https://stream.oktraffic.org/delay-stream/eeb7ac099de90ac3.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-169 & E 61st E": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.07579572,
-        "longitude": -95.85921049,
-        "url": "https://stream.oktraffic.org/delay-stream/08f2cd57d754b27e.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-169 & E 61st W": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.07579572,
-        "longitude": -95.85921049,
-        "url": "https://stream.oktraffic.org/delay-stream/ddd547465048e82a.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-169 & E 81st N": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.04686337,
-        "longitude": -95.85895528,
-        "url": "https://stream.oktraffic.org/delay-stream/e94e84d8da2219fb.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-169 & E 81st S": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.04686337,
-        "longitude": -95.85895528,
-        "url": "https://stream.oktraffic.org/delay-stream/12e7910ec0f82d1d.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-169 & E 81st E": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.04686337,
-        "longitude": -95.85895528,
-        "url": "https://stream.oktraffic.org/delay-stream/a373305aeea18bf3.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-169 & E 81st W": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.04686337,
-        "longitude": -95.85895528,
-        "url": "https://stream.oktraffic.org/delay-stream/7f2ab0996ddbb3c0.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-169 & E 91st N": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.03231888,
-        "longitude": -95.85978378,
-        "url": "https://stream.oktraffic.org/delay-stream/54626ac9d8f2aa92.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-169 & E 91st S": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.03231888,
-        "longitude": -95.85978378,
-        "url": "https://stream.oktraffic.org/delay-stream/dfd5fe94b24a93dd.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-169 & E 91st E": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.03231888,
-        "longitude": -95.85978378,
-        "url": "https://stream.oktraffic.org/delay-stream/2e9db9ffb767c6ba.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-169 & E 91st W": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.03231888,
-        "longitude": -95.85978378,
-        "url": "https://stream.oktraffic.org/delay-stream/45750e93dce9873d.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & Yale N": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.09528275,
-        "longitude": -95.92279226,
-        "url": "https://stream.oktraffic.org/delay-stream/f8214f8e5d111e2d.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & Yale S": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.09528275,
-        "longitude": -95.92279226,
-        "url": "https://stream.oktraffic.org/delay-stream/c8ff67fd09f5da45.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & Yale NE": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.09528275,
-        "longitude": -95.92279226,
-        "url": "https://stream.oktraffic.org/delay-stream/816b01643ae569ad.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & Yale SW": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.09528275,
-        "longitude": -95.92279226,
-        "url": "https://stream.oktraffic.org/delay-stream/5086aad48a4447c9.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & 41st N": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.1026692,
-        "longitude": -95.91293782,
-        "url": "https://stream.oktraffic.org/delay-stream/3ed133c97a33988f.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & 41st NE": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.1026692,
-        "longitude": -95.91293782,
-        "url": "https://stream.oktraffic.org/delay-stream/c2dab894880365d0.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & 41st SW": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.1026692,
-        "longitude": -95.91293782,
-        "url": "https://stream.oktraffic.org/delay-stream/2972f3e256f935f9.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-51 & Lewis N": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.14292851,
-        "longitude": -95.95861048,
-        "url": "https://stream.oktraffic.org/delay-stream/36411eb0f59bb9cb.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-51 & Lewis S": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.14292851,
-        "longitude": -95.95861048,
-        "url": "https://stream.oktraffic.org/delay-stream/6369daa7e4e7bcac.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-51 & Lewis E": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.14292851,
-        "longitude": -95.95861048,
-        "url": "https://stream.oktraffic.org/delay-stream/016a9bb5c780f266.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-51 & Lewis W": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.14292851,
-        "longitude": -95.95861048,
-        "url": "https://stream.oktraffic.org/delay-stream/dfb9b9e358a15323.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-51 & Sheridan N": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.11549118,
-        "longitude": -95.90493947,
-        "url": "https://stream.oktraffic.org/delay-stream/8e7d33374da6c098.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-51 & Sheridan S": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.11549118,
-        "longitude": -95.90493947,
-        "url": "https://stream.oktraffic.org/delay-stream/6520ee4a2050fbaa.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-51 & Sheridan E": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.11549118,
-        "longitude": -95.90493947,
-        "url": "https://stream.oktraffic.org/delay-stream/22c23a6828b92b0d.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-51 & Sheridan W": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.11549118,
-        "longitude": -95.90493947,
-        "url": "https://stream.oktraffic.org/delay-stream/e5c5cd944429a019.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & E 11th St NE": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.148332,
-        "longitude": -95.847091,
-        "url": "https://stream.oktraffic.org/delay-stream/b0a34c46dc8deb22.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & E 11th St SW": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.148332,
-        "longitude": -95.847091,
-        "url": "https://stream.oktraffic.org/delay-stream/c7a65b3818ce8ac5.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & E 21st SW": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.133815,
-        "longitude": -95.86756,
-        "url": "https://stream.oktraffic.org/delay-stream/c73e06ef3aaed2db.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & E 21st E": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.133815,
-        "longitude": -95.86756,
-        "url": "https://stream.oktraffic.org/delay-stream/c5d894d1f885255b.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & E 21st NE": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.133815,
-        "longitude": -95.86756,
-        "url": "https://stream.oktraffic.org/delay-stream/89c1852c1ce93e46.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & E 21st W": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.133815,
-        "longitude": -95.86756,
-        "url": "https://stream.oktraffic.org/delay-stream/3c68f782e190144e.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & Memorial S": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.120442,
-        "longitude": -95.886352,
-        "url": "https://stream.oktraffic.org/delay-stream/fd215a24f068d338.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & Memorial NE": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.120442,
-        "longitude": -95.886352,
-        "url": "https://stream.oktraffic.org/delay-stream/680105c978ab1aa6.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & Memorial SW": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.120442,
-        "longitude": -95.886352,
-        "url": "https://stream.oktraffic.org/delay-stream/5fdefde0a09d76cc.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & N 165th E E": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.16283835,
-        "longitude": -95.79671502,
-        "url": "https://stream.oktraffic.org/delay-stream/584ee3dd086ac9e8.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & N 165th E W": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.16283835,
-        "longitude": -95.79671502,
-        "url": "https://stream.oktraffic.org/delay-stream/6729db87b52473ce.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & S 129th E N": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.158389,
-        "longitude": -95.832829,
-        "url": "https://stream.oktraffic.org/delay-stream/399fb433a2eececd.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-244 & Garnett N": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.16646877,
-        "longitude": -95.85071459,
-        "url": "https://stream.oktraffic.org/delay-stream/de858c4a86f19634.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-244 & Garnett S": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.16646877,
-        "longitude": -95.85071459,
-        "url": "https://stream.oktraffic.org/delay-stream/fa4d1a3b1c201f01.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-244 & Garnett E": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.16646877,
-        "longitude": -95.85071459,
-        "url": "https://stream.oktraffic.org/delay-stream/9011999a6addd7b9.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-244 & Garnett W": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.16646877,
-        "longitude": -95.85071459,
-        "url": "https://stream.oktraffic.org/delay-stream/cc6ece2a397043e1.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-244 & Memorial N": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.16223811,
-        "longitude": -95.88692307,
-        "url": "https://stream.oktraffic.org/delay-stream/146ba40b7771e6ea.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-244 & Memorial S": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.16223811,
-        "longitude": -95.88692307,
-        "url": "https://stream.oktraffic.org/delay-stream/93ff97d6dff97fba.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-244 & Memorial E": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.16223811,
-        "longitude": -95.88692307,
-        "url": "https://stream.oktraffic.org/delay-stream/964632d3270fcc91.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-244 & Memorial W": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.16223811,
-        "longitude": -95.88692307,
-        "url": "https://stream.oktraffic.org/delay-stream/1bf2702cc22d7811.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-244 & N 129th E N": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.16575985,
-        "longitude": -95.83312064,
-        "url": "https://stream.oktraffic.org/delay-stream/1295ce74d600a72b.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-244 & N 129th E E": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.16575985,
-        "longitude": -95.83312064,
-        "url": "https://stream.oktraffic.org/delay-stream/6df16e1555c20bfc.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-244 & US-412 N": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.15944045,
-        "longitude": -96.00216933,
-        "url": "https://stream.oktraffic.org/delay-stream/8c9621cf0d9670aa.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-244 & US-412 S": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.15944045,
-        "longitude": -96.00216933,
-        "url": "https://stream.oktraffic.org/delay-stream/ea109bcf60720aad.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-244 & US-412 E": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.15944045,
-        "longitude": -96.00216933,
-        "url": "https://stream.oktraffic.org/delay-stream/e3602d94f216c706.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-244 & US-75 N S": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.160796,
-        "longitude": -95.980449,
-        "url": "https://stream.oktraffic.org/delay-stream/0cb34d5c8be4651e.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-244 & US-75 N E": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.160796,
-        "longitude": -95.980449,
-        "url": "https://stream.oktraffic.org/delay-stream/1e21eceeda17a0ec.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-244 & US-75 N W": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.160796,
-        "longitude": -95.980449,
-        "url": "https://stream.oktraffic.org/delay-stream/eec51a6e612df472.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-75 & Denver N": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.14456271,
-        "longitude": -95.99211529,
-        "url": "https://stream.oktraffic.org/delay-stream/e86a886b528c7155.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-75 & Denver S": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.14456271,
-        "longitude": -95.99211529,
-        "url": "https://stream.oktraffic.org/delay-stream/fd3f8f55dd3ac8d2.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-75 & Denver E": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.14456271,
-        "longitude": -95.99211529,
-        "url": "https://stream.oktraffic.org/delay-stream/2b22fc362d1f145c.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-75 & Denver W": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.14456271,
-        "longitude": -95.99211529,
-        "url": "https://stream.oktraffic.org/delay-stream/4ad38d039a13a82d.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-412 & Creek N": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.16255354,
-        "longitude": -95.73171705,
-        "url": "https://stream.oktraffic.org/delay-stream/f2174ea0cad15f1e.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-412 & Creek S": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.16255354,
-        "longitude": -95.73171705,
-        "url": "https://stream.oktraffic.org/delay-stream/c1d126c312373e4d.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-412 & Creek W": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.16255354,
-        "longitude": -95.73171705,
-        "url": "https://stream.oktraffic.org/delay-stream/da5d13caf552623d.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-235 & Sheridan S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.466328,
-        "longitude": -97.499822,
-        "url": "https://stream.oktraffic.org/delay-stream/b2ea5577401903d0.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-235 & Sheridan N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.466328,
-        "longitude": -97.499822,
-        "url": "https://stream.oktraffic.org/delay-stream/4148b06c97797495.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-235 & 5th W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.47305,
-        "longitude": -97.50718,
-        "url": "https://stream.oktraffic.org/delay-stream/401d1a902951abec.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-235 & 5th SE": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.47305,
-        "longitude": -97.50718,
-        "url": "https://stream.oktraffic.org/delay-stream/024ef57ff12b2452.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & SH-51 S": {
-        "location": "Stillwater, Oklahoma",
-        "latitude": 36.11611481,
-        "longitude": -97.34512724,
-        "url": "https://stream.oktraffic.org/delay-stream/bbb92a47fc5292b4.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & Chikaskia River N": {
-        "location": "Blackwell, Oklahoma",
-        "latitude": 36.90651602,
-        "longitude": -97.35317387,
-        "url": "https://stream.oktraffic.org/delay-stream/4191a548c6b6f5fd.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & Texas Line E": {
-        "location": "Texola, Oklahoma",
-        "latitude": 35.22669291,
-        "longitude": -100.00046321,
-        "url": "https://stream.oktraffic.org/delay-stream/2602e4a34bdce429.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & Texas Line W": {
-        "location": "Texola, Oklahoma",
-        "latitude": 35.22669291,
-        "longitude": -100.00046321,
-        "url": "https://stream.oktraffic.org/delay-stream/51fe14a97a992cb0.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-62 & 52nd N": {
-        "location": "Lawton, Oklahoma",
-        "latitude": 34.638166,
-        "longitude": -98.456842,
-        "url": "https://stream.oktraffic.org/delay-stream/5cb9d86aeb94d49a.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-62 & 52nd W": {
-        "location": "Lawton, Oklahoma",
-        "latitude": 34.638166,
-        "longitude": -98.456842,
-        "url": "https://stream.oktraffic.org/delay-stream/6ecff1da2723da6f.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-62 & 52nd E": {
-        "location": "Lawton, Oklahoma",
-        "latitude": 34.638166,
-        "longitude": -98.456842,
-        "url": "https://stream.oktraffic.org/delay-stream/a786566f07b88126.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-62 & Sheridan E": {
-        "location": "Lawton, Oklahoma",
-        "latitude": 34.637933,
-        "longitude": -98.421649,
-        "url": "https://stream.oktraffic.org/delay-stream/3cb6a6f89b0f5ee6.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-62 & Sheridan W": {
-        "location": "Lawton, Oklahoma",
-        "latitude": 34.637933,
-        "longitude": -98.421649,
-        "url": "https://stream.oktraffic.org/delay-stream/01883efbfca66002.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & Sheridan (Key Gate) N": {
-        "location": "Lawton, Oklahoma",
-        "latitude": 34.660625,
-        "longitude": -98.38234,
-        "url": "https://stream.oktraffic.org/delay-stream/fe7fa683cbf6ed79.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & Sheridan (Key Gate) S": {
-        "location": "Lawton, Oklahoma",
-        "latitude": 34.660625,
-        "longitude": -98.38234,
-        "url": "https://stream.oktraffic.org/delay-stream/07dd96416503ebfb.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & Sheridan (Key Gate) E": {
-        "location": "Lawton, Oklahoma",
-        "latitude": 34.660625,
-        "longitude": -98.38234,
-        "url": "https://stream.oktraffic.org/delay-stream/843cec147bb46a42.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & Sheridan (Key Gate) W": {
-        "location": "Lawton, Oklahoma",
-        "latitude": 34.660625,
-        "longitude": -98.38234,
-        "url": "https://stream.oktraffic.org/delay-stream/a3dd02638283751f.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-169 & E 46th N N": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.22023407,
-        "longitude": -95.85207809,
-        "url": "https://stream.oktraffic.org/delay-stream/a5aa436006d5abba.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-169 & E 46th N S": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.22023407,
-        "longitude": -95.85207809,
-        "url": "https://stream.oktraffic.org/delay-stream/8924752b44aa386a.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-169 & E 46th N E": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.22023407,
-        "longitude": -95.85207809,
-        "url": "https://stream.oktraffic.org/delay-stream/40a587d2a81de48a.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-169 & E 46th N W": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.22023407,
-        "longitude": -95.85207809,
-        "url": "https://stream.oktraffic.org/delay-stream/4e30794bd60490de.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-169 & E 36th N N": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.20578987,
-        "longitude": -95.85200701,
-        "url": "https://stream.oktraffic.org/delay-stream/d7a3eaa56b52e557.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-169 & E 36th N S": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.20578987,
-        "longitude": -95.85200701,
-        "url": "https://stream.oktraffic.org/delay-stream/0e71ed6d1e9dd706.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-169 & E 36th N W": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.20578987,
-        "longitude": -95.85200701,
-        "url": "https://stream.oktraffic.org/delay-stream/6bbab4a2135c92f5.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-51 & Elm S": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.07067354,
-        "longitude": -95.79721562,
-        "url": "https://stream.oktraffic.org/delay-stream/53462ea090bf4d5a.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-51 & Elm E": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.07067354,
-        "longitude": -95.79721562,
-        "url": "https://stream.oktraffic.org/delay-stream/900c48f4b95d38fc.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & OKC Blvd W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.461478,
-        "longitude": -97.501475,
-        "url": "https://stream.oktraffic.org/delay-stream/c70d20aab0a93ec9.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & OKC Blvd E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.461478,
-        "longitude": -97.501475,
-        "url": "https://stream.oktraffic.org/delay-stream/ee0cca22796c98ec.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & OKC Blvd N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.461478,
-        "longitude": -97.501475,
-        "url": "https://stream.oktraffic.org/delay-stream/1b0d89a1617c7c98.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & OKC Blvd S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.461478,
-        "longitude": -97.501475,
-        "url": "https://stream.oktraffic.org/delay-stream/dff923cb6da09fe6.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & Post (Gate 2) S": {
-        "location": "Lawton, Oklahoma",
-        "latitude": 34.643516,
-        "longitude": -98.389198,
-        "url": "https://stream.oktraffic.org/delay-stream/de9e62cdf9283671.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & Post (Gate 2) NE": {
-        "location": "Lawton, Oklahoma",
-        "latitude": 34.643516,
-        "longitude": -98.389198,
-        "url": "https://stream.oktraffic.org/delay-stream/17a2eba2f38b52d2.stream/playlist.m3u8"
-      },
-      "oktraffic.org | Kilpatrick Tpk & Eastern E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.601159,
-        "longitude": -97.46968,
-        "url": "https://stream.oktraffic.org/delay-stream/2c7e791ce8ec5f20.stream/playlist.m3u8"
-      },
-      "oktraffic.org | Kilpatrick Tpk & Eastern W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.601159,
-        "longitude": -97.46968,
-        "url": "https://stream.oktraffic.org/delay-stream/572ba62b54a7380a.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & S 96th N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.37111421,
-        "longitude": -97.57730381,
-        "url": "https://stream.oktraffic.org/delay-stream/f7ec506c5b8fb3bb.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & S 96th S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.37111421,
-        "longitude": -97.57730381,
-        "url": "https://stream.oktraffic.org/delay-stream/d6fd676a259cfdf1.stream/playlist.m3u8"
-      },
-      "oktraffic.org | Turner Tpk & OKC E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.60343357,
-        "longitude": -97.40374545,
-        "url": "https://stream.oktraffic.org/delay-stream/fd41ae7c93414424.stream/playlist.m3u8"
-      },
-      "oktraffic.org | Turner Tpk & OKC W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.60343357,
-        "longitude": -97.40374545,
-        "url": "https://stream.oktraffic.org/delay-stream/5241b3db120cff5b.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & Kansas S": {
-        "location": "Braman, Oklahoma",
-        "latitude": 36.98480598,
-        "longitude": -97.34556735,
-        "url": "https://stream.oktraffic.org/delay-stream/d7cb1108ef9048bd.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & Kansas N": {
-        "location": "Braman, Oklahoma",
-        "latitude": 36.98480598,
-        "longitude": -97.34556735,
-        "url": "https://stream.oktraffic.org/delay-stream/bf3922e2b47076f1.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & Peebly W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.3845,
-        "longitude": -97.2131,
-        "url": "https://stream.oktraffic.org/delay-stream/5ab9c3c2848ea1ee.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & Peebly E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.3845,
-        "longitude": -97.2131,
-        "url": "https://stream.oktraffic.org/delay-stream/ecc64c43162f9077.stream/playlist.m3u8"
-      },
-      "oktraffic.org | Sequoyah POE SW": {
-        "location": "POE, Oklahoma",
-        "latitude": 35.43725613,
-        "longitude": -94.47723945,
-        "url": "https://stream.oktraffic.org/delay-stream/d764eebbe82e44e9.stream/playlist.m3u8"
-      },
-      "oktraffic.org | Kay POE N Entry": {
-        "location": "Kay, Oklahoma",
-        "latitude": 36.98286482,
-        "longitude": -97.3466751,
-        "url": "https://stream.oktraffic.org/delay-stream/cd14af4f0b7b9ac2.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & 2nd St N": {
-        "location": "Edmond, Oklahoma",
-        "latitude": 35.6525,
-        "longitude": -97.4239,
-        "url": "https://stream.oktraffic.org/delay-stream/cd001a2ed72a8a3b.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & 2nd St S": {
-        "location": "Edmond, Oklahoma",
-        "latitude": 35.6525,
-        "longitude": -97.4239,
-        "url": "https://stream.oktraffic.org/delay-stream/a74e802b531e3ee8.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & 2nd St W": {
-        "location": "Edmond, Oklahoma",
-        "latitude": 35.6525,
-        "longitude": -97.4239,
-        "url": "https://stream.oktraffic.org/delay-stream/4746a729ad713221.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & 2nd St E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.6525,
-        "longitude": -97.4239,
-        "url": "https://stream.oktraffic.org/delay-stream/9abd45350a93f2e2.stream/playlist.m3u8"
-      },
-      "oktraffic.org | Gilcrease & S49thW E": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.0892,
-        "longitude": -96.0481768,
-        "url": "https://stream.oktraffic.org/delay-stream/8a481d84aa0e3a20.stream/playlist.m3u8"
-      },
-      "oktraffic.org | Gilcrease & S49thW W": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.0892,
-        "longitude": -96.0481768,
-        "url": "https://stream.oktraffic.org/delay-stream/44d210cef6df0972.stream/playlist.m3u8"
-      },
-      "oktraffic.org | Gilcrease & W 2nd S": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.152465,
-        "longitude": -96.05729,
-        "url": "https://stream.oktraffic.org/delay-stream/17e61ec5d8086433.stream/playlist.m3u8"
-      },
-      "oktraffic.org | Gilcrease & W 2nd N": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.152465,
-        "longitude": -96.05729,
-        "url": "https://stream.oktraffic.org/delay-stream/30ff74988826cd6d.stream/playlist.m3u8"
-      },
-      "oktraffic.org | Creek Tpk & US-75 W": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.00889,
-        "longitude": -96.01004,
-        "url": "https://stream.oktraffic.org/delay-stream/d6d84903ce0d1667.stream/playlist.m3u8"
-      },
-      "oktraffic.org | Creek Tpk & US-75 S": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.00889,
-        "longitude": -96.01004,
-        "url": "https://stream.oktraffic.org/delay-stream/a53aebcfcefd28c6.stream/playlist.m3u8"
-      },
-      "oktraffic.org | Creek Tpk & US-75 E": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.00889,
-        "longitude": -96.01004,
-        "url": "https://stream.oktraffic.org/delay-stream/ff848ef3903571d1.stream/playlist.m3u8"
-      },
-      "oktraffic.org | Creek Tpk & Memorial N": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.02506,
-        "longitude": -95.88693,
-        "url": "https://stream.oktraffic.org/delay-stream/ea83700780cd0a67.stream/playlist.m3u8"
-      },
-      "oktraffic.org | Creek Tpk & Memorial SE": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.02506,
-        "longitude": -95.88693,
-        "url": "https://stream.oktraffic.org/delay-stream/2b14fd14ba7f0e58.stream/playlist.m3u8"
-      },
-      "oktraffic.org | Creek Tpk & Memorial E": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.02506,
-        "longitude": -95.88693,
-        "url": "https://stream.oktraffic.org/delay-stream/15c06beace6fa74b.stream/playlist.m3u8"
-      },
-      "oktraffic.org | Creek Tpk & Mingo W": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.026125,
-        "longitude": -95.86871,
-        "url": "https://stream.oktraffic.org/delay-stream/0563a18e72a2c55c.stream/playlist.m3u8"
-      },
-      "oktraffic.org | Creek Tpk & Mingo E": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.026125,
-        "longitude": -95.86871,
-        "url": "https://stream.oktraffic.org/delay-stream/d8687b5509516b5b.stream/playlist.m3u8"
-      },
-      "oktraffic.org | Creek Tpk & Mingo N": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.026125,
-        "longitude": -95.86871,
-        "url": "https://stream.oktraffic.org/delay-stream/afd788d84e9dcad4.stream/playlist.m3u8"
-      },
-      "oktraffic.org | Creek Tpk & Muskogee Tpk N": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.04688,
-        "longitude": -95.73895,
-        "url": "https://stream.oktraffic.org/delay-stream/5bb9bad1e611bcef.stream/playlist.m3u8"
-      },
-      "oktraffic.org | Creek Tpk & Muskogee Tpk S": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.04688,
-        "longitude": -95.73895,
-        "url": "https://stream.oktraffic.org/delay-stream/01acf0e2609dc5d1.stream/playlist.m3u8"
-      },
-      "oktraffic.org | Creek Tpk & Muskogee Tpk SE": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.04688,
-        "longitude": -95.73895,
-        "url": "https://stream.oktraffic.org/delay-stream/0c498c8b8422548d.stream/playlist.m3u8"
-      },
-      "oktraffic.org | Creek Tpk & Muskogee Tpk NW": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.04688,
-        "longitude": -95.73895,
-        "url": "https://stream.oktraffic.org/delay-stream/ca9d41d8cc89b6f4.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & JKT S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.601362,
-        "longitude": -97.42766,
-        "url": "https://stream.oktraffic.org/delay-stream/08f74c8a3a01bdfb.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & JKT N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.601362,
-        "longitude": -97.42766,
-        "url": "https://stream.oktraffic.org/delay-stream/85d0a0789c60c908.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & JKT W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.601362,
-        "longitude": -97.42766,
-        "url": "https://stream.oktraffic.org/delay-stream/214f873f53e72d9e.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & JKT E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.601362,
-        "longitude": -97.42766,
-        "url": "https://stream.oktraffic.org/delay-stream/fbdfefb543b705e9.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & JKT S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.463214,
-        "longitude": -97.711942,
-        "url": "https://stream.oktraffic.org/delay-stream/2a1b300cf33ee5e2.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & JKT E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.463214,
-        "longitude": -97.711942,
-        "url": "https://stream.oktraffic.org/delay-stream/bf6168670d715540.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & JKT W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.463214,
-        "longitude": -97.711942,
-        "url": "https://stream.oktraffic.org/delay-stream/7ca2f330a8cc8c59.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-40 & JKT N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.463214,
-        "longitude": -97.711942,
-        "url": "https://stream.oktraffic.org/delay-stream/3e7bb427ee67915c.stream/playlist.m3u8"
-      },
-      "oktraffic.org | JKT & US-77 S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.5998,
-        "longitude": -97.503086,
-        "url": "https://stream.oktraffic.org/delay-stream/54e3144d4734c251.stream/playlist.m3u8"
-      },
-      "oktraffic.org | JKT & US-77 N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.5998,
-        "longitude": -97.503086,
-        "url": "https://stream.oktraffic.org/delay-stream/4a890056d4d6aeec.stream/playlist.m3u8"
-      },
-      "oktraffic.org | JKT & US-77 W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.5998,
-        "longitude": -97.503086,
-        "url": "https://stream.oktraffic.org/delay-stream/e8132b9abcc3de10.stream/playlist.m3u8"
-      },
-      "oktraffic.org | JKT & US-77 E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.5998,
-        "longitude": -97.503086,
-        "url": "https://stream.oktraffic.org/delay-stream/203449a29914c816.stream/playlist.m3u8"
-      },
-      "oktraffic.org | JKT & SH-152 W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.41371,
-        "longitude": -97.65653,
-        "url": "https://stream.oktraffic.org/delay-stream/754d976d4109cbee.stream/playlist.m3u8"
-      },
-      "oktraffic.org | JKT & SH-152 E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.41371,
-        "longitude": -97.65653,
-        "url": "https://stream.oktraffic.org/delay-stream/e4122e9656590737.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-69 & C Tree NE": {
-        "location": "McAlester, Oklahoma",
-        "latitude": 34.83621,
-        "longitude": -95.83708,
-        "url": "https://stream.oktraffic.org/delay-stream/a9172034f073f6b7.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & S 25th S": {
-        "location": "Edmond, Oklahoma",
-        "latitude": 35.630175,
-        "longitude": -97.424852,
-        "url": "https://stream.oktraffic.org/delay-stream/97afe5ef5ca809f7.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-35 & S 25th N": {
-        "location": "Edmond, Oklahoma",
-        "latitude": 35.630175,
-        "longitude": -97.424852,
-        "url": "https://stream.oktraffic.org/delay-stream/e1a4f9715d6bea32.stream/playlist.m3u8"
-      },
-      "oktraffic.org | Kilpatrick Tpk & SH-3 N": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.5802,
-        "longitude": -97.68862,
-        "url": "https://stream.oktraffic.org/delay-stream/d8e8ae1afb3bcf4a.stream/playlist.m3u8"
-      },
-      "oktraffic.org | Kilpatrick Tpk & SH-3 S": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.5802,
-        "longitude": -97.68862,
-        "url": "https://stream.oktraffic.org/delay-stream/0a58ef2896cb5af1.stream/playlist.m3u8"
-      },
-      "oktraffic.org | Kilpatrick Tpk & SH-3 E": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.5802,
-        "longitude": -97.68862,
-        "url": "https://stream.oktraffic.org/delay-stream/efd02da9ecc1352b.stream/playlist.m3u8"
-      },
-      "oktraffic.org | Kilpatrick Tpk & SH-3 W": {
-        "location": "Oklahoma City, Oklahoma",
-        "latitude": 35.5802,
-        "longitude": -97.68862,
-        "url": "https://stream.oktraffic.org/delay-stream/59cbaa242c0dc7ee.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-412 & N 33RD W": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.157778,
-        "longitude": -96.029618,
-        "url": "https://stream.oktraffic.org/delay-stream/859c39087ff5b05d.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-412 & N 33RD E": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.157778,
-        "longitude": -96.029618,
-        "url": "https://stream.oktraffic.org/delay-stream/1a4a934438caa9ef.stream/playlist.m3u8"
-      },
-      "oktraffic.org | US-75 & E 8th N": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.15099,
-        "longitude": -95.980935,
-        "url": "https://stream.oktraffic.org/delay-stream/a43204103ddf6416.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-51 & Harvard NW": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.125727,
-        "longitude": -95.938824,
-        "url": "https://stream.oktraffic.org/delay-stream/f48515a61573d6ac.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-51 & Harvard SE": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.125727,
-        "longitude": -95.938824,
-        "url": "https://stream.oktraffic.org/delay-stream/ca8f94edd5894435.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-51 & E 31st NW": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.118359,
-        "longitude": -95.919065,
-        "url": "https://stream.oktraffic.org/delay-stream/ec33fbc26c7a8f0e.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-51 & E 31st SE": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.118359,
-        "longitude": -95.919065,
-        "url": "https://stream.oktraffic.org/delay-stream/f58aaa6f616f3d43.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-51 & E 41st SE": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.104631,
-        "longitude": -95.876482,
-        "url": "https://stream.oktraffic.org/delay-stream/e36a01afde70d4a6.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-51 & E 41st NW": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.104631,
-        "longitude": -95.876482,
-        "url": "https://stream.oktraffic.org/delay-stream/d368ecf39c4857c9.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-51 & Kenosha SE": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.060735,
-        "longitude": -95.76764,
-        "url": "https://stream.oktraffic.org/delay-stream/7fb485149aaedfbd.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-51 & Kenosha E": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.060735,
-        "longitude": -95.76764,
-        "url": "https://stream.oktraffic.org/delay-stream/ec4a21839f92aa02.stream/playlist.m3u8"
-      },
-      "oktraffic.org | SH-51 & Kenosha NW": {
-        "location": "Tulsa, Oklahoma",
-        "latitude": 36.060735,
-        "longitude": -95.76764,
-        "url": "https://stream.oktraffic.org/delay-stream/2c5bdc9f4a555a47.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & Wellston W": {
-        "location": "Wellston, Oklahoma",
-        "latitude": 35.678364,
-        "longitude": -97.054842,
-        "url": "https://stream.oktraffic.org/delay-stream/69c75f1dcbb6515e.stream/playlist.m3u8"
-      },
-      "oktraffic.org | I-44 & Wellston E": {
-        "location": "Wellston, Oklahoma",
-        "latitude": 35.678364,
-        "longitude": -97.054842,
-        "url": "https://stream.oktraffic.org/delay-stream/987d4c80b5215a76.stream/playlist.m3u8"
       },
       "RadarOmega | Fire Station 9": {
         "url": "rtmp://rtmp.radaromega.com/live/92c5ac7e58af",
         "latitude": 34.129308,
         "longitude": -84.86063,
         "location": "Cartersville, Georgia"
+      },
+      "oktraffic.org | I-44 & I-240 S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.39637,
+        "longitude": -97.57406,
+        "url": "https://stream.oktraffic.org/delay-stream/add2c778e84f583d.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & I-240 E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.39637,
+        "longitude": -97.57406,
+        "url": "https://stream.oktraffic.org/delay-stream/e35dcf576e5c4f52.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & Airport Rd N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.4155,
+        "longitude": -97.5812,
+        "url": "https://stream.oktraffic.org/delay-stream/239b7d120fcf62ed.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & Airport Rd S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.4155,
+        "longitude": -97.5812,
+        "url": "https://stream.oktraffic.org/delay-stream/dfdb24a19182acde.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & S29th N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.43513,
+        "longitude": -97.56993,
+        "url": "https://stream.oktraffic.org/delay-stream/c754fc94c488854c.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & S29th E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.43513,
+        "longitude": -97.56993,
+        "url": "https://stream.oktraffic.org/delay-stream/9ee5b364bb8f5447.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & S29th W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.43513,
+        "longitude": -97.56993,
+        "url": "https://stream.oktraffic.org/delay-stream/69ffb699dea3d135.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & I-40 N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.45988315,
+        "longitude": -97.57485429,
+        "url": "https://stream.oktraffic.org/delay-stream/b61f330f4fbc7782.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & I-40 S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.45988315,
+        "longitude": -97.57485429,
+        "url": "https://stream.oktraffic.org/delay-stream/d75dc654fea6d629.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & I-40 E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.45988315,
+        "longitude": -97.57485429,
+        "url": "https://stream.oktraffic.org/delay-stream/d826a400a9750e64.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & N10th N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.47842,
+        "longitude": -97.57879,
+        "url": "https://stream.oktraffic.org/delay-stream/84e8ca5d810d2add.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & N10th S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.47842,
+        "longitude": -97.57879,
+        "url": "https://stream.oktraffic.org/delay-stream/efcfba8ee047208f.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & N10th E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.47842,
+        "longitude": -97.57879,
+        "url": "https://stream.oktraffic.org/delay-stream/1497a77639bf40ff.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & N10th W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.47842,
+        "longitude": -97.57879,
+        "url": "https://stream.oktraffic.org/delay-stream/73bff3a02ee4a35d.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & N23rd N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.4932,
+        "longitude": -97.57904,
+        "url": "https://stream.oktraffic.org/delay-stream/e040ccef958d7225.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & N23rd S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.4932,
+        "longitude": -97.57904,
+        "url": "https://stream.oktraffic.org/delay-stream/c0c87e05acf0bdda.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & N23rd E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.4932,
+        "longitude": -97.57904,
+        "url": "https://stream.oktraffic.org/delay-stream/553a97dc073344d5.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & N23rd W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.4932,
+        "longitude": -97.57904,
+        "url": "https://stream.oktraffic.org/delay-stream/051dd307937490d0.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & SH-66 N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.51097978,
+        "longitude": -97.57564991,
+        "url": "https://stream.oktraffic.org/delay-stream/f3c2556174e0ee8f.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & SH-66 W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.51097978,
+        "longitude": -97.57564991,
+        "url": "https://stream.oktraffic.org/delay-stream/d543296b398712b8.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & SH-66 E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.51097978,
+        "longitude": -97.57564991,
+        "url": "https://stream.oktraffic.org/delay-stream/f3e7a13d2ef69f0d.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & SH-66 S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.51097978,
+        "longitude": -97.57564991,
+        "url": "https://stream.oktraffic.org/delay-stream/6b371f53d9305798.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-74 & SH-3 N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.53269025,
+        "longitude": -97.57983148,
+        "url": "https://stream.oktraffic.org/delay-stream/380869cfacb3dbe4.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-74 & SH-3 S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.53269025,
+        "longitude": -97.57983148,
+        "url": "https://stream.oktraffic.org/delay-stream/f614497d7d680240.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-74 & SH-3 W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.53269025,
+        "longitude": -97.57983148,
+        "url": "https://stream.oktraffic.org/delay-stream/e63c8e3fd4f0aad3.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-74 & SH-3 E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.53269025,
+        "longitude": -97.57983148,
+        "url": "https://stream.oktraffic.org/delay-stream/5f233ee9b6b24ad1.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-74 & Grand S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.54459601,
+        "longitude": -97.57483854,
+        "url": "https://stream.oktraffic.org/delay-stream/dae78216f22e6c8e.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-74 & Grand N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.54459601,
+        "longitude": -97.57483854,
+        "url": "https://stream.oktraffic.org/delay-stream/5417727e3e004479.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-74 & Britton N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.56558,
+        "longitude": -97.57484,
+        "url": "https://stream.oktraffic.org/delay-stream/b5dccec66962fa09.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-74 & Britton S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.56558,
+        "longitude": -97.57484,
+        "url": "https://stream.oktraffic.org/delay-stream/9071faebabd6fcb9.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-74 & Britton E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.56558,
+        "longitude": -97.57484,
+        "url": "https://stream.oktraffic.org/delay-stream/8c1421fa4bad910d.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-74 & Hefner N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.58018,
+        "longitude": -97.57991,
+        "url": "https://stream.oktraffic.org/delay-stream/ed53f327f59cced4.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-74 & Hefner S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.58018,
+        "longitude": -97.57991,
+        "url": "https://stream.oktraffic.org/delay-stream/78773b28fc318329.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-74 & Hefner E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.58018,
+        "longitude": -97.57991,
+        "url": "https://stream.oktraffic.org/delay-stream/627db3c002eab6a4.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-74 & N122nd S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.5947,
+        "longitude": -97.58495,
+        "url": "https://stream.oktraffic.org/delay-stream/dad16b9cd1e88d28.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-74 & N122nd N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.5947,
+        "longitude": -97.58495,
+        "url": "https://stream.oktraffic.org/delay-stream/71ebde89ea372a80.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-74 & N122nd E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.5947,
+        "longitude": -97.58495,
+        "url": "https://stream.oktraffic.org/delay-stream/ce961663be79e214.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-74 & Memorial N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.60948,
+        "longitude": -97.58505,
+        "url": "https://stream.oktraffic.org/delay-stream/5294caa7f0fcd226.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-74 & Memorial S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.60948,
+        "longitude": -97.58505,
+        "url": "https://stream.oktraffic.org/delay-stream/986e295cbca8a613.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-74 & Memorial E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.60948,
+        "longitude": -97.58505,
+        "url": "https://stream.oktraffic.org/delay-stream/907fa1913371a127.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-74 & Memorial W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.60948,
+        "longitude": -97.58505,
+        "url": "https://stream.oktraffic.org/delay-stream/aac0e0b6e3139eba.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Meridian N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.45997,
+        "longitude": -97.60125,
+        "url": "https://stream.oktraffic.org/delay-stream/85e702141d6cd775.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Meridian S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.45997,
+        "longitude": -97.60125,
+        "url": "https://stream.oktraffic.org/delay-stream/8b79abec7dfcd974.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Meridian E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.45997,
+        "longitude": -97.60125,
+        "url": "https://stream.oktraffic.org/delay-stream/b3b4e7dd2c9233f0.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Meridian W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.45997,
+        "longitude": -97.60125,
+        "url": "https://stream.oktraffic.org/delay-stream/4349cbfde6ad7b89.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & May E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.461165,
+        "longitude": -97.566121,
+        "url": "https://stream.oktraffic.org/delay-stream/951583bf582ed074.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & May W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.461165,
+        "longitude": -97.566121,
+        "url": "https://stream.oktraffic.org/delay-stream/df89875671ddd2f1.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & May N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.461165,
+        "longitude": -97.566121,
+        "url": "https://stream.oktraffic.org/delay-stream/ef0da9d1f56671fd.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & May S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.461165,
+        "longitude": -97.566121,
+        "url": "https://stream.oktraffic.org/delay-stream/f6546f61fa9699f2.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Agnew W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.461126,
+        "longitude": -97.55554,
+        "url": "https://stream.oktraffic.org/delay-stream/dfe67cc38753d99b.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Agnew E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.461126,
+        "longitude": -97.55554,
+        "url": "https://stream.oktraffic.org/delay-stream/aa3c3689192ea6f1.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Agnew S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.461126,
+        "longitude": -97.55554,
+        "url": "https://stream.oktraffic.org/delay-stream/43b9d0aeda861ef8.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Agnew N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.461126,
+        "longitude": -97.55554,
+        "url": "https://stream.oktraffic.org/delay-stream/c9eaa30f6bb23e72.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Penn W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.461465,
+        "longitude": -97.546838,
+        "url": "https://stream.oktraffic.org/delay-stream/47b8cfadca9933bb.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Penn E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.461465,
+        "longitude": -97.546838,
+        "url": "https://stream.oktraffic.org/delay-stream/d4e6965a37eadcca.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Western W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.458261,
+        "longitude": -97.531872,
+        "url": "https://stream.oktraffic.org/delay-stream/be70931cab02c0d0.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Western E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.458261,
+        "longitude": -97.531872,
+        "url": "https://stream.oktraffic.org/delay-stream/c8a1963b95d97aab.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & N12th S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.34903757,
+        "longitude": -97.49519134,
+        "url": "https://stream.oktraffic.org/delay-stream/9fd1a2982f7e83e6.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & N12th E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.34903757,
+        "longitude": -97.49519134,
+        "url": "https://stream.oktraffic.org/delay-stream/badc72f103a46f3d.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & N12th W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.34903757,
+        "longitude": -97.49519134,
+        "url": "https://stream.oktraffic.org/delay-stream/a85e4593d209a851.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & N27th N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.36284253,
+        "longitude": -97.49503711,
+        "url": "https://stream.oktraffic.org/delay-stream/669702322f0a35b2.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & N27th E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.36284253,
+        "longitude": -97.49503711,
+        "url": "https://stream.oktraffic.org/delay-stream/30dcccb74d477425.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & S89th N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.37616664,
+        "longitude": -97.49522554,
+        "url": "https://stream.oktraffic.org/delay-stream/9003d205b8c0a80f.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & S89th S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.37616664,
+        "longitude": -97.49522554,
+        "url": "https://stream.oktraffic.org/delay-stream/9c2abdfd252bb469.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & I-240 E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.39367,
+        "longitude": -97.49787,
+        "url": "https://stream.oktraffic.org/delay-stream/148146721f3103dc.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & I-240 SW": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.39367,
+        "longitude": -97.49787,
+        "url": "https://stream.oktraffic.org/delay-stream/1d4c34b7c0b252e6.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & S59th S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.40679572,
+        "longitude": -97.49404,
+        "url": "https://stream.oktraffic.org/delay-stream/8225928bb37fe51c.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & S36th S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.427937,
+        "longitude": -97.485684,
+        "url": "https://stream.oktraffic.org/delay-stream/6930ab89d8ef1246.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & S36th N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.427937,
+        "longitude": -97.485684,
+        "url": "https://stream.oktraffic.org/delay-stream/7ee14c5a06da853a.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & S29th N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.435499,
+        "longitude": -97.485824,
+        "url": "https://stream.oktraffic.org/delay-stream/609b1e02774783da.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & S29th S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.435499,
+        "longitude": -97.485824,
+        "url": "https://stream.oktraffic.org/delay-stream/11de061c12744099.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & I-35 E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.462333,
+        "longitude": -97.490531,
+        "url": "https://stream.oktraffic.org/delay-stream/2106f79448d99592.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & I-35 W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.462333,
+        "longitude": -97.490531,
+        "url": "https://stream.oktraffic.org/delay-stream/fd94a7dd91ac9499.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Shields N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.455475,
+        "longitude": -97.514,
+        "url": "https://stream.oktraffic.org/delay-stream/f772ebd07a0197fd.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Shields S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.455475,
+        "longitude": -97.514,
+        "url": "https://stream.oktraffic.org/delay-stream/3699b0cec6cf9ee8.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Shields E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.455475,
+        "longitude": -97.514,
+        "url": "https://stream.oktraffic.org/delay-stream/e738d83a718d0735.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Shields W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.455475,
+        "longitude": -97.514,
+        "url": "https://stream.oktraffic.org/delay-stream/fbde9ad9a2b7fd65.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Reno N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.463533,
+        "longitude": -97.461758,
+        "url": "https://stream.oktraffic.org/delay-stream/71abfadb49904e54.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Reno NW": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.463533,
+        "longitude": -97.461758,
+        "url": "https://stream.oktraffic.org/delay-stream/b42e18ab96917b0c.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Reno SE": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.463533,
+        "longitude": -97.461758,
+        "url": "https://stream.oktraffic.org/delay-stream/95d0cd1e33ac8d1c.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & S29th NW": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.43517,
+        "longitude": -97.40991,
+        "url": "https://stream.oktraffic.org/delay-stream/697817681a9fe03c.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & S29th E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.43517,
+        "longitude": -97.40991,
+        "url": "https://stream.oktraffic.org/delay-stream/ccc8a2db91b8ded2.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Air Depot N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.43441,
+        "longitude": -97.40589,
+        "url": "https://stream.oktraffic.org/delay-stream/e12e0a424fbeb42f.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Air Depot S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.43441,
+        "longitude": -97.40589,
+        "url": "https://stream.oktraffic.org/delay-stream/76d10a3b6a872bf8.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Air Depot E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.43441,
+        "longitude": -97.40589,
+        "url": "https://stream.oktraffic.org/delay-stream/c88f5f5c0f61660e.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Air Depot W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.43441,
+        "longitude": -97.40589,
+        "url": "https://stream.oktraffic.org/delay-stream/8e311bcbe3ad9dc4.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Eaker Gate E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.43455,
+        "longitude": -97.39814,
+        "url": "https://stream.oktraffic.org/delay-stream/661b98b33bcfe6ef.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Eaker Gate N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.43455,
+        "longitude": -97.39814,
+        "url": "https://stream.oktraffic.org/delay-stream/a29f447f8ca6ba36.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Eaker Gate W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.43455,
+        "longitude": -97.39814,
+        "url": "https://stream.oktraffic.org/delay-stream/1e9df80942cda13c.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Eaker Gate S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.43455,
+        "longitude": -97.39814,
+        "url": "https://stream.oktraffic.org/delay-stream/cc9e29dfdaeff26e.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & A Ave E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.4352,
+        "longitude": -97.38692,
+        "url": "https://stream.oktraffic.org/delay-stream/b7d1cf310291553e.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & A Ave W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.4352,
+        "longitude": -97.38692,
+        "url": "https://stream.oktraffic.org/delay-stream/0c86284dcf92e6ae.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Douglas S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.43431,
+        "longitude": -97.37113,
+        "url": "https://stream.oktraffic.org/delay-stream/266f185975a7fb1b.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Douglas N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.43431,
+        "longitude": -97.37113,
+        "url": "https://stream.oktraffic.org/delay-stream/12aa841516f54b17.stream/playlist.m3u8"
+      },
+      "oktraffic.org | OKC Blvd & Penn E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.464925,
+        "longitude": -97.548119,
+        "url": "https://stream.oktraffic.org/delay-stream/13264389d2c5723d.stream/playlist.m3u8"
+      },
+      "oktraffic.org | OKC Blvd & Penn W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.464925,
+        "longitude": -97.548119,
+        "url": "https://stream.oktraffic.org/delay-stream/f5a323d998ad72f6.stream/playlist.m3u8"
+      },
+      "oktraffic.org | OKC Blvd & Penn N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.464925,
+        "longitude": -97.548119,
+        "url": "https://stream.oktraffic.org/delay-stream/1f9826d4b005ba01.stream/playlist.m3u8"
+      },
+      "oktraffic.org | OKC Blvd & Penn S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.464925,
+        "longitude": -97.548119,
+        "url": "https://stream.oktraffic.org/delay-stream/aa95e5331776971e.stream/playlist.m3u8"
+      },
+      "oktraffic.org | OKC Blvd & Western W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.46562,
+        "longitude": -97.53125,
+        "url": "https://stream.oktraffic.org/delay-stream/95933c14d499a748.stream/playlist.m3u8"
+      },
+      "oktraffic.org | OKC Blvd & Western E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.46562,
+        "longitude": -97.53125,
+        "url": "https://stream.oktraffic.org/delay-stream/81188fc3013e1cd8.stream/playlist.m3u8"
+      },
+      "oktraffic.org | OKC Blvd & Lee E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.462514,
+        "longitude": -97.523919,
+        "url": "https://stream.oktraffic.org/delay-stream/efa02feddc80d3c6.stream/playlist.m3u8"
+      },
+      "oktraffic.org | OKC Blvd & Lee NW": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.462514,
+        "longitude": -97.523919,
+        "url": "https://stream.oktraffic.org/delay-stream/daab11936d992c2a.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & Reno E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.464069,
+        "longitude": -97.473067,
+        "url": "https://stream.oktraffic.org/delay-stream/cd5ec69e7cf963dc.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & Reno SW": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.464069,
+        "longitude": -97.473067,
+        "url": "https://stream.oktraffic.org/delay-stream/fdcbcb9d7efe9dbf.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & Reno SE": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.464069,
+        "longitude": -97.473067,
+        "url": "https://stream.oktraffic.org/delay-stream/49ad35bdec0bfe13.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & W I-244 E": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.08797,
+        "longitude": -96.04051,
+        "url": "https://stream.oktraffic.org/delay-stream/2253b17b6b9cd837.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & W I-244 SW": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.08797,
+        "longitude": -96.04051,
+        "url": "https://stream.oktraffic.org/delay-stream/477ea3feb756d3f0.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & W I-244 NE": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.08797,
+        "longitude": -96.04051,
+        "url": "https://stream.oktraffic.org/delay-stream/68b07590258c2002.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & W I-244 W": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.08797,
+        "longitude": -96.04051,
+        "url": "https://stream.oktraffic.org/delay-stream/76fc5d6bc447076d.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-244 & SW Blvd N": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.12221084,
+        "longitude": -96.00868937,
+        "url": "https://stream.oktraffic.org/delay-stream/f965a429890c69a7.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-244 & SW Blvd S": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.12221084,
+        "longitude": -96.00868937,
+        "url": "https://stream.oktraffic.org/delay-stream/d30a22e60a2353d5.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-244 & US-169 N": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.16498,
+        "longitude": -95.85945,
+        "url": "https://stream.oktraffic.org/delay-stream/e09f22f7c228235e.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-244 & US-169 S": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.16498,
+        "longitude": -95.85945,
+        "url": "https://stream.oktraffic.org/delay-stream/b5f1d3b417339ad8.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-244 & US-169 W": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.16498,
+        "longitude": -95.85945,
+        "url": "https://stream.oktraffic.org/delay-stream/96946e34f9a21e40.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & E I-244 E": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.161382,
+        "longitude": -95.826574,
+        "url": "https://stream.oktraffic.org/delay-stream/ca0bcc342fa4cfbf.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & E I-244 SW": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.161382,
+        "longitude": -95.826574,
+        "url": "https://stream.oktraffic.org/delay-stream/8d798f09b23e8d09.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & E I-244 NW": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.161382,
+        "longitude": -95.826574,
+        "url": "https://stream.oktraffic.org/delay-stream/601fcf7b5e6550d9.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-51 & US-64/75 N": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.14241,
+        "longitude": -95.97886,
+        "url": "https://stream.oktraffic.org/delay-stream/18a063a1190d899d.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-51 & US-64/75 E": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.14241,
+        "longitude": -95.97886,
+        "url": "https://stream.oktraffic.org/delay-stream/e7dded84541898b9.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & SH-51 NE": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.11393,
+        "longitude": -95.89715,
+        "url": "https://stream.oktraffic.org/delay-stream/821a0df0cb664667.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & SH-51 SE": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.11393,
+        "longitude": -95.89715,
+        "url": "https://stream.oktraffic.org/delay-stream/400be87726d12f04.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & SH-51 NW": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.11393,
+        "longitude": -95.89715,
+        "url": "https://stream.oktraffic.org/delay-stream/4263e41bacd09c9f.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-169 & SH-51 N": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.09775,
+        "longitude": -95.8592,
+        "url": "https://stream.oktraffic.org/delay-stream/6f14dfe2b7af58bb.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-169 & SH-51 S": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.09775,
+        "longitude": -95.8592,
+        "url": "https://stream.oktraffic.org/delay-stream/2492a3738181a2c7.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-51 & S 129th E SE": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.08578,
+        "longitude": -95.82837,
+        "url": "https://stream.oktraffic.org/delay-stream/41e04f3decfc75dd.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-169 & E 71st N": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.06105,
+        "longitude": -95.85827,
+        "url": "https://stream.oktraffic.org/delay-stream/ebd0d77e835066e1.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-169 & E 71st S": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.06105,
+        "longitude": -95.85827,
+        "url": "https://stream.oktraffic.org/delay-stream/e92adb6e24d5129b.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & US-169 N": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.13892,
+        "longitude": -95.86049,
+        "url": "https://stream.oktraffic.org/delay-stream/194b6778b6b29030.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & US-169 S": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.13892,
+        "longitude": -95.86049,
+        "url": "https://stream.oktraffic.org/delay-stream/79f1863835a0ab06.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & US-169 NE": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.13892,
+        "longitude": -95.86049,
+        "url": "https://stream.oktraffic.org/delay-stream/b9fa87906bd579d7.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & N 193rd E N": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.162145,
+        "longitude": -95.76191,
+        "url": "https://stream.oktraffic.org/delay-stream/0662a028194366d1.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & N 193rd E S": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.162145,
+        "longitude": -95.76191,
+        "url": "https://stream.oktraffic.org/delay-stream/b429b1920eb7e28f.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & N 193rd E E": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.162145,
+        "longitude": -95.76191,
+        "url": "https://stream.oktraffic.org/delay-stream/58dda33124cd4dc2.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-235 & N13th N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.48214091,
+        "longitude": -97.51050174,
+        "url": "https://stream.oktraffic.org/delay-stream/fadfdd8866cf3c3e.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-235 & N13th S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.48214091,
+        "longitude": -97.51050174,
+        "url": "https://stream.oktraffic.org/delay-stream/d6f760da76376990.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-235 & N13th E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.48214091,
+        "longitude": -97.51050174,
+        "url": "https://stream.oktraffic.org/delay-stream/b39e4d243ca5de17.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-235 & N13th W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.48214091,
+        "longitude": -97.51050174,
+        "url": "https://stream.oktraffic.org/delay-stream/46837b8d995aad2a.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-235 & N23rd N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.49209705,
+        "longitude": -97.51129835,
+        "url": "https://stream.oktraffic.org/delay-stream/6e77264c34d09d72.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-235 & N23rd S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.49209705,
+        "longitude": -97.51129835,
+        "url": "https://stream.oktraffic.org/delay-stream/c03903f76f22ef17.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-235 & N36th N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.50887623,
+        "longitude": -97.51498773,
+        "url": "https://stream.oktraffic.org/delay-stream/748b4670a1e99610.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-235 & N36th S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.50887623,
+        "longitude": -97.51498773,
+        "url": "https://stream.oktraffic.org/delay-stream/2003f39f80d3119d.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-235 & N36th E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.50887623,
+        "longitude": -97.51498773,
+        "url": "https://stream.oktraffic.org/delay-stream/6bf4a09fe8179668.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-235 & N36th W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.50887623,
+        "longitude": -97.51498773,
+        "url": "https://stream.oktraffic.org/delay-stream/c110a23918b51bc0.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & S15th N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.44961233,
+        "longitude": -97.48711422,
+        "url": "https://stream.oktraffic.org/delay-stream/683989f144056ba5.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & S15th S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.44961233,
+        "longitude": -97.48711422,
+        "url": "https://stream.oktraffic.org/delay-stream/8ccfb7602c9f68df.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & S15th E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.44961233,
+        "longitude": -97.48711422,
+        "url": "https://stream.oktraffic.org/delay-stream/eb89e554d1496b92.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & S15th W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.44961233,
+        "longitude": -97.48711422,
+        "url": "https://stream.oktraffic.org/delay-stream/5c30a426a5669b05.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & S66th N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.39924263,
+        "longitude": -97.49541565,
+        "url": "https://stream.oktraffic.org/delay-stream/7230d9f71649ec80.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & S66th S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.39924263,
+        "longitude": -97.49541565,
+        "url": "https://stream.oktraffic.org/delay-stream/f9beba70d8a6b8f0.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & S66th E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.39924263,
+        "longitude": -97.49541565,
+        "url": "https://stream.oktraffic.org/delay-stream/bcca058d1b0f0221.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & S66th W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.39924263,
+        "longitude": -97.49541565,
+        "url": "https://stream.oktraffic.org/delay-stream/ad945605cd82f68c.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & S44th N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.42054823,
+        "longitude": -97.4886243,
+        "url": "https://stream.oktraffic.org/delay-stream/10ed50f4186d5eaa.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & S44th S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.42054823,
+        "longitude": -97.4886243,
+        "url": "https://stream.oktraffic.org/delay-stream/a1f269c3cd94b657.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & S44th E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.42054823,
+        "longitude": -97.4886243,
+        "url": "https://stream.oktraffic.org/delay-stream/a0e38d80e68d138d.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & I-235 S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.46259723,
+        "longitude": -97.49594271,
+        "url": "https://stream.oktraffic.org/delay-stream/587ad2b4cb36eff3.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & I-235 N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.46259723,
+        "longitude": -97.49594271,
+        "url": "https://stream.oktraffic.org/delay-stream/52040fb8c3df8bae.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & I-235 W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.46259723,
+        "longitude": -97.49594271,
+        "url": "https://stream.oktraffic.org/delay-stream/634cde0bbae756ef.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & I-235 E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.46259723,
+        "longitude": -97.49594271,
+        "url": "https://stream.oktraffic.org/delay-stream/912edfb4747bd10f.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & Lincoln W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.52921,
+        "longitude": -97.50356,
+        "url": "https://stream.oktraffic.org/delay-stream/c302814d944415ef.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & Lincoln E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.52921,
+        "longitude": -97.50356,
+        "url": "https://stream.oktraffic.org/delay-stream/bf3ed8f3e3f386f5.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & Broadway Ext W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.52905,
+        "longitude": -97.515992,
+        "url": "https://stream.oktraffic.org/delay-stream/5b24067593509206.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & Broadway Ext E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.52905,
+        "longitude": -97.515992,
+        "url": "https://stream.oktraffic.org/delay-stream/ac5e37971a2157c2.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-169 & E 61st N": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.07579572,
+        "longitude": -95.85921049,
+        "url": "https://stream.oktraffic.org/delay-stream/d0fd4eba3af83d4c.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-169 & E 61st E": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.07579572,
+        "longitude": -95.85921049,
+        "url": "https://stream.oktraffic.org/delay-stream/5e5928452e364874.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-169 & E 61st W": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.07579572,
+        "longitude": -95.85921049,
+        "url": "https://stream.oktraffic.org/delay-stream/f30b1ce03a6e9993.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-169 & E 81st N": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.04686337,
+        "longitude": -95.85895528,
+        "url": "https://stream.oktraffic.org/delay-stream/9411151d5fb6c898.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-169 & E 81st S": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.04686337,
+        "longitude": -95.85895528,
+        "url": "https://stream.oktraffic.org/delay-stream/8cccc71dbe8935c9.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-169 & E 81st E": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.04686337,
+        "longitude": -95.85895528,
+        "url": "https://stream.oktraffic.org/delay-stream/eabfdb6aa95f07dd.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-169 & E 81st W": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.04686337,
+        "longitude": -95.85895528,
+        "url": "https://stream.oktraffic.org/delay-stream/0b8d40f44c465901.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-169 & E 91st N": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.03231888,
+        "longitude": -95.85978378,
+        "url": "https://stream.oktraffic.org/delay-stream/ba67c0f6fb7d989e.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-169 & E 91st S": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.03231888,
+        "longitude": -95.85978378,
+        "url": "https://stream.oktraffic.org/delay-stream/8d57c860873aeae0.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-169 & E 91st E": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.03231888,
+        "longitude": -95.85978378,
+        "url": "https://stream.oktraffic.org/delay-stream/4e4dc3633a799c2a.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-169 & E 91st W": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.03231888,
+        "longitude": -95.85978378,
+        "url": "https://stream.oktraffic.org/delay-stream/c156ec8ccb23b320.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & Yale N": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.09528275,
+        "longitude": -95.92279226,
+        "url": "https://stream.oktraffic.org/delay-stream/0beb9c1c67c58068.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & Yale S": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.09528275,
+        "longitude": -95.92279226,
+        "url": "https://stream.oktraffic.org/delay-stream/3b2ae7b63e9e0675.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & Yale NE": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.09528275,
+        "longitude": -95.92279226,
+        "url": "https://stream.oktraffic.org/delay-stream/2c130ee497c50107.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & Yale SW": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.09528275,
+        "longitude": -95.92279226,
+        "url": "https://stream.oktraffic.org/delay-stream/c39860475a8271e3.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & 41st N": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.1026692,
+        "longitude": -95.91293782,
+        "url": "https://stream.oktraffic.org/delay-stream/a6e7c41d3098108f.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & 41st NE": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.1026692,
+        "longitude": -95.91293782,
+        "url": "https://stream.oktraffic.org/delay-stream/07caf34239351f51.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & 41st SW": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.1026692,
+        "longitude": -95.91293782,
+        "url": "https://stream.oktraffic.org/delay-stream/aead28fb00d67211.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-51 & Lewis N": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.14292851,
+        "longitude": -95.95861048,
+        "url": "https://stream.oktraffic.org/delay-stream/cd6cc290e2b1ccfa.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-51 & Lewis S": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.14292851,
+        "longitude": -95.95861048,
+        "url": "https://stream.oktraffic.org/delay-stream/c7b348401e6ccd15.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-51 & Lewis E": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.14292851,
+        "longitude": -95.95861048,
+        "url": "https://stream.oktraffic.org/delay-stream/5de7aa3ec68cd026.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-51 & Lewis W": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.14292851,
+        "longitude": -95.95861048,
+        "url": "https://stream.oktraffic.org/delay-stream/8193d2ca430b1f96.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-51 & Sheridan N": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.11549118,
+        "longitude": -95.90493947,
+        "url": "https://stream.oktraffic.org/delay-stream/abe31114792ca98a.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-51 & Sheridan S": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.11549118,
+        "longitude": -95.90493947,
+        "url": "https://stream.oktraffic.org/delay-stream/1307d8869029a10b.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-51 & Sheridan E": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.11549118,
+        "longitude": -95.90493947,
+        "url": "https://stream.oktraffic.org/delay-stream/4de2ed5998cc63c4.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-51 & Sheridan W": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.11549118,
+        "longitude": -95.90493947,
+        "url": "https://stream.oktraffic.org/delay-stream/3628ae82469f1198.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & E 11th St NE": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.148332,
+        "longitude": -95.847091,
+        "url": "https://stream.oktraffic.org/delay-stream/13163a421d551e07.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & E 11th St SW": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.148332,
+        "longitude": -95.847091,
+        "url": "https://stream.oktraffic.org/delay-stream/2a3a1e7cc3e63dcf.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & Memorial S": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.120442,
+        "longitude": -95.886352,
+        "url": "https://stream.oktraffic.org/delay-stream/bcc2dd732ab07a73.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & Memorial NE": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.120442,
+        "longitude": -95.886352,
+        "url": "https://stream.oktraffic.org/delay-stream/dff3afb691de299f.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & Memorial SW": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.120442,
+        "longitude": -95.886352,
+        "url": "https://stream.oktraffic.org/delay-stream/4c4ba2ffc6cf3803.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & N 165th E E": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.16283835,
+        "longitude": -95.79671502,
+        "url": "https://stream.oktraffic.org/delay-stream/f20908063503a133.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & N 165th E W": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.16283835,
+        "longitude": -95.79671502,
+        "url": "https://stream.oktraffic.org/delay-stream/ce8e697692a6f31c.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & S 129th E N": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.158389,
+        "longitude": -95.832829,
+        "url": "https://stream.oktraffic.org/delay-stream/da8d7f5e8e8dc1cc.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-244 & Garnett N": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.16646877,
+        "longitude": -95.85071459,
+        "url": "https://stream.oktraffic.org/delay-stream/b418d8f0cb2216d2.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-244 & Garnett S": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.16646877,
+        "longitude": -95.85071459,
+        "url": "https://stream.oktraffic.org/delay-stream/ac535efd9a84761f.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-244 & Garnett E": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.16646877,
+        "longitude": -95.85071459,
+        "url": "https://stream.oktraffic.org/delay-stream/ef21ccec934c4d85.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-244 & Garnett W": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.16646877,
+        "longitude": -95.85071459,
+        "url": "https://stream.oktraffic.org/delay-stream/8513e52f443c7431.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-244 & Memorial N": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.16223811,
+        "longitude": -95.88692307,
+        "url": "https://stream.oktraffic.org/delay-stream/2bdd0c3a56649d36.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-244 & Memorial S": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.16223811,
+        "longitude": -95.88692307,
+        "url": "https://stream.oktraffic.org/delay-stream/0e29d478209a840b.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-244 & Memorial E": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.16223811,
+        "longitude": -95.88692307,
+        "url": "https://stream.oktraffic.org/delay-stream/a60984214c19b3a2.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-244 & Memorial W": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.16223811,
+        "longitude": -95.88692307,
+        "url": "https://stream.oktraffic.org/delay-stream/e52e5eb32792ab25.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-244 & N 129th E N": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.16575985,
+        "longitude": -95.83312064,
+        "url": "https://stream.oktraffic.org/delay-stream/8e5058b358b272b6.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-244 & N 129th E E": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.16575985,
+        "longitude": -95.83312064,
+        "url": "https://stream.oktraffic.org/delay-stream/5f02e1a25baf37c6.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-244 & N 129th E W": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.16575985,
+        "longitude": -95.83312064,
+        "url": "https://stream.oktraffic.org/delay-stream/10daef9cefad7b40.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-244 & US-412 N": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.15944045,
+        "longitude": -96.00216933,
+        "url": "https://stream.oktraffic.org/delay-stream/ed75406db9dbc2c3.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-244 & US-412 S": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.15944045,
+        "longitude": -96.00216933,
+        "url": "https://stream.oktraffic.org/delay-stream/2fdb3156afe8fed8.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-244 & US-412 E": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.15944045,
+        "longitude": -96.00216933,
+        "url": "https://stream.oktraffic.org/delay-stream/ebc9d7f1857d8aa3.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-244 & US-75 N S": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.160796,
+        "longitude": -95.980449,
+        "url": "https://stream.oktraffic.org/delay-stream/0665aca2195a7726.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-244 & US-75 N E": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.160796,
+        "longitude": -95.980449,
+        "url": "https://stream.oktraffic.org/delay-stream/2975ff851ebf9f03.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-244 & US-75 N W": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.160796,
+        "longitude": -95.980449,
+        "url": "https://stream.oktraffic.org/delay-stream/40e35c55f4dd0b47.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-75 & Denver N": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.14456271,
+        "longitude": -95.99211529,
+        "url": "https://stream.oktraffic.org/delay-stream/9fed43410ad73603.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-75 & Denver S": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.14456271,
+        "longitude": -95.99211529,
+        "url": "https://stream.oktraffic.org/delay-stream/94c3bf05ae163c56.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-75 & Denver E": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.14456271,
+        "longitude": -95.99211529,
+        "url": "https://stream.oktraffic.org/delay-stream/2b4d64d427d94d20.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-75 & Denver W": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.14456271,
+        "longitude": -95.99211529,
+        "url": "https://stream.oktraffic.org/delay-stream/5b618701b34dd824.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-412 & Creek N": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.16255354,
+        "longitude": -95.73171705,
+        "url": "https://stream.oktraffic.org/delay-stream/dee2a2d61df7d08f.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-412 & Creek S": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.16255354,
+        "longitude": -95.73171705,
+        "url": "https://stream.oktraffic.org/delay-stream/e0112c3b1fea1b50.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-412 & Creek W": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.16255354,
+        "longitude": -95.73171705,
+        "url": "https://stream.oktraffic.org/delay-stream/d3a9a0901959327f.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-235 & Sheridan S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.466328,
+        "longitude": -97.499822,
+        "url": "https://stream.oktraffic.org/delay-stream/4d7b4769e9672fd2.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-235 & Sheridan N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.466328,
+        "longitude": -97.499822,
+        "url": "https://stream.oktraffic.org/delay-stream/f5dc134ad46f4e5d.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-235 & 5th W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.47305,
+        "longitude": -97.50718,
+        "url": "https://stream.oktraffic.org/delay-stream/aba5b093ea0861d6.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-235 & 5th SE": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.47305,
+        "longitude": -97.50718,
+        "url": "https://stream.oktraffic.org/delay-stream/fdd31a299f9d39eb.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & SH-51 S": {
+        "location": "Stillwater, Oklahoma",
+        "latitude": 36.11611481,
+        "longitude": -97.34512724,
+        "url": "https://stream.oktraffic.org/delay-stream/72561c9026dc03f7.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & Chikaskia River N": {
+        "location": "Blackwell, Oklahoma",
+        "latitude": 36.90651602,
+        "longitude": -97.35317387,
+        "url": "https://stream.oktraffic.org/delay-stream/8d7f6c33957a24b9.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Texas Line E": {
+        "location": "Texola, Oklahoma",
+        "latitude": 35.22669291,
+        "longitude": -100.00046321,
+        "url": "https://stream.oktraffic.org/delay-stream/c9a10bf3ae4c3a3c.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Texas Line W": {
+        "location": "Texola, Oklahoma",
+        "latitude": 35.22669291,
+        "longitude": -100.00046321,
+        "url": "https://stream.oktraffic.org/delay-stream/445eea3e72e26539.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-62 & 52nd N": {
+        "location": "Lawton, Oklahoma",
+        "latitude": 34.638166,
+        "longitude": -98.456842,
+        "url": "https://stream.oktraffic.org/delay-stream/0accd30f2e2eb64f.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-62 & 52nd W": {
+        "location": "Lawton, Oklahoma",
+        "latitude": 34.638166,
+        "longitude": -98.456842,
+        "url": "https://stream.oktraffic.org/delay-stream/67c92d9998c14ba6.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-62 & 52nd E": {
+        "location": "Lawton, Oklahoma",
+        "latitude": 34.638166,
+        "longitude": -98.456842,
+        "url": "https://stream.oktraffic.org/delay-stream/5eddf926e9c41fba.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-62 & Sheridan E": {
+        "location": "Lawton, Oklahoma",
+        "latitude": 34.637933,
+        "longitude": -98.421649,
+        "url": "https://stream.oktraffic.org/delay-stream/293006c68c2e5c9b.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-62 & Sheridan W": {
+        "location": "Lawton, Oklahoma",
+        "latitude": 34.637933,
+        "longitude": -98.421649,
+        "url": "https://stream.oktraffic.org/delay-stream/5d6b103e62dd4345.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & Sheridan (Key Gate) N": {
+        "location": "Lawton, Oklahoma",
+        "latitude": 34.660625,
+        "longitude": -98.38234,
+        "url": "https://stream.oktraffic.org/delay-stream/a0468f699eeeb847.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & Sheridan (Key Gate) S": {
+        "location": "Lawton, Oklahoma",
+        "latitude": 34.660625,
+        "longitude": -98.38234,
+        "url": "https://stream.oktraffic.org/delay-stream/cf29deaaf687d326.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & Sheridan (Key Gate) E": {
+        "location": "Lawton, Oklahoma",
+        "latitude": 34.660625,
+        "longitude": -98.38234,
+        "url": "https://stream.oktraffic.org/delay-stream/54e63728dbc915df.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & Sheridan (Key Gate) W": {
+        "location": "Lawton, Oklahoma",
+        "latitude": 34.660625,
+        "longitude": -98.38234,
+        "url": "https://stream.oktraffic.org/delay-stream/f25d083817116eba.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-169 & E 46th N N": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.22023407,
+        "longitude": -95.85207809,
+        "url": "https://stream.oktraffic.org/delay-stream/f389a75682a4c014.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-169 & E 46th N S": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.22023407,
+        "longitude": -95.85207809,
+        "url": "https://stream.oktraffic.org/delay-stream/188614ef54e169fc.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-169 & E 46th N E": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.22023407,
+        "longitude": -95.85207809,
+        "url": "https://stream.oktraffic.org/delay-stream/78a4a104f3019c40.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-169 & E 46th N W": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.22023407,
+        "longitude": -95.85207809,
+        "url": "https://stream.oktraffic.org/delay-stream/a8b2f8ac245d6e62.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-169 & E 36th N N": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.20578987,
+        "longitude": -95.85200701,
+        "url": "https://stream.oktraffic.org/delay-stream/23b1853fbcf142c7.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-169 & E 36th N S": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.20578987,
+        "longitude": -95.85200701,
+        "url": "https://stream.oktraffic.org/delay-stream/05f817a593a66340.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-169 & E 36th N E": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.20578987,
+        "longitude": -95.85200701,
+        "url": "https://stream.oktraffic.org/delay-stream/c86b766be9e28584.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-169 & E 36th N W": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.20578987,
+        "longitude": -95.85200701,
+        "url": "https://stream.oktraffic.org/delay-stream/ba6c88044f67b4db.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-51 & Elm S": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.07067354,
+        "longitude": -95.79721562,
+        "url": "https://stream.oktraffic.org/delay-stream/afb832d81de39d9b.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-51 & Elm E": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.07067354,
+        "longitude": -95.79721562,
+        "url": "https://stream.oktraffic.org/delay-stream/c7accbc58acec101.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & OKC Blvd W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.461478,
+        "longitude": -97.501475,
+        "url": "https://stream.oktraffic.org/delay-stream/f5f325d638f2bd01.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & OKC Blvd E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.461478,
+        "longitude": -97.501475,
+        "url": "https://stream.oktraffic.org/delay-stream/05d99665642a8c93.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & OKC Blvd N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.461478,
+        "longitude": -97.501475,
+        "url": "https://stream.oktraffic.org/delay-stream/7cd7b0f9a8374941.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & OKC Blvd S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.461478,
+        "longitude": -97.501475,
+        "url": "https://stream.oktraffic.org/delay-stream/983779233ed50356.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & Post (Gate 2) S": {
+        "location": "Lawton, Oklahoma",
+        "latitude": 34.643516,
+        "longitude": -98.389198,
+        "url": "https://stream.oktraffic.org/delay-stream/ddbb42e1b109f5d3.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & Post (Gate 2) NE": {
+        "location": "Lawton, Oklahoma",
+        "latitude": 34.643516,
+        "longitude": -98.389198,
+        "url": "https://stream.oktraffic.org/delay-stream/396bdeeb2499f8f4.stream/playlist.m3u8"
+      },
+      "oktraffic.org | Kilpatrick Tpk & Eastern W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.601159,
+        "longitude": -97.46968,
+        "url": "https://stream.oktraffic.org/delay-stream/5987c31f2d3c49f5.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & S 96th N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.37111421,
+        "longitude": -97.57730381,
+        "url": "https://stream.oktraffic.org/delay-stream/62bafd1dc116c003.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & S 96th S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.37111421,
+        "longitude": -97.57730381,
+        "url": "https://stream.oktraffic.org/delay-stream/2501a542a8c36587.stream/playlist.m3u8"
+      },
+      "oktraffic.org | Turner Tpk & OKC E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.60343357,
+        "longitude": -97.40374545,
+        "url": "https://stream.oktraffic.org/delay-stream/29e8425432df4ab6.stream/playlist.m3u8"
+      },
+      "oktraffic.org | Turner Tpk & OKC W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.60343357,
+        "longitude": -97.40374545,
+        "url": "https://stream.oktraffic.org/delay-stream/e7e7297ab2d772ad.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & Kansas S": {
+        "location": "Braman, Oklahoma",
+        "latitude": 36.98480598,
+        "longitude": -97.34556735,
+        "url": "https://stream.oktraffic.org/delay-stream/e1374a7af0f1cc52.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & Kansas N": {
+        "location": "Braman, Oklahoma",
+        "latitude": 36.98480598,
+        "longitude": -97.34556735,
+        "url": "https://stream.oktraffic.org/delay-stream/ab0a9f3788a1d9eb.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Peebly W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.3845,
+        "longitude": -97.2131,
+        "url": "https://stream.oktraffic.org/delay-stream/d8ad870778524c39.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & Peebly E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.3845,
+        "longitude": -97.2131,
+        "url": "https://stream.oktraffic.org/delay-stream/8a2cf2964bc37faf.stream/playlist.m3u8"
+      },
+      "oktraffic.org | Sequoyah POE SW": {
+        "location": "POE, Oklahoma",
+        "latitude": 35.43725613,
+        "longitude": -94.47723945,
+        "url": "https://stream.oktraffic.org/delay-stream/4f6d6b03092b067c.stream/playlist.m3u8"
+      },
+      "oktraffic.org | Kay POE N Entry": {
+        "location": "Kay, Oklahoma",
+        "latitude": 36.98286482,
+        "longitude": -97.3466751,
+        "url": "https://stream.oktraffic.org/delay-stream/866a2faae4fcc9b4.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & 2nd St N": {
+        "location": "Edmond, Oklahoma",
+        "latitude": 35.6525,
+        "longitude": -97.4239,
+        "url": "https://stream.oktraffic.org/delay-stream/131172e9d301cd03.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & 2nd St S": {
+        "location": "Edmond, Oklahoma",
+        "latitude": 35.6525,
+        "longitude": -97.4239,
+        "url": "https://stream.oktraffic.org/delay-stream/26d45c78d239c210.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & 2nd St W": {
+        "location": "Edmond, Oklahoma",
+        "latitude": 35.6525,
+        "longitude": -97.4239,
+        "url": "https://stream.oktraffic.org/delay-stream/71c65844490a2456.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & 2nd St E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.6525,
+        "longitude": -97.4239,
+        "url": "https://stream.oktraffic.org/delay-stream/4e8d5531c2d3dbdb.stream/playlist.m3u8"
+      },
+      "oktraffic.org | Gilcrease & S49thW E": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.0892,
+        "longitude": -96.0481768,
+        "url": "https://stream.oktraffic.org/delay-stream/04cb7acaed0e4d61.stream/playlist.m3u8"
+      },
+      "oktraffic.org | Gilcrease & S49thW W": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.0892,
+        "longitude": -96.0481768,
+        "url": "https://stream.oktraffic.org/delay-stream/a104824f72dab92b.stream/playlist.m3u8"
+      },
+      "oktraffic.org | Gilcrease & W 2nd S": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.152465,
+        "longitude": -96.05729,
+        "url": "https://stream.oktraffic.org/delay-stream/1f42691985dbdff2.stream/playlist.m3u8"
+      },
+      "oktraffic.org | Gilcrease & W 2nd N": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.152465,
+        "longitude": -96.05729,
+        "url": "https://stream.oktraffic.org/delay-stream/3e30ea82650a3025.stream/playlist.m3u8"
+      },
+      "oktraffic.org | Creek Tpk & US-75 W": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.00889,
+        "longitude": -96.01004,
+        "url": "https://stream.oktraffic.org/delay-stream/76ff6a5f36182223.stream/playlist.m3u8"
+      },
+      "oktraffic.org | Creek Tpk & US-75 S": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.00889,
+        "longitude": -96.01004,
+        "url": "https://stream.oktraffic.org/delay-stream/a0942d4272f1caef.stream/playlist.m3u8"
+      },
+      "oktraffic.org | Creek Tpk & US-75 E": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.00889,
+        "longitude": -96.01004,
+        "url": "https://stream.oktraffic.org/delay-stream/cc9bd560027498d1.stream/playlist.m3u8"
+      },
+      "oktraffic.org | Creek Tpk & Memorial N": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.02506,
+        "longitude": -95.88693,
+        "url": "https://stream.oktraffic.org/delay-stream/94e6c4bfa9552834.stream/playlist.m3u8"
+      },
+      "oktraffic.org | Creek Tpk & Memorial SE": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.02506,
+        "longitude": -95.88693,
+        "url": "https://stream.oktraffic.org/delay-stream/39999fbcbedeeab3.stream/playlist.m3u8"
+      },
+      "oktraffic.org | Creek Tpk & Memorial E": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.02506,
+        "longitude": -95.88693,
+        "url": "https://stream.oktraffic.org/delay-stream/d5ee7f9714e5c758.stream/playlist.m3u8"
+      },
+      "oktraffic.org | Creek Tpk & Mingo W": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.026125,
+        "longitude": -95.86871,
+        "url": "https://stream.oktraffic.org/delay-stream/8ae4b103987c827d.stream/playlist.m3u8"
+      },
+      "oktraffic.org | Creek Tpk & Mingo E": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.026125,
+        "longitude": -95.86871,
+        "url": "https://stream.oktraffic.org/delay-stream/766c366cbfc5d0ee.stream/playlist.m3u8"
+      },
+      "oktraffic.org | Creek Tpk & Mingo N": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.026125,
+        "longitude": -95.86871,
+        "url": "https://stream.oktraffic.org/delay-stream/c060df314877a7e1.stream/playlist.m3u8"
+      },
+      "oktraffic.org | Creek Tpk & Muskogee Tpk N": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.04688,
+        "longitude": -95.73895,
+        "url": "https://stream.oktraffic.org/delay-stream/948745588adda3b5.stream/playlist.m3u8"
+      },
+      "oktraffic.org | Creek Tpk & Muskogee Tpk S": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.04688,
+        "longitude": -95.73895,
+        "url": "https://stream.oktraffic.org/delay-stream/ffc397c9581df21b.stream/playlist.m3u8"
+      },
+      "oktraffic.org | Creek Tpk & Muskogee Tpk SE": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.04688,
+        "longitude": -95.73895,
+        "url": "https://stream.oktraffic.org/delay-stream/391f6ddc692cf637.stream/playlist.m3u8"
+      },
+      "oktraffic.org | Creek Tpk & Muskogee Tpk NW": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.04688,
+        "longitude": -95.73895,
+        "url": "https://stream.oktraffic.org/delay-stream/28ed582da0f5da80.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & JKT S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.601362,
+        "longitude": -97.42766,
+        "url": "https://stream.oktraffic.org/delay-stream/03ecfda992827dcb.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & JKT N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.601362,
+        "longitude": -97.42766,
+        "url": "https://stream.oktraffic.org/delay-stream/eeb577cae5973b2b.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & JKT W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.601362,
+        "longitude": -97.42766,
+        "url": "https://stream.oktraffic.org/delay-stream/40d3d75ce114bf44.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & JKT S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.463214,
+        "longitude": -97.711942,
+        "url": "https://stream.oktraffic.org/delay-stream/308b3d089cdc53b5.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & JKT E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.463214,
+        "longitude": -97.711942,
+        "url": "https://stream.oktraffic.org/delay-stream/2ff86e1d463b3c7d.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & JKT W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.463214,
+        "longitude": -97.711942,
+        "url": "https://stream.oktraffic.org/delay-stream/404e1b91aca0eb78.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-40 & JKT N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.463214,
+        "longitude": -97.711942,
+        "url": "https://stream.oktraffic.org/delay-stream/3806c1266ddc29e8.stream/playlist.m3u8"
+      },
+      "oktraffic.org | JKT & US-77 S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.5998,
+        "longitude": -97.503086,
+        "url": "https://stream.oktraffic.org/delay-stream/00e8381a3331fe84.stream/playlist.m3u8"
+      },
+      "oktraffic.org | JKT & US-77 N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.5998,
+        "longitude": -97.503086,
+        "url": "https://stream.oktraffic.org/delay-stream/72223ca33b0adde1.stream/playlist.m3u8"
+      },
+      "oktraffic.org | JKT & US-77 W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.5998,
+        "longitude": -97.503086,
+        "url": "https://stream.oktraffic.org/delay-stream/2228520d55386f0f.stream/playlist.m3u8"
+      },
+      "oktraffic.org | JKT & US-77 E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.5998,
+        "longitude": -97.503086,
+        "url": "https://stream.oktraffic.org/delay-stream/5048b96a114f6447.stream/playlist.m3u8"
+      },
+      "oktraffic.org | JKT & SH-152 W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.41371,
+        "longitude": -97.65653,
+        "url": "https://stream.oktraffic.org/delay-stream/60846b719a5c1b17.stream/playlist.m3u8"
+      },
+      "oktraffic.org | JKT & SH-152 E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.41371,
+        "longitude": -97.65653,
+        "url": "https://stream.oktraffic.org/delay-stream/5dd47661b064aeb2.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-69 & C Tree NE": {
+        "location": "McAlester, Oklahoma",
+        "latitude": 34.83621,
+        "longitude": -95.83708,
+        "url": "https://stream.oktraffic.org/delay-stream/01fdbbc09f67d943.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & S 25th S": {
+        "location": "Edmond, Oklahoma",
+        "latitude": 35.630175,
+        "longitude": -97.424852,
+        "url": "https://stream.oktraffic.org/delay-stream/7f3707bef964f70d.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-35 & S 25th N": {
+        "location": "Edmond, Oklahoma",
+        "latitude": 35.630175,
+        "longitude": -97.424852,
+        "url": "https://stream.oktraffic.org/delay-stream/fff88d7f64c66401.stream/playlist.m3u8"
+      },
+      "oktraffic.org | Kilpatrick Tpk & SH-3 N": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.5802,
+        "longitude": -97.68862,
+        "url": "https://stream.oktraffic.org/delay-stream/5aa54bfc31c89e10.stream/playlist.m3u8"
+      },
+      "oktraffic.org | Kilpatrick Tpk & SH-3 S": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.5802,
+        "longitude": -97.68862,
+        "url": "https://stream.oktraffic.org/delay-stream/2815efbc4a3e5477.stream/playlist.m3u8"
+      },
+      "oktraffic.org | Kilpatrick Tpk & SH-3 E": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.5802,
+        "longitude": -97.68862,
+        "url": "https://stream.oktraffic.org/delay-stream/ab4d0013bb856fd0.stream/playlist.m3u8"
+      },
+      "oktraffic.org | Kilpatrick Tpk & SH-3 W": {
+        "location": "Oklahoma City, Oklahoma",
+        "latitude": 35.5802,
+        "longitude": -97.68862,
+        "url": "https://stream.oktraffic.org/delay-stream/e33ea015cf74abee.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-412 & N 33RD W": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.157778,
+        "longitude": -96.029618,
+        "url": "https://stream.oktraffic.org/delay-stream/539be4f6ea04f4ce.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-412 & N 33RD E": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.157778,
+        "longitude": -96.029618,
+        "url": "https://stream.oktraffic.org/delay-stream/77bdc90b3a47444c.stream/playlist.m3u8"
+      },
+      "oktraffic.org | US-75 & E 8th N": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.15099,
+        "longitude": -95.980935,
+        "url": "https://stream.oktraffic.org/delay-stream/cdc4eef541c2427f.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-51 & Harvard NW": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.125727,
+        "longitude": -95.938824,
+        "url": "https://stream.oktraffic.org/delay-stream/f44916e02516faa0.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-51 & Harvard SE": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.125727,
+        "longitude": -95.938824,
+        "url": "https://stream.oktraffic.org/delay-stream/5f9dbb62e45a927e.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-51 & E 31st NW": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.118359,
+        "longitude": -95.919065,
+        "url": "https://stream.oktraffic.org/delay-stream/e51c80ad6745a4e4.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-51 & E 31st SE": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.118359,
+        "longitude": -95.919065,
+        "url": "https://stream.oktraffic.org/delay-stream/5b96ca26f7855385.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-51 & E 41st SE": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.104631,
+        "longitude": -95.876482,
+        "url": "https://stream.oktraffic.org/delay-stream/20754fa39b72c5a6.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-51 & E 41st NW": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.104631,
+        "longitude": -95.876482,
+        "url": "https://stream.oktraffic.org/delay-stream/ea01b40dc345372b.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-51 & Kenosha SE": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.060735,
+        "longitude": -95.76764,
+        "url": "https://stream.oktraffic.org/delay-stream/630ecfb057ad8c83.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-51 & Kenosha E": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.060735,
+        "longitude": -95.76764,
+        "url": "https://stream.oktraffic.org/delay-stream/2f2de5777662e1fa.stream/playlist.m3u8"
+      },
+      "oktraffic.org | SH-51 & Kenosha NW": {
+        "location": "Tulsa, Oklahoma",
+        "latitude": 36.060735,
+        "longitude": -95.76764,
+        "url": "https://stream.oktraffic.org/delay-stream/d2229cfe343389ed.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & Wellston W": {
+        "location": "Wellston, Oklahoma",
+        "latitude": 35.678364,
+        "longitude": -97.054842,
+        "url": "https://stream.oktraffic.org/delay-stream/adfbfab52a2e799b.stream/playlist.m3u8"
+      },
+      "oktraffic.org | I-44 & Wellston E": {
+        "location": "Wellston, Oklahoma",
+        "latitude": 35.678364,
+        "longitude": -97.054842,
+        "url": "https://stream.oktraffic.org/delay-stream/b2609947ce1a31f0.stream/playlist.m3u8"
       }
 }
