@@ -6939,6 +6939,10 @@
       "url": "rtmp://ingest.severetv.com/live/chris.white",
       "location": "Storm Chaser"
   },
+  "Edgar Oneal": {
+    "url": "rtmp://ingest.severetv.com/live/edgar.oneal",
+    "location": "Storm Chaser"
+  },
   "Connor Croff": {
       "url": "https://video1.cdn.radaromega.com/live/5f3b662a9ae9/stream.m3u8",
       "location": "Storm Chaser"
