@@ -85323,11 +85323,17 @@
       "longitude": -90.750469,
       "location": "Arkansas"
     },
-    "RadarOmega | Fire Station 9": {
+    "Fire Station 9 | RadarOmega": {
       "url": "rtmp://rtmp.radaromega.com/live/92c5ac7e58af",
       "latitude": 34.129308,
       "longitude": -84.86063,
       "location": "Cartersville, Georgia"
+    },
+    "Glenn Heights | RadarOmega": {
+      "url": "rtmp://rtmp.radaromega.com/live/b8d5c15df74a",
+      "latitude": 32.55255,
+      "longitude": -96.85636,
+      "location": "De Soto, Texas"
   },
   "oktraffic.org | I-44 & I-240 S": {
     "location": "Oklahoma City, Oklahoma",
