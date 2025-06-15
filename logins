@@ -6751,6 +6751,10 @@
         "url": "https://video1.cdn.radaromega.com/live/a772a1ad4338/stream.m3u8",
         "location": "Storm Chaser"
     },
+    "Corey Inmon": {
+        "url": "rtmp://ingest.severetv.com/live/corey.inmon",
+        "location": "Storm Chaser"
+    },
     "Jakob McMillin": {
         "url": "",
         "location": "Storm Chaser"
