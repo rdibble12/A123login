@@ -89578,6 +89578,4140 @@
         "location": "Colorado",
         "url": "https://publicstreamer3.cotrip.org/rtplive/076E08095CAM1RHS/playlist.m3u8"
     },
+    "511sc.org | US 501 N @ 16th Ave": {
+        "location": "Ave, South Carolina",
+        "latitude": 33.845627,
+        "longitude": -79.062775,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50001/playlist.m3u8"
+      },
+      "511sc.org | US 501 S @ US 701": {
+        "location": "South Carolina",
+        "latitude": 33.831668,
+        "longitude": -79.058746,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50002/playlist.m3u8"
+      },
+      "511sc.org | US 501 N @ SC 544": {
+        "location": "South Carolina",
+        "latitude": 33.807244,
+        "longitude": -79.01484,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50003/playlist.m3u8"
+      },
+      "511sc.org | US 501 N @ Gardner Lacy Rd": {
+        "location": "Gardner Lacy Rd, South Carolina",
+        "latitude": 33.775376,
+        "longitude": -78.982832,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50005/playlist.m3u8"
+      },
+      "511sc.org | US 501 S @ South of Gardner Lacy Rd": {
+        "location": "South, South Carolina",
+        "latitude": 33.768852,
+        "longitude": -78.977701,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50006/playlist.m3u8"
+      },
+      "511sc.org | US 501 N @ Waccamaw Pines Dr": {
+        "location": "Waccamaw Pines Dr, South Carolina",
+        "latitude": 33.748562,
+        "longitude": -78.958568,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50008/playlist.m3u8"
+      },
+      "511sc.org | US 17 BYP S @ US 501 N": {
+        "location": "South Carolina",
+        "latitude": 33.709424,
+        "longitude": -78.913635,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50010/playlist.m3u8"
+      },
+      "511sc.org | US 17 N @ US 17 Business": {
+        "location": "Business, South Carolina",
+        "latitude": 33.767134,
+        "longitude": -78.805666,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50011/playlist.m3u8"
+      },
+      "511sc.org | US 17 S @ Lake Arrowhead Rd": {
+        "location": "Lake Arrowhead Rd, South Carolina",
+        "latitude": 33.7791,
+        "longitude": -78.792109,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50012/playlist.m3u8"
+      },
+      "511sc.org | US 501 N @ SC 22": {
+        "location": "South Carolina",
+        "latitude": 33.920711,
+        "longitude": -79.153541,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50015/playlist.m3u8"
+      },
+      "511sc.org | US 501 N @ Intracoastal Waterway": {
+        "location": "Intracoastal Waterway, South Carolina",
+        "latitude": 33.714446,
+        "longitude": -78.921051,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50016/playlist.m3u8"
+      },
+      "511sc.org | US 17 BYP N @ 10th Ave (Joe White Blvd)": {
+        "location": "Ave, South Carolina",
+        "latitude": 33.713227,
+        "longitude": -78.900701,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50017/playlist.m3u8"
+      },
+      "511sc.org | US 17 N @ 29th Avenue": {
+        "location": "Avenue, South Carolina",
+        "latitude": 33.720392,
+        "longitude": -78.880936,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50018/playlist.m3u8"
+      },
+      "511sc.org | US 501 S @ Waccamaw River": {
+        "location": "Waccamaw River, South Carolina",
+        "latitude": 33.816233,
+        "longitude": -79.040496,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50020/playlist.m3u8"
+      },
+      "511sc.org | US 501 N @ SC 31 (Carolina Bays Pkwy)": {
+        "location": "Carolina Bays Pkwy, South Carolina",
+        "latitude": 33.739171,
+        "longitude": -78.950166,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50023/playlist.m3u8"
+      },
+      "511sc.org | US 501 N @ Burcale Rd": {
+        "location": "Burcale Rd, South Carolina",
+        "latitude": 33.72378,
+        "longitude": -78.934722,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50025/playlist.m3u8"
+      },
+      "511sc.org | US 501 S @ SC 31 (Carolina Bays Pkwy)": {
+        "location": "Carolina Bays Pkwy, South Carolina",
+        "latitude": 33.741569,
+        "longitude": -78.953129,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50026/playlist.m3u8"
+      },
+      "511sc.org | US 501 N @ George Bishop Pkwy": {
+        "location": "George Bishop Pkwy, South Carolina",
+        "latitude": 33.720351,
+        "longitude": -78.929977,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50027/playlist.m3u8"
+      },
+      "511sc.org | US 501 N @ Entrance from George Bishop Pkwy": {
+        "location": "Entrance, South Carolina",
+        "latitude": 33.720687,
+        "longitude": -78.929555,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50028/playlist.m3u8"
+      },
+      "511sc.org | US 501 N @ Main St (Aynor)": {
+        "location": "Main St, South Carolina",
+        "latitude": 33.99457,
+        "longitude": -79.202858,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50210/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 197": {
+        "location": "South Carolina",
+        "latitude": 34.487131,
+        "longitude": -79.333036,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50301/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 160 (I-20 E)": {
+        "location": "South Carolina",
+        "latitude": 34.197734,
+        "longitude": -79.83877,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50201/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 162.5": {
+        "location": "South Carolina",
+        "latitude": 34.217454,
+        "longitude": -79.816954,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50202/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 164 (US 52)": {
+        "location": "South Carolina",
+        "latitude": 34.230132,
+        "longitude": -79.79933,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50203/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 165": {
+        "location": "South Carolina",
+        "latitude": 34.239223,
+        "longitude": -79.788258,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50204/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 167": {
+        "location": "South Carolina",
+        "latitude": 34.249951,
+        "longitude": -79.762553,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50205/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 169 (TV Road)": {
+        "location": "Road, South Carolina",
+        "latitude": 34.264696,
+        "longitude": -79.732332,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50206/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 170 (Williston Rd)": {
+        "location": "Williston Rd, South Carolina",
+        "latitude": 34.268833,
+        "longitude": -79.703323,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50207/playlist.m3u8"
+      },
+      "511sc.org | I-126 E @ MM 2.7 Broad River Bridge": {
+        "location": "Broad River Bridge, South Carolina",
+        "latitude": 34.009855,
+        "longitude": -81.06269,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10007/playlist.m3u8"
+      },
+      "511sc.org | I-126 E @ MM 1": {
+        "location": "South Carolina",
+        "latitude": 34.018308,
+        "longitude": -81.092069,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10010/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 107 (I-20 W)": {
+        "location": "South Carolina",
+        "latitude": 34.037182,
+        "longitude": -81.110651,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10014/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 108 (I-126 Flyover)": {
+        "location": "Flyover, South Carolina",
+        "latitude": 34.027408,
+        "longitude": -81.101358,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10017/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 115.5 (I-77 S Flyover)": {
+        "location": "Flyover, South Carolina",
+        "latitude": 33.928198,
+        "longitude": -81.069563,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10020/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 106": {
+        "location": "South Carolina",
+        "latitude": 34.047257,
+        "longitude": -81.120218,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10023/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 104 (Piney Grove Rd)": {
+        "location": "Piney Grove Rd, South Carolina",
+        "latitude": 34.067395,
+        "longitude": -81.141588,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10026/playlist.m3u8"
+      },
+      "511sc.org | I-126 W @ MM 2.5 Greystone Blvd": {
+        "location": "Greystone Blvd, South Carolina",
+        "latitude": 34.012043,
+        "longitude": -81.069036,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10029/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 110.3 (Leaphart Rd)": {
+        "location": "Leaphart Rd, South Carolina",
+        "latitude": 33.99304,
+        "longitude": -81.107401,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10032/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 112.2": {
+        "location": "South Carolina",
+        "latitude": 33.967189,
+        "longitude": -81.098984,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10035/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 114 (Old Dunbar Rd)": {
+        "location": "Old Dunbar Rd, South Carolina",
+        "latitude": 33.938521,
+        "longitude": -81.08665,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10038/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 102": {
+        "location": "South Carolina",
+        "latitude": 34.091288,
+        "longitude": -81.165767,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10041/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 65": {
+        "location": "South Carolina",
+        "latitude": 34.039325,
+        "longitude": -81.094915,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10061/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 67": {
+        "location": "South Carolina",
+        "latitude": 34.051755,
+        "longitude": -81.065001,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10064/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 68.5": {
+        "location": "South Carolina",
+        "latitude": 34.066305,
+        "longitude": -81.039481,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10067/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 70.8": {
+        "location": "South Carolina",
+        "latitude": 34.073529,
+        "longitude": -81.007627,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10070/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 72 (Farrow Rd)": {
+        "location": "Farrow Rd, South Carolina",
+        "latitude": 34.073239,
+        "longitude": -80.978892,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10073/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 74 (Two Notch Rd)": {
+        "location": "Two Notch Rd, South Carolina",
+        "latitude": 34.073639,
+        "longitude": -80.948334,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10076/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 75.5": {
+        "location": "South Carolina",
+        "latitude": 34.067954,
+        "longitude": -80.927043,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10079/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 13.8 (Decker Blvd)": {
+        "location": "Decker Blvd, South Carolina",
+        "latitude": 34.041432,
+        "longitude": -80.936669,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10110/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 10.8": {
+        "location": "South Carolina",
+        "latitude": 34.002283,
+        "longitude": -80.958677,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10113/playlist.m3u8"
+      },
+      "511sc.org | I-77 N @ MM 9 (Garners Ferry Rd)": {
+        "location": "Garners Ferry Rd, South Carolina",
+        "latitude": 33.973112,
+        "longitude": -80.954548,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10116/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 5 (Bluff Rd)": {
+        "location": "Bluff Rd, South Carolina",
+        "latitude": 33.950903,
+        "longitude": -80.989952,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10119/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 2": {
+        "location": "South Carolina",
+        "latitude": 33.92958,
+        "longitude": -81.04333,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10122/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 55": {
+        "location": "South Carolina",
+        "latitude": 34.866863,
+        "longitude": -82.23848,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30003/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 57 (Airport Rd.)": {
+        "location": "Airport Rd, South Carolina",
+        "latitude": 34.877644,
+        "longitude": -82.213255,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30006/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 58.5 (Deyoung Rd.)": {
+        "location": "Deyoung Rd, South Carolina",
+        "latitude": 34.887521,
+        "longitude": -82.183071,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30009/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 60 (SC 101)": {
+        "location": "South Carolina",
+        "latitude": 34.891999,
+        "longitude": -82.160212,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30012/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 61 (Danzler Rd.)": {
+        "location": "Danzler Rd, South Carolina",
+        "latitude": 34.900981,
+        "longitude": -82.138197,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30015/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 62.5": {
+        "location": "South Carolina",
+        "latitude": 34.905374,
+        "longitude": -82.120378,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30018/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 64 (Mid Tyger River)": {
+        "location": "Mid Tyger River, South Carolina",
+        "latitude": 34.921415,
+        "longitude": -82.096224,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30021/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 65.5 (Nazareth Rd.)": {
+        "location": "Nazareth Rd, South Carolina",
+        "latitude": 34.933424,
+        "longitude": -82.079064,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30024/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 67": {
+        "location": "South Carolina",
+        "latitude": 34.954442,
+        "longitude": -82.064316,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30027/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 54.3 (North of Pelham Rd.)": {
+        "location": "North, South Carolina",
+        "latitude": 34.861791,
+        "longitude": -82.250994,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30030/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 46 (Hwy. 291 Pleasantburg Dr.)": {
+        "location": "Hwy, South Carolina",
+        "latitude": 34.796246,
+        "longitude": -82.37617,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30034/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 47": {
+        "location": "South Carolina",
+        "latitude": 34.811584,
+        "longitude": -82.342975,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30037/playlist.m3u8"
+      },
+      "511sc.org | Bus. 85 S @ MM 2.4 (Fairforest Rd)": {
+        "location": "Bus, South Carolina",
+        "latitude": 34.970529,
+        "longitude": -81.998801,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30047/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 32 (Hwy 8)": {
+        "location": "Hwy, South Carolina",
+        "latitude": 34.674819,
+        "longitude": -82.535853,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30052/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 23 (Rest Area)": {
+        "location": "Rest Area, South Carolina",
+        "latitude": 34.600692,
+        "longitude": -82.652895,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30055/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 42 (At I-185)": {
+        "location": "At, South Carolina",
+        "latitude": 34.788565,
+        "longitude": -82.440738,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30060/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 69": {
+        "location": "South Carolina",
+        "latitude": 34.96431,
+        "longitude": -82.032804,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30069/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 73.5": {
+        "location": "South Carolina",
+        "latitude": 35.012576,
+        "longitude": -81.97618,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30072/playlist.m3u8"
+      },
+      "511sc.org | I-385 N @ MM 38": {
+        "location": "South Carolina",
+        "latitude": 34.846259,
+        "longitude": -82.322264,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30091/playlist.m3u8"
+      },
+      "511sc.org | I-385 S @ MM 39.5": {
+        "location": "South Carolina",
+        "latitude": 34.857349,
+        "longitude": -82.343061,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30094/playlist.m3u8"
+      },
+      "511sc.org | I-385 S @ MM 41": {
+        "location": "South Carolina",
+        "latitude": 34.851402,
+        "longitude": -82.368324,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30097/playlist.m3u8"
+      },
+      "511sc.org | I-385 N @ MM 34 (Butler Rd)": {
+        "location": "Butler Rd, South Carolina",
+        "latitude": 34.806509,
+        "longitude": -82.282965,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30104/playlist.m3u8"
+      },
+      "511sc.org | I-385 S @ MM 32.5": {
+        "location": "South Carolina",
+        "latitude": 34.783321,
+        "longitude": -82.280799,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30107/playlist.m3u8"
+      },
+      "511sc.org | I-385 N @ Exit 31": {
+        "location": "Exit, South Carolina",
+        "latitude": 34.769717,
+        "longitude": -82.273296,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30110/playlist.m3u8"
+      },
+      "511sc.org | I-385 S @ MM 30.25 (Old Stage Rd)": {
+        "location": "Old Stage Rd, South Carolina",
+        "latitude": 34.754857,
+        "longitude": -82.286505,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30113/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 77": {
+        "location": "South Carolina",
+        "latitude": 34.913641,
+        "longitude": -80.982656,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/40002/playlist.m3u8"
+      },
+      "511sc.org | I-77 N @ MM 79": {
+        "location": "South Carolina",
+        "latitude": 34.940096,
+        "longitude": -80.97204,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/40005/playlist.m3u8"
+      },
+      "511sc.org | I-77 N @ MM 80.8": {
+        "location": "South Carolina",
+        "latitude": 34.965695,
+        "longitude": -80.98291,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/40008/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 82.8": {
+        "location": "South Carolina",
+        "latitude": 34.991844,
+        "longitude": -80.9809,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/40011/playlist.m3u8"
+      },
+      "511sc.org | I-77 N @ MM 84.1": {
+        "location": "South Carolina",
+        "latitude": 35.009585,
+        "longitude": -80.970517,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/40014/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 87.8 (Gold Hill Rd Overpass)": {
+        "location": "Gold Hill Rd Overpass, South Carolina",
+        "latitude": 35.060832,
+        "longitude": -80.956616,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/40020/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 90": {
+        "location": "South Carolina",
+        "latitude": 35.083375,
+        "longitude": -80.940101,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/40023/playlist.m3u8"
+      },
+      "511sc.org | I-77 N @ MM 78.6 (Dave Lyle Blvd Exit Ramp)": {
+        "location": "Dave Lyle Blvd Exit Ramp, South Carolina",
+        "latitude": 34.935109,
+        "longitude": -80.970972,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/40028/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 81.8": {
+        "location": "South Carolina",
+        "latitude": 34.978334,
+        "longitude": -80.98873,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/40032/playlist.m3u8"
+      },
+      "511sc.org | US 21 N @ Catawba River": {
+        "location": "Catawba River, South Carolina",
+        "latitude": 34.98416,
+        "longitude": -80.975066,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/40301/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 199.5": {
+        "location": "South Carolina",
+        "latitude": 33.02969,
+        "longitude": -80.139573,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60004/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 201.5 (WB Rest Area)": {
+        "location": "Rest Area, South Carolina",
+        "latitude": 33.012297,
+        "longitude": -80.113266,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60007/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 203.5 (EB Rest Area)": {
+        "location": "Rest Area, South Carolina",
+        "latitude": 32.992301,
+        "longitude": -80.086876,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60010/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 207.5": {
+        "location": "South Carolina",
+        "latitude": 32.948926,
+        "longitude": -80.058328,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60017/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 209.4": {
+        "location": "South Carolina",
+        "latitude": 32.923764,
+        "longitude": -80.039781,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60020/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 212.5 (I-526)": {
+        "location": "South Carolina",
+        "latitude": 32.885308,
+        "longitude": -80.018858,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60023/playlist.m3u8"
+      },
+      "511sc.org | I-526 E @ MM 20.5 (Don Holt )": {
+        "location": "Don Holt, South Carolina",
+        "latitude": 32.891487,
+        "longitude": -79.966556,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60026/playlist.m3u8"
+      },
+      "511sc.org | I-526 W @ MM 21.5 (Don Holt (Down))": {
+        "location": "Don Holt, South Carolina",
+        "latitude": 32.890643,
+        "longitude": -79.958601,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60029/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 214.5 (Bennett Yard Overpass)": {
+        "location": "Bennett Yard Overpass, South Carolina",
+        "latitude": 32.861708,
+        "longitude": -79.994572,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60032/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 213 (Montague Ave)": {
+        "location": "Montague Ave, South Carolina",
+        "latitude": 32.87193,
+        "longitude": -80.011807,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60038/playlist.m3u8"
+      },
+      "511sc.org | I-526 E @ MM 11.5 (Hwy 61)": {
+        "location": "Hwy, South Carolina",
+        "latitude": 32.819776,
+        "longitude": -80.030567,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60041/playlist.m3u8"
+      },
+      "511sc.org | I-526 E @ MM 19": {
+        "location": "South Carolina",
+        "latitude": 32.89313,
+        "longitude": -80.001281,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60044/playlist.m3u8"
+      },
+      "511sc.org | I-526 W @ MM 23.5 (Daniel Island)": {
+        "location": "Daniel Island, South Carolina",
+        "latitude": 32.871747,
+        "longitude": -79.918014,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60047/playlist.m3u8"
+      },
+      "511sc.org | I-526 E @ MM 30 (US 17)": {
+        "location": "South Carolina",
+        "latitude": 32.813598,
+        "longitude": -79.849848,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60050/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 215.5": {
+        "location": "South Carolina",
+        "latitude": 32.846935,
+        "longitude": -79.986931,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60058/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @  MM 219.7 (Romney St)": {
+        "location": "Romney St, South Carolina",
+        "latitude": 32.809111,
+        "longitude": -79.949352,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60061/playlist.m3u8"
+      },
+      "511sc.org | US 17 N Ravenel Bridge @ MM 31.9 (Morrison Dr)": {
+        "location": "Ravenel Bridge, South Carolina",
+        "latitude": 32.803862,
+        "longitude": -79.942174,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60064/playlist.m3u8"
+      },
+      "511sc.org | US 17 S Ravenel Bridge @ MM 33.2": {
+        "location": "Ravenel Bridge, South Carolina",
+        "latitude": 32.803687,
+        "longitude": -79.919735,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60067/playlist.m3u8"
+      },
+      "511sc.org | US 17 S @ Magrath Darby Blvd": {
+        "location": "Magrath Darby Blvd, South Carolina",
+        "latitude": 32.802761,
+        "longitude": -79.895369,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60070/playlist.m3u8"
+      },
+      "511sc.org | US 17 S Ravenel Bridge @ Mt. Pleasant Tower - Lower": {
+        "location": "Ravenel Bridge, South Carolina",
+        "latitude": 32.802733,
+        "longitude": -79.912708,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60075/playlist.m3u8"
+      },
+      "511sc.org | US 17 N Ravenel Bridge @ Charleston Tower - Upper": {
+        "location": "Ravenel Bridge, South Carolina",
+        "latitude": 32.803378,
+        "longitude": -79.917675,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60078/playlist.m3u8"
+      },
+      "511sc.org | SC 517 IOP Connector @ SC 703": {
+        "location": "Connector, South Carolina",
+        "latitude": 32.788409,
+        "longitude": -79.787846,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/61000/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 159": {
+        "location": "South Carolina",
+        "latitude": 33.414153,
+        "longitude": -80.667411,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10108/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 162": {
+        "location": "South Carolina",
+        "latitude": 33.389325,
+        "longitude": -80.637047,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10107/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 163": {
+        "location": "South Carolina",
+        "latitude": 33.3776111,
+        "longitude": -80.6187972,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10106/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 165": {
+        "location": "South Carolina",
+        "latitude": 33.359408,
+        "longitude": -80.592447,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10105/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 172": {
+        "location": "South Carolina",
+        "latitude": 33.2870611,
+        "longitude": -80.5131444,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10102/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 174": {
+        "location": "South Carolina",
+        "latitude": 33.266967,
+        "longitude": -80.483253,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10101/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 169": {
+        "location": "South Carolina",
+        "latitude": 33.318712,
+        "longitude": -80.547404,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10104/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 86": {
+        "location": "South Carolina",
+        "latitude": 33.318689,
+        "longitude": -80.547439,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10103/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 82": {
+        "location": "South Carolina",
+        "latitude": 33.271319,
+        "longitude": -80.568872,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10099/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 79": {
+        "location": "South Carolina",
+        "latitude": 33.227294,
+        "longitude": -80.59155,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10100/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 90": {
+        "location": "South Carolina",
+        "latitude": 33.382183,
+        "longitude": -80.519261,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10098/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 91.5": {
+        "location": "South Carolina",
+        "latitude": 33.3973889,
+        "longitude": -80.5132556,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10097/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 93.2": {
+        "location": "South Carolina",
+        "latitude": 33.4174972,
+        "longitude": -80.4941472,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10096/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 4": {
+        "location": "South Carolina",
+        "latitude": 32.255909,
+        "longitude": -81.100099,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60051/playlist.m3u8"
+      },
+      "511sc.org | I-526 W @ MM 16.4 (International Blvd)": {
+        "location": "International Blvd, South Carolina",
+        "latitude": 32.876108,
+        "longitude": -80.026632,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60054/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 76.5": {
+        "location": "South Carolina",
+        "latitude": 34.069887,
+        "longitude": -80.913997,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10081/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 77": {
+        "location": "South Carolina",
+        "latitude": 34.07577,
+        "longitude": -80.901852,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10082/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 83.3": {
+        "location": "South Carolina",
+        "latitude": 34.11368333,
+        "longitude": -80.8053528,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10093/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 116.5": {
+        "location": "South Carolina",
+        "latitude": 33.91772222,
+        "longitude": -81.0638556,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10123/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 117.5": {
+        "location": "South Carolina",
+        "latitude": 33.90633056,
+        "longitude": -81.0518556,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10124/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 118.5": {
+        "location": "South Carolina",
+        "latitude": 33.889697,
+        "longitude": -81.040067,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10125/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 120.3": {
+        "location": "South Carolina",
+        "latitude": 33.871528,
+        "longitude": -81.035361,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10126/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 58.5": {
+        "location": "South Carolina",
+        "latitude": 33.98896389,
+        "longitude": -81.1897583,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10154/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ Exit 58 (US 1)": {
+        "location": "Exit, South Carolina",
+        "latitude": 33.978382,
+        "longitude": -81.194585,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10155/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 57": {
+        "location": "South Carolina",
+        "latitude": 33.96997222,
+        "longitude": -81.1987583,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10156/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 56.4": {
+        "location": "South Carolina",
+        "latitude": 33.966341,
+        "longitude": -81.207102,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10157/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 54": {
+        "location": "South Carolina",
+        "latitude": 33.95326,
+        "longitude": -81.241453,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10160/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 22.5": {
+        "location": "South Carolina",
+        "latitude": 34.14698889,
+        "longitude": -80.9654139,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10171/playlist.m3u8"
+      },
+      "511sc.org | I-77 N @ MM 23.5": {
+        "location": "South Carolina",
+        "latitude": 34.16498333,
+        "longitude": -80.9655639,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10172/playlist.m3u8"
+      },
+      "511sc.org | I-77 N @ MM 24 (Wilson Blvd)": {
+        "location": "Wilson Blvd, South Carolina",
+        "latitude": 34.171361,
+        "longitude": -80.971133,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10173/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 25": {
+        "location": "South Carolina",
+        "latitude": 34.179975,
+        "longitude": -80.9794361,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10174/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 26": {
+        "location": "South Carolina",
+        "latitude": 34.199075,
+        "longitude": -80.9862083,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10175/playlist.m3u8"
+      },
+      "511sc.org | I-77 N @ MM 27 (Blythewood Rd)": {
+        "location": "Blythewood Rd, South Carolina",
+        "latitude": 34.214006,
+        "longitude": -80.982986,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10176/playlist.m3u8"
+      },
+      "511sc.org | I-526 E @ MM 10.5": {
+        "location": "South Carolina",
+        "latitude": 32.876111,
+        "longitude": -80.026639,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60053/playlist.m3u8"
+      },
+      "511sc.org | I-526 W @ MM 13.5": {
+        "location": "South Carolina",
+        "latitude": 32.83745,
+        "longitude": -80.022575,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60055/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 55": {
+        "location": "South Carolina",
+        "latitude": 33.9586,
+        "longitude": -81.231419,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10159/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ Exit 187": {
+        "location": "Exit, South Carolina",
+        "latitude": 33.13738,
+        "longitude": -80.310224,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60108/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 154 (US 301)": {
+        "location": "South Carolina",
+        "latitude": 33.458306,
+        "longitude": -80.729811,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10177/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 97 (US 301)": {
+        "location": "South Carolina",
+        "latitude": 33.462278,
+        "longitude": -80.478606,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10181/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 94.5": {
+        "location": "South Carolina",
+        "latitude": 33.430142,
+        "longitude": -80.488117,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10178/playlist.m3u8"
+      },
+      "511sc.org | SC 22 E @ MM 24": {
+        "location": "South Carolina",
+        "latitude": 33.845607,
+        "longitude": -78.81849,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50036/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 72.7": {
+        "location": "South Carolina",
+        "latitude": 33.142011,
+        "longitude": -80.627656,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10195/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 62.5": {
+        "location": "South Carolina",
+        "latitude": 33.002575,
+        "longitude": -80.668839,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10209/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 57.5": {
+        "location": "South Carolina",
+        "latitude": 32.930489,
+        "longitude": -80.689711,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10212/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 56.5": {
+        "location": "South Carolina",
+        "latitude": 32.919183,
+        "longitude": -80.697342,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10213/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 55.8": {
+        "location": "South Carolina",
+        "latitude": 32.910192,
+        "longitude": -80.699656,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10215/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 54.1": {
+        "location": "South Carolina",
+        "latitude": 32.887681,
+        "longitude": -80.714034,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10218/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 53.5": {
+        "location": "South Carolina",
+        "latitude": 32.879494,
+        "longitude": -80.715917,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10221/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 197 (Nexton Pkwy)": {
+        "location": "Nexton Pkwy, South Carolina",
+        "latitude": 33.054231,
+        "longitude": -80.164717,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60098/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 198.1": {
+        "location": "South Carolina",
+        "latitude": 33.049653,
+        "longitude": -80.160727,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60001/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 66.5": {
+        "location": "South Carolina",
+        "latitude": 33.060558,
+        "longitude": -80.664144,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10203/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 66.5": {
+        "location": "South Carolina",
+        "latitude": 33.060361,
+        "longitude": -80.663247,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10204/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 99.7": {
+        "location": "South Carolina",
+        "latitude": 34.213244,
+        "longitude": -80.558283,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10301/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 145 (US 601)": {
+        "location": "South Carolina",
+        "latitude": 33.562658,
+        "longitude": -80.827531,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10237/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 145.5": {
+        "location": "South Carolina",
+        "latitude": 33.557428,
+        "longitude": -80.823406,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10238/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 146.3": {
+        "location": "South Carolina",
+        "latitude": 33.548417,
+        "longitude": -80.81493,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10239/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 7": {
+        "location": "South Carolina",
+        "latitude": 33.95301,
+        "longitude": -80.964955,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10004/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 102 (US 301)": {
+        "location": "South Carolina",
+        "latitude": 33.524533,
+        "longitude": -80.428281,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10240/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 105.5": {
+        "location": "South Carolina",
+        "latitude": 33.566555,
+        "longitude": -80.389196,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10242/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 106.3": {
+        "location": "South Carolina",
+        "latitude": 33.573302,
+        "longitude": -80.379742,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10243/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 107": {
+        "location": "South Carolina",
+        "latitude": 33.580397,
+        "longitude": -80.369504,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10244/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 108 (S-102)": {
+        "location": "South Carolina",
+        "latitude": 33.589014,
+        "longitude": -80.356665,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10245/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 108.5": {
+        "location": "South Carolina",
+        "latitude": 33.592564,
+        "longitude": -80.346927,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10246/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 109.6": {
+        "location": "South Carolina",
+        "latitude": 33.598419,
+        "longitude": -80.331014,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10247/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 110.6": {
+        "location": "South Carolina",
+        "latitude": 33.608637,
+        "longitude": -80.318028,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10248/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 49.3": {
+        "location": "South Carolina",
+        "latitude": 34.819658,
+        "longitude": -82.318685,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30039/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ Exit 51 (Woodruff Rd.)": {
+        "location": "Exit, South Carolina",
+        "latitude": 34.828779,
+        "longitude": -82.302852,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30041/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 50.9": {
+        "location": "South Carolina",
+        "latitude": 34.832919,
+        "longitude": -82.296467,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30043/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 122.7": {
+        "location": "South Carolina",
+        "latitude": 33.745629,
+        "longitude": -80.197139,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10262/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 123.4": {
+        "location": "South Carolina",
+        "latitude": 33.75094,
+        "longitude": -80.186931,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10263/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 126.5": {
+        "location": "South Carolina",
+        "latitude": 33.792183,
+        "longitude": -80.166079,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10264/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 126.9": {
+        "location": "South Carolina",
+        "latitude": 33.79695,
+        "longitude": -80.162786,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10265/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 127.7": {
+        "location": "South Carolina",
+        "latitude": 33.808234,
+        "longitude": -80.157262,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10266/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 128.7": {
+        "location": "South Carolina",
+        "latitude": 33.817266,
+        "longitude": -80.145432,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10267/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 50": {
+        "location": "South Carolina",
+        "latitude": 34.824651,
+        "longitude": -82.310283,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30040/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 50.8": {
+        "location": "South Carolina",
+        "latitude": 34.831947,
+        "longitude": -82.29807,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30042/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 133.8": {
+        "location": "South Carolina",
+        "latitude": 33.881027,
+        "longitude": -80.101196,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10271/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 135 (US 378)": {
+        "location": "South Carolina",
+        "latitude": 33.901517,
+        "longitude": -80.093302,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10273/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 139.1 (Rest Area)": {
+        "location": "Rest Area, South Carolina",
+        "latitude": 33.948071,
+        "longitude": -80.056993,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10275/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 141 (SC 53)": {
+        "location": "South Carolina",
+        "latitude": 33.968908,
+        "longitude": -80.04166,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10277/playlist.m3u8"
+      },
+      "511sc.org | I-385 S @ MM 35.5 (Woodruff Rd)": {
+        "location": "Woodruff Rd, South Carolina",
+        "latitude": 34.823905,
+        "longitude": -82.292406,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30102/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 196.5": {
+        "location": "South Carolina",
+        "latitude": 33.062744,
+        "longitude": -80.177614,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60099/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 195.4": {
+        "location": "South Carolina",
+        "latitude": 33.072592,
+        "longitude": -80.192572,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60100/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 194.17": {
+        "location": "South Carolina",
+        "latitude": 33.082383,
+        "longitude": -80.207458,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60101/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 193.5": {
+        "location": "South Carolina",
+        "latitude": 33.087614,
+        "longitude": -80.217781,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60102/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 144": {
+        "location": "South Carolina",
+        "latitude": 34.003403,
+        "longitude": -80.004439,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10280/playlist.m3u8"
+      },
+      "511sc.org | SB 5.8 I-77 S @ MM 5.8": {
+        "location": "South Carolina",
+        "latitude": 33.951347,
+        "longitude": -80.982847,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10003/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 4.9": {
+        "location": "South Carolina",
+        "latitude": 33.948503,
+        "longitude": -80.997286,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10002/playlist.m3u8"
+      },
+      "511sc.org | SC 703 Ben Sawyer Blvd NB @ North Point Ln": {
+        "location": "Ben Sawyer Blvd, South Carolina",
+        "latitude": 32.791145,
+        "longitude": -79.853012,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60119/playlist.m3u8"
+      },
+      "511sc.org | SC 703 Ben Sawyer Blvd NB @ Station 22 1/2": {
+        "location": "Ben Sawyer Blvd, South Carolina",
+        "latitude": 32.766089,
+        "longitude": -79.838114,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60121/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 187.8": {
+        "location": "South Carolina",
+        "latitude": 33.132389,
+        "longitude": -80.300478,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60500/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 189.5 (Volvo Flyover)": {
+        "location": "Volvo Flyover, South Carolina",
+        "latitude": 33.121164,
+        "longitude": -80.277448,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60501/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 192.6": {
+        "location": "South Carolina",
+        "latitude": 33.093541,
+        "longitude": -80.230899,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60502/playlist.m3u8"
+      },
+      "511sc.org | Isle of Palms Connector @ Rifle Range Rd.": {
+        "location": "Isle, South Carolina",
+        "latitude": 32.825886,
+        "longitude": -79.818076,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60122/playlist.m3u8"
+      },
+      "511sc.org | US 21 Bus @ Woods Memorial Bridge": {
+        "location": "Bus, South Carolina",
+        "latitude": 32.430097,
+        "longitude": -80.669933,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60124/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 90.3": {
+        "location": "South Carolina",
+        "latitude": 34.1843,
+        "longitude": -81.334622,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10057/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 87.6": {
+        "location": "South Carolina",
+        "latitude": 34.20596,
+        "longitude": -81.373711,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10056/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 100": {
+        "location": "South Carolina",
+        "latitude": 34.113848,
+        "longitude": -81.190585,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10044/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 93": {
+        "location": "South Carolina",
+        "latitude": 34.1665,
+        "longitude": -81.292167,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10053/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 98.5": {
+        "location": "South Carolina",
+        "latitude": 34.130514,
+        "longitude": -81.207066,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10046/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 95.3": {
+        "location": "South Carolina",
+        "latitude": 34.153297,
+        "longitude": -81.255736,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10050/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 97.8": {
+        "location": "South Carolina",
+        "latitude": 34.13711,
+        "longitude": -81.217537,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10047/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 86.8": {
+        "location": "South Carolina",
+        "latitude": 34.211795,
+        "longitude": -81.387364,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10284/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 86": {
+        "location": "South Carolina",
+        "latitude": 34.215942,
+        "longitude": -81.399208,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10285/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 85.2": {
+        "location": "South Carolina",
+        "latitude": 34.220564,
+        "longitude": -81.411953,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10286/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 15.5": {
+        "location": "South Carolina",
+        "latitude": 35.00075,
+        "longitude": -82.021056,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/30310/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 196.9": {
+        "location": "South Carolina",
+        "latitude": 33.060026,
+        "longitude": -80.173471,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60097/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 85.4": {
+        "location": "South Carolina",
+        "latitude": 35.027444,
+        "longitude": -80.965889,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/40500/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 86.2": {
+        "location": "South Carolina",
+        "latitude": 35.039801,
+        "longitude": -80.960383,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/40502/playlist.m3u8"
+      },
+      "511sc.org | I-77 N @ MM 86.2": {
+        "location": "South Carolina",
+        "latitude": 35.039166,
+        "longitude": -80.95995,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/40501/playlist.m3u8"
+      },
+      "511sc.org | SC 31 @ MM 24.2 S (SC 544)": {
+        "location": "South Carolina",
+        "latitude": 33.701758,
+        "longitude": -79.015442,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50039/playlist.m3u8"
+      },
+      "511sc.org | SC 31 @ MM 1.8 (Robert Edge)": {
+        "location": "Robert Edge, South Carolina",
+        "latitude": 33.844975,
+        "longitude": -78.701364,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50041/playlist.m3u8"
+      },
+      "511sc.org | SC 31 N @ MM 13.9 (Robert Grissom)": {
+        "location": "Robert Grissom, South Carolina",
+        "latitude": 33.753786,
+        "longitude": -78.852642,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50040/playlist.m3u8"
+      },
+      "511sc.org | Dick Pond Rd @ Socastee Bridge": {
+        "location": "Dick Pond Rd, South Carolina",
+        "latitude": 33.686619,
+        "longitude": -79.003958,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50038/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 168": {
+        "location": "South Carolina",
+        "latitude": 33.325361,
+        "longitude": -80.554278,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10522/playlist.m3u8"
+      },
+      "511sc.org | I-20 @ Exit 98": {
+        "location": "Exit, South Carolina",
+        "latitude": 34.216886,
+        "longitude": -80.592128,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10300/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 106.9": {
+        "location": "South Carolina",
+        "latitude": 34.209761,
+        "longitude": -80.436361,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10307/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 108.1": {
+        "location": "South Carolina",
+        "latitude": 34.212969,
+        "longitude": -80.412394,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10309/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ Exit 116": {
+        "location": "Exit, South Carolina",
+        "latitude": 34.194603,
+        "longitude": -80.279528,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10315/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 117.8": {
+        "location": "South Carolina",
+        "latitude": 34.190317,
+        "longitude": -80.25025,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10316/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ Exit 120": {
+        "location": "Exit, South Carolina",
+        "latitude": 34.186853,
+        "longitude": -80.21135,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10317/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ Exit 123": {
+        "location": "Exit, South Carolina",
+        "latitude": 34.189625,
+        "longitude": -80.165828,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10318/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 124.2": {
+        "location": "South Carolina",
+        "latitude": 34.194503,
+        "longitude": -80.139406,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/10319/playlist.m3u8"
+      },
+      "511sc.org | Sea Mountain Hwy @ Little River Bridge": {
+        "location": "Sea Mountain Hwy, South Carolina",
+        "latitude": 33.852275,
+        "longitude": -78.656786,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/50042/playlist.m3u8"
+      },
+      "511sc.org | Hwy 171 S @ Wappoo Cut Bridge": {
+        "location": "Hwy, South Carolina",
+        "latitude": 32.767214,
+        "longitude": -79.974094,
+        "url": "https://s18.us-east-1.skyvdn.com:443/rtplive/60123/playlist.m3u8"
+      },
+      "511sc.org | I-126 E @ MM 3.4 Elmwood Ave": {
+        "location": "Elmwood Ave, South Carolina",
+        "latitude": 34.009967,
+        "longitude": -81.050091,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10005/playlist.m3u8"
+      },
+      "511sc.org | I-126 E @ MM 2 Greystone Blvd": {
+        "location": "Greystone Blvd, South Carolina",
+        "latitude": 34.012136,
+        "longitude": -81.074205,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10008/playlist.m3u8"
+      },
+      "511sc.org | I-126 W @ MM 0.5 (Charleston Flyover)": {
+        "location": "Charleston Flyover, South Carolina",
+        "latitude": 34.024906,
+        "longitude": -81.098244,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10011/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 110.1 (US 378)": {
+        "location": "South Carolina",
+        "latitude": 34.00339,
+        "longitude": -81.110316,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10015/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 115.7 (I-77 S Entrance Ramp)": {
+        "location": "Entrance Ramp, South Carolina",
+        "latitude": 33.925831,
+        "longitude": -81.069311,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10018/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 105.7": {
+        "location": "South Carolina",
+        "latitude": 34.050989,
+        "longitude": -81.124907,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10021/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 105.5": {
+        "location": "South Carolina",
+        "latitude": 34.053514,
+        "longitude": -81.127052,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10024/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 103.9": {
+        "location": "South Carolina",
+        "latitude": 34.072714,
+        "longitude": -81.147225,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10027/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 108.5": {
+        "location": "South Carolina",
+        "latitude": 34.019439,
+        "longitude": -81.105733,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10030/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 111 (US 1)": {
+        "location": "South Carolina",
+        "latitude": 33.980546,
+        "longitude": -81.107249,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10033/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 113 (SC 302)": {
+        "location": "South Carolina",
+        "latitude": 33.955652,
+        "longitude": -81.0933,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10036/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 115 (US 21)": {
+        "location": "South Carolina",
+        "latitude": 33.9328,
+        "longitude": -81.07724,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10039/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 101": {
+        "location": "South Carolina",
+        "latitude": 34.098738,
+        "longitude": -81.174135,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10042/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 65.8": {
+        "location": "South Carolina",
+        "latitude": 34.044577,
+        "longitude": -81.081881,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10062/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 67.3": {
+        "location": "South Carolina",
+        "latitude": 34.055285,
+        "longitude": -81.057164,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10065/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 70 (Fairfield Rd)": {
+        "location": "Fairfield Rd, South Carolina",
+        "latitude": 34.066314,
+        "longitude": -81.022196,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10068/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 71 (North Main St)": {
+        "location": "North Main St, South Carolina",
+        "latitude": 34.073469,
+        "longitude": -80.999329,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10071/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 73 (SC 277)": {
+        "location": "South Carolina",
+        "latitude": 34.073032,
+        "longitude": -80.971139,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10074/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 74.5": {
+        "location": "South Carolina",
+        "latitude": 34.073702,
+        "longitude": -80.942569,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10077/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 76 (I-77 S Exit)": {
+        "location": "Exit, South Carolina",
+        "latitude": 34.067219,
+        "longitude": -80.922581,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10080/playlist.m3u8"
+      },
+      "511sc.org | I-77 N @ MM 12.8": {
+        "location": "South Carolina",
+        "latitude": 34.028366,
+        "longitude": -80.941875,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10111/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 10.3 (Fort Jackson Blvd)": {
+        "location": "Fort Jackson Blvd, South Carolina",
+        "latitude": 33.994484,
+        "longitude": -80.958375,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10114/playlist.m3u8"
+      },
+      "511sc.org | I-77 N @ MM 7.5": {
+        "location": "South Carolina",
+        "latitude": 33.95553,
+        "longitude": -80.956747,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10117/playlist.m3u8"
+      },
+      "511sc.org | I-77 @ MM 4": {
+        "location": "South Carolina",
+        "latitude": 33.935096,
+        "longitude": -81.011492,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10120/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 54 (Pelham Rd)": {
+        "location": "Pelham Rd, South Carolina",
+        "latitude": 34.8589,
+        "longitude": -82.258833,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30001/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 55.5": {
+        "location": "South Carolina",
+        "latitude": 34.869616,
+        "longitude": -82.231415,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30004/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 57.5": {
+        "location": "South Carolina",
+        "latitude": 34.882317,
+        "longitude": -82.201653,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30007/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 59 (South of BMW)": {
+        "location": "South, South Carolina",
+        "latitude": 34.88846,
+        "longitude": -82.177758,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30010/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 60.2": {
+        "location": "South Carolina",
+        "latitude": 34.896433,
+        "longitude": -82.154414,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30013/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 61.5": {
+        "location": "South Carolina",
+        "latitude": 34.901338,
+        "longitude": -82.133185,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30016/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 63 (SC 290)": {
+        "location": "South Carolina",
+        "latitude": 34.913508,
+        "longitude": -82.10866,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30019/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 64.5": {
+        "location": "South Carolina",
+        "latitude": 34.927018,
+        "longitude": -82.088172,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30022/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 66 (US 29)": {
+        "location": "South Carolina",
+        "latitude": 34.942267,
+        "longitude": -82.073883,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30025/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 67.5": {
+        "location": "South Carolina",
+        "latitude": 34.957626,
+        "longitude": -82.060331,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30028/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 43": {
+        "location": "South Carolina",
+        "latitude": 34.791829,
+        "longitude": -82.430446,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30032/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 46 (Mauldin Rd)": {
+        "location": "Mauldin Rd, South Carolina",
+        "latitude": 34.800625,
+        "longitude": -82.369842,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30035/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 48 (Hwy. 276)": {
+        "location": "Hwy, South Carolina",
+        "latitude": 34.813328,
+        "longitude": -82.336931,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30038/playlist.m3u8"
+      },
+      "511sc.org | Bus. 85 S @ MM 1 (Blackstock Rd)": {
+        "location": "Bus, South Carolina",
+        "latitude": 34.964858,
+        "longitude": -82.021272,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30045/playlist.m3u8"
+      },
+      "511sc.org | Bus. 85 S @ MM 3.5 (New Cut Rd)": {
+        "location": "Bus, South Carolina",
+        "latitude": 34.975462,
+        "longitude": -81.984298,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30048/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 27 (Hwy 81)": {
+        "location": "Hwy, South Carolina",
+        "latitude": 34.633354,
+        "longitude": -82.597882,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30053/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 21 (Hwy. 178)": {
+        "location": "Hwy, South Carolina",
+        "latitude": 34.579141,
+        "longitude": -82.692151,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30056/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 41": {
+        "location": "South Carolina",
+        "latitude": 34.783662,
+        "longitude": -82.451718,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30061/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 70.9 (New Cut Rd)": {
+        "location": "New Cut Rd, South Carolina",
+        "latitude": 34.982199,
+        "longitude": -82.002441,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30070/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 72.5": {
+        "location": "South Carolina",
+        "latitude": 34.997674,
+        "longitude": -81.992544,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30073/playlist.m3u8"
+      },
+      "511sc.org | I-385 N @ MM 38.5": {
+        "location": "South Carolina",
+        "latitude": 34.849104,
+        "longitude": -82.325979,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30092/playlist.m3u8"
+      },
+      "511sc.org | I-385 S @ MM 40": {
+        "location": "South Carolina",
+        "latitude": 34.858122,
+        "longitude": -82.349123,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30095/playlist.m3u8"
+      },
+      "511sc.org | I-385 S @ MM 41.5": {
+        "location": "South Carolina",
+        "latitude": 34.852378,
+        "longitude": -82.374575,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30098/playlist.m3u8"
+      },
+      "511sc.org | I-385 N @ MM 33.5": {
+        "location": "South Carolina",
+        "latitude": 34.798212,
+        "longitude": -82.279852,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30105/playlist.m3u8"
+      },
+      "511sc.org | I-385 N @ MM 32": {
+        "location": "South Carolina",
+        "latitude": 34.779363,
+        "longitude": -82.276581,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30108/playlist.m3u8"
+      },
+      "511sc.org | I-385 N @ MM 31": {
+        "location": "South Carolina",
+        "latitude": 34.763943,
+        "longitude": -82.279359,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30111/playlist.m3u8"
+      },
+      "511sc.org | I-385 S @ MM 29.5": {
+        "location": "South Carolina",
+        "latitude": 34.748603,
+        "longitude": -82.282304,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30114/playlist.m3u8"
+      },
+      "511sc.org | I-77 N @ MM 77.7": {
+        "location": "South Carolina",
+        "latitude": 34.922827,
+        "longitude": -80.977158,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/40003/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 79.7": {
+        "location": "South Carolina",
+        "latitude": 34.950181,
+        "longitude": -80.976984,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/40006/playlist.m3u8"
+      },
+      "511sc.org | I-77 N @ MM 81.4 (Cherry Rd)": {
+        "location": "Cherry Rd, South Carolina",
+        "latitude": 34.973151,
+        "longitude": -80.986104,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/40009/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 83.3": {
+        "location": "South Carolina",
+        "latitude": 34.998471,
+        "longitude": -80.976387,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/40012/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 84.8 (Entrance to Weigh Station)": {
+        "location": "Entrance, South Carolina",
+        "latitude": 35.018691,
+        "longitude": -80.969264,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/40015/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 86.6": {
+        "location": "South Carolina",
+        "latitude": 35.043224,
+        "longitude": -80.960048,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/40018/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 88.6": {
+        "location": "South Carolina",
+        "latitude": 35.070277,
+        "longitude": -80.949925,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/40021/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 90.8 (State Line)": {
+        "location": "State Line, South Carolina",
+        "latitude": 35.099605,
+        "longitude": -80.932222,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/40025/playlist.m3u8"
+      },
+      "511sc.org | I-77 N @ MM 90.5": {
+        "location": "South Carolina",
+        "latitude": 35.092928,
+        "longitude": -80.932702,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/40030/playlist.m3u8"
+      },
+      "511sc.org | US 17 BYP S @ SC 707 (Backgate)": {
+        "location": "Backgate, South Carolina",
+        "latitude": 33.684439,
+        "longitude": -78.960341,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50009/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 198.5": {
+        "location": "South Carolina",
+        "latitude": 33.040807,
+        "longitude": -80.151786,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60002/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 200.5": {
+        "location": "South Carolina",
+        "latitude": 33.022253,
+        "longitude": -80.129613,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60005/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 202": {
+        "location": "South Carolina",
+        "latitude": 33.005382,
+        "longitude": -80.102127,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60008/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 204": {
+        "location": "South Carolina",
+        "latitude": 32.98883,
+        "longitude": -80.083189,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60012/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 208 (US 52 Connector)": {
+        "location": "Connector, South Carolina",
+        "latitude": 32.941417,
+        "longitude": -80.050963,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60018/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 209.6 (Midland Park)": {
+        "location": "Midland Park, South Carolina",
+        "latitude": 32.921678,
+        "longitude": -80.037771,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60021/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 210 (Eagle Drive)": {
+        "location": "Eagle Drive, South Carolina",
+        "latitude": 32.91507,
+        "longitude": -80.030331,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60024/playlist.m3u8"
+      },
+      "511sc.org | I-526 W @ MM 23 (Clements Ferry Road)": {
+        "location": "Clements Ferry Road, South Carolina",
+        "latitude": 32.883929,
+        "longitude": -79.937768,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60030/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 215 (Dorchester Rd)": {
+        "location": "Dorchester Rd, South Carolina",
+        "latitude": 32.853447,
+        "longitude": -79.987906,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60033/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 211": {
+        "location": "South Carolina",
+        "latitude": 32.903331,
+        "longitude": -80.024211,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60036/playlist.m3u8"
+      },
+      "511sc.org | I-526 E @ MM 10 (US 17)": {
+        "location": "South Carolina",
+        "latitude": 32.789618,
+        "longitude": -80.031995,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60039/playlist.m3u8"
+      },
+      "511sc.org | I-526 E @ MM 16 (International Blvd)": {
+        "location": "International Blvd, South Carolina",
+        "latitude": 32.868382,
+        "longitude": -80.027066,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60042/playlist.m3u8"
+      },
+      "511sc.org | I-526 E @ MM 14 (Leeds Ave)": {
+        "location": "Leeds Ave, South Carolina",
+        "latitude": 32.841667,
+        "longitude": -80.01831,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60045/playlist.m3u8"
+      },
+      "511sc.org | I-526 E @ MM 27 (Wando Bridge)": {
+        "location": "Wando Bridge, South Carolina",
+        "latitude": 32.851631,
+        "longitude": -79.883791,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60048/playlist.m3u8"
+      },
+      "511sc.org | I-526 E @ MM 15 (Dorchester Rd)": {
+        "location": "Dorchester Rd, South Carolina",
+        "latitude": 32.854236,
+        "longitude": -80.020803,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60052/playlist.m3u8"
+      },
+      "511sc.org | I-26 E. @ MM 220 (Ravenel Bridge Entrance)": {
+        "location": "Ravenel Bridge Entrance, South Carolina",
+        "latitude": 32.803791,
+        "longitude": -79.947861,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60062/playlist.m3u8"
+      },
+      "511sc.org | US 17 S Ravenel Bridge @ MM 33.7": {
+        "location": "Ravenel Bridge, South Carolina",
+        "latitude": 32.802472,
+        "longitude": -79.910297,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60068/playlist.m3u8"
+      },
+      "511sc.org | SC 703 W Coleman Blvd @ Patriots Point Rd": {
+        "location": "Coleman Blvd, South Carolina",
+        "latitude": 32.797805,
+        "longitude": -79.897047,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60071/playlist.m3u8"
+      },
+      "511sc.org | I-26 @ US 78 (Exit 205)": {
+        "location": "Exit, South Carolina",
+        "latitude": 32.979389,
+        "longitude": -80.076778,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60095/playlist.m3u8"
+      },
+      "511sc.org | US 17 N Ravenel Bridge @ Mt. Pleasant Tower - Upper": {
+        "location": "Ravenel Bridge, South Carolina",
+        "latitude": 32.802725,
+        "longitude": -79.912614,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60076/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 77.5": {
+        "location": "South Carolina",
+        "latitude": 34.079492,
+        "longitude": -80.893044,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10083/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 78.2 (Smallwood Rd)": {
+        "location": "Smallwood Rd, South Carolina",
+        "latitude": 34.083686,
+        "longitude": -80.882425,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10084/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 78.5": {
+        "location": "South Carolina",
+        "latitude": 34.085795,
+        "longitude": -80.877294,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10085/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 79.5": {
+        "location": "South Carolina",
+        "latitude": 34.092222,
+        "longitude": -80.861661,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10087/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 120.7": {
+        "location": "South Carolina",
+        "latitude": 33.86370833,
+        "longitude": -81.0319972,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10127/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 121.5": {
+        "location": "South Carolina",
+        "latitude": 33.84924722,
+        "longitude": -81.0267306,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10128/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 123 (Rest Area)": {
+        "location": "Rest Area, South Carolina",
+        "latitude": 33.83866667,
+        "longitude": -81.0230611,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10129/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 123.5": {
+        "location": "South Carolina",
+        "latitude": 33.82778333,
+        "longitude": -81.01905,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10130/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 125": {
+        "location": "South Carolina",
+        "latitude": 33.81088333,
+        "longitude": -81.0074611,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10131/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 139": {
+        "location": "South Carolina",
+        "latitude": 33.634533,
+        "longitude": -80.875475,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10144/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 149": {
+        "location": "South Carolina",
+        "latitude": 33.520014,
+        "longitude": -80.790939,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10145/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 62.5": {
+        "location": "South Carolina",
+        "latitude": 34.02381389,
+        "longitude": -81.1303028,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10146/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 53": {
+        "location": "South Carolina",
+        "latitude": 33.942568,
+        "longitude": -81.26229,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10161/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 52.5": {
+        "location": "South Carolina",
+        "latitude": 33.93861944,
+        "longitude": -81.2695417,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10162/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 51": {
+        "location": "South Carolina",
+        "latitude": 33.9272,
+        "longitude": -81.2899528,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10163/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 16.5": {
+        "location": "South Carolina",
+        "latitude": 34.071375,
+        "longitude": -80.9258111,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10164/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 16.9": {
+        "location": "South Carolina",
+        "latitude": 34.0772,
+        "longitude": -80.934533,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10165/playlist.m3u8"
+      },
+      "511sc.org | US 17 N @ Bayshore Dr": {
+        "location": "Bayshore Dr, South Carolina",
+        "latitude": 33.872253,
+        "longitude": -78.623347,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50037/playlist.m3u8"
+      },
+      "511sc.org | US 17 N @ Bellamy Ave": {
+        "location": "Bellamy Ave, South Carolina",
+        "latitude": 33.555839,
+        "longitude": -79.043875,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50035/playlist.m3u8"
+      },
+      "511sc.org | SC 544 @ Dick Pond Rd": {
+        "location": "Dick Pond Rd, South Carolina",
+        "latitude": 33.673739,
+        "longitude": -79.000061,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50029/playlist.m3u8"
+      },
+      "511sc.org | SC 544 @ Windsor Bay Rd": {
+        "location": "Windsor Bay Rd, South Carolina",
+        "latitude": 33.656914,
+        "longitude": -78.992436,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50030/playlist.m3u8"
+      },
+      "511sc.org | US 17 BYP N @ Palmetto Point": {
+        "location": "Palmetto Point, South Carolina",
+        "latitude": 33.674303,
+        "longitude": -78.966417,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50031/playlist.m3u8"
+      },
+      "511sc.org | US 17 BYP N @ 38th Ave N": {
+        "location": "Ave, South Carolina",
+        "latitude": 33.728357,
+        "longitude": -78.86942,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50032/playlist.m3u8"
+      },
+      "511sc.org | US 17 BYP @ Harrelson Blvd": {
+        "location": "Harrelson Blvd, South Carolina",
+        "latitude": 33.703525,
+        "longitude": -78.931478,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50033/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 181.5": {
+        "location": "South Carolina",
+        "latitude": 33.188565,
+        "longitude": -80.387703,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60109/playlist.m3u8"
+      },
+      "511sc.org | I-95 @ Exit 102": {
+        "location": "Exit, South Carolina",
+        "latitude": 33.518608,
+        "longitude": -80.435193,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10186/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 77.2": {
+        "location": "South Carolina",
+        "latitude": 33.204761,
+        "longitude": -80.601518,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10188/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 74.5": {
+        "location": "South Carolina",
+        "latitude": 33.167967,
+        "longitude": -80.618602,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10191/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 74": {
+        "location": "South Carolina",
+        "latitude": 33.160341,
+        "longitude": -80.620336,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10193/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 70.5": {
+        "location": "South Carolina",
+        "latitude": 33.117413,
+        "longitude": -80.642614,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10197/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 68.5": {
+        "location": "South Carolina",
+        "latitude": 33.084942,
+        "longitude": -80.652933,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10199/playlist.m3u8"
+      },
+      "511sc.org | I-20 @ MM 102.2": {
+        "location": "South Carolina",
+        "latitude": 34.215625,
+        "longitude": -80.517906,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10303/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 105.3": {
+        "location": "South Carolina",
+        "latitude": 34.208428,
+        "longitude": -80.463847,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10305/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 72.6": {
+        "location": "South Carolina",
+        "latitude": 33.142306,
+        "longitude": -80.628517,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10194/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 62.5": {
+        "location": "South Carolina",
+        "latitude": 33.002717,
+        "longitude": -80.669867,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10208/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 58.3": {
+        "location": "South Carolina",
+        "latitude": 32.942292,
+        "longitude": -80.685178,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10211/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 55.9": {
+        "location": "South Carolina",
+        "latitude": 32.9106,
+        "longitude": -80.700425,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10214/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 55": {
+        "location": "South Carolina",
+        "latitude": 32.899236,
+        "longitude": -80.706492,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10217/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 53.4": {
+        "location": "South Carolina",
+        "latitude": 32.879267,
+        "longitude": -80.716986,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10220/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 177 (SC 453)": {
+        "location": "South Carolina",
+        "latitude": 33.188572,
+        "longitude": -80.387725,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60113/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 52.5": {
+        "location": "South Carolina",
+        "latitude": 32.86773,
+        "longitude": -80.7225,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10222/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 50.5": {
+        "location": "South Carolina",
+        "latitude": 32.83944,
+        "longitude": -80.74083,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10223/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 48.2": {
+        "location": "South Carolina",
+        "latitude": 32.8125,
+        "longitude": -80.764167,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10224/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 47 (SB Rest Area)": {
+        "location": "Rest Area, South Carolina",
+        "latitude": 32.799963,
+        "longitude": -80.772229,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10225/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 41.8": {
+        "location": "South Carolina",
+        "latitude": 32.745277,
+        "longitude": -80.83388,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10226/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 41.7": {
+        "location": "South Carolina",
+        "latitude": 32.74444,
+        "longitude": -80.83611,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10227/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 84.8": {
+        "location": "South Carolina",
+        "latitude": 33.306144,
+        "longitude": -80.554896,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/80001/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 37.5": {
+        "location": "South Carolina",
+        "latitude": 32.6964,
+        "longitude": -80.877436,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10230/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 36.7": {
+        "location": "South Carolina",
+        "latitude": 32.685406,
+        "longitude": -80.881475,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10231/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 34.5": {
+        "location": "South Carolina",
+        "latitude": 32.653094,
+        "longitude": -80.886325,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10233/playlist.m3u8"
+      },
+      "511sc.org | I-95 @ MM 33.7": {
+        "location": "South Carolina",
+        "latitude": 32.643567,
+        "longitude": -80.884681,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10234/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 33.2": {
+        "location": "South Carolina",
+        "latitude": 32.6351,
+        "longitude": -80.881017,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10235/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 33 (Hwy 17)": {
+        "location": "Hwy, South Carolina",
+        "latitude": 32.630097,
+        "longitude": -80.881872,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10236/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 36.2": {
+        "location": "South Carolina",
+        "latitude": 32.675625,
+        "longitude": -80.88305,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10232/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 197.2": {
+        "location": "South Carolina",
+        "latitude": 33.05712,
+        "longitude": -80.16918,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/61068/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 102.5": {
+        "location": "South Carolina",
+        "latitude": 33.533433,
+        "longitude": -80.420969,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10241/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 118.8 (SC 261)": {
+        "location": "South Carolina",
+        "latitude": 33.704972,
+        "longitude": -80.245075,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10258/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ I-77 N": {
+        "location": "South Carolina",
+        "latitude": 33.923181,
+        "longitude": -81.067043,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/12018/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 52.7": {
+        "location": "South Carolina",
+        "latitude": 34.852549,
+        "longitude": -82.276663,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30082/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 52.4": {
+        "location": "South Carolina",
+        "latitude": 34.849153,
+        "longitude": -82.279525,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30083/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 52": {
+        "location": "South Carolina",
+        "latitude": 34.842442,
+        "longitude": -82.282566,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30084/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 51.5": {
+        "location": "South Carolina",
+        "latitude": 34.837174,
+        "longitude": -82.289597,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30085/playlist.m3u8"
+      },
+      "511sc.org | I-385 S @ MM 35": {
+        "location": "South Carolina",
+        "latitude": 34.815422,
+        "longitude": -82.290074,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30103/playlist.m3u8"
+      },
+      "511sc.org | I-385 N @ MM 36.2 (Off-Ramp to I-85 N)": {
+        "location": "Off, South Carolina",
+        "latitude": 34.833122,
+        "longitude": -82.294627,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30101/playlist.m3u8"
+      },
+      "511sc.org | I-385 S @ MM 36.8": {
+        "location": "South Carolina",
+        "latitude": 34.835426,
+        "longitude": -82.306204,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30089/playlist.m3u8"
+      },
+      "511sc.org | I-385 N @ MM 36.5 (On-Ramp from I-85 N)": {
+        "location": "On, South Carolina",
+        "latitude": 34.834857,
+        "longitude": -82.301359,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30088/playlist.m3u8"
+      },
+      "511sc.org | I-385 N @ MM 36.5": {
+        "location": "South Carolina",
+        "latitude": 34.833509,
+        "longitude": -82.297448,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30087/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 51.2": {
+        "location": "South Carolina",
+        "latitude": 34.834762,
+        "longitude": -82.294945,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30086/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 147.5": {
+        "location": "South Carolina",
+        "latitude": 34.048314,
+        "longitude": -79.977817,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50225/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 160.5": {
+        "location": "South Carolina",
+        "latitude": 34.193308,
+        "longitude": -79.843275,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50212/playlist.m3u8"
+      },
+      "511sc.org | I-95 @ MM 157.3 (US 76)": {
+        "location": "South Carolina",
+        "latitude": 34.156064,
+        "longitude": -79.872617,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50214/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 156.5": {
+        "location": "South Carolina",
+        "latitude": 34.146114,
+        "longitude": -79.876119,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50215/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 155.5": {
+        "location": "South Carolina",
+        "latitude": 34.133347,
+        "longitude": -79.885797,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50216/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 154.6": {
+        "location": "South Carolina",
+        "latitude": 34.123603,
+        "longitude": -79.896972,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50217/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 153.5 (Center Rd)": {
+        "location": "Center Rd, South Carolina",
+        "latitude": 34.111711,
+        "longitude": -79.910231,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50218/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 141 (I-95)": {
+        "location": "South Carolina",
+        "latitude": 34.196442,
+        "longitude": -79.849328,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50226/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 152.7": {
+        "location": "South Carolina",
+        "latitude": 34.103161,
+        "longitude": -79.919764,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50219/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 151.7": {
+        "location": "South Carolina",
+        "latitude": 34.093112,
+        "longitude": -79.931161,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50220/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 150.5": {
+        "location": "South Carolina",
+        "latitude": 34.079475,
+        "longitude": -79.940781,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50221/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 150 (SC 403)": {
+        "location": "South Carolina",
+        "latitude": 34.068342,
+        "longitude": -79.950783,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50222/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 148": {
+        "location": "South Carolina",
+        "latitude": 34.053914,
+        "longitude": -79.973239,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50224/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 98.7": {
+        "location": "South Carolina",
+        "latitude": 35.121939,
+        "longitude": -81.571311,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/40079/playlist.m3u8"
+      },
+      "511sc.org | I-77 N @ MM 80.3": {
+        "location": "South Carolina",
+        "latitude": 34.959793,
+        "longitude": -80.980426,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/40007/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 100 (Blacksburg Hwy)": {
+        "location": "Blacksburg Hwy, South Carolina",
+        "latitude": 35.128861,
+        "longitude": -81.552083,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/40081/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 102.2 (SC 5)": {
+        "location": "South Carolina",
+        "latitude": 35.138475,
+        "longitude": -81.513444,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/40085/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 106 (US 29)": {
+        "location": "South Carolina",
+        "latitude": 35.166575,
+        "longitude": -81.448,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/40091/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 64": {
+        "location": "South Carolina",
+        "latitude": 34.036192,
+        "longitude": -81.1121,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/80029/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 205.5": {
+        "location": "South Carolina",
+        "latitude": 32.967167,
+        "longitude": -80.075167,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/80030/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 84": {
+        "location": "South Carolina",
+        "latitude": 33.295061,
+        "longitude": -80.557882,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/80031/playlist.m3u8"
+      },
+      "511sc.org | I-126 E @ MM 1.5 Candy Lane": {
+        "location": "Candy Lane, South Carolina",
+        "latitude": 34.014064,
+        "longitude": -81.08186,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10009/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 64.3": {
+        "location": "South Carolina",
+        "latitude": 34.037779,
+        "longitude": -81.108103,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/80033/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 159.6": {
+        "location": "South Carolina",
+        "latitude": 34.185914,
+        "longitude": -79.856325,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50213/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 119.6": {
+        "location": "South Carolina",
+        "latitude": 33.879139,
+        "longitude": -81.037,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10500/playlist.m3u8"
+      },
+      "511sc.org | Folly Rd S @ Terns Nest": {
+        "location": "Folly Rd, South Carolina",
+        "latitude": 32.68566,
+        "longitude": -79.959795,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60115/playlist.m3u8"
+      },
+      "511sc.org | Folly Rd  N @ Teal Marsh Rd": {
+        "location": "Folly Rd, South Carolina",
+        "latitude": 32.687636,
+        "longitude": -79.960691,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60116/playlist.m3u8"
+      },
+      "511sc.org | Folly Rd N @ Tides End": {
+        "location": "Folly Rd, South Carolina",
+        "latitude": 32.679064,
+        "longitude": -79.954329,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60117/playlist.m3u8"
+      },
+      "511sc.org | Folly Rd S @ Oak Island Creek": {
+        "location": "Folly Rd, South Carolina",
+        "latitude": 32.677951,
+        "longitude": -79.953626,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60118/playlist.m3u8"
+      },
+      "511sc.org | I-526 W @ MM 24.3": {
+        "location": "South Carolina",
+        "latitude": 32.866297,
+        "longitude": -79.905911,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/60072/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 100.8": {
+        "location": "South Carolina",
+        "latitude": 34.10552,
+        "longitude": -81.18198,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10043/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 89.1": {
+        "location": "South Carolina",
+        "latitude": 34.193806,
+        "longitude": -81.35225,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10058/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 93.7": {
+        "location": "South Carolina",
+        "latitude": 34.162665,
+        "longitude": -81.28169,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10052/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 96.4": {
+        "location": "South Carolina",
+        "latitude": 34.147766,
+        "longitude": -81.240863,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10049/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 80.6": {
+        "location": "South Carolina",
+        "latitude": 35.031828,
+        "longitude": -81.853964,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/30122/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 89.4": {
+        "location": "South Carolina",
+        "latitude": 35.080092,
+        "longitude": -81.712375,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/40061/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 127.1": {
+        "location": "South Carolina",
+        "latitude": 33.780241,
+        "longitude": -80.984993,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10505/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 128.2": {
+        "location": "South Carolina",
+        "latitude": 33.7687,
+        "longitude": -80.973481,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10506/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 129.8": {
+        "location": "South Carolina",
+        "latitude": 33.758178,
+        "longitude": -80.950588,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10508/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 130.3": {
+        "location": "South Carolina",
+        "latitude": 33.752119,
+        "longitude": -80.944518,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10509/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 131.4": {
+        "location": "South Carolina",
+        "latitude": 33.738831,
+        "longitude": -80.937216,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10510/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 132.4": {
+        "location": "South Carolina",
+        "latitude": 33.724535,
+        "longitude": -80.928104,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10511/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 133.2": {
+        "location": "South Carolina",
+        "latitude": 33.71446,
+        "longitude": -80.922002,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10512/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 125.6": {
+        "location": "South Carolina",
+        "latitude": 33.798395,
+        "longitude": -80.998184,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10503/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 126.6": {
+        "location": "South Carolina",
+        "latitude": 33.786528,
+        "longitude": -80.990475,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10504/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 128.9": {
+        "location": "South Carolina",
+        "latitude": 33.764286,
+        "longitude": -80.962105,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10507/playlist.m3u8"
+      },
+      "511sc.org | I-77 N @ MM 79.7": {
+        "location": "South Carolina",
+        "latitude": 34.949797,
+        "longitude": -80.976236,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/40035/playlist.m3u8"
+      },
+      "511sc.org | I-77 N @ MM 82.8 (Catawba River Bridge)": {
+        "location": "Catawba River Bridge, South Carolina",
+        "latitude": 34.992042,
+        "longitude": -80.979998,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/40034/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 134": {
+        "location": "South Carolina",
+        "latitude": 33.70287,
+        "longitude": -80.91618,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10513/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 135.1": {
+        "location": "South Carolina",
+        "latitude": 33.688027,
+        "longitude": -80.908888,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10514/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 135.7": {
+        "location": "South Carolina",
+        "latitude": 33.677871,
+        "longitude": -80.901198,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10515/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 136.5 (Exit 136)": {
+        "location": "Exit, South Carolina",
+        "latitude": 33.673972,
+        "longitude": -80.898278,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10516/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 137.5": {
+        "location": "South Carolina",
+        "latitude": 33.65909,
+        "longitude": -80.888304,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10517/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 95.2": {
+        "location": "South Carolina",
+        "latitude": 34.215317,
+        "longitude": -80.637692,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10520/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 93.2": {
+        "location": "South Carolina",
+        "latitude": 34.199733,
+        "longitude": -80.663096,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/10297/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 140.2": {
+        "location": "South Carolina",
+        "latitude": 34.201639,
+        "longitude": -79.863233,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50227/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 139.3": {
+        "location": "South Carolina",
+        "latitude": 34.204528,
+        "longitude": -79.879306,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50228/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 138.1": {
+        "location": "South Carolina",
+        "latitude": 34.202114,
+        "longitude": -79.900292,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50229/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ Exit 137": {
+        "location": "Exit, South Carolina",
+        "latitude": 34.204172,
+        "longitude": -79.912578,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50230/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 136.6": {
+        "location": "South Carolina",
+        "latitude": 34.207403,
+        "longitude": -79.925711,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50231/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 135.3": {
+        "location": "South Carolina",
+        "latitude": 34.206097,
+        "longitude": -79.947242,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50232/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 134.1": {
+        "location": "South Carolina",
+        "latitude": 34.205544,
+        "longitude": -79.969806,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50233/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 133.1": {
+        "location": "South Carolina",
+        "latitude": 34.206078,
+        "longitude": -79.986142,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50234/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 132.3": {
+        "location": "South Carolina",
+        "latitude": 34.206036,
+        "longitude": -79.999417,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50235/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ exit 131": {
+        "location": "South Carolina",
+        "latitude": 34.206239,
+        "longitude": -80.025583,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50236/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 129.9": {
+        "location": "South Carolina",
+        "latitude": 34.208311,
+        "longitude": -80.041231,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50237/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 129 (Truck Parking Area)": {
+        "location": "Truck Parking Area, South Carolina",
+        "latitude": 34.205328,
+        "longitude": -80.053364,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50238/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 128.1": {
+        "location": "South Carolina",
+        "latitude": 34.200903,
+        "longitude": -80.070261,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50239/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 127.3": {
+        "location": "South Carolina",
+        "latitude": 34.198794,
+        "longitude": -80.084803,
+        "url": "https://s19.us-east-1.skyvdn.com:443/rtplive/50240/playlist.m3u8"
+      },
+      "511sc.org | I-126 E @ MM 3 Huger Street": {
+        "location": "Huger Street, South Carolina",
+        "latitude": 34.008779,
+        "longitude": -81.052432,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10006/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 63": {
+        "location": "South Carolina",
+        "latitude": 34.03185,
+        "longitude": -81.121627,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10013/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 107.5 (Bush River Rd)": {
+        "location": "Bush River Rd, South Carolina",
+        "latitude": 34.030598,
+        "longitude": -81.104821,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10016/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 117": {
+        "location": "South Carolina",
+        "latitude": 33.912245,
+        "longitude": -81.056916,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10019/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 106.5 (St. Andrews Rd)": {
+        "location": "St, South Carolina",
+        "latitude": 34.042285,
+        "longitude": -81.115473,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10022/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 105": {
+        "location": "South Carolina",
+        "latitude": 34.060663,
+        "longitude": -81.134846,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10025/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 103 (Harbison Blvd)": {
+        "location": "Harbison Blvd, South Carolina",
+        "latitude": 34.078128,
+        "longitude": -81.152319,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10028/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ Exit 109.5 (US 378)": {
+        "location": "Exit, South Carolina",
+        "latitude": 34.006953,
+        "longitude": -81.111294,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10031/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 112": {
+        "location": "South Carolina",
+        "latitude": 33.968721,
+        "longitude": -81.100552,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10034/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 113.5": {
+        "location": "South Carolina",
+        "latitude": 33.946564,
+        "longitude": -81.090334,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10037/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 102.5": {
+        "location": "South Carolina",
+        "latitude": 34.083991,
+        "longitude": -81.158371,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10040/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 64.7": {
+        "location": "South Carolina",
+        "latitude": 34.03824,
+        "longitude": -81.09983,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10060/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 66.5 (Broad River Bridge)": {
+        "location": "Broad River Bridge, South Carolina",
+        "latitude": 34.049018,
+        "longitude": -81.071246,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10063/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 68.1": {
+        "location": "South Carolina",
+        "latitude": 34.061906,
+        "longitude": -81.047906,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10066/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 70.2": {
+        "location": "South Carolina",
+        "latitude": 34.071281,
+        "longitude": -81.011865,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10069/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 71.5": {
+        "location": "South Carolina",
+        "latitude": 34.07367,
+        "longitude": -80.99146,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10072/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 73.5": {
+        "location": "South Carolina",
+        "latitude": 34.073819,
+        "longitude": -80.958544,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10075/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 75": {
+        "location": "South Carolina",
+        "latitude": 34.069982,
+        "longitude": -80.933043,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10078/playlist.m3u8"
+      },
+      "511sc.org | I-77 N @ MM 14.9 (Percival Rd)": {
+        "location": "Percival Rd, South Carolina",
+        "latitude": 34.051981,
+        "longitude": -80.922701,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10109/playlist.m3u8"
+      },
+      "511sc.org | I-77 N @ MM 12 (Forest Dr)": {
+        "location": "Forest Dr, South Carolina",
+        "latitude": 34.021309,
+        "longitude": -80.945989,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10112/playlist.m3u8"
+      },
+      "511sc.org | I-77 N @ MM 9.8": {
+        "location": "South Carolina",
+        "latitude": 33.989432,
+        "longitude": -80.952804,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10115/playlist.m3u8"
+      },
+      "511sc.org | I-77 N @ MM 6.3 (Shop Rd)": {
+        "location": "Shop Rd, South Carolina",
+        "latitude": 33.949211,
+        "longitude": -80.976707,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10118/playlist.m3u8"
+      },
+      "511sc.org | I-77 @ MM 3": {
+        "location": "South Carolina",
+        "latitude": 33.928464,
+        "longitude": -81.03163,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10121/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 54.5 (Bateville Rd.)": {
+        "location": "Bateville Rd, South Carolina",
+        "latitude": 34.865019,
+        "longitude": -82.243657,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30002/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 56 (SC 14 Bridge)": {
+        "location": "Bridge, South Carolina",
+        "latitude": 34.872555,
+        "longitude": -82.224095,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30005/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 58": {
+        "location": "South Carolina",
+        "latitude": 34.885602,
+        "longitude": -82.193551,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30008/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 59.5 (BMW)": {
+        "location": "South Carolina",
+        "latitude": 34.890011,
+        "longitude": -82.168916,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30011/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 60.5": {
+        "location": "South Carolina",
+        "latitude": 34.899786,
+        "longitude": -82.1457,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30014/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 62": {
+        "location": "South Carolina",
+        "latitude": 34.903107,
+        "longitude": -82.124809,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30017/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 63.5": {
+        "location": "South Carolina",
+        "latitude": 34.916761,
+        "longitude": -82.103753,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30020/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 65": {
+        "location": "South Carolina",
+        "latitude": 34.9312,
+        "longitude": -82.08251,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30023/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 66.5": {
+        "location": "South Carolina",
+        "latitude": 34.948824,
+        "longitude": -82.070051,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30026/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 68 (SC 129)": {
+        "location": "South Carolina",
+        "latitude": 34.961175,
+        "longitude": -82.053757,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30029/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 44 (White Horse Rd.)": {
+        "location": "White Horse Rd, South Carolina",
+        "latitude": 34.790772,
+        "longitude": -82.416233,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30033/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 46.5": {
+        "location": "South Carolina",
+        "latitude": 34.806061,
+        "longitude": -82.34803,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30036/playlist.m3u8"
+      },
+      "511sc.org | Bus. 85 S @ MM 2 (I-26)": {
+        "location": "Bus, South Carolina",
+        "latitude": 34.968555,
+        "longitude": -82.005831,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30046/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 34 (US 29)": {
+        "location": "South Carolina",
+        "latitude": 34.693877,
+        "longitude": -82.50555,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30051/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 24": {
+        "location": "South Carolina",
+        "latitude": 34.607193,
+        "longitude": -82.635627,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30054/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 19 (Clemson Blvd.)": {
+        "location": "Clemson Blvd, South Carolina",
+        "latitude": 34.573691,
+        "longitude": -82.711573,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30057/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 40 (Hwy 153)": {
+        "location": "Hwy, South Carolina",
+        "latitude": 34.77465,
+        "longitude": -82.462932,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30062/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 71 (At I-26)": {
+        "location": "At, South Carolina",
+        "latitude": 34.978454,
+        "longitude": -82.01148,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30071/playlist.m3u8"
+      },
+      "511sc.org | I 85 S @ MM 76": {
+        "location": "South Carolina",
+        "latitude": 35.012322,
+        "longitude": -81.937513,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30076/playlist.m3u8"
+      },
+      "511sc.org | I-385 N @ MM 37 (Roper Mtn Rd)": {
+        "location": "Roper Mtn Rd, South Carolina",
+        "latitude": 34.839596,
+        "longitude": -82.313943,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30090/playlist.m3u8"
+      },
+      "511sc.org | I-385 N @ MM 39 (Haywood Rd)": {
+        "location": "Haywood Rd, South Carolina",
+        "latitude": 34.854371,
+        "longitude": -82.334896,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30093/playlist.m3u8"
+      },
+      "511sc.org | I-385 N @ MM 40.2 (Pleasantburg Dr.)": {
+        "location": "Pleasantburg Dr, South Carolina",
+        "latitude": 34.858077,
+        "longitude": -82.355808,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30096/playlist.m3u8"
+      },
+      "511sc.org | I-385 S @ MM 42 (Stone Ave.)": {
+        "location": "Stone Ave, South Carolina",
+        "latitude": 34.854318,
+        "longitude": -82.382553,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30099/playlist.m3u8"
+      },
+      "511sc.org | I-385 S @ MM 33 (Bridges Rd)": {
+        "location": "Bridges Rd, South Carolina",
+        "latitude": 34.790505,
+        "longitude": -82.280895,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30106/playlist.m3u8"
+      },
+      "511sc.org | I-385 N @ MM 31.5": {
+        "location": "South Carolina",
+        "latitude": 34.774316,
+        "longitude": -82.272683,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30109/playlist.m3u8"
+      },
+      "511sc.org | I-385 S @ MM 30.2 (I-185)": {
+        "location": "South Carolina",
+        "latitude": 34.754857,
+        "longitude": -82.286505,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30112/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 76.3": {
+        "location": "South Carolina",
+        "latitude": 34.905101,
+        "longitude": -80.987057,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40001/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 78.4": {
+        "location": "South Carolina",
+        "latitude": 34.931971,
+        "longitude": -80.973144,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40004/playlist.m3u8"
+      },
+      "511sc.org | I-77 N @ MM 81.6": {
+        "location": "South Carolina",
+        "latitude": 34.975784,
+        "longitude": -80.987227,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40010/playlist.m3u8"
+      },
+      "511sc.org | I-77 N @ MM 83.9": {
+        "location": "South Carolina",
+        "latitude": 35.001882,
+        "longitude": -80.973309,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40013/playlist.m3u8"
+      },
+      "511sc.org | I-77 N @ MM 87.3": {
+        "location": "South Carolina",
+        "latitude": 35.052623,
+        "longitude": -80.958153,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40019/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 89.2": {
+        "location": "South Carolina",
+        "latitude": 35.078192,
+        "longitude": -80.943994,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40022/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 82.4": {
+        "location": "South Carolina",
+        "latitude": 34.985846,
+        "longitude": -80.984998,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40027/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 91(State Line)": {
+        "location": "State Line, South Carolina",
+        "latitude": 35.104171,
+        "longitude": -80.931207,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40031/playlist.m3u8"
+      },
+      "511sc.org | US 501 S @ Singleton Ridge Rd": {
+        "location": "Singleton Ridge Rd, South Carolina",
+        "latitude": 33.791083,
+        "longitude": -78.997722,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/50004/playlist.m3u8"
+      },
+      "511sc.org | US 501 N @ Carolina Forest Blvd": {
+        "location": "Carolina Forest Blvd, South Carolina",
+        "latitude": 33.757967,
+        "longitude": -78.967042,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/50007/playlist.m3u8"
+      },
+      "511sc.org | US 17 BYP Median @ SC 544": {
+        "location": "Median, South Carolina",
+        "latitude": 33.650496,
+        "longitude": -78.98111,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/50013/playlist.m3u8"
+      },
+      "511sc.org | US 17 N @ SC 22": {
+        "location": "South Carolina",
+        "latitude": 33.78763,
+        "longitude": -78.773054,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/50019/playlist.m3u8"
+      },
+      "511sc.org | US 501 S @ North of Carolina Forest Blvd": {
+        "location": "North, South Carolina",
+        "latitude": 33.763774,
+        "longitude": -78.973136,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/50022/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 199": {
+        "location": "South Carolina",
+        "latitude": 33.034354,
+        "longitude": -80.144323,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60003/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 201 (Royal Rd)": {
+        "location": "Royal Rd, South Carolina",
+        "latitude": 33.018856,
+        "longitude": -80.124101,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60006/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 203 (College Park Rd)": {
+        "location": "College Park Rd, South Carolina",
+        "latitude": 32.998987,
+        "longitude": -80.094024,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60009/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 205 (US 78 East)": {
+        "location": "East, South Carolina",
+        "latitude": 32.978417,
+        "longitude": -80.0767,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60013/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 207": {
+        "location": "South Carolina",
+        "latitude": 32.955519,
+        "longitude": -80.065456,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60016/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 209 (Ashley Phosphate Rd)": {
+        "location": "Ashley Phosphate Rd, South Carolina",
+        "latitude": 32.934394,
+        "longitude": -80.046866,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60019/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 212": {
+        "location": "South Carolina",
+        "latitude": 32.881068,
+        "longitude": -80.019293,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60022/playlist.m3u8"
+      },
+      "511sc.org | I-526 E @ MM 20 (Virginia Ave)": {
+        "location": "Virginia Ave, South Carolina",
+        "latitude": 32.893099,
+        "longitude": -79.978009,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60025/playlist.m3u8"
+      },
+      "511sc.org | I-526 W @ MM 21 (Don Holt Bridge)": {
+        "location": "Don Holt Bridge, South Carolina",
+        "latitude": 32.891086,
+        "longitude": -79.961777,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60028/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 214": {
+        "location": "South Carolina",
+        "latitude": 32.868104,
+        "longitude": -80.005683,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60031/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 216 (Cosgrove Ave)": {
+        "location": "Cosgrove Ave, South Carolina",
+        "latitude": 32.843233,
+        "longitude": -79.979883,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60034/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 211.5": {
+        "location": "South Carolina",
+        "latitude": 32.892236,
+        "longitude": -80.018954,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60037/playlist.m3u8"
+      },
+      "511sc.org | I-526 E @ MM 11 (Ash. Rv. Rd)": {
+        "location": "Ash, South Carolina",
+        "latitude": 32.808998,
+        "longitude": -80.036521,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60040/playlist.m3u8"
+      },
+      "511sc.org | I-526 E @ MM 18 (Rivers Ave)": {
+        "location": "Rivers Ave, South Carolina",
+        "latitude": 32.888056,
+        "longitude": -80.011478,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60043/playlist.m3u8"
+      },
+      "511sc.org | I-526 E @ MM 23": {
+        "location": "South Carolina",
+        "latitude": 32.8778,
+        "longitude": -79.930157,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60046/playlist.m3u8"
+      },
+      "511sc.org | I-526 E @ MM 28 (Wando Br)": {
+        "location": "Wando Br, South Carolina",
+        "latitude": 32.839697,
+        "longitude": -79.863194,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60049/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 219.4 ( Morrison/East Bay St)": {
+        "location": "Morrison, South Carolina",
+        "latitude": 32.812178,
+        "longitude": -79.95278,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60060/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 220.6 (US 17N)": {
+        "location": "South Carolina",
+        "latitude": 32.797715,
+        "longitude": -79.942746,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60063/playlist.m3u8"
+      },
+      "511sc.org | US 17 S Ravenel Bridge @ MM 32.8": {
+        "location": "Ravenel Bridge, South Carolina",
+        "latitude": 32.804555,
+        "longitude": -79.926448,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60066/playlist.m3u8"
+      },
+      "511sc.org | US 17 N Ravenel Bridge @ SC 703 (Mt Pleasant)": {
+        "location": "Ravenel Bridge, South Carolina",
+        "latitude": 32.801079,
+        "longitude": -79.902605,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60069/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 199 (US 17A N Charleston)": {
+        "location": "Charleston, South Carolina",
+        "latitude": 33.054231,
+        "longitude": -80.164717,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60096/playlist.m3u8"
+      },
+      "511sc.org | US 17 S Ravenel Bridge @ Charleston Tower - Lower": {
+        "location": "Ravenel Bridge, South Carolina",
+        "latitude": 32.803383,
+        "longitude": -79.917769,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60077/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 79.5": {
+        "location": "South Carolina",
+        "latitude": 34.092153,
+        "longitude": -80.863567,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10088/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 80 (Clemson Rd)": {
+        "location": "Clemson Rd, South Carolina",
+        "latitude": 34.094301,
+        "longitude": -80.856101,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10089/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 81": {
+        "location": "South Carolina",
+        "latitude": 34.101221,
+        "longitude": -80.838414,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10090/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 82 (Spears Creek Rd)": {
+        "location": "Spears Creek Rd, South Carolina",
+        "latitude": 34.104518,
+        "longitude": -80.829233,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10091/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 82.7": {
+        "location": "South Carolina",
+        "latitude": 34.111294,
+        "longitude": -80.80944,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10092/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 62": {
+        "location": "South Carolina",
+        "latitude": 34.015325,
+        "longitude": -81.1403111,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10147/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 61": {
+        "location": "South Carolina",
+        "latitude": 34.011447,
+        "longitude": -81.149122,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10148/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 60.5": {
+        "location": "South Carolina",
+        "latitude": 34.005861,
+        "longitude": -81.161644,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10150/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 59.5": {
+        "location": "South Carolina",
+        "latitude": 33.994964,
+        "longitude": -81.17749,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10152/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 59": {
+        "location": "South Carolina",
+        "latitude": 33.99180833,
+        "longitude": -81.1833481,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10153/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 17 (Two Notch Road)": {
+        "location": "Two Notch Road, South Carolina",
+        "latitude": 34.082136,
+        "longitude": -80.941439,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10166/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 19 (Farrow Rd)": {
+        "location": "Farrow Rd, South Carolina",
+        "latitude": 34.099725,
+        "longitude": -80.958847,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10167/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 19.5": {
+        "location": "South Carolina",
+        "latitude": 34.10865833,
+        "longitude": -80.9624639,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10168/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 20.5": {
+        "location": "South Carolina",
+        "latitude": 34.12087778,
+        "longitude": -80.9627,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10169/playlist.m3u8"
+      },
+      "511sc.org | I-77 S @ MM 22": {
+        "location": "South Carolina",
+        "latitude": 34.135394,
+        "longitude": -80.963997,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10170/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 161.5": {
+        "location": "South Carolina",
+        "latitude": 34.204661,
+        "longitude": -79.833639,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/50208/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 159 (Pine Needles)": {
+        "location": "Pine Needles, South Carolina",
+        "latitude": 34.177786,
+        "longitude": -79.864369,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/50209/playlist.m3u8"
+      },
+      "511sc.org | US 501 N @ Academy Dr": {
+        "location": "Academy Dr, South Carolina",
+        "latitude": 33.811947,
+        "longitude": -79.031494,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/50034/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 95.3": {
+        "location": "South Carolina",
+        "latitude": 33.444844,
+        "longitude": -80.482225,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10179/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 95.6": {
+        "location": "South Carolina",
+        "latitude": 33.447683,
+        "longitude": -80.480422,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10180/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 97.5": {
+        "location": "South Carolina",
+        "latitude": 33.473436,
+        "longitude": -80.475483,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10182/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 99 (SB Rest Area)": {
+        "location": "Rest Area, South Carolina",
+        "latitude": 33.493258,
+        "longitude": -80.467547,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10184/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 98 (SC 6)": {
+        "location": "South Carolina",
+        "latitude": 33.485717,
+        "longitude": -80.471597,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10183/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 99.5": {
+        "location": "South Carolina",
+        "latitude": 33.500861,
+        "longitude": -80.458356,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10185/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 150.5 (Rest Area)": {
+        "location": "Rest Area, South Carolina",
+        "latitude": 33.501333,
+        "longitude": -80.771067,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10200/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 152 (Rest Area)": {
+        "location": "Rest Area, South Carolina",
+        "latitude": 33.480606,
+        "longitude": -80.755919,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10201/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 78.5": {
+        "location": "South Carolina",
+        "latitude": 33.218813,
+        "longitude": -80.597615,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10187/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 75.5": {
+        "location": "South Carolina",
+        "latitude": 33.180549,
+        "longitude": -80.612614,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10190/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 73.9": {
+        "location": "South Carolina",
+        "latitude": 33.160586,
+        "longitude": -80.621275,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10192/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 71.5": {
+        "location": "South Carolina",
+        "latitude": 33.130014,
+        "longitude": -80.638316,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10196/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 70.5": {
+        "location": "South Carolina",
+        "latitude": 33.117188,
+        "longitude": -80.641453,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10198/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 153": {
+        "location": "South Carolina",
+        "latitude": 33.469739,
+        "longitude": -80.745786,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10202/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 104.3": {
+        "location": "South Carolina",
+        "latitude": 34.209481,
+        "longitude": -80.480986,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10304/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 77": {
+        "location": "South Carolina",
+        "latitude": 33.195356,
+        "longitude": -80.605694,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10189/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 63.2": {
+        "location": "South Carolina",
+        "latitude": 33.010988,
+        "longitude": -80.667188,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10207/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 59.2": {
+        "location": "South Carolina",
+        "latitude": 32.955361,
+        "longitude": -80.680758,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10210/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 55.1": {
+        "location": "South Carolina",
+        "latitude": 32.899753,
+        "longitude": -80.707119,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10216/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 54.2": {
+        "location": "South Carolina",
+        "latitude": 32.887628,
+        "longitude": -80.713707,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10219/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 64.5": {
+        "location": "South Carolina",
+        "latitude": 33.032691,
+        "longitude": -80.66805,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10205/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 63.0": {
+        "location": "South Carolina",
+        "latitude": 33.010463,
+        "longitude": -80.66805,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10206/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 3.4": {
+        "location": "South Carolina",
+        "latitude": 35.160018,
+        "longitude": -82.12477,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30301/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 2": {
+        "location": "South Carolina",
+        "latitude": 34.496612,
+        "longitude": -83.005169,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30302/playlist.m3u8"
+      },
+      "511sc.org | I-385 S @ MM 26": {
+        "location": "South Carolina",
+        "latitude": 34.704403,
+        "longitude": -82.240137,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30303/playlist.m3u8"
+      },
+      "511sc.org | I-385 S @ MM 29": {
+        "location": "South Carolina",
+        "latitude": 34.73725,
+        "longitude": -82.272084,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30304/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 24": {
+        "location": "South Carolina",
+        "latitude": 34.891672,
+        "longitude": -81.999336,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30305/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 21": {
+        "location": "South Carolina",
+        "latitude": 34.935817,
+        "longitude": -81.995962,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30306/playlist.m3u8"
+      },
+      "511sc.org | US-25 S @ SC/NC Line": {
+        "location": "Line, South Carolina",
+        "latitude": 35.17382,
+        "longitude": -82.455728,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30307/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 39.2": {
+        "location": "South Carolina",
+        "latitude": 32.714039,
+        "longitude": -80.863781,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10228/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 111.5": {
+        "location": "South Carolina",
+        "latitude": 33.617936,
+        "longitude": -80.307534,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10249/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 112.8": {
+        "location": "South Carolina",
+        "latitude": 33.631108,
+        "longitude": -80.291767,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10250/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 113.8": {
+        "location": "South Carolina",
+        "latitude": 33.641856,
+        "longitude": -80.279425,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10252/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 117.2": {
+        "location": "South Carolina",
+        "latitude": 33.685894,
+        "longitude": -80.258919,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10257/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 119.2": {
+        "location": "South Carolina",
+        "latitude": 33.710642,
+        "longitude": -80.238939,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10259/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 120": {
+        "location": "South Carolina",
+        "latitude": 33.718169,
+        "longitude": -80.231111,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10260/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 122 (US 521)": {
+        "location": "South Carolina",
+        "latitude": 33.739703,
+        "longitude": -80.209,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10261/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 38 (Hwy 68)": {
+        "location": "Hwy, South Carolina",
+        "latitude": 32.704842,
+        "longitude": -80.870514,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10229/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 113.3": {
+        "location": "South Carolina",
+        "latitude": 33.636542,
+        "longitude": -80.285292,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10251/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 115 (US 301)": {
+        "location": "South Carolina",
+        "latitude": 33.651453,
+        "longitude": -80.277272,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10253/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 115.2": {
+        "location": "South Carolina",
+        "latitude": 33.662558,
+        "longitude": -80.276908,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10254/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 115.8": {
+        "location": "South Carolina",
+        "latitude": 33.668797,
+        "longitude": -80.27295,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10255/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 116.4": {
+        "location": "South Carolina",
+        "latitude": 33.675867,
+        "longitude": -80.266256,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10256/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 131": {
+        "location": "South Carolina",
+        "latitude": 33.845408,
+        "longitude": -80.121457,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10268/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 131.6": {
+        "location": "South Carolina",
+        "latitude": 33.853264,
+        "longitude": -80.118101,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10269/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 132.4": {
+        "location": "South Carolina",
+        "latitude": 33.863274,
+        "longitude": -80.111483,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10270/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 100.8": {
+        "location": "South Carolina",
+        "latitude": 34.217358,
+        "longitude": -80.541375,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10302/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 217 (Meeting Street)": {
+        "location": "Meeting Street, South Carolina",
+        "latitude": 32.841143,
+        "longitude": -79.968468,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60035/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 218": {
+        "location": "South Carolina",
+        "latitude": 32.832431,
+        "longitude": -79.957228,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60059/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 218.3": {
+        "location": "South Carolina",
+        "latitude": 32.827349,
+        "longitude": -79.954362,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60074/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 134.3": {
+        "location": "South Carolina",
+        "latitude": 33.888091,
+        "longitude": -80.098246,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10272/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 137.6": {
+        "location": "South Carolina",
+        "latitude": 33.92985,
+        "longitude": -80.070805,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10274/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 140.2": {
+        "location": "South Carolina",
+        "latitude": 33.960821,
+        "longitude": -80.045137,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10276/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ MM 142.1": {
+        "location": "South Carolina",
+        "latitude": 33.983208,
+        "longitude": -80.029089,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10278/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 48.8": {
+        "location": "South Carolina",
+        "latitude": 34.816425,
+        "longitude": -82.325597,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/31038/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 80 (Gossett Rd)": {
+        "location": "Gossett Rd, South Carolina",
+        "latitude": 35.027317,
+        "longitude": -81.874153,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30120/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 79.5": {
+        "location": "South Carolina",
+        "latitude": 35.024857,
+        "longitude": -81.882328,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30119/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 79": {
+        "location": "South Carolina",
+        "latitude": 35.0233,
+        "longitude": -81.886295,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30118/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 77 (SC 85 BUS)": {
+        "location": "South Carolina",
+        "latitude": 35.010882,
+        "longitude": -81.91536,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30115/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 77.5": {
+        "location": "South Carolina",
+        "latitude": 35.01324,
+        "longitude": -81.905118,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30116/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 78 (US 221)": {
+        "location": "South Carolina",
+        "latitude": 35.0187,
+        "longitude": -81.8955,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30117/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 52.4": {
+        "location": "South Carolina",
+        "latitude": 34.50655,
+        "longitude": -81.860244,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30308/playlist.m3u8"
+      },
+      "511sc.org | I-385 N @ MM 6.2": {
+        "location": "South Carolina",
+        "latitude": 34.543283,
+        "longitude": -81.969175,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30309/playlist.m3u8"
+      },
+      "511sc.org | SC 517 IOP Connector @ SC 703 Camera2": {
+        "location": "Connector, South Carolina",
+        "latitude": 32.788512,
+        "longitude": -79.787493,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/61001/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 105.8": {
+        "location": "South Carolina",
+        "latitude": 34.208506,
+        "longitude": -80.453861,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10306/playlist.m3u8"
+      },
+      "511sc.org | I-20 WB @ MM 59.8": {
+        "location": "South Carolina",
+        "latitude": 34.002724,
+        "longitude": -81.170034,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10151/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ MM 145.7": {
+        "location": "South Carolina",
+        "latitude": 34.024647,
+        "longitude": -79.993356,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10282/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 104.9": {
+        "location": "South Carolina",
+        "latitude": 35.160472,
+        "longitude": -81.472856,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40089/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 104.2": {
+        "location": "South Carolina",
+        "latitude": 35.154844,
+        "longitude": -81.483625,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40088/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 101.3": {
+        "location": "South Carolina",
+        "latitude": 35.133606,
+        "longitude": -81.531744,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40083/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 101.8": {
+        "location": "South Carolina",
+        "latitude": 35.134767,
+        "longitude": -81.526767,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40084/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 106.5": {
+        "location": "South Carolina",
+        "latitude": 35.166761,
+        "longitude": -81.447614,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40092/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 99.2": {
+        "location": "South Carolina",
+        "latitude": 35.125606,
+        "longitude": -81.561569,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40080/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 100.5": {
+        "location": "South Carolina",
+        "latitude": 35.1315,
+        "longitude": -81.540186,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40082/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 103.4 (Welcome Center)": {
+        "location": "Welcome Center, South Carolina",
+        "latitude": 35.148922,
+        "longitude": -81.494358,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40087/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 102.8": {
+        "location": "South Carolina",
+        "latitude": 35.143061,
+        "longitude": -81.50335,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40086/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 105.5": {
+        "location": "South Carolina",
+        "latitude": 35.158958,
+        "longitude": -81.463458,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40090/playlist.m3u8"
+      },
+      "511sc.org | SC 703 Ben Sawyer Bridge": {
+        "location": "Ben Sawyer Bridge, South Carolina",
+        "latitude": 32.774366,
+        "longitude": -79.842944,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60114/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 119.4": {
+        "location": "South Carolina",
+        "latitude": 33.88275,
+        "longitude": -81.037389,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10501/playlist.m3u8"
+      },
+      "511sc.org | SC 703 Ben Sawyer Blvd SB @ Center St Ext": {
+        "location": "Ben Sawyer Blvd, South Carolina",
+        "latitude": 32.790441,
+        "longitude": -79.852604,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60120/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 109": {
+        "location": "South Carolina",
+        "latitude": 34.010944,
+        "longitude": -81.110153,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10502/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 82.9": {
+        "location": "South Carolina",
+        "latitude": 35.044575,
+        "longitude": -81.814872,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40050/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 83.9": {
+        "location": "South Carolina",
+        "latitude": 35.050308,
+        "longitude": -81.800886,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40051/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 86.6": {
+        "location": "South Carolina",
+        "latitude": 35.071817,
+        "longitude": -81.761517,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40055/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 87.6": {
+        "location": "South Carolina",
+        "latitude": 35.074572,
+        "longitude": -81.743225,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40058/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 88.3": {
+        "location": "South Carolina",
+        "latitude": 35.076825,
+        "longitude": -81.729267,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40059/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 89.7 (Exit 90)": {
+        "location": "Exit, South Carolina",
+        "latitude": 35.0821,
+        "longitude": -81.707561,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40062/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 92.1 (Exit 92)": {
+        "location": "Exit, South Carolina",
+        "latitude": 35.097575,
+        "longitude": -81.670572,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40067/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 84.6": {
+        "location": "South Carolina",
+        "latitude": 35.055431,
+        "longitude": -81.789569,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40052/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 86.9": {
+        "location": "South Carolina",
+        "latitude": 35.073583,
+        "longitude": -81.754269,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40057/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 88.9": {
+        "location": "South Carolina",
+        "latitude": 35.078578,
+        "longitude": -81.720233,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40060/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 80.1": {
+        "location": "South Carolina",
+        "latitude": 35.029697,
+        "longitude": -81.862636,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30121/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 81.7": {
+        "location": "South Carolina",
+        "latitude": 35.036278,
+        "longitude": -81.836139,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30124/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 82.3": {
+        "location": "South Carolina",
+        "latitude": 35.040308,
+        "longitude": -81.825389,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30125/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 84": {
+        "location": "South Carolina",
+        "latitude": 34.228446,
+        "longitude": -81.432706,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10283/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 88.4": {
+        "location": "South Carolina",
+        "latitude": 34.199898,
+        "longitude": -81.36304,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10059/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 91.5": {
+        "location": "South Carolina",
+        "latitude": 34.175052,
+        "longitude": -81.318758,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10055/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 99.2": {
+        "location": "South Carolina",
+        "latitude": 34.122433,
+        "longitude": -81.199658,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10045/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 92.2": {
+        "location": "South Carolina",
+        "latitude": 34.193806,
+        "longitude": -81.35225,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10054/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 94.5": {
+        "location": "South Carolina",
+        "latitude": 34.158256,
+        "longitude": -81.269902,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10051/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 96.9": {
+        "location": "South Carolina",
+        "latitude": 34.143706,
+        "longitude": -81.232299,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10048/playlist.m3u8"
+      },
+      "511sc.org | I-26 W @ MM 55": {
+        "location": "South Carolina",
+        "latitude": 34.480473,
+        "longitude": -81.822038,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/30311/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 83.8": {
+        "location": "South Carolina",
+        "latitude": 34.117216,
+        "longitude": -80.797683,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10287/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 84.9": {
+        "location": "South Carolina",
+        "latitude": 34.126456,
+        "longitude": -80.78052,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10288/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 86.8 (Exit 87)": {
+        "location": "Exit, South Carolina",
+        "latitude": 34.142613,
+        "longitude": -80.751134,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10289/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 87.5": {
+        "location": "South Carolina",
+        "latitude": 34.149721,
+        "longitude": -80.741325,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10290/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 88.4": {
+        "location": "South Carolina",
+        "latitude": 34.156895,
+        "longitude": -80.731162,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10291/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 89": {
+        "location": "South Carolina",
+        "latitude": 34.163338,
+        "longitude": -80.721924,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10292/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 89.8": {
+        "location": "South Carolina",
+        "latitude": 34.17087,
+        "longitude": -80.710371,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10293/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 90.8": {
+        "location": "South Carolina",
+        "latitude": 34.182038,
+        "longitude": -80.699301,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10294/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 91.6 (Exit 92)": {
+        "location": "Exit, South Carolina",
+        "latitude": 34.189121,
+        "longitude": -80.687392,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10295/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 92.7": {
+        "location": "South Carolina",
+        "latitude": 34.195615,
+        "longitude": -80.671762,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10296/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 94.7": {
+        "location": "South Carolina",
+        "latitude": 34.211859,
+        "longitude": -80.645126,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10299/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 85.6": {
+        "location": "South Carolina",
+        "latitude": 35.059036,
+        "longitude": -81.781558,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40053/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 86.3": {
+        "location": "South Carolina",
+        "latitude": 35.064767,
+        "longitude": -81.771825,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40054/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 90.5": {
+        "location": "South Carolina",
+        "latitude": 35.085053,
+        "longitude": -81.701061,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40063/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 91.3": {
+        "location": "South Carolina",
+        "latitude": 35.090847,
+        "longitude": -81.690783,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40064/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 91.7": {
+        "location": "South Carolina",
+        "latitude": 35.094383,
+        "longitude": -81.684528,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40065/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 93.5": {
+        "location": "South Carolina",
+        "latitude": 35.097431,
+        "longitude": -81.653306,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40069/playlist.m3u8"
+      },
+      "511sc.org | I-85 S @ MM 94.5": {
+        "location": "South Carolina",
+        "latitude": 35.102686,
+        "longitude": -81.637903,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40071/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 96.7": {
+        "location": "South Carolina",
+        "latitude": 35.109894,
+        "longitude": -81.59875,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40076/playlist.m3u8"
+      },
+      "511sc.org | I-85 N @ MM 97.5": {
+        "location": "South Carolina",
+        "latitude": 35.110942,
+        "longitude": -81.585192,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/40078/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ Exit 22": {
+        "location": "Exit, South Carolina",
+        "latitude": 32.504554,
+        "longitude": -80.971122,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60303/playlist.m3u8"
+      },
+      "511sc.org | I-95 S @ Exit 8": {
+        "location": "Exit, South Carolina",
+        "latitude": 32.312118,
+        "longitude": -81.059767,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60304/playlist.m3u8"
+      },
+      "511sc.org | I-95 N @ Exit 5": {
+        "location": "Exit, South Carolina",
+        "latitude": 32.272836,
+        "longitude": -81.080445,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/60305/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 126.5": {
+        "location": "South Carolina",
+        "latitude": 34.19815,
+        "longitude": -80.099081,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/50241/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 1": {
+        "location": "South Carolina",
+        "latitude": 33.535189,
+        "longitude": -82.006111,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10601/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 2.7": {
+        "location": "South Carolina",
+        "latitude": 33.545613,
+        "longitude": -81.967853,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10602/playlist.m3u8"
+      },
+      "511sc.org | I-26 E @ MM 63.5": {
+        "location": "South Carolina",
+        "latitude": 34.412881,
+        "longitude": -81.706658,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10606/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ Exit 108": {
+        "location": "Exit, South Carolina",
+        "latitude": 34.213406,
+        "longitude": -80.421522,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10308/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 110.7": {
+        "location": "South Carolina",
+        "latitude": 34.203889,
+        "longitude": -80.37265,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10311/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 111.9": {
+        "location": "South Carolina",
+        "latitude": 34.201644,
+        "longitude": -80.351417,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10312/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 112.5": {
+        "location": "South Carolina",
+        "latitude": 34.197603,
+        "longitude": -80.338972,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10313/playlist.m3u8"
+      },
+      "511sc.org | I-20 W @ MM 114.2": {
+        "location": "South Carolina",
+        "latitude": 34.195781,
+        "longitude": -80.312208,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10314/playlist.m3u8"
+      },
+      "511sc.org | I-20 E @ MM 109.1": {
+        "location": "South Carolina",
+        "latitude": 34.207,
+        "longitude": -80.393844,
+        "url": "https://s20.us-east-1.skyvdn.com:443/rtplive/10310/playlist.m3u8"
+    },
     "oktraffic.org | I-44 & I-240 S": {
         "location": "Oklahoma City, Oklahoma",
         "latitude": 35.39637,
