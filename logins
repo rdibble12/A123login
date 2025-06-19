@@ -7314,14 +7314,14 @@
         "url": "http://node3-dist.hazcams.com:8888/rolling-fork-ms-us-001/index.m3u8"
     },
     "Tennessee Valley Weather | Hazcam | Summertown, TN": {
-        "longitude": -90.8737,
-        "latitude": 32.9065,
+        "longitude": -87.306,
+        "latitude": 35.436,
         "location": "Summertown, Tenneesee",
         "url": "https://node3.video.hazcams.com/summertown-tn-us-001/index.m3u8"
     },
     "Hazcam | Columbia, TN": {
-        "longitude": -90.8737,
-        "latitude": 32.9065,
+        "longitude": -87.045,
+        "latitude": 35.617,
         "location": "Columbia, Tennessee",
         "url": "https://node3.video.hazcams.com/columbia-tn-us-001/index.m3u8"
     },
