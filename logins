@@ -7043,6 +7043,10 @@
         "url": "https://edge.livestormchasing.com/hls/wjIUkrIzh9mKngzL8yLt/index.m3u8",
         "location": "Storm Chaser LSM"
     },
+    "Rob Mcbay": {
+        "url": "https://edge.livestormchasing.com/hls/Au9ZXiJKvKnmfZWY9dTX/index.m3u8",
+        "location": "Storm Chaser LSM"
+    },
     "North Georgia Weather WxCam": {
         "url": "https://cameras.tropitracker.com/hls/ngwx-cam.m3u8",
         "url2": "https://cameras.tropitracker.com/dash/ngwx-cam.mpd",
@@ -7308,6 +7312,18 @@
         "latitude": 32.9065,
         "location": "Rolling Fork, Mississippi",
         "url": "http://node3-dist.hazcams.com:8888/rolling-fork-ms-us-001/index.m3u8"
+    },
+    "Tennessee Valley Weather | Hazcam | Summertown, TN": {
+        "longitude": -90.8737,
+        "latitude": 32.9065,
+        "location": "Summertown, Tenneesee",
+        "url": "https://node3.video.hazcams.com/summertown-tn-us-001/index.m3u8"
+    },
+    "Hazcam | Columbia, TN": {
+        "longitude": -90.8737,
+        "latitude": 32.9065,
+        "location": "Columbia, Tennessee",
+        "url": "https://node3.video.hazcams.com/columbia-tn-us-001/index.m3u8"
     },
     "Hazcam | Ardmore, TN": {
         "longitude": -86.862858,
